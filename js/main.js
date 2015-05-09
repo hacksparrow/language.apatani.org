@@ -8,6 +8,10 @@ $(document).ready(function () {
     var td = this
     var letter = $(this).text().split(' ').slice(-1)[0]
 
+    if (letter == '-ñ') {
+      letter = 'ñ'
+    }
+
     var sound = soundManager.createSound({
       url: '/sounds/letters/'+ voiceGender +'/'+ letter +'.mp3',
       autoLoad: true,
