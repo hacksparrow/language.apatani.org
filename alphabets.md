@@ -10,7 +10,7 @@ The modified Roman Script (MRS) is used to write in Apatani. While most letters 
 
 The following vowels from English alphabet are adapted and used as in English usage:
 
-| Proposed Letter | Devanagari | Examples                         |
+| Apatani Letter | Devanagari | Examples                         |
 |-----------------|------------|--------------------------------- |
 | <i class="fa fa-volume-off"></i> A a             | अा          | Akì (Dog) <br> Paró (Poultry)        |
 | <i class="fa fa-volume-off"></i> E e             | ए          | Emo (Pady) <br> Leñbo (Road)         |

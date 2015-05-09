@@ -12,8 +12,14 @@ $(document).ready(function () {
       letter = 'ñ'
     }
 
+    if (letter == "‘") {
+      letter = 'gstop' // having to use this name instead of ', because URL encoding meesing up the filename
+    }
+
+    var soundPath = '/sounds/letters/'+ voiceGender +'/'+ letter +'.mp3'
+
     var sound = soundManager.createSound({
-      url: '/sounds/letters/'+ voiceGender +'/'+ letter +'.mp3',
+      url: soundPath,
       autoLoad: true,
       onload: function () {
         $(td).find('i').removeClass('fa-volume-off').addClass('fa-volume-up')
