@@ -12,7 +12,7 @@ The following vowels from English alphabet are adapted and used as in English us
 
 | Apatani Letter | Devanagari | Examples                         |
 |-----------------|------------|--------------------------------- |
-| <i class="fa fa-volume-off"></i> A a             | अा          | Akì (Dog) <br> Paró (Poultry)        |
+| <i class="fa fa-volume-off"></i> A a             | अा          | Akì (Dog) <br> Paro' (Poultry)        |
 | <i class="fa fa-volume-off"></i> E e             | ए          | Emo (Pady) <br> Leñbo (Road)         |
 | <i class="fa fa-volume-off"></i> I i             | इ          | Imi (Sleep) <br> Adiñ (Head)         |
 | <i class="fa fa-volume-off"></i> O o             | अो        | O (Local Beer) <br> Hogya (Leopard)  |
