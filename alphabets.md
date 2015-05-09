@@ -101,7 +101,9 @@ Long : saati (pine sap), peenw (procession)
 Apatani is a tonal language. The tone associated with a word makes all the difference in giving a meaning to a word. The three main tones are rising, level and falling. The rising tone is denoted by a rising diacritic on the concerned vowel and falling tone with a falling diacritic. The level tone is left unmarked. Examples are:
 
 Rising tone: aló (bone)
+<br>
 Level tone: alo (day)
+<br>
 Falling tone: alò (to dry)
 
 **Consonant Lengths**
