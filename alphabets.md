@@ -52,7 +52,7 @@ The following letters are used with modifications as indicated to represent the 
 | Letter | Devanagari | Examples                             |
 |--------|---------------------------------------------------|
 | <i class="fa fa-volume-off"></i> C c    | च          | Ciru' (Pocket) <br> Pacu (Chick)     |
-| <i class="fa fa-volume-off"></i> F f    | लय़         | Firotoko (Uvula) <br> Afo (Tongue)   |
+| <i class="fa fa-volume-off"></i> F f    | ल्य         | Firotoko (Uvula) <br> Afo (Tongue)   |
 | <i class="fa fa-volume-off"></i> Q q    | ङ          | Qwi (Fish) <br> Pequ (Barbet)        |
 | <i class="fa fa-volume-off"></i> X x    | ख          | Xui (Sour) <br> Taxw (Squirrel)      |
 | <i class="fa fa-volume-off"></i> Z z    | ञ          | Zatu (Knife) <br> Azañ (Year)        |
