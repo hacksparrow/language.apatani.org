@@ -12,11 +12,11 @@ The following vowels from English alphabet are adapted and used as in English us
 
 | Proposed Letter | Devanagari | Examples                         |
 |-----------------|------------|--------------------------------- |
-| A a             | अ          | Akì (Dog) <br> Paró (Poultry)        |
-| E e             | ए          | Emo (Pady) <br> Leñbo (Road)         |
-| I i             | इ          | Imi (Sleep) <br> Adiñ (Head)         |
-| O o             | अो        | O (Local Beer) <br> Hogya (Leopard)  |
-| U u             | उ          | Uì (Spirit) <br> Puulúu (White)        |
+| <i class="fa fa-volume-off"></i> A a             | अ          | Akì (Dog) <br> Paró (Poultry)        |
+| <i class="fa fa-volume-off"></i> E e             | ए          | Emo (Pady) <br> Leñbo (Road)         |
+| <i class="fa fa-volume-off"></i> I i             | इ          | Imi (Sleep) <br> Adiñ (Head)         |
+| <i class="fa fa-volume-off"></i> O o             | अो        | O (Local Beer) <br> Hogya (Leopard)  |
+| <i class="fa fa-volume-off"></i> U u             | उ          | Uì (Spirit) <br> Puulúu (White)        |
 
 
 The following symbols are used as additional vowels with modified usage in Apatani alphabet:

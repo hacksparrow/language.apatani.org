@@ -267,6 +267,10 @@
       vertical-align: top;
     }
 
+    td:first-child {
+        cursor: pointer;
+    }
+
     h2 {
         font-size: 32px;
 
