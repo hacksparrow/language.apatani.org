@@ -94,6 +94,7 @@ Hence, there are seven vowels, twenty consonants and one special character in Ap
 There are long vowels in many Apatani words. Single letters denote short vowels whereas long vowels are denoted by double letters. The following are the examples:
 
 Short: tamì (weed), peca (wild pear)
+<br>
 Long : saati (pine sap), peenw (procession)
 
 **Tones**
