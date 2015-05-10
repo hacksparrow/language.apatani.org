@@ -61,7 +61,7 @@ The following letters are used with modifications as indicated to represent the 
 
 The following symbol are used as a special character to meet accurate writing of Apatani language:
 
-| Symbol | Description      | Examples                                         | Remarks                       |
+| Apatani Letters | Description      | Examples                                         | Remarks                       |
 |--------|------------------|--------------------------------------------------|-------------------------------|
 | <i class="fa fa-volume-off"></i> -ñ      | अं              | Yasañ (Firewood) <br> Laliñ (Footprint) <br> Aluñ (Shock) | Nasalizes the preceding vowel |
 | <i class="fa fa-volume-off"></i> '      | Glottal stop     | La'ta' (Stick) <br> Taku' (Cucumber)                 |                               |
