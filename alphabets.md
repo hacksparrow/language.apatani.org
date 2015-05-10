@@ -10,7 +10,7 @@ The modified Roman Script (MRS) is used to write in Apatani. While most letters 
 
 The following vowels from English alphabet are adapted and used as in English usage:
 
-| Apatani Letters | Devanagari Equivalent| Examples                         |
+| Apatani Letters | Devanagari Equivalents| Examples                         |
 |-----------------|------------|--------------------------------- |
 | <i class="fa fa-volume-off"></i> A a             | अा          | Akì (Dog) <br> Paro' (Poultry)        |
 | <i class="fa fa-volume-off"></i> E e             | ए          | Emo (Pady) <br> Leñbo (Road)         |
@@ -21,7 +21,7 @@ The following vowels from English alphabet are adapted and used as in English us
 The following symbols are used as additional vowels with modified usage in Apatani alphabet:
 {: random=attribute }
 
-| Letter | Examples                      |
+| Apatani Letters | Examples                      |
 |--------|-------------------------------|
 | <i class="fa fa-volume-off"></i> W w    | Twrw (Forehead)               |
 | <i class="fa fa-volume-off"></i> V v    | Takvr (Star)                  |
@@ -30,7 +30,7 @@ The following symbols are used as additional vowels with modified usage in Apata
 
 The following consonants from English alphabet are adapted and used as in English usage:
 
-| Letter | Devanagari | Examples                             |
+| Apatani Letters | Devanagari Equivalents | Examples                             |
 |--------|---------------------------------------------------|
 | <i class="fa fa-volume-off"></i> B b    | ब          | Balu (Garden) <br> Tabu (Snake)      |
 | <i class="fa fa-volume-off"></i> D d    | द          | Dipe (Spade) <br> Sadi (Plantation)  |
@@ -49,7 +49,7 @@ The following consonants from English alphabet are adapted and used as in Englis
 
 The following letters are used with modifications as indicated to represent the sound identified in Apatani but not present in English:
 
-| Letter | Devanagari | Examples                             |
+| Apatani Letters | Devanagari Equivalents | Examples                             |
 |--------|---------------------------------------------------|
 | <i class="fa fa-volume-off"></i> C c    | च          | Ciru' (Pocket) <br> Pacu (Chick)     |
 | <i class="fa fa-volume-off"></i> F f    | ल्य         | Firotoko (Uvula) <br> Afo (Tongue)   |
