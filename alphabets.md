@@ -70,7 +70,7 @@ Hence, there are seven vowels, twenty consonants and one special character in Ap
 
 | A a | B b | C c | D d | E e | F f | G g |
 |-----|-----|-----|-----|-----|-----|-----| 
-| आ  | ब   | च   | द   | इ   | लय़  | ग   |
+| आ  | ब   | च   | द   | इ   | ल्य | ग   |
 | Aa  | Ba  | Cha | Da  | E   | Ly  | Ga  |
              
 | H h | I i | J j | K k | L l | M m | N n |
@@ -80,7 +80,7 @@ Hence, there are seven vowels, twenty consonants and one special character in Ap
              
 | O o | P p | Q q | R r | S s | T t | U u |
 |-----|-----|-----|-----|-----|-----|-----| 
-| ओ  | प   | ङु  | र    | स   | त   | उ   |
+| ओ  | प   | ङ  | र    | स   | त   | उ   |
 | O   | Pa  | Nga | Ra  | Sa  | Ta   | U  |
              
 | V v | W w | X x | Y y | Z z | ' | -ñ
