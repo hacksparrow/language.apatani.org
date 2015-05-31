@@ -3,10 +3,10 @@ title: Tanw Dictionary - B
 layout: dictionary
 ---
 
-ba  v.  vomit; puke; retch        
-ba' v.  carry; transport        
-ba'so adj.  long  syn.  wbyo' ant.  twdw
-báa v.  roll; spin; rotate        
+__ba__  _v._  vomit; puke; retch        
+__ba'__ _v._  carry; transport        
+__ba'so__ _adj._  long  _syn._  wbyo' _ant._  twdw
+__báa__ _v._  roll; spin; rotate        
 baabu'  adj.  healthy, esp. of child; pampered        
 baara n.  fare; fee or. Assamese    
 baarò adj.  big flat object ant.  bazo, barzo   
