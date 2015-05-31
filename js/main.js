@@ -33,4 +33,14 @@ $(document).ready(function () {
 
   })
 
+  // dictionary highlighter
+  var temp = document.location.href.split('/')
+  var section = temp[3]
+  if (section == 'dictionary') {
+    var page = temp[4]
+    var selectorHref = '/dictionary/' + page
+    var selectorIndex = '#dictionary-link a[href="' + selectorHref + '"]'
+    $(selectorIndex).css('fontWeight', 'bold')
+  }
+
 })

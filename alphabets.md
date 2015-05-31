@@ -89,6 +89,37 @@ Hence, there are seven vowels, twenty consonants and one special character in Ap
 | V   | W   | Xa  | Ya  | Nya | Oh  | Ang |
 
 
+| Alphabets | Names | IPA Equivalent |
+|-----------+-------+----------------|
+| a | aa  अा  | a  |
+| b | ba  ब    | b  |
+| c | cha च    | c  |
+| d | da  द    | d  |
+| e | ee  ए    | e  |
+| f | lya ल्य | ʎ  |
+| g | ga  ग    | g  |
+| h | ha  ह    | h  |
+| i |          | i  |
+| j | ja  ज   | ɟ  |
+| k | ka  क   | k  |
+| l | la  ल   | l  |
+| m | ma  म   | m  |
+| n | na  न    | n  |
+| o | o अो    | o  |
+| p | pa  प | p |
+| q | nga ङ | ŋ |
+| r | ra  र | r |
+| s | sa  स | s |
+| t | ta  त | t |
+| u | u उ | u |
+| v | | ə |
+| w | | ɯ |
+| x | kha ख | x |
+| y | ya  य | y |
+| z | nya ञ | ɲ |
+| ' | ah  अ: | ʔ |
+| ñ | ang अं | ã |
+
 **Vowel Lengths**
 
 There are long vowels in many Apatani words. Single letters denote short vowels whereas long vowels are denoted by double letters. The following are the examples:
