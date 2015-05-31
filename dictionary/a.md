@@ -15,35 +15,35 @@ __áakuñ__ _v._  come early
 __áakúr__ _v._  return; come back       
 __aalu__  _n._  potato _or._ Assamese  _syn._  byayuñ  
 __áamì__  _n._  cat       
-aamw  n.  mango or. Assamese    
-aapu kai  n.  showy; ostentatious (person)        
-aarañ adj.  deep  syn.  uurañ   
-aarda n.  tomorrow        
-aarda-rida  n.  in the future; in the coming days       
-aare  adv.  quick; fast; swift        
-aarí  n.  saw or. Hindi   
-aarìda  n.  in the future; in the coming years        
-aarv  n.  Portion of lower limb of an animal        
-aaxa' adj.  shallow syn.  uuxa' Ant.  aarañ
-aba'  v.  put a load; help carry        
-abañ  v.  bury (esp. in ash)        
-abañ  n.  elder brother       
-abañ  n.  burning pain        
-abba  n.  father; daddy; papa       
-abba-apá  n.  ancestor; forefather; progenitor        
-abba-axá  n.  man (esp. married man); adult man       
-abba-bañkuñ n.  great grandfather       
-abba-ci n.  step father       
-ábì v.  swing; sway; oscillate; move back and forth       
-abi'  adj.  complete        
-abíi  n.  lower garment whether skirt or pant       
-abíi-tarw n.  dress; clothes; garments; attire        
-abiñ  adj.  fruitful; productive  ant.  asu'    
-abrv  pron. something; something that is unspecified or unknown var.  abvr    
-abú adj.  unlucky; unfortunate; jinxed; ill-fated var.  arbú, abúr  Ant.  aro'
-abù adj.  many; numerous; a lot of; plenty of         
-abu-ake'  n.  manure; fertilizer        
-abu'  v.  coddled; pampered adv.  abu'swla    
+__aamw__  _n._  mango _or._ Assamese    
+__aapu kai__  _n._  showy; ostentatious (person)        
+__aarañ__ _adj._  deep  _syn._  uurañ   
+__aarda__ _n._  tomorrow        
+__aarda-rida__  _n._  in the future; in the coming days       
+__aare__  _adv._  quick; fast; swift        
+__aarí__  _n._  saw _or._ Hindi   
+__aarìda__  _n._  in the future; in the coming years        
+__aarv__  _n._  Portion of lower limb of an animal        
+__aaxa'__ _adj._  shallow _syn._  uuxa' _ant._  aarañ  
+__aba'__  _v._  put a load; help carry        
+__abañ__  _v._  bury (esp. in ash)        
+__abañ__  _n._  elder brother       
+__abañ__  _n._  burning pain        
+__abba__  _n._  father; daddy; papa       
+__abba-apá__  _n._  ancestor; forefather; progenitor        
+__abba-axá__  _n._  man (esp. married man); adult man       
+__abba-bañkuñ__ _n._  great grandfather       
+__abba-ci__ _n._  step father       
+__ábì__ _v._  swing; sway; oscillate; move back and forth       
+__abi'__  _adj._  complete        
+__abíi__  _n._  lower garment whether skirt or pant       
+__abíi-tarw__ _n._  dress; clothes; garments; attire        
+__abiñ__  _adj._  fruitful; productive  _ant._  asu'    
+__abrv__  _pron._ something; something that is unspecified or unknown _var._  abvr    
+__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  arbú, abúr  _ant._  aro'  
+__abù__ _adj._  many; numerous; a lot of; plenty of         
+__abu-ake'__  _n._  manure; fertilizer        
+__abu'__  _v._  coddled; pampered _adv._  abu'swla    
 abu'swla  adv.  indulgently       
 abúr  adj.  unlucky; unfortunate; jinxed; ill-fated var.  abú; arbú Ant.  aro'
 abúu  n.  a cylinderical structure        
