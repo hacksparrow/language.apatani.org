@@ -16,171 +16,171 @@ __áagya'__ _v._  come to a wrong place or a wrong way
 __áajó__  _n._  benefit of coming; wage or fare for coming  
   
 __áakò__  _n._  entrance; entry; door _var._  háakò  
-
+  
 __áakuñ__ _v._  come together; gather       
-
+  
 __áakuñ__ _v._  come early    
-
+  
 __áakúr__ _v._  return; come back       
-
+  
 __aalu__  _n._  potato _or._ Assamese  _syn._  byayuñ  
-
+  
 __áamì__  _n._  cat       
-
+  
 __aamw__  _n._  mango _or._ Assamese    
-
+  
 __aapu kai__  _n._  showy; ostentatious (person)      
-
+  
 __aarañ__ _adj._  deep  _syn._  uurañ   
-
+  
 __aarda__ _n._  tomorrow     
-
+  
 __aarda-rida__  _n._  in the future; in the coming days    
-
+  
 __aare__  _adv._  quick; fast; swift  
-
+  
 __aarí__  _n._  saw _or._ Hindi   
-
+  
 __aarìda__  _n._  in the future; in the coming years   
-
+  
 __aarv__  _n._  Portion of lower limb of an animal  
-
+  
 __aaxa'__ _adj._  shallow _syn._  uuxa' _ant._  aarañ  
-
+  
 __aba'__  _v._  put a load; help carry       
-
+  
 __abañ__  _v._  bury (esp. in ash)      
-
+  
 __abañ__  _n._  elder brother    
-
+  
 __abañ__  _n._  burning pain       
-
+  
 __abba__  _n._  father; daddy; papa     
-
+  
 __abba-apá__  _n._  ancestor; forefather; progenitor        
-
+  
 __abba-axá__  _n._  man (esp. married man); adult man    
-
+  
 __abba-bañkuñ__ _n._  great grandfather       
-
+  
 __abba-ci__ _n._  step father       
-
+  
 __ábì__ _v._  swing; sway; oscillate; move back and forth       
-
+  
 __abi'__  _adj._  complete        
-
+  
 __abíi__  _n._  lower garment whether skirt or pant  
-
+  
 __abíi-tarw__ _n._  dress; clothes; garments; attire       
-
+  
 __abiñ__  _adj._  fruitful; productive  _ant._  asu'    
-
+  
 __abrv__  _pron._ something; something that is unspecified or unknown _var._  abvr    
-
+  
 __abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  arbú, abúr  _ant._  aro'  
-
+  
 __abù__ _adj._  many; numerous; a lot of; plenty of         
-
+  
 __abu-ake'__  _n._  manure; fertilizer        
-
+  
 __abu'__  _v._  coddled; pampered _adv._  abu'swla    
-
+  
 __abu'swla__  _adv._  indulgently       
-
+  
 __abúr__  _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  abú; arbú _Ant._  aro'
-
+  
 __abúu__  _n._  a cylinderical structure    
-
+  
 __abvr__  _pron._ something; something that is unspecified or unknown _var._  abrv    
-
+  
 abyá  n.  ladder; stepladder        
-
+  
 abyo  adv.  endearingly; fondly; affectionately adj.  endearing   
-
+  
 abyóo n.  headgear of a priest made of woven cloth        
-
+  
 abyu  v.  move; shake; flutter; budge       
-
+  
 abyu-ate' n.  movement; motion; activity  var.  abyú-axe'   
-
+  
 abyu-axe' n.  movement; motion; activity  var.  abyú-ate'   
-
+  
 abyuñ v.  give a finishing touch by filling up soil (of a hole in the soil) or by binding       
-
+  
 abyuñ-afuñ  v.  finish binding; tie up by tightening the rope after binding something       
-
+  
 acáa  v.  to put up; to erect       
-
+  
 ace'  adj.  narrow; tight       
-
+    
 ací n.  elder brother's wife (term of address)     
-
+  
 ácì adv.  very; to a high degree        
-
+   
 ácì v.  to hide; to conceal       
-
+       
 ácì n.  pain; suffering v.  to have pain; to suffer   
-
+  
 aci takvr n.  star        
-
+  
 aci-afá adj.  precarious; critical       
-
+   
 ácì-ahè n.  ailment; suffering        
-
+  
 ací-baró  n.  brothers; siblings  var.  ací-búrù    
-
+  
 ací-búrù  n.  brothers; siblings  var.  ací-baró    
-
+  
 aciñ  pron. group; crowd  var.  atañ    
-
+  
 acò-amyò  n.  animals; creatures      
-
+   
 acuñ  v.  hide; conceal; camouflage; cove up        
-
+   
 adáa  n.  a person who has always had only one wife       
-
+  
 adañ  n.  spear var.  wdañ    
-
+  
 adañ  adj.  strong; sturdy        
-
+  
 adiñ  v.  to add; to include; incorporate; to admix     
-
+  
 adiñ  adv.  only; exclusively; solely       
-
+  
 adiñ  n.  head (anatomical)       
-
+  
 ado n.  stalk; main stem of a herbaceous plant  var.  wdo   
-
+  
 adóo  adj.  distant; far; remote  ant.  kúcì    
-
+  
 adú n.  noise; sound  v.  to make noise   
-
+  
 ádù v.  get pricked (by a thorn)        
-
+  
 aduñ-arañ adj.  disoriented; muddled; confused       
-
+  
 afa'  v.  lick; lap       
-
+   
 afañ  num.  ten       
-
+  
 afe'  n.  door        
-
+   
 afee  v.  shiver; tremble; shudder        
-
+  
 afí n.  bow    
-
+  
 afí n.  air, wind       
-
+   
 afí-aróo  n.  storm; rainstorm; windstorm       
-
+  
 afí-yasì  n.  weather; climate        
-
+  
 afi'  n.  pig       
-
+  
 afi' yo n.  pork        
-
+  
 afiñ  n.  pancreas        
-
+  
 afiñ  n.  evening; dusk; late afternoon       
 afiñ  adj.  smart; bright; savvy        
 áfò n.  skin; covering        
