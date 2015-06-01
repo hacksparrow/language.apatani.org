@@ -44,10 +44,10 @@ __abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  arbú, abúr  _
 __abù__ _adj._  many; numerous; a lot of; plenty of         
 __abu-ake'__  _n._  manure; fertilizer        
 __abu'__  _v._  coddled; pampered _adv._  abu'swla    
-abu'swla  adv.  indulgently       
-abúr  adj.  unlucky; unfortunate; jinxed; ill-fated var.  abú; arbú Ant.  aro'
-abúu  n.  a cylinderical structure        
-abvr  pron. something; something that is unspecified or unknown var.  abrv    
+__abu'swla__  _adv._  indulgently       
+__abúr__  _adj._  unlucky; unfortunate; jinxed; ill-fated var.  abú; arbú Ant.  aro'
+__abúu__  _n._  a cylinderical structure        
+__abvr__  _pron._ something; something that is unspecified or unknown var.  abrv    
 abyá  n.  ladder; stepladder        
 abyo  adv.  endearingly; fondly; affectionately adj.  endearing   
 abyóo n.  headgear of a priest made of woven cloth        
