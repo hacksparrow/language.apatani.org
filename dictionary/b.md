@@ -127,7 +127,7 @@ __beeñ__  _v._  shine, of sun; heat, of fire
    
 __beqna__ _n._  brinjal (_Solanam melongena_) [_or._ Assamese]    
    
-beyuñ n.  tomato; potato  var.  byayuñ    
+__beyuñ__ _n._  tomato; potato  [_var._  byayuñ]    
    
 beezì n.  term of address for two audince; term of reference for two persons        
    
