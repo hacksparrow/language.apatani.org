@@ -9,7 +9,7 @@ __áa__  _v._  come; arrive; enter
   
 __áade__  _v._  come close; approach  
   
-__áagyá__ _n._  entrance; door  {_var._ háagyá}  
+__áagyá__ _n._  entrance; door  [_var._ háagyá]  
   
 __áagya'__ _v._  come to a wrong place or a wrong way  
   
@@ -93,390 +93,688 @@ __abúu__  _n._  a cylinderical structure
   
 __abvr__  _pron._ something; something that is unspecified or unknown _var._  abrv    
   
-abyá  n.  ladder; stepladder        
+__abyá__  _n._  ladder; stepladder        
   
-abyo  adv.  endearingly; fondly; affectionately adj.  endearing   
+__abyo__  _adv._  endearingly; fondly; affectionately [_adj._  endearing]   
   
-abyóo n.  headgear of a priest made of woven cloth        
+__abyóo__ _n._  headgear of a priest made of woven cloth        
   
-abyu  v.  move; shake; flutter; budge       
+__abyu__  _v._  move; shake; flutter; budge       
   
-abyu-ate' n.  movement; motion; activity  var.  abyú-axe'   
+__abyu-ate'__ _n._  movement; motion; activity  [_var._  abyú-axe']   
   
-abyu-axe' n.  movement; motion; activity  var.  abyú-ate'   
+__abyu-axe'__ _n._  movement; motion; activity  [_var._  abyú-ate']   
   
-abyuñ v.  give a finishing touch by filling up soil (of a hole in the soil) or by binding       
+__abyuñ__ _v._  give a finishing touch by filling up soil (of a hole in the soil) or by binding       
   
-abyuñ-afuñ  v.  finish binding; tie up by tightening the rope after binding something       
+__abyuñ-afuñ__  _v._  finish binding; tie up by tightening the rope after binding something       
   
-acáa  v.  to put up; to erect       
+__acáa__  _v._  put up; erect       
   
-ace'  adj.  narrow; tight       
+__ace'__  _adj._  narrow; tight       
     
-ací n.  elder brother's wife (term of address)     
+__ací__ _n._  elder brother's wife (term of address)     
   
-ácì adv.  very; to a high degree        
+__ácì__ _adv._  very; to a high degree        
    
-ácì v.  to hide; to conceal       
+__ácì__ _v._  hide; conceal       
        
-ácì n.  pain; suffering v.  to have pain; to suffer   
+__ácì__ _n._  pain; suffering [_v._  have pain; suffer]   
   
-aci takvr n.  star        
+__aci takvr__ _n._  star        
   
-aci-afá adj.  precarious; critical       
+__aci-afá__ _adj._  precarious; critical       
    
-ácì-ahè n.  ailment; suffering        
+__ácì-ahè__ _n._  ailment; suffering        
   
-ací-baró  n.  brothers; siblings  var.  ací-búrù    
+__ací-baró__  _n._  brothers; siblings  [_var._  ací-búrù]    
   
-ací-búrù  n.  brothers; siblings  var.  ací-baró    
+__ací-búrù__  _n._  brothers; siblings  [_var._  ací-baró]    
   
-aciñ  pron. group; crowd  var.  atañ    
+__aciñ__  _pron._ group; crowd  [_var._  atañ]    
   
-acò-amyò  n.  animals; creatures      
+__acò-amyò__  _n._  animals; creatures      
    
-acuñ  v.  hide; conceal; camouflage; cove up        
+__acuñ__  _v._  hide; conceal; camouflage; cove up        
    
-adáa  n.  a person who has always had only one wife       
+__adáa__  _n._  a person who has always had only one wife       
   
-adañ  n.  spear var.  wdañ    
+__adañ__  _n._  spear [_var._  wdañ]    
   
-adañ  adj.  strong; sturdy        
+__adañ__  _adj._  strong; sturdy        
   
-adiñ  v.  to add; to include; incorporate; to admix     
+__adiñ__  _v._  add; include; incorporate; admix     
   
-adiñ  adv.  only; exclusively; solely       
+__adiñ__  _adv._  only; exclusively; solely       
   
-adiñ  n.  head (anatomical)       
+__adiñ__  _n._  head (anatomical)       
   
-ado n.  stalk; main stem of a herbaceous plant  var.  wdo   
+__ado__ _n._  stalk; main stem of a herbaceous plant  [_var._  wdo]   
   
-adóo  adj.  distant; far; remote  ant.  kúcì    
+__adóo__  _adj._  distant; far; remote  [_ant._  kúcì]    
   
-adú n.  noise; sound  v.  to make noise   
+__adú__ _n._  noise; sound  [_v._  make noise]   
   
-ádù v.  get pricked (by a thorn)        
+__ádù__ _v._  get pricked (by a thorn)        
   
-aduñ-arañ adj.  disoriented; muddled; confused       
+__aduñ-arañ__ _adj._  disoriented; muddled; confused       
   
-afa'  v.  lick; lap       
+__afa'__  _v._  lick; lap       
    
-afañ  num.  ten       
+__afañ__  _num._  ten       
   
-afe'  n.  door        
+__afe'__  _n._  door        
    
-afee  v.  shiver; tremble; shudder        
+__afee__  _v._  shiver; tremble; shudder        
   
-afí n.  bow    
+__afí__ _n._  bow    
   
-afí n.  air, wind       
+__afí__ _n._  air, wind       
    
-afí-aróo  n.  storm; rainstorm; windstorm       
+__afí-aróo__  _n._  storm; rainstorm; windstorm       
   
-afí-yasì  n.  weather; climate        
+__afí-yasì__  _n._  weather; climate        
   
-afi'  n.  pig       
+__afi'__  _n._  pig       
   
-afi' yo n.  pork        
+__afi' yo__ _n._  pork        
   
-afiñ  n.  pancreas        
+__afiñ__  _n._  pancreas        
   
-afiñ  n.  evening; dusk; late afternoon       
-afiñ  adj.  smart; bright; savvy        
-áfò n.  skin; covering        
-afoo  n.  tongue        
-afóo goñsò  n.  mantis  var.  afóo koñsò    
-afú v.  lose something; misplace        
-agáa  adv.  quickly; rapidly; swiftly; immediately        
-ágè v.  drain out (water from a field)        
-age'  v.  stick as with glue        
-age'  n.  quiver        
-agiñ  post. with; along with; in the same direction       
-agiñ  v.  trouble; irk; niggle        
-agoo  n.  outside ant.  ura adj.  external; exterior
-aguñ  n.  mouth; language       
-agvr  n.  bundh; raised earthen boundary between paddy fields where millet is planted       
-agw v.  to dress; clothe; put on dress        
-agyá  v.  toplace one's hand(s) with palms facing upwards, as when receiving something.       
-agyañ n.  ritual altar of the Apatanis        
-agyo  vt. mix; add; combine       
-agyú  n.  string; cord  syn.  aháa    
-aha'  v.  hang something        
-aháa  n.  string; cord  syn.  agyú    
-aháa  n.  heart       
-aháa ahw' v.  forget; fail to remember        
-aháa ba'  v.  hate; loathe; abhor       
-ahe v.  to bet; to wager; to gamble       
-ahì n.  fruit       
-ahiñ  adj.  same; similar; matching; identical        
-ahiñ  n.  gold        
-ahu n.  body; torso syn.  ahu-apo   
-ahú v.  to wake up; to rouse  syn.  mwhù    
-ahu ará adj.  naked; nude; undressed        
-ahu-apo n.  body; torso syn.  ahu   
-aì  adj.  raw; uncooked       
-aì  adj.  heavy       
-aì-haaju' n.  weight        
-ai' adj.  miser; mean       
-aíi n.  tooth       
-aíi n.  blood       
-aíi hiipiñ  n.  feline jaw used to decorate a machete sheath        
-aiñ n.  gold        
-ajań  adj.  young; immature       
-ajañ-bwzv adj.  fragile; soft; tender       
-ají n.  farm; wet agricultural field        
-ají pwhá  n.  small cane basket       
-ají sampyá  n.  tray, usually of wood, used to move soil from one part of the paddy field to the other        
-ají-fa'pyó  n.  agriculture; farming        
-ajiñ  n.  friend; company; mate v.  to befriend   
-ajiñ arañ n.  bossom friend; confidante; alter ego        
-ajiñ-apw  n.  company; friendship       
-ajiñbò  n.  friend (used as both term of reference and address)       
-ajo adj.  gentle; tender        
-ajóo  n.  fare; wage  v.  to hire; to pay for   
-ajù int.  yes; okay syn.  kájù    
-ájù n.  appearance; image syn.  ájùu-amyò   
-ájù-amyò  n.  appearance; image syn.  ájùu    
-aju'  adj.  weak; frail; feeble; sick; ailing n.  weak person   
-ajvr  v.  to be playful as a dog waging its tail        
-akañ  prep. bottom; beneath       
-akañ zacú n.  lower lip       
-akée  n.  food item used as a gift to express friendly gesture        
-akì n.  dog       
-akì amù n.  dog's hair        
-akì asi'  n.  kennel; shelter for a dog       
-akì dula  n.  rope used to tie dogs; dog rope       
-akì durgu n.  wooden trough for feeding dogs        
-akì ipa'  n.  faeces of dogs        
-akì kíibò n.  male dog        
-akì kíicú n.  puppy       
-akì kíinw n.  bitch       
-akì tadvr n.  tape worm       
-akì taxw  n.  flea  var.  akì twxè    
-akì twxè  n.  flea  var.  akì taxw    
-akì-paro' n.  domestic animals        
-akó num.  one; single       
-ákò adj.  low; short        
-akó koñtw'  adj.  only one; alone adv.  akó koñtw'    
-akó-abi'  pron. everyone; everybody; every person       
-ákó-ákó pron. one by one; one after the other       
-ákótá pron. one more        
-ákoyá pron. something else        
-aku n.  uncle (esp. maternal) (Term of address) syn.  nakú    
-ala'  n.  hand        
-ala' la'pù  n.  fist        
-aláa  n.  juice, broth        
-alañ  n.  neck;hump of an ox; neck of a bottle or a pot       
-ale'  n.  wing        
-alì n.  leg       
-álì v.  to plant        
-alì arañ  n.  bottom; base; lower part        
-alì innánw  n.  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground       
-ali lembo n.  paved road  or. Assamese    
-alíi  v.  bury        
-alíi  n.  seed; descendant; progeny; successor        
-aliñ  adj.  wild; untamed; fierce; savage ant.  amiñ    
-aliñ  v.  make something round; wind a quantity of yarn or thread into a ball, esp. by using a kind of spinning wheel.  n.  ball; sphere    
-alló  n.  bone        
-alo n.  day       
-alo n.  salt        
-álò v.  dry       
-alo kamyañ  adj.  everyday; daily; commonplace        
-alo lwpá  n.  noon        
-alóo  n.  bamboo flooring support       
-alóo xuu  n.  inherited property, esp. house plot       
-álù n.  task  v.  to work adj.  busy
-aluñ  v.  surprise, shock       
-alvr  adj.  hard; firm; rigid; strong syn.  arlv    
-alw n.  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
-alw'  v.  insert; put       
-alw'  v.  exchange; interchange; swap       
-ama n.  mother (term of address)  syn.  ane   
-amañ  n.  roof        
-amánw pron. everything; each item       
-ámè v.  mate        
-amí n.  elder sister (term of reference)        
-ámì n.  tail        
-amí-abañ  n.  elders        
-ami'  v.  extinguish; douse; put out (fire) syn.  mwmi'   
-ami'  n.  eye       
-ami' mi'byo n.  eyelash       
-ami' mi'tiñ n.  eyelid        
-ami'-aguñ n.  design; motif; pattern esp.in embroidery        
-amiñ  adj.  docile; obedient; sumbissive; deferential ant.  aliñ    
-amiñ  adj.  ripe; cooked        
-amiñ  n.  shade; shadow       
-amiñ-ahiñ n.  gift; present       
-amiñ-ajañ adj.  docile; candid; frank       
-amo n.  remaining grains of unhusked rice grains among husked ones        
-amu n.  yield; production; quantity (crop)        
-amu n.  hair        
-amú n.  lie; untruth; falsehood v.  to tell a lie   
-amu pèeruñ  n.  a variety of bean syn.  po'tuñ pèeruñ   
-amw n.  daughter-in-law (term of address)       
-amw arwlò int.  interjection to express hopelessness  syn.  lorw'lo   
-amw'  adj.  small; tiny; fine ant.  árù   
-amya' n.  penis       
-amyañ n.  name  var.  armyañ    
-añ  int.  an interjection at the end of a sentence to solicit agreement to the statement        
-ane n.  mother (term of address)  syn.  ama   
-anee  v.  provide packing or support to join or mend something.       
-aníi  n.  fruit bud       
-ano v.  to smear; to put on; to rub in; to apply (ointment)       
-anoo  adv.  very; extremely; awfully        
-anu n.  younger brother       
-anu-abañ  n.  brothers; sibling       
-anw n.  mother (term of reference)        
-anw n.  leaf  syn.  yanw    
-anw-aba n.  parent        
-anw-ci  n.  step mother       
-anw'  v.  swallow; gulp down; ingest  var.  arnw'   
-anw'  n.  hurry; haste; urgent        
-apa-ama adj.  simple; artless; guileless; innocent        
-apa'  v.  to give up; to let go syn.  opa'    
-apáa  adj.  young; immature       
-apañ keemañ n.  male dragonfly        
-apel  n.  apple or. English   
-ápì v.  dry       
-api-aláa  n.  sap of a tree       
-apì-ara n.  clapping        
-api'  v.  feed (esp. fowls)       
-api'  v.  break (by dropping)       
-apiñ  v.  warm (hand)       
-apiñ  n.  cooked rice       
-apiñ pwcañ  n.  pot for cooking rice        
-apó n.  body        
-apó xeñ v.  toil; work hard; engage in physical labor       
-apóo  v.  put cloths on cloth holder        
-appú  n.  flower        
-ápù n.  sphere; globe v.  wrap (into a sphere)    
-apu' amè  n.  dandruff        
-apuñ-aka  n.  confusing state; doubtful       
-apúu  n.  arrow       
-apvr  n.  gallbladder       
-apw n.  breadth       
-apw-asó n.  area; dimension       
-apyáa n.  tracks made by small animals        
-apyo' v.  dilute; make a liquid thinner or weaker       
-apyu  v.  spead (a mat) on the floor        
-apyuñ n.  bunch; cluster        
-aqa'  v.  tie into a bundle       
-ará adj.  empty; vacant; void       
-ara'  v.  tie       
-arañ  v.  block; choke; plug; obstruct; close syn.  atiñ    
-arañ  n.  bottom (of a tree or a bamboo)        
-arañ  adj.  close, of relation        
-arañ nanw n.  cork; bottle stopper; an object to seal a container       
-árbì  n.  portion of pork offered to wife's eldest living sister        
-arbú  adj.  unlucky; unfortunate; jinxed; ill-fated var.  abú; abúr Ant.  aro'
-arcì  v.  roll        
-arè adj.  loose; not fixed tightly or firmly        
-árè v.  wash (esp. interior of a pot)       
-are'  adj.  sharp; honed        
-argò  n.  vein, artery, nerve, tendon var.  arrò    
-arí v.  string together (beads)       
-arí n.  price; cost; charge       
-arì v.  demarcate; delimit; delineate       
-arí-apw n.  neighbourhood; locality       
-ari'  v.  choke; retch        
-aríi  n.  border; boundary        
-ariñ  adj.  brittle; fragile; breakable       
-arjiñ v.  stretch (esp. one's body)       
-arki' v.  arrange (a rope) into a loop        
-arkó  v.  latch; fasten; bolt; lock       
-arlv  adj.  hard; firm; rigid; strong var.  alvr    
-armiñ adj.  ripe  var.  amiñ    
-armyañ  n.  name  var.  amyañ   
-armyuñ  v.  grow (as an offshoot) var.  amyuñ   
-arná  v.  choke       
-arnw' v.  swallow; gulp down; ingest  syn.  anw'    
-arò n.  morning; daybreak       
-arò koñci n.  dawn        
-arò-apiñ  n.  meal in the morning; breakfast        
-aróo  adj.  poor; destitute       
-arpw  n.  bamboo crossbeam of a fence       
-arrò  n.  vein, artery, nerve, tendon var.  argò    
-arta' n.  portion; segment; section       
-artiñ n.  scrotum       
-artiñ bwliñ n.  testicle        
-artù  n.  gizzard (of a bird)       
-árù n.  weed; unwanted plant in an cultivated field       
-árù adj.  coarse; rough; large  ant.  amw'    
-aru'  n.  outer covering of bean or corn        
-aruñ  adv.  near; close by        
-aruñ  v.  be possessed  (esp. by evil spirits)        
-arww  n.  horn (anatomical)       
-arww  n.  bundle (esp. of bamboo)       
-asañ  v.  laud; praise; extol       
-asañ  n.  north       
-asè v.  wash; clean       
-asi'  n.  nest; lair; den       
-asiñ  v.  feed (esp. liquid food)       
-asó n.  length        
-asoo  n.  party; group; gang; supporter       
-ásù adj.  lazy; slothful; sluggish        
-ásù-ale adj.  lazy        
-asu'  v.  sneeze        
-asu'  adj.  dud crop; fuitless; unproductive  ant.  abiñ    
-asu'-asa' n.  disgrace; shame       
-asvr  n.  splinter (of wood)        
-asw n.  line; long narrow mark        
-asw'  v.  bite        
-ata n.  aunt (term of address)        
-ata'  n.  stinger (on a bee)  var.  wta'    
-atañ  pron. group; crowd  var.  aciñ    
-ate n.  elder brother (term of address)       
-atiñ  v.  block; choke; plug; obstruct; close syn.  arañ    
-ato n.  grandfather or father in law (term of address)        
-atobo n.  father-in-law (term of reference)       
-attè  adj.  thick (of a liquid)       
-áttò  n.  owner ant.  mii   
-attu' v.  close  or block (esp. a hollow container)       
-atú-kahè  n.  size        
-atúu  adj.  small; tiny; little; miniature  n.  baby animal ant.  káhè
-atúu  n.  progeny; young; offspring       
-atw'  v.  keep; store; retain; hold on to       
-au' n.  traditional red cane belt       
-au' gwgyá n.  waist       
-aúu n.  son-in-law (term of address)        
-aw' v.  forget        
-axa-ayá vi. burning sensation       
-axáa  adj.  old; aged; elderly        
-axáa tayú adj.  mature; elderly       
-axe'  n.  kidney  var.  arxe'   
-axoo  adj.  entangled (hair)        
-axóo  n.  stalk; stem       
-axóo  n.  head; leader; principal       
-axóo pèeruñ n.  a variety of bean       
-axu'  v.  regurgitate       
-axw n.  guts; entrails; viscera       
-axw n.  comb        
-axw har v.  have loose motion syn.  axw sáa   
-axw harnwñ  n.  diarrhea        
-axw sáa v.  have loose motion syn.  axw har   
-axw-ere'  n.  entrails; viscera       
-axw'-pata'  n.  ribs, rib cage        
-axwñ-amw  adv.  confused; disconcerted; befuddled; dumbfounded        
-aya adj.  good; beautiful; virtuous; righteous; suitable; appropriate       
-aya-kaco  n.  quality; condition        
-aya'  n.  flesh       
-ayádù int.  interjection of frustration       
-ayo n.  grandmother or mother-in-law (term of address)        
-ayò n.  night       
-ayò lwpá  n.  midnight        
-áyò yoofañ  n.  late night        
-áyò yoofañ lwpa n.  midnight        
-ayo-asi'  n.  ancestors; progenitors        
-ayobo n.  mother-in-law (term of reference)       
-ayóo  n.  up; upper       
-ayóo tapè n.  pumpkin var.  ayóo twpe syn.  e'pè, tápè
-ayóo zacù n.  upper lip       
-ayú n.  traditional ballad usually sang by the males as competition or simple narration       
-ayúu  n.  long time back        
-ayúu mapà n.  in a short while        
-azañ  n.  year        
-azè num.  two (term of reference)       
-azì num.  two       
-aziñ  n.  breast; milk        
-aziñ ziñpvr n.  nipple        
-azóo  v.  be subject to a behavioral restriction due to a taboo.        
+__afiñ__  _n._  evening; dusk; late afternoon
+  
+__afiñ__  _adj._  smart; bright; savvy
+    
+__áfò__ _n._  skin; covering     
+     
+__afoo__  _n._  tongue      
+     
+__afóo goñsò__  _n._  mantis  [_var._  afóo koñsò]  
+     
+__afú__ _v._  lose something; misplace        
+    
+__agáa__  _adv._  quickly; rapidly; swiftly; immediately    
+    
+__ágè__ _v._  drain out (water from a field)      
+     
+__age'__  _v._  stick as with glue   
+     
+__age'__  _n._  quiver        
+     
+__agiñ__  _post._ with; along with; in the same direction       
+     
+__agiñ__  _v._  trouble; irk; niggle        
+     
+__agoo__  _n._  outside [_ant._  ura] [_adj._  external; exterior]
+     
+__aguñ__  _n._  mouth; language       
+     
+__agvr__  _n._  bundh; raised earthen boundary between paddy fields where millet is planted    
+    
+__agw__ _v._  dress; clothe; put on dress        
+     
+__agyá__  _v._  toplace one's hand(s) with palms facing upwards, as when receiving something.     
+     
+__agyañ__ _n._  ritual altar of the Apatanis    
+    
+__agyo__  _v._ mix; add; combine  
+    
+__agyú__  _n._  string; cord  [_syn._  aháa]  
+    
+__aha'__  _v._  hang something     
+    
+__aháa__  _n._  string; cord  [_syn._  agyú]    
+    
+__aháa__  _n._  heart       
+    
+__aháa ahw'__ _v._  forget; fail to remember   
+    
+__aháa ba'__  _v._  hate; loathe; abhor    
+    
+__ahe__ _v._  bet; wager; gamble    
+   
+__ahì__ _n._  fruit      
+   
+__ahiñ__  _adj._  same; similar; matching; identical   
+   
+__ahiñ__  _n._  gold        
+   
+__ahu__ _n._  body; torso [_syn._  ahu-apo]   
+   
+__ahú__ _v._  wake up; rouse  [_syn._  mwhù]   
+   
+__ahu ará__ _adj._  naked; nude; undressed        
+   
+__ahu-apo__ _n._  body; torso [_syn._  ahu]   
+   
+__aì__  _adj._  raw; uncooked     
+   
+__aì__  _adj._  heavy      
+   
+__aì-haaju'__ _n._  weight   
+   
+__ai'__ _adj._  miser; mean       
+   
+__aíi__ _n._  tooth       
+    
+__aíi__ _n._  blood       
+   
+__aíi hiipiñ__  _n._  feline jaw used to decorate a machete sheath      
+   
+__aiñ__ _n._  gold        
+   
+__ajań__  _adj._  young; immature       
+   
+__ajañ-bwzv__ _adj._  fragile; soft; tender       
+   
+__ají__ _n._  farm; wet agricultural field        
+   
+__ají pwhá__  _n._  small cane basket       
+   
+__ají sampyá__  _n._  tray, usually of wood, used to move soil from one part of the paddy field to the other   
+   
+__ají-fa'pyó__  _n._  agriculture; farming      
+   
+__ajiñ__  _n._  friend; company; mate [_v._  befriend]   
+   
+__ajiñ arañ__ _n._  bossom friend; confidante; alter ego     
+   
+__ajiñ-apw__  _n._  company; friendship       
+   
+__ajiñbò__  _n._  friend (used as both term of reference and address)       
+   
+__ajo__ _adj._  gentle; tender      
+   
+__ajóo__  _n._  fare; wage  [_v._ hire; pay for]   
+   
+__ajù__ _int._  yes; okay [_syn._  kájù]    
+      
+__ájù__ _n._  appearance; image [_syn._  ájùu-amyò]   
+   
+__ájù-amyò__  _n._  appearance; image [_syn._  ájùu]    
+   
+__aju'__  _adj._  weak; frail; feeble; sick; ailing [_n._  weak person]   
+   
+__ajvr__  _v._  to be playful as a dog waging its tail        
+    
+__akañ__  _prep._ bottom; beneath       
+   
+__akañ zacú__ _n._  lower lip       
+   
+__akée__  _n._  food item used as a gift to express friendly gesture        
+   
+__akì__ _n._  dog       
+   
+__akì amù__ _n._  dog's hair        
+   
+__akì asi'__  _n._  kennel; shelter for a dog       
+   
+__akì dula__  _n._  rope used to tie dogs; dog rope       
+    
+__akì durgu__ _n._  wooden trough for feeding dogs        
+    
+__akì ipa'__  _n._  faeces of dogs        
+    
+__akì kíibò__ _n._  male dog        
+    
+__akì kíicú__ _n._  puppy       
+   
+__akì kíinw__ _n._  bitch       
+    
+__akì tadvr__ _n._  tape worm       
+    
+__akì taxw__  _n._  flea  [_var._  akì twxè]    
+   
+__akì twxè__  _n._  flea  [_var._  akì taxw]    
+   
+__akì-paro'__ _n._  domestic animals        
+   
+__akó__ _num._  one; single       
+   
+__ákò__ _adj._  low; short        
+   
+__akó koñtw'__  _adj._  only one; alone [_adv._  akó koñtw']    
+   
+__akó-abi'__  _pron._ everyone; everybody; every person       
+   
+__ákó-ákó__ _pron._ one by one; one after the other       
+   
+__ákótá__ _pron._ one more        
+   
+__ákoyá__ _pron._ something else        
+   
+__aku__ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]    
+   
+__ala'__  _n._  hand        
+    
+__ala' la'pù__  _n._  fist        
+   
+__aláa__  _n._  juice, broth        
+   
+__alañ__  _n._  neck;hump of an ox; neck of a bottle or a pot       
+   
+__ale'__  _n._  wing        
+   
+__alì__ _n._  leg       
+   
+__álì__ _v._  plant        
+   
+__alì arañ__  _n._  bottom; base; lower part        
+   
+__alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground       
+   
+__ali lembo__ _n._  paved road  [_or._ Assamese]    
+   
+__alíi__  _v._  bury        
+   
+__alíi__  _n._  seed; descendant; progeny; successor        
+   
+__aliñ__  _adj._  wild; untamed; fierce; savage [_ant._  amiñ]    
+   
+__aliñ__  _v._  make something round; wind a quantity of yarn or thread into a ball (esp. by using a kind of spinning wheel)  [_n._  ball; sphere]    
+   
+__alló__  _n._  bone        
+   
+__alo__ _n._  day       
+   
+__alo__ _n._  salt        
+   
+__álò__ _v._  dry       
+   
+__alo kamyañ__  _adj._  everyday; daily; commonplace        
+   
+__alo lwpá__  _n._  noon        
+   
+__alóo__  _n._  bamboo flooring support       
+   
+__alóo xuu__  _n._  inherited property (esp. house plot)       
+   
+__álù__ _n._  task  [_v._  to work] [_adj._  busy]
+   
+__aluñ__  _v._  surprise, shock       
+   
+__alvr__  _adj._  hard; firm; rigid; strong [_syn._  arlv]    
+   
+__alw__ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
+   
+__alw'__  _v._  insert; put       
+   
+__alw'__  _v._  exchange; interchange; swap       
+   
+__ama__ _n._  mother (term of address)  [_syn._  ane]   
+   
+__amañ__  _n._  roof        
+   
+__amánw__ _pron._ everything; each item       
+   
+__ámè__ _v._  mate        
+   
+__amí__ _n._  elder sister (term of reference)        
+   
+__ámì__ _n._  tail        
+   
+__amí-abañ__  _n._  elders        
+   
+__ami'__  _v._  extinguish; douse; put out (fire) [_syn._  mwmi']   
+   
+__ami'__  _n._  eye       
+   
+__ami' mi'byo__ _n._  eyelash       
+   
+__ami' mi'tiñ__ _n._  eyelid        
+   
+__ami'-aguñ__ _n._  design; motif; pattern (esp.in embroidery)        
+   
+__amiñ__  _adj._  docile; obedient; sumbissive; deferential [_ant._  aliñ]    
+   
+__amiñ__  _adj._  ripe; cooked        
+   
+__amiñ__  _n._  shade; shadow       
+    
+__amiñ-ahiñ__ n.  gift; present       
+   
+__amiñ-ajañ__ _adj._  docile; candid; frank       
+   
+__amo__ _n._  remaining grains of unhusked rice grains among husked ones        
+   
+__amu__ _n._  yield; production; quantity (crop)        
+   
+__amu__ _n._  hair        
+   
+__amú__ _n._  lie; untruth; falsehood [_v._  to tell a lie]   
+   
+__amu pèeruñ__  _n._  a variety of bean [_syn._  po'tuñ pèeruñ]   
+   
+__amw__ _n._  daughter-in-law (term of address)       
+   
+__amw arwlò__ _int._  interjection to express hopelessness  [_syn._  lorw'lo]   
+   
+__amw'__  _adj._  small; tiny; fine [_ant._  árù]   
+   
+__amya'__ _n._  penis       
+   
+__amyañ__ _n._  name  [_var._  armyañ]    
+   
+__añ__  _int._  an interjection at the end of a sentence to solicit agreement to a statement        
+   
+__ane__ _n._  mother (term of address)  [_syn._  ama]   
+   
+__anee__  _v._  provide packing or support to join or mend something.       
+   
+__aníi__  _n._  fruit bud       
+   
+__ano__ _v._  to smear; to put on; to rub in; to apply (ointment)       
+   
+__anoo__  _adv._  very; extremely; awfully        
+   
+__anu__ _n._  younger brother       
+   
+__anu-abañ__  _n._  brothers; sibling       
+    
+__anw__ _n._  mother (term of reference)        
+   
+__anw__ _n._  leaf  [_syn._  yanw]    
+   
+__anw-aba__ _n._  parent        
+   
+__anw-ci__  _n._  step mother       
+   
+__anw'__  _v._  swallow; gulp down; ingest  [_var._  arnw']   
+   
+__anw'__  _n._  hurry; haste; urgent        
+   
+__apa-ama__ _adj._  simple; artless; guileless; innocent        
+   
+__apa'__  _v._  to give up; to let go [_syn._  opa']    
+   
+__apáa__  _adj._  young; immature       
+   
+__apañ keemañ__ _n._  male dragonfly        
+   
+__apel__  _n._  apple [_or._ English]   
+   
+__ápì__ _v._  dry       
+   
+__api-aláa__  _n._  sap of a tree       
+   
+__apì-ara__ _n._  clapping        
+   
+__api'__  _v._  feed (esp. fowls)       
+   
+__api'__  _v._  break (by dropping)       
+   
+__apiñ__  _v._  warm (hand)       
+   
+__apiñ__  _n._  cooked rice       
+   
+__apiñ pwcañ__  _n._  pot for cooking rice        
+   
+__apó__ _n._  body        
+   
+__apó xeñ__ _v._  toil; work hard; engage in physical labor       
+   
+__apóo__  _v._  put cloths on cloth holder        
+   
+__appú__  _n._  flower        
+   
+__ápù__ _n._  sphere; globe [_v._  wrap (into a sphere)]    
+   
+__apu' amè__  _n._  dandruff        
+   
+__apuñ-aka__  _n._  confusing state; doubtful       
+   
+__apúu__  _n._  arrow       
+   
+__apvr__  _n._  gallbladder       
+   
+__apw__ _n._  breadth       
+   
+__apw-asó__ _n._  area; dimension       
+   
+__apyáa__ _n._  tracks made by small animals        
+   
+__apyo'__ _v._  dilute; make a liquid thinner or weaker       
+   
+__apyu__  _v._  spead (a mat) on the floor        
+   
+__apyuñ__ _n._  bunch; cluster        
+   
+__aqa'__  _v._  tie into a bundle       
+   
+__ará__ _adj._  empty; vacant; void       
+   
+__ara'__  v.  tie       
+   
+__arañ__  _v._  block; choke; plug; obstruct; close [_syn._  atiñ]    
+   
+__arañ__  _n._  bottom (of a tree or a bamboo)        
+   
+__arañ__  _adj._  close, of relation        
+   
+__arañ nanw__ _n._  cork; bottle stopper; an object to seal a container       
+   
+__árbì__  _n._  portion of pork offered to wife's eldest living sister        
+   
+__arbú__  _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; abúr] [_Ant._  aro']
+   
+__arcì__  _v._  roll        
+   
+__arè__ _adj._  loose; not fixed tightly or firmly        
+   
+__árè__ _v._  wash (esp. interior of a pot)       
+   
+__are'__  _adj._  sharp; honed        
+   
+__argò__  _n._  vein, artery, nerve, tendon [_var._  arrò]    
+   
+__arí__ _v._  string together (beads)       
+   
+__arí__ _n._  price; cost; charge       
+   
+__arì__ _v._  demarcate; delimit; delineate       
+   
+__arí-apw__ _n._  neighbourhood; locality       
+
+__ari'__  _v._  choke; retch        
+   
+__aríi__  _n._  border; boundary        
+   
+__ariñ__  _adj._  brittle; fragile; breakable       
+   
+__arjiñ__ _v._  stretch (esp. one's body)       
+   
+__arki'__ _v._  arrange (a rope) into a loop        
+   
+__arkó___  _v._  latch; fasten; bolt; lock       
+   
+__arlv__  _adj._  hard; firm; rigid; strong [_var._  alvr]    
+   
+__armiñ__ _adj._  ripe  [_var._  amiñ]    
+   
+__armyañ__  _n._  name  var.  amyañ   
+   
+__armyuñ__  _v._  grow (as an offshoot) [_var._  amyuñ]   
+   
+__arná__  _v._  choke       
+   
+__arnw'__ _v._  swallow; gulp down; ingest  [_syn._  anw']    
+   
+__arò__ _n._  morning; daybreak       
+   
+__arò koñci__ _n._  dawn        
+   
+__arò-apiñ__  _n._  meal in the morning; breakfast        
+    
+__aróo__  _adj._  poor; destitute       
+   
+__arpw__  _n._  bamboo crossbeam of a fence       
+   
+__arrò__  _n._  vein, artery, nerve, tendon [_var._  argò]    
+   
+__arta'__ _n._  portion; segment; section       
+   
+__artiñ__ _n._  scrotum       
+   
+__artiñ bwliñ__ _n._  testicle        
+   
+__artù__  _n._  gizzard (of a bird)       
+   
+__árù__ _n._  weed; unwanted plant in an cultivated field       
+   
+__árù__ _adj._  coarse; rough; large  [_ant._  amw']    
+   
+__aru'__  _n._  outer covering of bean or corn        
+   
+__aruñ__  _adv._  near; close by        
+   
+__aruñ__  _v._  be possessed  (esp. by evil spirits)        
+   
+__arww__  _n._  horn (anatomical)       
+   
+__arww__  _n._  bundle (esp. of bamboo)       
+   
+__asañ__  v.  laud; praise; extol       
+   
+__asañ__  _n._  north       
+   
+__asè__ _v._  wash; clean       
+   
+__asi'__  _n._  nest; lair; den       
+   
+__asiñ__  _v._  feed (esp. liquid food)       
+   
+__asó__ _n._  length        
+   
+__asoo__  _n._  party; group; gang; supporter       
+   
+__ásù__ _adj._  lazy; slothful; sluggish        
+   
+__ásù-ale__ _adj._  lazy        
+   
+__asu'__  _v._  sneeze        
+    
+__asu'__  _adj._  dud crop; fuitless; unproductive  [_ant._  abiñ]    
+   
+__asu'-asa'__ _n._  disgrace; shame       
+   
+__asvr__  _n._  splinter (of wood)        
+   
+__asw__ _n._  line; long narrow mark        
+   
+__asw'__  _v._  bite        
+   
+__ata__ _n._  aunt (term of address)        
+   
+__ata'__  _n._  stinger (on a bee)  [_var._  wta']    
+   
+__atañ__  _pron._ group; crowd  [_var._  aciñ]    
+   
+__ate__ _n._  elder brother (term of address)       
+   
+__atiñ__  _v._  block; choke; plug; obstruct; close [_syn._  arañ]    
+   
+__ato__ _n._  grandfather or father in law (term of address)        
+   
+__atobo__ _n._  father-in-law (term of reference)       
+   
+__attè__  _adj._  thick (of a liquid)       
+   
+__áttò__  _n._  owner [_ant._  mii]   
+   
+__attu'__ _v._  close  or block (esp. a hollow container)       
+   
+__atú-kahè__  _n._  size        
+   
+__atúu__  _adj._  small; tiny; little; miniature  [_n._  baby animal] [_ant._  káhè]
+   
+__atúu__  _n._  progeny; young; offspring       
+   
+__atw'__  _v._  keep; store; retain; hold on to       
+    
+__au'__ _n._  traditional red cane belt       
+    
+__au' gwgyá__ _n._  waist       
+   
+__aúu__ _n._  son-in-law (term of address)        
+   
+__aw'__ _v._  forget        
+    
+__axa-ayá__ _v._ burning sensation       
+   
+__axáa__  adj.  old; aged; elderly        
+   
+__axáa tayú__ _adj._  mature; elderly       
+   
+__axe'__  _n._  kidney  [_var._  arxe']   
+    
+__axoo__  _adj._  entangled (hair)        
+    
+__axóo__  _n._  stalk; stem       
+    
+__axóo__  _n._  head; leader; principal       
+    
+__axóo pèeruñ__ _n._  a variety of bean       
+    
+__axu'__  _v._  regurgitate       
+    
+__axw__ _n._  guts; entrails; viscera       
+  
+__axw__ _n._  comb        
+   
+__axw har__ _v._  have loose motion [_syn._  axw sáa]   
+   
+__axw harnwñ__  _n._  diarrhea        
+   
+__axw sáa__ _v._  have loose motion [_syn._  axw har]   
+   
+__axw-ere'__  _n._  entrails; viscera       
+   
+__axw'-pata'__  _n._  ribs, rib cage        
+   
+__axwñ-amw_  _adv._  confused; disconcerted; befuddled; dumbfounded        
+   
+__aya__ _adj._  good; beautiful; virtuous; righteous; suitable; appropriate       
+   
+__aya-kaco__  _n._  quality; condition        
+    
+__aya'__  _n._  flesh       
+   
+__ayádù__ _int._  interjection of frustration       
+   
+__ayo__ _n._  grandmother or mother-in-law (term of address)        
+   
+__ayò__ _n._  night       
+   
+__ayò lwpá__  _n._  midnight        
+   
+__áyò yoofañ__  _n._  late night        
+   
+__áyò yoofañ lwpa__ _n._  midnight        
+   
+__ayo-asi'__  _n._  ancestors; progenitors        
+   
+__ayobo__ _n._  mother-in-law (term of reference)       
+   
+__ayóo__  _n._  up; upper       
+   
+__ayóo tapè__ _n._  pumpkin [_var._  ayóo twpe] [_syn._  e'pè, tápè]
+   
+__ayóo zacù__ _n._  upper lip       
+   
+__ayú__ _n._  traditional ballad usually sang by the males as competition or simple narration       
+   
+__ayúu__  _n._  long time back        
+   
+__ayúu mapà__ _n._  in a short while        
+   
+__azañ__  _n._  year        
+   
+__azè__ _num._  two (term of reference)       
+   
+__azì__ _num._  two       
+   
+__aziñ__  _n._  breast; milk        
+   
+__aziñ ziñpvr__ _n._  nipple        
+   
+__azóo__  _v._  be subject to a behavioral restriction due to a taboo.        
