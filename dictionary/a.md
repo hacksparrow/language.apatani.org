@@ -23,7 +23,7 @@ __áakuñ__ _v._  come early
   
 __áakúr__ _v._  return; come back       
   
-__aalu__  _n._  potato [_or._ Assamese  _syn._  byayuñ]  
+__aalu__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
   
 __áamì__  _n._  cat       
   
@@ -731,7 +731,7 @@ __axw-ere'__  _n._  entrails; viscera
    
 __axw'-pata'__  _n._  ribs, rib cage        
    
-__axwñ-amw_  _adv._  confused; disconcerted; befuddled; dumbfounded        
+__axwñ-amw__  _adv._  confused; disconcerted; befuddled; dumbfounded        
    
 __aya__ _adj._  good; beautiful; virtuous; righteous; suitable; appropriate       
    
