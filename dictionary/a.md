@@ -4,11 +4,17 @@ layout: dictionary
 ---
 
 __a__ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made  
+  
 __áa__  _v._  come; arrive; enter  
+  
 __áade__  _v._  come close; approach  
+  
 __áagyá__ _n._  entrance; door  _var._ háagyá  
+  
 __áagya'__ _v._  come to a wrong place or a wrong way  
+  
 __áajó__  _n._  benefit of coming; wage or fare for coming  
+  
 __áakò__  _n._  entrance; entry; door _var._  háakò  
 __áakuñ__ _v._  come together; gather       
 __áakuñ__ _v._  come early        
