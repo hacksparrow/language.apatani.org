@@ -9,7 +9,7 @@ __áa__  _v._  come; arrive; enter
   
 __áade__  _v._  come close; approach  
   
-__áagyá__ _n._  entrance; door  [_var._ háagyá]  
+__áagyá__ _n._  entrance; door  {_var._ háagyá}  
   
 __áagya'__ _v._  come to a wrong place or a wrong way  
   
