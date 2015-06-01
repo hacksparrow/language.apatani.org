@@ -4,9 +4,13 @@ layout: dictionary
 ---
 
 __i'ce__	      _n._	  a night's interval	_v._	to keep a night's gap  
-__i'qvr__	      _v._	  snore  	    	
-__i'mvr__	      _v._	  sleep deeply      		
-__i'ruñ__	      _v._	  sleep in somebody else's house      		
+
+__i'qvr__	      _v._	  snore  	 
+
+__i'mvr__	      _v._	  sleep deeply      
+
+__i'ruñ__	      _v._	  sleep in somebody else's house     
+
 __icañ__	      _n._	  dysentery; ailment with blood stained stool    	  	
 __ice__	        _adj._	few; some; scant; meagre	syn.	icu    
 __icu__	        _adj._	few; some; scant; meagre	syn.	ice  
