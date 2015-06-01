@@ -9,13 +9,13 @@ __áa__  _v._  come; arrive; enter
   
 __áade__  _v._  come close; approach  
   
-__áagyá__ _n._  entrance; door  _var._ háagyá  
+__áagyá__ _n._  entrance; door  [_var._ háagyá]  
   
 __áagya'__ _v._  come to a wrong place or a wrong way  
   
 __áajó__  _n._  benefit of coming; wage or fare for coming  
   
-__áakò__  _n._  entrance; entry; door _var._  háakò  
+__áakò__  _n._  entrance; entry; door [_var._  háakò]  
   
 __áakuñ__ _v._  come together; gather       
   
@@ -23,15 +23,15 @@ __áakuñ__ _v._  come early
   
 __áakúr__ _v._  return; come back       
   
-__aalu__  _n._  potato _or._ Assamese  _syn._  byayuñ  
+__aalu__  _n._  potato [_or._ Assamese  _syn._  byayuñ]  
   
 __áamì__  _n._  cat       
   
-__aamw__  _n._  mango _or._ Assamese    
+__aamw__  _n._  mango [_or._ Assamese]    
   
 __aapu kai__  _n._  showy; ostentatious (person)      
   
-__aarañ__ _adj._  deep  _syn._  uurañ   
+__aarañ__ _adj._  deep  [_syn._  uurañ]   
   
 __aarda__ _n._  tomorrow     
   
@@ -39,7 +39,7 @@ __aarda-rida__  _n._  in the future; in the coming days
   
 __aare__  _adv._  quick; fast; swift  
   
-__aarí__  _n._  saw _or._ Hindi   
+__aarí__  _n._  saw [_or._ Hindi]   
   
 __aarìda__  _n._  in the future; in the coming years   
   
