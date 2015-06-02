@@ -129,270 +129,270 @@ __beqna__ _n._  brinjal (_Solanam melongena_) [_or._ Assamese]
    
 __beyuñ__ _n._  tomato; potato  [_var._  byayuñ]    
    
-beezì n.  term of address for two audince; term of reference for two persons        
+__beezì__ _n._  term of address for two audince; term of reference for two persons        
    
-bi  v.  give; offer       
+__bi__  _v._  give; offer       
    
-bibu' n.  gun syn.  mubu' var.  bebu'
+__bibu'__ _n._  gun syn.  mubu' [_var._  bebu']
    
-bidiñ n.  ritual hunting of monkey prior to Myoko festival        
+__bidiñ__ _n._  ritual hunting of monkey prior to Myoko festival        
    
-bíi v.  cascade; flow, as water       
+__bíi__ _v._  cascade; flow (as water)       
    
-bìi v.  move to and fro; swing; oscillate;        
+__bìi__ v.  move to and fro; swing; oscillate        
    
-bíi'  v.  emit sound; echo        
+__bíi'__  _v._  emit sound; echo        
    
-bíi'  v.  compensate; make reparation; make amends        
+__bíi'__  _v._  compensate; make reparation; make amends        
    
-biiku-bifa  adj.  boastful; egoistical; vainglorious        
+__biiku-bifa__  _adj._  boastful; egoistical; vainglorious        
    
-biilo adj.  long ago; bygone; erstwhile       
+__biilo__ _adj._  long ago; bygone; erstwhile       
    
-bije  n.  generic term for bamboo; bamboo species commonly cultivated by the Apatanis (Phyllostachys bambusoides)         
+__bije__  _n._  generic term for bamboo; bamboo species commonly cultivated by the Apatanis (_Phyllostachys bambusoides_)         
    
-bije arw  n.  bundle of bamboo        
+__bije arw__  _n._  bundle of bamboo        
    
-bije biizi' n.  small sized bamboo        
+__bije biizi'__ _n._  small sized bamboo        
    
-bije biirañ n.  bamboo stump        
+__bije biirañ__ _n._  bamboo stump        
    
-bije leñda  n.  path leading to or inside the bamboo garden       
+__bije leñda__  _n._  path leading to or inside the bamboo garden       
    
-bije sudu n.  bamboo container; bamboo smoking pipe       
+__bije sudu__ _n._  bamboo container; bamboo smoking pipe       
    
-bije twgya  n.  a flowering plant found in the bamboo gardens       
+__bije twgya__  _n._  a flowering plant found in the bamboo gardens       
    
-bije zaazi  n.  lichen around bamboo nodes  syn.  bije yatań, subu zaazi    
+__bije zaazi__  _n._  lichen around bamboo nodes  [_syn._  bije yatań, subu zaazi]    
    
-bilañ abíi  n.  Red and white Aptatani traditional skirt        
+__bilañ abíi__  _n._  Red and white Apatani traditional skirt        
    
-biñ v.  uproot, as of weed        
+__biñ__ _v._  uproot (as of weed)        
    
-biñpa n.  rope of bamboo skin       
+__biñpa__ _n._  rope of bamboo skin       
    
-biñpu adj.  round; spherical; plump; rotund       
+__biñpu__ _adj._  round; spherical; plump; rotund       
    
-bipiñ n.  mat of animal skin        
+__bipiñ__ _n._  mat of animal skin        
    
-birañ n.  stump, esp. of bamboo       
+__birañ__ _n._  stump (esp. of bamboo)       
    
-birañ patu' n.  bamboo stump, esp. with sharp edge        
+__birañ patu'__ _n._  bamboo stump (esp. with sharp edge)        
    
-bisvr abíi  n.  Black and white Apatani traditional skirt       
+__bisvr abíi__  _n._  Black and white Apatani traditional skirt       
    
-biti  n.  craft; activity involving skills in cane and bamboo craft       
+__biti__  _n._  craft; activity involving skills in cane and bamboo craft       
    
-biyañ n.  girdle, esp. of female used to hold the skirt       
+__biyañ__ _n._  girdle (esp. of female used to hold the skirt)       
    
-biyañ tw'gya  n.  waist (esp. of female)        
+__biyañ tw'gya__  _n._  waist (esp. of female)        
    
-bo  v.  cross; traverse       
+__bo__  _v._  cross; traverse       
    
-bo'go n.  dam, for diverting water to irrigation channel        
+__bo'go__ _n._  dam, for diverting water to irrigation channel        
    
-bofo  adj.  thin (of a flat object) ant.  byañkvr   
+__bofo__  _adj._  thin (of a flat object) [_ant._  byañkvr]   
    
-boha  n.  cane rope tied to a babó for acrobatic game; acrobatic game played on the rope        
+__boha__  _n._  cane rope tied to a babó for acrobatic game; acrobatic game played on the rope        
    
-bóì n.  track made by large game        
+__bóì__ _n._  track made by large game        
    
-bóo v.  pull; tug; lug; drag; draw        
+__bóo__ _v._  pull; tug; lug; drag; draw        
    
-borta'  n.  a variety of snake; cobra var.  burta'; sala burta    
+__borta'__  _n._  a variety of snake; cobra var.  burta'; sala burta    
    
-bù  v.  uproot        
+__bù__  _v._  uproot        
    
-bu' v.  multiply; proliferate; procreate        
+__bu'__ _v._  multiply; proliferate; procreate        
    
-bu' v.  burst; explode        
+__bu'__ _v._  burst; explode        
    
-bu'li uune  n.  a variety of ulcerative infective wound of the skin; ecthyma        
+__bu'li uune__  _n._  a variety of ulcerative infective wound of the skin; ecthyma        
    
-budu  v.  murmur; mumble; mutter        
+__budu__  _v._  murmur; mumble; mutter        
    
-budu' v.  sulk; get offended        
+__budu'__ _v._  sulk; get offended        
    
-bufañ n.  traditional village council of the Apatanis       
+__bufañ__ _n._  traditional village council of the Apatanis       
    
-bufú  n.  tadpole       
+__bufú__  _n._  tadpole       
    
-bukofe'be n.  larva of water beetle syn.  fe'be   
+__bukofe'be__ _n._  larva of water beetle [_syn._  fe'be]   
    
-bwluñ-bwle  adj.  sickly, unappetizing  var.  buluñ-bwle    
+__bwluñ-bwle__  _adj._  sickly, unappetizing  [_var._  buluñ-bwle]    
    
-buluñ-bwle  adj.  sickly, unappetizing  var.  bwluñ-bwle    
+__buluñ-bwle__  _adj._  sickly, unappetizing  [_var._  bwluñ-bwle]    
    
-buñ v.  crowd       
+__buñ__ _v._  crowd       
    
-buñci n.  ninth month of the year; September-October        
+__buñci__ _n._  ninth month of the year; September-October        
    
-buqa  v.  crowd; gather; congregate; swarm        
+__buqa__  _v._  crowd; gather; congregate; swarm        
    
-burta'  n.  a variety of snake; cobra var.  borta'    
+__burta'__  _n._  a variety of snake; cobra [_var._  borta']    
    
-burù  n.  younger brother       
+__burù__  _n._  younger brother       
    
-burúu n.  mythical crocodile-like creature said to have inhabited the Ziro valley in the olden days       
+__burúu__ _n._  mythical crocodile-like creature said to have inhabited the Ziro valley in the olden days       
    
-busañ tabú  n.  a variety of snake; Green Ratsnake (Senticolis triaspis)  var.  bwsañ tabú    
+__busañ tabú__  _n._  a variety of snake; Green Ratsnake (_Senticolis triaspis_)  [_var._  bwsañ tabú]    
    
-busu' v.  get loose; loosen; slacken        
+__busu'__ _v._  get loose; loosen; slacken        
    
-buu v.  hold; keep; own var.  bww   
+__buu__ _v._  hold; keep; own [_var._  bww]   
    
-búu v.  give birth to var.  bww   
+__búu__ _v._  give birth to [_var._  bww]   
    
-buudu-buugyá  n.  household articles        
+__buudu-buugyá__  _n._  household articles        
    
-buufú n.  tadpole       
+__buufú__ _n._  tadpole       
    
-buuì  n.  rat dropping        
+__buuì__  _n._  rat dropping        
    
-buukò n.  a variety of large jungle rat       
+__buukò__ _n._  a variety of large jungle rat       
    
-buulì n.  variety of rats seen after bamboo flowring in large numbers       
+__buulì__ _n._  variety of rats seen after bamboo flowring in large numbers       
    
-buuñtw  n.  tenth month of the year; October        
+__buuñtw__  _n._  tenth month of the year; October        
    
-buupiñ  v.  to follow in birth order        
+__buupiñ__  _v._  follow in birth order        
    
-buupiñ swnw n.  twin; siblings        
+__buupiñ swnw__ _n._  twin; siblings        
    
-buuro adj.  thick or big cylinderical object  ant.  buuzó   
+__buuro__ _adj._  thick or big cylinderical object  [_ant._  buuzó]   
    
-buutuñ  n.  a person who remains bachelor       
+__buutuñ__  _n._  a person who remains bachelor       
    
-buutw n.  community; society        
+__buutw__ _n._  community; society        
    
-buuxe n.  a variety of house rat        
+__buuxe__ _n._  a variety of house rat        
    
-buuzó adj.  small cylinderical object ant.  buurò   
+__buuzó__ _adj._  small cylinderical object [_ant._  buurò]   
    
-bwdañ n.  precipice; cliff        
+__bwdañ__ _n._  precipice; cliff        
    
-bwdañ daara'  n.  stiff cliff       
+__bwdañ daara'__  _n._  stiff cliff       
    
-bwdí  adj.  trick; tactic; strategy or. Assamese    
+__bwdí__  _adj._  trick; tactic; strategy [_or._ Assamese]    
    
-bwdí ba'lo  n.  conspiracy        
+__bwdí ba'lo__  _n._  conspiracy        
    
-bwfe' adj.  soft; spongy; pliable syn.  bwya' ant.  alvr
+__bwfe'__ _adj._  soft; spongy; pliable [_syn._  bwya'] [_ant._  alvr]
    
-bwfiñ n.  yesterday evening       
+__bwfiñ__ _n._  yesterday evening       
    
-bwfo' adj.  nearby; near        
+__bwfo'__ _adj._  nearby; near        
    
-bwfo  n.  yesterday       
+__bwfo__  _n._  yesterday       
    
-bwhiñ n.  a variety of tree       
+__bwhiñ__ _n._  a variety of tree       
    
-bwje  adj.  many; in large numbers; profuse; copious  var.  bwjé bwjé   
+__bwje__  _adj._  many; in large numbers; profuse; copious  [_var._  bwjé bwjé]   
    
-bwjvr n.  market; bazaar  or. Assamese    
+__bwjvr__ _n._  market; bazaar  [_or._ Assamese]    
    
-bwle' adj.  slippery; oily; greasy; slimy syn.  tule'   
+__bwle'__ _adj._  slippery; oily; greasy; slimy [_syn._  tule']   
    
-bwliñ kormo n.  a variety of fruit        
+__bwliñ kormo__ _n._  a variety of fruit        
    
-bwlu-bwla'  adv.  hurriedly; suddenly       
+__bwlu-bwla'__  _adv._  hurriedly; suddenly       
    
-bwlw  adj.  loose, as of a tooth or a post        
+__bwlw__  _adj._  loose (as of a tooth or a post)        
    
-bwnw  n.  female; damsel; lady        
+__bwnw__  _n._  female; damsel; lady        
    
-bwpw' prep. under; beneath; below       
+__bwpw'__ _prep._ under; beneath; below       
    
-bwpw' tabú  n.  a variety of poisonous snake (Pareas monticola)       
+__bwpw' tabú__  _n._  a variety of poisonous snake (_Pareas monticola_)       
    
-bwriñ n.  python (Python molurus)       
+__bwriñ__ _n._  python (_Python molurus_)       
    
-bwra' adj.  mellow (of taste)       
+__bwra'__ _adj._  mellow (of taste)       
    
-bwro  n.  yesterday morning       
+__bwro__  _n._  yesterday morning       
    
-bwsañ tabú  n.  a variety of snake; Green Ratsnake (Senticolis triaspis)  var.  busañ tabú    
+__bwsañ tabú__  _n._  a variety of snake; Green Ratsnake (_Senticolis triaspis_)  [_var._  busañ tabú]    
    
-bwsi  n.  traditional ballad; song; lyrics        
+__bwsi__  _n._  traditional ballad; song; lyrics        
    
-bwso  adj.  afraid; scared; terrified       
+__bwso__  _adj._  afraid; scared; terrified       
    
-bwso-kaco n.  forbidden; proscribed; prohibited       
+__bwso-kaco__ _n._  forbidden; proscribed; prohibited       
    
-bww v.  hold; to keep; to own var.  buu   
+__bww__ _v._  hold; keep; own [_var._  buu]   
    
-bww v.  give birth to var.  buu   
+__bww__ _v._  give birth to [_var._  buu]   
    
-bwya' adj.  soft; spongy; pliable syn.  bwfe' Ant.  alvr
+__bwya'__ _adj._  soft; spongy; pliable [_syn._  bwfe'] [_Ant._  alvr]
    
-bwyo  n.  yesterday night       
+__bwyo__  _n._  yesterday night       
    
-bwyo  adj.  weedy; full of weed, of a field       
+__bwyo__  _adj._  weedy; full of weed (of a field)       
    
-bwza-bwza adj.  silky; delicate; soft syn.  bwzi'-bwza    
+__bwza-bwza__ _adj._  silky; delicate; soft [_syn._  bwzi'-bwza]    
    
-bwzañ n.  last year       
+__bwzañ__ _n._  last year       
    
-bwzi'-bwza  adj.  silky; delicate; soft syn.  bwza-bwza   
+__bwzi'-bwza__  _adj._  silky; delicate; soft [_syn._  bwza-bwza]   
    
-bya'  v.  hesitate; waver; vicillate        
+__bya'__  _v._  hesitate; waver; vicillate        
    
-byaa  v.  ruin; disintegrate        
+__byaa__  _v._  ruin; disintegrate        
    
-byáa  v.  roast; grill        
+__byáa__  _v._  roast; grill        
    
-byaací  n.  space between the front veranday and the main space in an Apatani house syn.  byaarañ   
+__byaací__  _n._  space between the front verandah and the main space in an Apatani house [_syn._  byaarañ]   
    
-byaago  n.  front verandah of an Apatani house        
+__byaago__  _n._  front verandah of an Apatani house        
    
-byaakañ n.  space underneath the house        
+__byaakañ__ _n._  space underneath the house        
    
-byaako  n.  kind of edible berry        
+__byaako__  _n._  kind of edible berry        
    
-byaarañ n.  space between the front veranday and the main space in an Apatani house syn.  byaací    
+__byaarañ__ _n._  space between the front verandah and the main space in an Apatani house [_syn._  byaací]    
    
-byaazó  adj.  narrow (esp. of path)       
+__byaazó__  _adj._  narrow (esp. of path)       
    
-byací adj.  smart; quick; agile syn.  cibyw   
+__byací__ _adj._  smart; quick; agile [_syn._  cibyw]   
    
-byakú n.  a child with developmental delay        
+__byakú__ _n._  a child with developmental delay        
    
-byañkvr adj.  thick ant.  bofó    
+__byañkvr__ _adj._  thick [_ant._  bofó]    
    
-byañtuñ adj.  big and thick, esp. of flower       
+__byañtuñ__ _adj._  big and thick (esp. of flower)       
    
-byapu'  n.  bamboo shoot  syn.  behé, wtw rwbw, wtw bwrw    
+__byapu'__  _n._  bamboo shoot  [_syn._  behé, wtw rwbw, wtw bwrw]    
    
-byar  v.  flip; flick       
+__byar__  _v._  flip; flick       
    
-byarbó  v.  jump across       
+__byarbó__  _v._  jump across       
    
-byayuñ  n.  tomato; potato  var.  beyuñ   
+__byayuñ__  _n._  tomato; potato  [_var._  beyuñ]   
    
-byazó adj.  small (esp. of flower)        
+__byazó__ _adj._  small (esp. of flower)        
    
-byo'  v.  shine, as sun; to radiate; to glow; to glare        
+__byo'__  _v._  shine (as sun); radiate; glow; glare        
    
-byo'dá  adj.  bright; brilliant       
+__byo'dá__  _adj._  bright; brilliant       
    
-byo'hú  v.  brighten; light up; illuminate        
+__byo'hú__  _v._  brighten; light up; illuminate        
    
-byodiñ  n.  an element of ritual altar        
+__byodiñ__  _n._  an element of ritual altar        
    
-byoñ  v.  extinguish, of a major fire; stop a fight       
+__byoñ__  _v._  extinguish (of a major fire); stop a fight       
    
-byo v.  swim        
+__byo__ _v._  swim        
    
-byoopvr n.  a variety of headgear       
+__byoopvr__ _n._  a variety of headgear       
    
-byopa n.  cap; headgear       
+__byopa__ _n._  cap; headgear       
    
-byuhu n.  grave; tomb       
+__byuhu__ _n._  grave; tomb       
    
-byurw-byarw adj.  dirty; unappetizing; messy  syn.  ulu-byalu   
+__byurw-byarw__ _adj._  dirty; unappetizing; messy  [_syn._  ulu-byalu]   
    
-byuu  v.  suck        
+__byuu__  v.  suck        
    
-byuxwñ  n.  cemetry; burial ground; graveyard       
+__byuxwñ__  n.  cemetry; burial ground; graveyard       
    
-byw n.  a species of bamboo       
+__byw__ n.  a species of bamboo       
