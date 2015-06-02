@@ -230,11 +230,12 @@
  * Posts
  */
 .post-header {
+
     margin-bottom: $spacing-unit;
 
     #dictionary-link {
-        position: relative;
-        top: 2px;
+        margin-left: 130px;
+        font-size: 19px;
     }
 
 }
@@ -305,4 +306,28 @@
             font-size: 18px;
         }
     }
+
+    .volume {
+        margin-right: 4px;
+        position: relative;
+        top: 1px;
+    }
+    .playable {
+        cursor: pointer;
+    }
+    .non-playable {
+        cursor: default;
+    }
 }
+
+.dictionary-content {
+
+    strong {
+        font-weight: normal;
+    }
+
+    em {
+        color: $grey-color;
+    }
+}
+

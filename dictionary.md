@@ -1,5 +1,5 @@
 ---
-title: Tanw Aguñ - Dictionary
+title: Tanw Aguñ - Apatani Dictionary
 h1: Dictionary
 layout: dictionary
 ---
@@ -8,13 +8,13 @@ Click on the alphabet of your interest to navigate for the entries for the selec
 
 The following abbreviations are used in the dictionary.
 
-- *ant*. antonym
-- *syn*. synonym
-- *or*. origin
-- *n*. noun
-- *num*. number
-- *v*. verb
-- *adv*. adverb
-- *int*. interjection
-- *adj*. adjective
-- *prep*. preposition
+_ant._ antonym  
+_syn._ synonym  
+_or._ origin  
+_n._ noun  
+_num._ number  
+_v._ verb  
+_adv._ adverb  
+_int._ interjection  
+_adj._ adjective  
+_prep._ preposition  

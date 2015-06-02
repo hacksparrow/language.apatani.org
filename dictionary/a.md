@@ -23,7 +23,7 @@ __áakuñ__ _v._  come early
   
 __áakúr__ _v._  return; come back       
   
-__aalu__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
+__aalú__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
   
 __áamì__  _n._  cat       
   

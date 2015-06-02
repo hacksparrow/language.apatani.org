@@ -2,7 +2,7 @@ $(document).ready(function () {
 
   var voiceGender = 'm' // set 'f' for female voice
 
-  // play audio
+  // play alphabet audio
   $('td:first-child').click(function () {
 
     var td = this
@@ -42,5 +42,43 @@ $(document).ready(function () {
     var selectorIndex = '#dictionary-link a[href="' + selectorHref + '"]'
     $(selectorIndex).css('fontWeight', 'bold')
   }
+
+  // add sound to the dictionary entries
+  $('.dictionary-content p strong').each(function (i, el) {
+
+    var letter = document.title.split(' ').splice(-1)[0].toLowerCase()
+    var word = $(el).text().trim()
+
+    var soundPath = '/sounds/words/'+ letter + '/'+ voiceGender + '/' + word + '.mp3'
+    
+    var player = '<i class="fa fa-volume-off volume playable"></i>'
+    $(el).prepend(player)
+
+    $(el).find('i').click(function () {
+
+      var self = this
+      var sound = soundManager.createSound({
+        url: soundPath,
+        autoLoad: true,
+        onload: function (success) {
+          if (success) {
+            $(self).removeClass('fa-volume-off').addClass('fa-volume-up')
+          }
+          else {
+            $(self).removeClass('fa-volume-up').addClass('fa-volume-off')
+            $(self).removeClass('playable').addClass('non-playable')
+            $(self).css('color', 'gray')
+          }
+        },
+        onfinish: function() {
+          $(self).removeClass('fa-volume-up').addClass('fa-volume-off')
+        }
+      })
+
+      sound.play()
+
+    })
+
+  })
 
 })
