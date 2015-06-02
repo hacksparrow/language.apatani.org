@@ -18,3 +18,4 @@ _adv._ adverb
 _int._ interjection  
 _adj._ adjective  
 _prep._ preposition  
+esp. especially
