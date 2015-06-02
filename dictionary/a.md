@@ -591,10 +591,13 @@ __anu__ _n._  younger brother
    
 __anu-abañ__  _n._  brothers; sibling       
     
+
+__anw__ _n._  leaf  [_syn._  yanw]
+
+
 __anẁ__ _n._  mother (term of reference)        
    
-__anẁ__ _n._  leaf  [_syn._  yanw]    
-   
+    
 __anẁ-aba__ _n._  parent        
    
 __anẁ-ci__  _n._  step mother       
