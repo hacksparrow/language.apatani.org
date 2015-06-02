@@ -45,7 +45,7 @@ __balu__  _n._  garden
    
 __bañbañ__  _adj._  heavy or hoarse voice       
    
-__bar_ _v._  carry something with a horizontal bar or a rod        
+__bar__ _v._  carry something with a horizontal bar or a rod        
    
 __bár__ _v._  charge interest       
    
@@ -75,9 +75,9 @@ __baró__  _n._  brother
    
 __baro-mazañ__  _n._  traditional friends (esp. of other community or of far away places)        
    
-__barxo'__  _v._  straddle; sit in straddling a seat; bestride       
+__barxo'__  _v._  straddle; sit straddling a seat; bestride       
    
-__basw'__ n._  bank (of a river); riverbank; shore        
+__basw'__ _n._  bank (of a river); riverbank; shore        
    
 __bátè__  _adj._  thick (of mud or liquid)       
    
