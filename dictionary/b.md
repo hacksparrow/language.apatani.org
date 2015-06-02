@@ -25,7 +25,7 @@ __babiñ__ _adj._  stark; bare, as of a field
    
 __babó__  _n._  ceremonial pole of the Apatanis erected on the eve of the Myoko festivals       
    
-__baciñ__ _n._  box myrtle (_myrica esculenta/myrica nagi_)       
+__baciñ__ _n._  box myrtle (_Myrica esculenta/Myrica nagi_)       
    
 __bade__  _n._  ceiling rack for storing meat [_syn._  yo bade; xaci]   
    
