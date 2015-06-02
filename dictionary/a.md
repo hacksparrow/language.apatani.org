@@ -25,7 +25,11 @@ __áakúr__ _v._  return; come back
   
 __aalú__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
   
-__áamì__  _n._  cat       
+__áamì__  _n._  cat     
+
+
+__áamì atúu__	_n._	kitten
+  
   
 __aamw__  _n._  mango [_or._ Assamese]    
   
@@ -147,7 +151,23 @@ __adiñ__  _v._  add; include; incorporate; admix
   
 __adiñ__  _adv._  only; exclusively; solely       
   
-__adiñ__  _n._  head (anatomical)       
+__adiñ__  _n._  head (anatomical)   
+
+
+__adiñ ácì__	_n._	headache
+
+
+__adiñ ce'nw__	_n._	barber
+
+
+__adiñ dilañ__	_n._	grey hair
+
+
+__adiñ diñji__	_n._	black hair
+
+
+__adiñ diñpúu__	_n._	white hair
+
   
 __ado__ _n._  stalk; main stem of a herbaceous plant  [_var._  wdo]   
   
@@ -161,10 +181,20 @@ __aduñ-arañ__ _adj._  disoriented; muddled; confused
   
 __afa'__  _v._  lick; lap       
    
-__afañ__  _num._  ten       
+__afañ__  _num._  ten   
+
+
+__afañ pwfi__	_num._	forty
+
+
+__afañ xw__	_num._	sixty
+
+
+__afañ yaqo__	_num._	fifty
+
   
-__afe'__  _n._  door        
-   
+__afe'__  _n._  door      
+
 __afee__  _v._  shiver; tremble; shudder        
   
 __afí__ _n._  bow    
@@ -177,6 +207,10 @@ __afí-yasì__  _n._  weather; climate
   
 __afi'__  _n._  pig       
   
+
+__afi' asi'__	_n._	cage for pig
+
+
 __afi' yo__ _n._  pork        
   
 __afiñ__  _n._  pancreas        
@@ -184,6 +218,10 @@ __afiñ__  _n._  pancreas
 __afiñ__  _n._  evening; dusk; late afternoon
   
 __afiñ__  _adj._  smart; bright; savvy
+
+
+__afiñ dafi__	_n._	afternoon
+
     
 __áfò__ _n._  skin; covering     
      
@@ -191,7 +229,11 @@ __afoo__  _n._  tongue
      
 __afóo goñsò__  _n._  mantis  [_var._  afóo koñsò]  
      
-__afú__ _v._  lose something; misplace        
+__afú__ _v._  lose something; misplace     
+
+
+__aga swco__	_int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
+
     
 __agáa__  _adv._  quickly; rapidly; swiftly; immediately    
     
@@ -206,6 +248,13 @@ __agiñ__  _post._ with; along with; in the same direction
 __agiñ__  _v._  trouble; irk; niggle        
      
 __agoo__  _n._  outside [_ant._  ura] [_adj._  external; exterior]
+
+
+__agoo empuñ__	_n._	space between the entrance and the hearth of a traditional Apatani house
+
+
+__agoo imi'__	_n._	hearth towards the front of the house
+
      
 __aguñ__  _n._  mouth; language       
      
@@ -230,10 +279,34 @@ __aháa__  _n._  heart
 __aháa ahw'__ _v._  forget; fail to remember   
     
 __aháa ba'__  _v._  hate; loathe; abhor    
+
+
+__aháa du'__	_n._	heartbeat
+
+
+__aháa pìitañ__	_n._	thirst
+    
     
 __ahe__ _v._  bet; wager; gamble    
+
+
+__ahi__	_n._	tooth
+
    
 __ahì__ _n._  fruit      
+
+
+__ahi ácì__	_n._	toothache
+
+
+__ahì amvr__	_n._	fruit items
+
+
+__ahi daktor__	_n._	dentist
+
+
+__ahi pyo'su__	_v._	brush one's teeth
+
    
 __ahiñ__  _adj._  same; similar; matching; identical   
    
@@ -254,8 +327,6 @@ __aì__  _adj._  heavy
 __aì-haaju'__ _n._  weight   
    
 __ai'__ _adj._  miser; mean       
-   
-__aíi__ _n._  tooth       
     
 __aíi__ _n._  blood       
    
@@ -267,7 +338,11 @@ __ajań__  _adj._  young; immature
    
 __ajañ-bwzv__ _adj._  fragile; soft; tender       
    
-__ají__ _n._  farm; wet agricultural field        
+__ají__ _n._  farm; wet agricultural field  
+
+
+__ají mwmw__	_n._	farmer
+
    
 __ají pwhá__  _n._  small cane basket       
    
@@ -287,7 +362,7 @@ __ajo__ _adj._  gentle; tender
    
 __ajóo__  _n._  fare; wage  [_v._ hire; pay for]   
    
-__ajù__ _int._  yes; okay [_syn._  kájù]    
+__ajU__ _int._  yes; okay [_syn._  kájù]    
       
 __ájù__ _n._  appearance; image [_syn._  ájùu-amyò]   
    
@@ -321,7 +396,13 @@ __akì kíicú__ _n._  puppy
    
 __akì kíinw__ _n._  bitch       
     
-__akì tadvr__ _n._  tape worm       
+__akì tadvr__ _n._  tape worm   
+
+__akì talañ__	_n._	dog of brownish color
+
+
+__akì tapúu__	_n._	dog of white color
+    
     
 __akì taxw__  _n._  flea  [_var._  akì twxè]    
    
@@ -341,14 +422,26 @@ __ákó-ákó__ _pron._ one by one; one after the other
    
 __ákótá__ _pron._ one more        
    
-__ákoyá__ _pron._ something else        
+__ákoyá__ _pron._ something else   
+
+
+__aktor__	_n._	actor
+
    
-__aku__ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]    
+__aku__ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]  
+
+
+__akw__	_int._	interjection to express pain
+
    
 __ala'__  _n._  hand        
     
 __ala' la'pù__  _n._  fist        
    
+   
+__ala' muja__	_n._	glove
+
+
 __aláa__  _n._  juice, broth        
    
 __alañ__  _n._  neck;hump of an ox; neck of a bottle or a pot       
@@ -363,7 +456,14 @@ __alì arañ__  _n._  bottom; base; lower part
    
 __alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground       
    
-__ali lembo__ _n._  paved road  [_or._ Assamese]    
+__ali lembo__ _n._  paved road  [_or._ Assamese]  
+
+
+__alì lwpiñ__	_n._	instep
+
+
+__alì lwpyo__	_n._	sole
+
    
 __alíi__  _v._  bury        
    
@@ -379,7 +479,11 @@ __alo__ _n._  day
    
 __alo__ _n._  salt        
    
-__álò__ _v._  dry       
+__álò__ _v._  dry    
+
+
+__alo apiñ__	_n._	lunch
+
    
 __alo kamyañ__  _adj._  everyday; daily; commonplace        
    
@@ -395,13 +499,17 @@ __aluñ__  _v._  surprise, shock
    
 __alvr__  _adj._  hard; firm; rigid; strong [_syn._  arlv]    
    
-__alw__ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
+__alẃ__ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
    
 __alw'__  _v._  insert; put       
    
 __alw'__  _v._  exchange; interchange; swap       
    
-__ama__ _n._  mother (term of address)  [_syn._  ane]   
+__ama__ _n._  mother (term of address)  [_syn._  ane]  
+
+
+__ama'__	_v._	feed (esp. the hired laborers)
+
    
 __amañ__  _n._  roof        
    
@@ -417,11 +525,19 @@ __amí-abañ__  _n._  elders
    
 __ami'__  _v._  extinguish; douse; put out (fire) [_syn._  mwmi']   
    
-__ami'__  _n._  eye       
+__ami'__  _n._  eye     
+
+
+__ami' ácì__	_n._	conjunctivitis; eye disease
+
    
 __ami' mi'byo__ _n._  eyelash       
    
-__ami' mi'tiñ__ _n._  eyelid        
+__ami' mi'tiñ__ _n._  eyelid
+
+
+__ami' nuri__	_n._	pupil
+
    
 __ami'-aguñ__ _n._  design; motif; pattern (esp.in embroidery)        
    
@@ -435,7 +551,11 @@ __amiñ-ahiñ__ n.  gift; present
    
 __amiñ-ajañ__ _adj._  docile; candid; frank       
    
-__amo__ _n._  remaining grains of unhusked rice grains among husked ones        
+__amo__ _n._  remaining grains of unhusked rice grains among husked ones   
+
+
+__amo-ahe__	_n._	dust (esp. those sticking on the body after works)
+
    
 __amu__ _n._  yield; production; quantity (crop)        
    
@@ -471,13 +591,13 @@ __anu__ _n._  younger brother
    
 __anu-abañ__  _n._  brothers; sibling       
     
-__anw__ _n._  mother (term of reference)        
+__anẁ__ _n._  mother (term of reference)        
    
-__anw__ _n._  leaf  [_syn._  yanw]    
+__anẁ__ _n._  leaf  [_syn._  yanw]    
    
-__anw-aba__ _n._  parent        
+__anẁ-aba__ _n._  parent        
    
-__anw-ci__  _n._  step mother       
+__anẁ-ci__  _n._  step mother       
    
 __anw'__  _v._  swallow; gulp down; ingest  [_var._  arnw']   
    
@@ -505,7 +625,11 @@ __api'__  _v._  break (by dropping)
    
 __apiñ__  _v._  warm (hand)       
    
-__apiñ__  _n._  cooked rice       
+__apiñ__  _n._  cooked rice  
+
+
+__apiñ ga'hiñ__	_n._	ball of cooked rice
+
    
 __apiñ pwcañ__  _n._  pot for cooking rice        
    
@@ -519,9 +643,17 @@ __appú__  _n._  flower
    
 __ápù__ _n._  sphere; globe [_v._  wrap (into a sphere)]    
    
-__apu' amè__  _n._  dandruff        
+__apu' amè__  _n._  dandruff   
+
+
+__apuñ__	_prep._	among
+
    
-__apuñ-aka__  _n._  confusing state; doubtful       
+__apuñ-aka__  _n._  confusing state; doubtful   
+
+
+__apur__	_prep._	among; midst
+
    
 __apúu__  _n._  arrow       
    
@@ -539,7 +671,15 @@ __apyu__  _v._  spead (a mat) on the floor
    
 __apyuñ__ _n._  bunch; cluster        
    
-__aqa'__  _v._  tie into a bundle       
+__aqa'__  _v._  tie into a bundle  
+
+
+__aqw__	_int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
+
+
+__aqw swco__	_int._	interjection to express indifference; let it be	[_syn._	aqw; aga swco]
+
+
    
 __ará__ _adj._  empty; vacant; void       
    
@@ -585,7 +725,7 @@ __arjiñ__ _v._  stretch (esp. one's body)
    
 __arki'__ _v._  arrange (a rope) into a loop        
    
-__arkó___  _v._  latch; fasten; bolt; lock       
+__arkó__  _v._  latch; fasten; bolt; lock       
    
 __arlv__  _adj._  hard; firm; rigid; strong [_var._  alvr]    
    
@@ -599,12 +739,22 @@ __arná__  _v._  choke
    
 __arnw'__ _v._  swallow; gulp down; ingest  [_syn._  anw']    
    
-__arò__ _n._  morning; daybreak       
+__arò__ _n._  morning; daybreak  
+
+
+__arò dafi__	_n._	forenoon
+
+
    
 __arò koñci__ _n._  dawn        
    
-__arò-apiñ__  _n._  meal in the morning; breakfast        
+__arò-apiñ__  _n._  meal in the morning; breakfast 
     
+__aro'__	_adj._	lucky
+
+
+__aro' paco__	_int._	expression of happiness; thank you
+       
 __aróo__  _adj._  poor; destitute       
    
 __arpw__  _n._  bamboo crossbeam of a fence       
@@ -615,8 +765,10 @@ __arta'__ _n._  portion; segment; section
    
 __artiñ__ _n._  scrotum       
    
-__artiñ bwliñ__ _n._  testicle        
+__artiñ bwliñ__ _n._  testicle  
    
+__artiñ ku__	_v._	castrate
+      
 __artù__  _n._  gizzard (of a bird)       
    
 __árù__ _n._  weed; unwanted plant in an cultivated field       
@@ -645,8 +797,10 @@ __asiñ__  _v._  feed (esp. liquid food)
    
 __asó__ _n._  length        
    
-__asoo__  _n._  party; group; gang; supporter       
+__asoo__  _n._  party; group; gang; supporter  
    
+__asorit__	_adj._	surprising; amazing; startling	[_or._	Assamese]
+      
 __ásù__ _adj._  lazy; slothful; sluggish        
    
 __ásù-ale__ _adj._  lazy        
@@ -681,7 +835,10 @@ __attè__  _adj._  thick (of a liquid)
    
 __áttò__  _n._  owner [_ant._  mii]   
    
-__attu'__ _v._  close  or block (esp. a hollow container)       
+__attu'__ _v._  close  or block (esp. a hollow container)   
+   
+__attu' nanw__	_n._	lid used for closing a container
+   
    
 __atú-kahè__  _n._  size        
    
@@ -713,14 +870,20 @@ __axóo__  _n._  stalk; stem
     
 __axóo__  _n._  head; leader; principal       
     
-__axóo pèeruñ__ _n._  a variety of bean       
+__axóo pèeruñ__ _n._  a variety of bean 
+
+
+__axor__	_n._	letter	[_or._	Assamese]
+
     
 __axu'__  _v._  regurgitate       
     
 __axw__ _n._  guts; entrails; viscera       
   
-__axw__ _n._  comb        
+__axw__ _n._  comb       
    
+__axw ácì__	_n._	stomach pain
+      
 __axw har__ _v._  have loose motion [_syn._  axw sáa]   
    
 __axw harnwñ__  _n._  diarrhea        
@@ -751,7 +914,11 @@ __áyò yoofañ__  _n._  late night
    
 __áyò yoofañ lwpa__ _n._  midnight        
    
-__ayo-asi'__  _n._  ancestors; progenitors        
+__ayo-asi'__  _n._  ancestors; progenitors 
+
+
+__ayo-nano__	_n._	a variety of bee (hover bee)
+
    
 __ayobo__ _n._  mother-in-law (term of reference)       
    
@@ -775,6 +942,8 @@ __azì__ _num._  two
    
 __aziñ__  _n._  breast; milk        
    
-__aziñ ziñpvr__ _n._  nipple        
+__aziñ ziñpvr__ _n._  nipple   
    
+__azìnw__	_n._	second
+      
 __azóo__  _v._  be subject to a behavioral restriction due to a taboo.        
