@@ -424,9 +424,6 @@ __ákótá__ _pron._ one more
    
 __ákoyá__ _pron._ something else   
 
-
-__aktor__	_n._	actor
-
    
 __aku__ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]  
 
@@ -530,6 +527,9 @@ __ami'__  _n._  eye
 
 __ami' ácì__	_n._	conjunctivitis; eye disease
 
+
+__ami' ajañ__	_n._	one who cries easily
+
    
 __ami' mi'byo__ _n._  eyelash       
    
@@ -565,7 +565,7 @@ __amú__ _n._  lie; untruth; falsehood [_v._  to tell a lie]
    
 __amu pèeruñ__  _n._  a variety of bean [_syn._  po'tuñ pèeruñ]   
    
-__amw__ _n._  daughter-in-law (term of address)       
+__amẁ__ _n._  daughter-in-law (term of address)       
    
 __amw arwlò__ _int._  interjection to express hopelessness  [_syn._  lorw'lo]   
    
