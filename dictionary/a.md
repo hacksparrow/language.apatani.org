@@ -193,7 +193,11 @@ __afañ xw__	_num._	sixty
 __afañ yaqo__	_num._	fifty
 
   
-__afe'__  _n._  door      
+__afe'__  _n._  door     
+
+
+__afe' ago__	_n._	doorstep
+
 
 __afee__  _v._  shiver; tremble; shudder        
   
@@ -269,6 +273,10 @@ __agyañ__ _n._  ritual altar of the Apatanis
 __agyo__  _v._ mix; add; combine  
     
 __agyú__  _n._  string; cord  [_syn._  aháa]  
+
+
+__aha fiifi'__	_adj._	horrifying
+
     
 __aha'__  _v._  hang something     
     
@@ -362,7 +370,7 @@ __ajo__ _adj._  gentle; tender
    
 __ajóo__  _n._  fare; wage  [_v._ hire; pay for]   
    
-__ajU__ _int._  yes; okay [_syn._  kájù]    
+__aju__ _int._  yes; okay [_syn._  kájù]    
       
 __ájù__ _n._  appearance; image [_syn._  ájùu-amyò]   
    
