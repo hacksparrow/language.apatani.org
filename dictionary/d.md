@@ -162,49 +162,49 @@ __dekiñ pwcañ__ _n._  clay pot
 __dema__  _adj._  naughty; disobedient  [_ant._  deñkí]   
 
 
-dema úì n.  evil spirit       
+__demaúì__ _n._  evil spirit       
 
 
-dempyo  n.  mouse       
+__dempyo__  _n._  mouse       
 
 
-deñki adj.  sincere; obedient Ant.  dema    
+__deñki__ _adj._  sincere; obedient [_ant._  dema]    
 
 
-deqe  n.  hair, of a child        
+__deqe__  _n._  hair (of a child)        
 
 
-dibur n.  mole cricket (Gryllotalpidae)       
+__dibur__ _n._  mole cricket (_Gryllotalpidae_)       
 
 
-didu  n.  liquid container of bamboo  syn.  dije    
+__didu__  _n._  liquid container of bamboo  [_syn._  dije]    
 
 
-didvr adj.  fluent, as in speech; articulate        
+__didvr__ _adj._  fluent, as in speech; articulate        
 
 
-diì v.  detach; peel        
+__diì__ _v._  detach; peel        
 
 
-díi v.  plant; transplant; implant        
+__díi__ _v._  plant; transplant; implant        
 
 
-diifañ  n.  areas of human activity between the forests and the villages        
+__diifañ__  _n._  areas of human activity between the forests and the villages        
 
 
-diifañ pákù n.  Mountain Imperial Pigeon (Ducula badia)       
+__diifañ pákù__ _n._  Mountain Imperial Pigeon (_Ducula badia_)       
 
 
-diigò n.  matter; issue; work       
+__diigò__ _n._  matter; issue; work       
 
 
-diiha n.  clay soil       
+__diiha__ _n._  clay soil       
 
 
-diiko'  n.  hard soil; lumps of soil        
+__diiko'__  _n._  hard soil; lumps of soil        
 
 
-díiñ  v.  curse       
+__díiñ__  _v._  curse       
 
 
 diipa'  v.  peel off; detach        
