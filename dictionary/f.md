@@ -91,4 +91,4 @@ __fóo__ _v._  collect, _esp._ firewood
 
 __fòobó__ _v._  jump across
 
-__fòohá__ _v._  jump in       
+__fòohá__ _v._  jump i       
