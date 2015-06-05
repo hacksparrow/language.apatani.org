@@ -13,7 +13,7 @@ __fa'ge'__  _v._  catch (fire)
 
 __fa'ka__ _v._  taste (by licking)    
 
-__fa'pyo__  _n._  dry cultivation area _esp._ for millet    
+__fa'pyo__  _n._  dry cultivation area esp. for millet    
 
 __fafu__  _n._  an elemenet of sacrificial altar     
 
@@ -35,7 +35,7 @@ __faqa__  _v._  flow in (of water)
 
 __fe__  _v._  wade through
 
-__fe'__ _v._  roll something (_esp._ thread between the palms)
+__fe'__ _v._  roll something (esp. thread between the palms)
 
 __fe'be__ _n._  larva of water beetle _syn._  bukofe'be
 
@@ -87,7 +87,7 @@ __fo__  _v._  jump
 
 __foo__ _v._  tease out the outer layer of a bamboo as a rope
 
-__fóo__ _v._  collect, _esp._ firewood
+__fóo__ _v._  collect, esp. firewood
 
 __fòobó__ _v._  jump across
 
