@@ -9,7 +9,8 @@ __fa'__ _v._  lick
 
 __fa'co__ _n._  tiny metal bell _syn._  za'co
 
-fa'ge'  v.  catch (fire)        
+__fa'ge'__  _v._  catch (fire)
+
 fa'ka v.  taste (by licking)        
 fa'pyo  n.  dry cultivation area esp. for millet        
 fafu  n.  an elemenet of sacrificial altar        
