@@ -11,44 +11,84 @@ __fa'co__ _n._  tiny metal bell _syn._  za'co
 
 __fa'ge'__  _v._  catch (fire)
 
-fa'ka v.  taste (by licking)        
-fa'pyo  n.  dry cultivation area esp. for millet        
-fafu  n.  an elemenet of sacrificial altar        
-fagya adj.  usual; normal; habitual; customary        
-fañ v.  bless       
-fañca v.  flow up (of water); overflow        
-fañpiñ-cañtuñ n.  protective deity in the household       
-fañso n.  metallic skewer syn.  ufañ kuti   
-fanw  n.  one who blesses; God        
-fapu pufe n.  an ordinary customary white shawl       
-faqa  v.  flow in (of water)        
-fe  v.  wade through        
-fe' v.  roll something (esp. thread between the palms)        
-fe'be n.  larva of water beetle syn.  bukofe'be   
-fe'ko n.  doorlatch syn.  arkonanw; fe'pu   
-fe'po v.  join a thread by rollin on the palms        
-fe'pu n.  horizontal piece of bamboo holding the framework of a door        
-fe'pu n.  doorlatch syn.  arkonanw; fe'ko   
-fego  n.  threshold; entrance       
-feñ v.  measure with outstretched hands       
-fì  v.  become        
-fi'cu pwzañ n.  ceremonial friend who exchange the heads of sacrificed pigs       
-fi'do n.  food for pigs       
-fi'kuñ-firi adj.  wrinkled; crease; pucker; crinkle       
-fi'la n.  the legs of the pigs sacrificed during Myoko which are usually presented to the cousins       
-fihe  post. till; until       
-fíi v.  slither (as snakes do)        
-fiifi'  adj.  horrifying  syn.  aha fiifi'    
-firo toko n.  uvula       
-fiyo' n.  portion of meat which is the extra fat covering of the stomach        
-fo'gañ  n.  blunt edge of the sword       
-fo'li n.  machete handle        
-fo'li n.  hilt; handle or butt of a machete       
-fo'ro n.  sharp edge of the sword       
-fofi'-coci' n.  rogue; an unreliable person syn.  suru dozó   
-fohe  n.  one type; one variety       
-fo  v.  jump        
-foo v.  tease out the outer layer of a bamboo as a rope       
-fóo v.  collect, esp. firewood        
-fòobó v.  jump across       
-fòohá v.  jump in       
+__fa'ka__ _v._  taste (by licking)    
+
+__fa'pyo__  _n._  dry cultivation area _esp._ for millet    
+
+__fafu__  _n._  an elemenet of sacrificial altar     
+
+__fagya__ _adj._  usual; normal; habitual; customary   
+
+__fañ v.__  bless     
+
+__fañca__ _v._  flow up (of water); overflow 
+
+__fañpiñ-cañtuñ__ _n._  protective deity in the household
+
+__fañso__ _n._  metallic skewer _syn._  ufañ kuti 
+
+__fanw__  _n._  one who blesses; God
+
+__fapu pufe__ _n._  an ordinary customary white shawl
+
+__faqa__  _v._  flow in (of water)
+
+__fe__  _v._  wade through
+
+__fe'__ _v._  roll something (_esp._ thread between the palms)
+
+__fe'be__ _n._  larva of water beetle _syn._  bukofe'be
+
+__fe'ko__ _n._  doorlatch _syn._  arkonanw; fe'pu
+
+__fe'po__ _v._  join a thread by rollin on the palms
+
+__fe'pu__ _n._  horizontal piece of bamboo holding the framework of a door  
+
+__fe'pu__ _n._  doorlatch _syn._  arkonanw; fe'ko
+
+__fego__  _n._  threshold; entrance
+
+__feñ__ _v._  measure with outstretched hands
+
+__fì__  _v._  become
+
+__fi'cu pwzañ__ _n._  ceremonial friend who exchange the heads of sacrificed pigs 
+
+__fi'do__ _n._  food for pigs
+
+__fi'kuñ-firi__ _adj._  wrinkled; crease; pucker; crinkle  
+
+__fi'la__ _n._  the legs of the pigs sacrificed during Myoko which are usually presented to the cousins
+
+__fihe__  _post._ till; until
+
+__fíi__ _v._  slither (as snakes do)
+
+__fiifi'__  _adj._  horrifying  _syn._  aha fiifi'
+
+__firo toko__ _n._  uvula
+
+__fiyo'__ _n._  portion of meat which is the extra fat covering of the stomach
+
+__fo'gañ__  _n._  blunt edge of the sword
+
+__fo'li__ _n._  machete handle
+
+__fo'li__ _n._  hilt; handle or butt of a machete
+
+__fo'ro__ _n._  sharp edge of the sword
+
+__fofi'-coci'__ _n._  rogue; an unreliable person _syn._  suru dozó
+
+__fohe__  _n._  one type; one variety
+
+__fo__  _v._  jump
+
+__foo__ _v._  tease out the outer layer of a bamboo as a rope
+
+__fóo__ _v._  collect, _esp._ firewood
+
+__fòobó__ _v._  jump across
+
+__fòohá__ _v._  jump in       
