@@ -3,7 +3,7 @@ title: Tanw Dictionary - F
 layout: dictionary
 ---
 
-__fa'__ _v._  burn; singe; smolder
+__fa'__ _v._  burn; singe; smolder  
 
 __fa'__ _v._  lick
 
