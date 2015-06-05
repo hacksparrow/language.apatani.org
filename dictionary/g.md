@@ -123,7 +123,7 @@ __go__  _v._  throw [_syn._  ri; ku]
 __go'__ _v._  measure with outstretched thumb and finger        
 
 
-__goi tabú__  _n._  common Indian monitor lizard (__Varanus bengalensis__)  [_var._  gyoi tabú]   
+__goi tabú__  _n._  common Indian monitor lizard (_Varanus bengalensis_)  [_var._  gyoi tabú]   
 
 
 __goi'__  _adj._  whole; entire [_adv._  goi'dado]    
