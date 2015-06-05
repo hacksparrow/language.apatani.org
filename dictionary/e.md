@@ -39,7 +39,7 @@ __elañ__  _n._  a variety of red rice, usually late ripening
 __elì__ _n._  paddy seed; paddy preserved for next season's sowing        
 
 
-__elù_ _n._  reed flute        
+__elù__ _n._  reed flute        
 
 
 __ema__ _n._  dream; reverie  [_var._  imáa]    
