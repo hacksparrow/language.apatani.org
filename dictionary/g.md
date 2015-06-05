@@ -3,122 +3,358 @@ title: Tanw Dictionary - G
 layout: dictionary
 ---
 
-ga  v.  scold; rebuke; reprimand;chide        
-ga' v.  grasp; clutch; grip; grab       
-ga'bw v.  hold on to something (as someone's hand, a stick or a knife)        
-ga'je'  v.  soften something by grasping repeatedly       
-ga'svr  v.  strangle with hand        
-ga'ti v.  hold tightly        
-ga'tiñ  v.  block by holding        
-ga'tú v.  catch; hold       
-gaambw  n.  border; brim; boundary        
-gaarò adj.  large, as a field ant.  gartú   
-gaga  adj.  quarrelsome       
-gagvr adv.  by any means; by hook or by crook       
-gai'  v.  to sing or. Assamese    
-gajor n.  carrot  or. Assamese    
-ganda n.  country; land       
-ganda-neñcañ  n.  landed properties       
-gaqu  n.  mouth harp        
-garpw'  n.  paddy field in the lower portion  ant.  garta'    
-garta'  n.  paddy field in the upper portion  ant.  garpw'    
-gartú adj.  small, as a field ant.  gaarò   
-garu  n.  pillow  syn.  diñ nanw    
-garw  n.  vehicle       
-gasu  v.  have verbal quarrel       
-gè  v.  mark; write syn.  page    
-ge' v.  stick; adhere to; glue  syn.  age'    
-gehe  v.  yawn        
-genda hamañ n.  Redflower Ragleaf; Fireweed (Crassocephalum crepidioides) syn.  hafañ hamañ   
-genw nañ  v.  blame someone else for one' own mistake       
-gi  v.  operate a hinged door       
-giko' v.  open (a hinged door)  ant.  gipiñ syn.  gìipyañ
-gimbyo  n.  a meat portion, containing the thoracic cage        
-gipiñ v.  close (a hinged door) ant.  giko'   gìitiñ
-gipyañ  v.  close (a hinged door) ant.  giko' syn.  
-gitiñ v.  close (a hinged door) ant.  giko'   
-giyañ n.  cabbage leaf mustard (Brassica juncea var. rugosa)  syn.  giyañ hamañ   
-giyañ hamañ n.  cabbage leaf mustard (Brassica juncea var. rugosa)  syn.  giyañ   
-giyañ yorli n.  cabbage leaf mustard seed       
-go  v.  fly; soar       
-go  v.  throw syn.  ri; ku    
-go' v.  measure with outstretched thumb and finger        
-goi tabú  n.  common Indian monitor lizard (Varanus bengalensis)  var.  gyoi tabú   
-goi'  adj.  whole; entire adv.  goi'dado    
-gokvr n.  circle        
-golu  n.  lie; untruth; falsehood v.  lie   
-golu paka'  n.  dimple on the cheek       
-gomu  n.  facial hair; beard; moustache       
-goñ v.  utter; emit       
-goñcañ  n.  labial commissure       
-goñcañ une  n.  angular stomatitis        
-goñcì n.  dragonfly syn.  koñcì   
-goñdu n.  arbitration; mediation; mediator        
-goñdu apiñ  n.  feast after settlement of a dispute       
-goñko'  v.  open mouth  ant.  goñpiñ; goñpyañ   
-goñpi'  v.  rinse mouth       
-goñpiñ  v.  close mouth ant.  goñko'  syn.  goñpyañ
-goñpw n.  chin        
-goñpyañ v.  close mouth ant.  goñko'  syn.  goñpiñ
-goo v.  demarcate a boundary (esp. with fencing)        
-góò v.  hug; embrace; cuddle        
-gòo v.  swell, as a wound; bloat; bulge syn.  pyañ    
-gòobu v.  swell, as a wound; bloat; bulge syn.  pyañ  var.  gòrbú; gòbúr
-goobw-cibw  v.  preserve; protect; safeguard        
-goqe  n.  one mouthful; one word        
-gora  n.  horse or. Assamese    
-gorá  n.  a section of Apatani village council        
-gorbañ  n.  shoulder        
-gordu n.  worth; merit; caliber       
-goro  adj.  big (of a mouth); loud voice  ant.  gozó    
-gorw  n.  watch; clock  or. Assamese    
-gorxañ  n.  armpit; underarm        
-gozó  adj.  small (of a mouth); low voice ant.  gorò    
-gu  v.  crawl (as a baby or a caterpillar)        
-gu' v.  hatch; sit on or brood eggs       
-gu' v.  turn or turn oneself over (esp. in lying position)        
-gu'pi v.  lie face down       
-gubu' adj.  hot; warm ant.  laxw'   
-guli  n.  bullet  or. Assamese    
-guluñ-gwle  adj.  lukewarm; tepid       
-guñki'  v.  bend; stoop       
-guqa  v.  lie down, esp. of quadruplets       
-guri' v.  get up; stand up  syn.  bari'   
-gw  v.  wear clothing; pregnant; bear (fruit or leaves, of a tree)        
-gw' v.  lie down        
-gw'ha v.  lie down        
-gw'i  v.  fall down (from standing position)        
-gwda-pata n.  large cane basket       
-gwju  n.  dress; dressing style syn.  gwju gwmyo    
-gwju-gwmyo  n.  dress; dressing style syn.  gwju    
-gwmya n.  a variety of spring action trap       
-gwne'-gwse  v.  to lightly touch with any part of the body; flirt       
-gwre  adj.  crispy; crunchy       
-gwri  n.  pigsty        
-gwrw  n.  spring action noose trap        
-gwtu-gwra n.  traditional relations and ways of life        
-gww v.  move by manouvering       
-gwwpw n.  goiter        
-gwwrò adj.  big, of a basket  ant.  gwwzó   
-gwwzó adj.  small, of a basket  ant.  gwwrò   
-gwxu' n.  worn out dress        
-gya v.  dry ( as of liquid)       
-gya'  v.  wander; roam        
-gyáa  v.  spread (esp. seeds or sand by throwing)       
-gyàa  v.  cut, with an inward motion of the blade         
-gyaasi  n.  mother's mother's brother's patrilines; portion of the meat traditionally offered to such relations       
-gyaliñ  v.  seep; exude; ooze       
-gyambo  n.  war; battle; dispute  syn.  caambyó   
-gyandi  n.  debt; dues; financial obligation        
-gyapya-gyasa  v.  spread by throwing        
-gyo v.  hurt or kill accidentally       
-gyo'  v.  call; hail        
-gyo'  v.  prepare cane rope; smoothen cane rope       
-gyoi tabú n.  common Indian monitor lizard (Varanus bengalensis)  var.  goi tabú    
-gyoo' n.  noose trap        
-gyopu n.  shooting star       
-gyotu ajiñ  n.  a variety of traditional friend       
-gyu-gyuro n.  trachea       
-gyuñtañ n.  negotiator; go between in a marriage        
-gyuu  v.  yell; howl; scream; shout       
-gyuzañ  n.  ritual performed to appease a malevolent spiriti  ant.  twgò    
+__ga__  _v._  scold; rebuke; reprimand;chide        
+
+
+__ga'__ _v._  grasp; clutch; grip; grab       
+
+
+__ga'bw__ _v._  hold on to something (as someone's hand, a stick or a knife)        
+
+
+__ga'je'__  _v._  soften something by grasping repeatedly       
+
+
+__ga'svr__  _v._  strangle with hand        
+
+
+__ga'ti__ _v._  hold tightly        
+
+
+__ga'tiñ__  _v._  block by holding        
+
+
+__ga'tú__ _v._  catch; hold       
+
+
+__gaambw__  _n._  border; brim; boundary        
+
+
+__gaarò__ _adj._  large, as a field [_ant._  gartú]   
+
+
+__gaga__  _adj._  quarrelsome       
+
+
+__gagvr__ _adv._  by any means; by hook or by crook       
+
+
+__gai'__  _v._  sing [_or._ Assamese]    
+
+
+__gajor__ _n._  carrot  [_or._ Assamese]    
+
+
+__ganda__ _n._  country; land       
+
+
+__ganda-neñcañ__  _n._  landed properties       
+
+
+__gaqu__  _n._  mouth harp        
+
+
+__garpw'__  _n._  paddy field in the lower portion  [_ant._  garta']    
+
+
+__garta'__  _n._  paddy field in the upper portion  [_ant._  garpw']    
+
+
+__gartú__ _adj._  small (as a field) [_ant._  gaarò]   
+
+
+__garu__  _n._  pillow  [_syn._  diñ nanw]    
+
+
+__garw__  _n._  vehicle       
+
+
+__gasu__  _v._  have verbal quarrel       
+
+
+__gè__  _v._  mark; write [_syn._  page]    
+
+
+__ge'__ _v._  stick; adhere to; glue  [_syn._  age']    
+
+
+__gehe__  _v._  yawn        
+
+
+__genda hamañ__ _n._  Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides-) [_syn._  hafañ hamañ]   
+
+
+__genw nañ__  _v._  blame someone else for one' own mistake       
+
+
+__gi__  _v._  operate a hinged door       
+
+
+__giko'__ _v._  open (a hinged door)  [_ant._  gipiñ] [_syn._  gipyañ]
+
+
+__gimbyo__  _n._  a meat portion, containing the thoracic cage        
+
+
+__gipiñ__ _v._  close (a hinged door) [_ant._  giko'   [_syn._ gitiñ]
+
+
+__gipyañ__  _v._  close (a hinged door) [_ant._  giko'] [_syn._ gitiñ]  
+
+
+__gitiñ__ _v._  close (a hinged door) [_ant._  giko']   
+
+
+__giyañ__ _n._  cabbage leaf mustard (_Brassica juncea_ var. _rugosa_)  [_syn._  giyañ hamañ]   
+
+
+__giyañ hamañ__ _n._  cabbage leaf mustard (_Brassica juncea_ var. _rugosa_)  [_syn._  giyañ]   
+
+
+__giyañ yorli__ _n._  cabbage leaf mustard seed       
+
+
+__go__  _v._  fly; soar       
+
+
+__go__  _v._  throw [_syn._  ri; ku]    
+
+
+__go'__ _v._  measure with outstretched thumb and finger        
+
+
+__goi tabú__  _n._  common Indian monitor lizard (__Varanus bengalensis__)  [_var._  gyoi tabú]   
+
+
+__goi'__  _adj._  whole; entire [_adv._  goi'dado]    
+
+
+__gokvr__ _n._  circle        
+
+
+__golu__  _n._  lie; untruth; falsehood [_v._  lie]   
+
+
+__golu paka'__  _n._  dimple on the cheek       
+
+
+__gomu__  _n._  facial hair; beard; moustache       
+
+
+__goñ__ _v._  utter; emit       
+
+
+__goñcañ__  _n._  labial commissure       
+
+
+__goñcañ une__  _n._  angular stomatitis        
+
+
+__goñcì__ _n._  dragonfly [_syn._  koñcì]   
+
+
+__goñdu__ _n._  arbitration; mediation; mediator        
+
+
+__goñdu apiñ__  _n._  feast after settlement of a dispute       
+
+
+__goñko'__  _v._  open mouth  [_ant._  goñpiñ; goñpyañ]   
+
+
+__goñpi'__  _v._  rinse mouth       
+
+
+__goñpiñ__  _v._  close mouth [_ant._  goñko']  [_syn._  goñpyañ]
+
+
+__goñpw__ _n._  chin        
+
+
+__goñpyañ__ _v._  close mouth [_ant._  goñko']  [_syn._  goñpiñ]
+
+
+__goo__ _v._  demarcate a boundary (esp. with fencing)        
+
+
+__góò__ _v._  hug; embrace; cuddle        
+
+
+__gòo__ _v._  swell (as a wound); bloat; bulge [_syn._  pyañ]    
+
+
+__gòobu__ _v._  swell (as a wound); bloat; bulge [_syn._  pyañ]  [_var._  gòrbú; gòbúr]
+
+
+__goobw-cibw__  _v._  preserve; protect; safeguard        
+
+
+__goqe__  _n._  one mouthful; one word        
+
+
+__gora__  _n._  horse [_or._ Assamese]    
+
+
+__gorá__  _n._  a section of Apatani village council        
+
+
+__gorbañ__  _n._  shoulder        
+
+
+__gordu__ _n._  worth; merit; caliber       
+
+
+__goro__  _adj._  big (of a mouth); loud voice  [_ant._  gozó]    
+
+
+__gorw__  _n._  watch; clock  [_or._ Assamese]    
+
+
+__gorxañ__  _n._  armpit; underarm        
+
+
+__gozó__  _adj._  small (of a mouth); low voice [_ant._  gorò]    
+
+
+__gu__  _v._  crawl (as a baby or a caterpillar)        
+
+
+__gu'__ _v._  hatch; sit on or brood eggs       
+
+
+__gu'__ _v._  turn or turn oneself over (esp. in lying position)        
+
+
+__gu'pi__ _v._  lie face down       
+
+
+__gubu'__ _adj._  hot; warm [_ant._  laxw']   
+
+
+__guli__  _n._  bullet  [_or._ Assamese]    
+
+
+__guluñ-gwle__  _adj._  lukewarm; tepid       
+
+
+__guñki'__  _v._  bend; stoop       
+
+
+__guqa__  _v._  lie down (esp. of quadruplets)       
+
+
+__guri'__ _v._  get up; stand up  [_syn._  bari']   
+
+
+__gw__  _v._  wear clothing; pregnant; bear (fruit or leaves, of a tree)        
+
+
+__gw'__ _v._  lie down        
+
+
+__gw'ha__ _v._  lie down        
+
+
+__gw'i__  _v._  fall down (from standing position)        
+
+
+__gwda-pata__ _n._  large cane basket       
+
+
+__gwju__  _n._  dress; dressing style [_syn._  gwju gwmyo]    
+
+
+__gwju-gwmyo__  _n._  dress; dressing style [_syn._  gwju]    
+
+
+__gwmya__ _n._  a variety of spring action trap       
+
+
+__gwne'-gwse__  _v._  lightly touch with any part of the body; flirt       
+
+
+__gwre__  _adj._  crispy; crunchy       
+
+
+__gwri__  _n._  pigsty        
+
+
+__gwrw__  _n._  spring action noose trap        
+
+
+__gwtu-gwra__ _n._  traditional relations and ways of life        
+
+
+__gww__ _v._  move by manouvering       
+
+
+__gwwpw__ _n._  goiter        
+
+
+__gwwrò__ _adj._  big (of a basket)  [_ant._  gwwzó]   
+
+
+__gwwzó__ _adj._  small (of a basket)  [_ant._  gwwrò]   
+
+
+__gwxu'__ _n._  worn out dress        
+
+
+__gya__ _v._  dry (as of liquid)       
+
+
+__gya'__  _v._  wander; roam        
+
+
+__gyáa__  _v._  spread (esp. seeds or sand by throwing)       
+
+
+__gyàa__  _v._  cut, with an inward motion of the blade         
+
+
+__gyaasi__  _n._  mother's mother's brother's patrilines; portion of the meat traditionally offered to such relations       
+
+
+__gyaliñ__  _v._  seep; exude; ooze       
+
+
+__gyambo__  _n._  war; battle; dispute  [_syn._  caambyó]   
+
+
+__gyandi__  _n._  debt; dues; financial obligation        
+
+
+__gyapya-gyasa__  _v._  spread by throwing        
+
+
+__gyo__ _v._  hurt or kill accidentally       
+
+
+__gyo'__  _v._  call; hail        
+
+
+__gyo'__  _v._  prepare cane rope; smoothen cane rope       
+
+
+__gyoi tabú__ _n._  common Indian monitor lizard (_Varanus bengalensis_)  [_var._  goi tabú]    
+
+
+__gyoo'__ _n._  noose trap        
+
+
+__gyopu__ _n._  shooting star       
+
+
+__gyotu ajiñ__  _n._  a variety of traditional friend       
+
+
+__gyu-gyuro__ _n._  trachea       
+
+
+__gyuñtañ__ _n._  negotiator; go between in a marriage        
+
+
+__gyuu__  _v._  yell; howl; scream; shout       
+
+
+__gyuzañ__  _n._  ritual performed to appease a malevolent spiriti  [_ant._  twgò]    
