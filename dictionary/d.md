@@ -207,334 +207,334 @@ __diiko'__  _n._  hard soil; lumps of soil
 __díiñ__  _v._  curse       
 
 
-diipa'  v.  peel off; detach        
+__diipa'__  _v._  peel off; detach        
 
 
-diipe n.  spade       
+__diipe__ _n._  spade       
 
 
-diixw n.  coarse sand syn.  swxw; súrù    
+__diixw__ _n._  coarse sand _syn._  swxw; súrù    
 
 
-dije' n.  portable bamboo vessel, esp. for carrying liquor  syn.  didu    
+__dije'__ _n._  portable bamboo vessel (esp. for carrying liquor)  [_syn._  didu]    
 
 
-diliñ n.  hair bun; tresses of bundled hair       
+__diliñ__ _n._  hair bun; tresses of bundled hair       
 
 
-dimpu n.  white hair        
+__dimpu__ _n._  white hair        
 
 
-dimu  n.  hair (of head)        
+__dimu__  n.  hair (of head)        
 
 
-dimvr n.  dust  syn.  pwmvr   
+__dimvr__ _n._  dust  [_syn._  pwmvr]   
 
 
-diñ v.  pound with something        
+__diñ__ _v._  pound with something        
 
 
-diñ nanw  n.  pillow; headrest  syn.  garu    
+__diñ nanw__  _n._  pillow; headrest  [_syn._  garu]    
 
 
-diñgyañ n.  fencepost       
+__diñgyañ__ _n._  fencepost       
 
 
-diñko n.  metal skewer inserted horizontally through the male hair knot syn.  pwdiñ xootu   
+__diñko__ _n._  metal skewer inserted horizontally through the male hair knot [_syn._  pwdiñ xootu]   
 
 
-diñta'  n.  scalp; top portion of head        
+__diñta'__  _n._  scalp; top portion of head        
 
 
-diñtu'  v.  comb        
+__diñtu'__  _v._  comb        
 
 
-diñxo adj.  bald-headed; hairless syn.  duñxó   
+__diñxo__ _adj._  bald-headed; hairless [_syn._  duñxó]   
 
 
-diñxu'  n.  skull       
+__diñxu'__  _n._  skull       
 
 
-ditiñ n.  cliff; ravine       
+__ditiñ__ _n._  cliff; ravine       
 
 
-ditiñ ya'ì  v.  landslide; mudslide       
+__ditiñ ya'ì__  _v._  landslide; mudslide       
 
 
-dituñ n.  social event; occasion  syn.  dituñ-potuñ   
+__dituñ__ _n._  social event; occasion  [_syn._  dituñ-potuñ]   
 
 
-dituñ-potuñ n.  ceremony; social event; occasion    dituñ   
+__dituñ-potuñ__ _n._  ceremony; social event; occasion  [_syn._ dituñ]   
 
 
-do  v.  be; exist; lie  Ant.  zima    
+__do__  _v._  be; exist; lie  [_ant._  zima]    
 
 
-dobw-takvr alo  n.  Thursday        
+__dobw-takvr alo__  _n._  Thursday        
 
 
-dodiñ-dolo  n.  world; realm  syn.  doha-dolo   
+__dodiñ-dolo__  _n._  world; realm  [_syn._  doha-dolo]   
 
 
-dogiñ n.  genesis; origin; creation; migration        
+__dogiñ__ _n._  genesis; origin; creation; migration        
 
 
-doha  n.  world; realm  syn.  doha-dolo   
+__doha__  _n._  world; realm  [_syn._  doha-dolo]   
 
 
-doha-dolo n.  world; realm  syn.  dodiñ-dolo    
+__doha-dolo__ _n._  world; realm  [_syn._  dodiñ-dolo]    
 
 
-doji' ro'po n.  Asian Fairy Bluebird (Irena puella)       
+__doji' ro'po__ _n._  Asian Fairy Bluebird (_Irena puella_)       
 
 
-domiñ adj.  cloudy; rainy Ant.  doqe'   
+__domiñ__ _adj._  cloudy; rainy [_ant._  doqe']   
 
 
-domiñ-doqe' n.  fatique due to change in weather        
+__domiñ-doqe'__ _n._  fatique due to change in weather        
 
 
-dompo turla n.  large bamboo glass        
+__dompo turla__ _n._  large bamboo glass        
 
 
-doñ v.  stitch; seam        
+__doñ__ _v._  stitch; seam        
 
 
-doodu n.  drop        
+__doodu__ _n._  drop        
 
 
-doofa'  n.  lightening        
+__doofa'__  _n._  lightening        
 
 
-doolañ  adj.  brownish        
+__doolañ__  _adj._  brownish        
 
 
-dooli n.  sickness; fever       
+__dooli__ _n._  sickness; fever       
 
 
-doomu adj.  cloudy; overcast        
+__doomu__ _adj._  cloudy; overcast        
 
 
-doopw'  v.  sleep together with head in same direction  Ant.  doosi'    
+__doopw'__  _v._  sleep together with head in same direction  [_ant._  doosi']
 
 
-doorò adj.  big (of an animal or vehicle) Ant.  dorzó   
+__doorò__ _adj._  big (of an animal or vehicle) [_ant._  dorzó]   
 
 
-doosi'    sleep together with head in opposite direction  Ant.  doopw'    
+__doosi'__  _v._  sleep together with head in opposite direction  [_ant._  doopw']    
 
 
-dopaa n.  a children's game played with pebbles       
+__dopaa__ _n._  a children's game played with pebbles       
 
 
-dopu mwdóo  n.  drizzle on a sunny day        
+__dopu mwdóo__  _n._  drizzle on a sunny day        
 
 
-doqe' adj.  sunny; cloudless  Ant.  domiñ   
+__doqe'__ _adj._  sunny; cloudless  [_ant._  domiñ]   
 
 
-dor v.  become a captive or a prisoner        
+__dor__ _v._  become a captive or a prisoner        
 
 
-dorgi n.  earthworm       
+__dorgi__ _n._  earthworm       
 
 
-dormaa  n.  salary; wage        
+__dormaa__  _n._  salary; wage        
 
 
-dorw  n.  winter        
+__dorw__  _n._  winter        
 
 
-dorzó adj.  small (of an animal or a vehicle) Ant.  doorò   
+__dorzó__ _adj._  small (of an animal or a vehicle) [_ant._  doorò]   
 
 
-dotw  n.  sky syn.  mwdóo; yapuñ    
+__dotw__  _n._  sky [_syn._  mwdóo; yapuñ]    
 
 
-doxo-acañ n.  corner in the house reserved for ritual altars        
+__doxo-acañ__ _n._  corner in the house reserved for ritual altars        
 
 
-doza' n.  sunny day; cloudless day        
+__doza'__ _n._  sunny day; cloudless day        
 
 
-du  v.  drip (of water)       
+__du__  _v._  drip (of water)       
 
 
-dù  v.  dig; excavate       
+__dù__  _v._  dig; excavate       
 
 
-du' v.  throb; beat, as of heart        
+__du'__ _v.  throb; beat (as of heart)        
 
 
-du' v.  offer something for sale; market        
+__du'__ _v._  offer something for sale; market        
 
 
-du'jo n.  commission paid to a sale agent       
+__du'jo__ _n._  commission paid to a sale agent       
 
 
-dukañ n.  shop  Or. Assamese    
+__dukañ__ _n._  shop  [_or._ Assamese]    
 
 
-dula  n.  rope to tie dogs  syn.  akì dula    
+__dula__  _n._  rope to tie dogs  [_syn._  akì dula]    
 
 
-dulu  n.  the system of giving another person the responsibility of looking after a cattle        
+__dulu__  _n._  the system of giving another person the responsibility of looking after a cattle        
 
 
-dulu káanw  n.  a person who looks after somebody else's cattle       
+__dulu káanw__  _n._  a person who looks after somebody else's cattle       
 
 
-duñbiñ  adj.  bald; hairless  syn.  duñxó   
+__duñbiñ__  _adj._  bald; hairless  [_syn._  duñxó]   
 
 
-dur v.  dig and push (for example with the snout of a pig)  var.  dór   
+__dur__ _v._  dig and push (for example with the snout of a pig)  [_var._  dór]   
 
 
-durgu n.  wooden trough       
+__durgu__ _n._  wooden trough       
 
 
-dutiñ n.  wooden block for sitting on       
+__dutiñ__ _n._  wooden block for sitting on       
 
 
-duu n.  paddy for unhusking syn.  dwlo    
+__duu__ _n._  paddy for unhusking [_syn._  dwlo]    
 
 
-dùu v.  sit       
+__dùu__ _v._  sit       
 
 
-dùuha v.  sit down        
+__dùuha__ _v._  sit down        
 
 
-dùuhi v.  vacate a sit        
+__dùuhi__ _v._  vacate a sit        
 
 
-dùuko n.  place of residence; sitting place       
+__dùuko__ _n._  place of residence; sitting place       
 
 
-dùuko-dako  n.  accomodation; address       
+__dùuko-dako__  _n._  accomodation; address       
 
 
-dùukuñ  n.  meeting; gathering; assembly; congregation  v.  sit together    
+__dùukuñ__  _n._  meeting; gathering; assembly; congregation  [_v._  sit together]    
 
 
-dùumo v.  take rest       
+__dùumo__ _v._  take rest       
 
 
-dùusa v.  sit at a distance       
+__dùusa__ _v._  sit at a distance       
 
 
-duxu-pafo n.  luggage; household articles       
+__duxu-pafo__ _n._  luggage; household articles       
 
 
-dw  v.  eat; have a meal; dine        
+__dw__  _v._  eat; have a meal; dine        
 
 
-dw' v.  to have adverse or allergic reaction to something ingested        
+__dw'__ _v._  have adverse or allergic reaction to something ingested        
 
 
-dwbe  v.  eat to heart' content; eat so much one cannot eat any more        
+__dwbe__  _v._  eat to heart' content; eat so much one cannot eat any more        
 
 
-dwbuñ n.  greedy; gluttonous        
+__dwbuñ__ _n._  greedy; gluttonous        
 
 
-dwgoo n.  food; eatable       
+__dwgoo__ _n._  food; eatable       
 
 
-dwhi-dwmí adj.  choosy about food       
+__dwhi-dwmí__ _adj._  choosy about food       
 
 
-dwho-luho adj.  offending       
+__dwho-luho__ _adj._  offending       
 
 
-dwle' n.  remaining food after consumption        
+__dwle'__ n._  remaining food after consumption        
 
 
-dwli-dwlo adj.  grandeur, of scenary; beautiful, of landscape       
+__dwli-dwlo__ _adj._  grandeur (of scenary); beautiful (of landscape)       
 
 
-dwliñ n.  path made by a hunter; hunting track  var.  daliñ   
+__dwliñ__ _n._  path made by a hunter; hunting track  [_var._  daliñ]   
 
 
-dwlo  n.  paddy for unhusking syn.  duu   
+__dwlo__  _n._  paddy for unhusking [_syn._  duu}   
 
 
-dwlw kwce n.  bamboo glass for measuring rice       
+__dwlw kwce__ _n._  bamboo glass for measuring rice       
 
 
-dwma-haama  n.  purification ritual       
+__dwma-haama__  _n._  purification ritual       
 
 
-dwme  n.  famine; food shortage syn.  haaya-myoxa   
+__dwme__  _n._  famine; food shortage [_syn._  haaya-myoxa]   
 
 
-dwnw pafo n.  an element of a ritual altar        
+__dwnw pafo__ _n._  an element of a ritual altar        
 
 
-dwnw-barnw  n.  wives of brothers (term of reference)       
+__dwnw-barnw__  _n._  wives of brothers (term of reference)       
 
 
-dwpyo v.  steal; pirate; plagiarize       
+__dwpyo__ _v._  steal; pirate; plagiarize       
 
 
-dwpyó v.  eat first       
+__dwpyó__ _v._  eat first       
 
 
-dwpyò adj.  tasty, to eat Ant.  dwrúu   
+__dwpyò__ _adj._  tasty, to eat [_ant._  dwrúu]   
 
 
-dwpyo aíi n.  canine tooth        
+__dwpyo aíi__ _n._  canine tooth        
 
 
-dwpyo'  v.  eat something to add taste to a meal        
+__dwpyo'__  _v._  eat something to add taste to a meal        
 
 
-dwpyo'-tañso' v.  to eat or drink something to break the monotony or to add taste to the food       
+__dwpyo'-tañso'__ _v._  eat or drink something to break the monotony or to add taste to the food       
 
 
-dwpyonw n.  thief; robber; bandit       
+__dwpyonw__ _n._  thief; robber; bandit       
 
 
-dwqo  n.  left over food        
+__dwqó__  _n._  left over food        
 
 
-dwraa-lozañ n.  in the coming years       
+__dwraa-lozañ__ _n._  in the coming years       
 
 
-dwraada adv.  next year       
+__dwraada__ _adv._  next year       
 
 
-dwrañ n.  principal marriage gift to bride's parent; one who gets such marriage gift        
+__dwrañ__ _n._  principal marriage gift to bride's parent; one who gets such marriage gift        
 
 
-dwrañ-sañxañ  n.  a variety of edible berries syn.  saanci    
+__dwrañ-sañxañ__  _n._  a variety of edible berries [_syn._  saanci]    
 
 
-dwri  n.  purchase of food in times of scarcity or in anticipation of scarcity        
+__dwri__  _n._  purchase of food in times of scarcity or in anticipation of scarcity        
 
 
-dwri-hulo n.  prosperity (in terms of number of children)       
+__dwri-hulo__ _n._  prosperity (in terms of number of children)       
 
 
-dwri'-paci' n.  luggage; household articles       
+__dwri'-paci'__ _n._  luggage; household articles       
 
 
-dwro' n.  medicine; drug  Or. Assamese    
+__dwro'__ _n._  medicine; drug  [_or._ Assamese]    
 
 
-dwru  adj.  tasteless; unpleasant to eat  Ant.  dwpyò   
+__dwru__  _adj._  tasteless; unpleasant to eat  [_ant._  dwpyò]   
 
 
-dwrw  adj.  late; delayed       
+__dwrw__  _adj._  late; delayed       
 
 
-dwsw  n.  edible; food        
+__dwsw__  _n._  edible; food        
 
 
-dwxu' n.  left over food        
+__dwxu'__ _n._  left over food        
 
 
-dwxu'-tañxu'  n.  left over eatables        
+__dwxu'-tañxu'__  _n._  left over eatables        
 
 
-dwzo-mwzo v.  practice; rehearse  n.  rehearsal   
+__dwzo-mwzo__ _v._  practice; rehearse  [_n._  rehearsal]   
