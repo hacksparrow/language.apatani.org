@@ -121,4 +121,4 @@ __ija__	_int._	interjection to express repugnance	_syn._	iza
 
 __iyu__	_n._	anus	_syn._	koyu  
 
-__iyu'__	_n._	an ailment in which a person loses appetite, believed to be caused by somebody's property, esp. ginger plants growing in somebody else's garden		  
+__iyu'__	_n._	an ailment in which a person loses appetite, believed to be caused by somebody's property, esp. ginger plants growing in somebody else's garde		  
