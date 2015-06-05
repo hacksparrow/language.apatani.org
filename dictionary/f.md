@@ -3,9 +3,12 @@ title: Tanw Dictionary - F
 layout: dictionary
 ---
 
-fa' v.  burn; singe; smolder        
-fa' v.  lick        
-fa'co n.  tiny metal bell syn.  za'co   
+__fa'__ _v._  burn; singe; smolder
+
+__fa'__ _v._  lick
+
+__fa'co__ _n._  tiny metal bell _syn._  za'co
+
 fa'ge'  v.  catch (fire)        
 fa'ka v.  taste (by licking)        
 fa'pyo  n.  dry cultivation area esp. for millet        
