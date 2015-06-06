@@ -72,7 +72,7 @@ __garw__  _n._  vehicle
 __gasu__  _v._  have verbal quarrel       
 
 
-__gè__  _v._  mark; write [_syn._  page]    
+__gè__  _v._  mark; write [_syn._  ke, page]    
 
 
 __ge'__ _v._  stick; adhere to; glue  [_syn._  age']    
@@ -81,7 +81,7 @@ __ge'__ _v._  stick; adhere to; glue  [_syn._  age']
 __gehe__  _v._  yawn        
 
 
-__genda hamañ__ _n._  Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides-) [_syn._  hafañ hamañ]   
+__genda hamañ__ _n._  Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides_) [_syn._  hafañ hamañ]   
 
 
 __genw nañ__  _v._  blame someone else for one' own mistake       
@@ -96,7 +96,7 @@ __giko'__ _v._  open (a hinged door)  [_ant._  gipiñ] [_syn._  gipyañ]
 __gimbyo__  _n._  a meat portion, containing the thoracic cage        
 
 
-__gipiñ__ _v._  close (a hinged door) [_ant._  giko'   [_syn._ gitiñ]
+__gipiñ__ _v._  close (a hinged door) [_ant._  giko'] [_syn._ gitiñ]
 
 
 __gipyañ__  _v._  close (a hinged door) [_ant._  giko'] [_syn._ gitiñ]  
