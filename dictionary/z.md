@@ -87,7 +87,7 @@ __zañpo tasiñ__	_n._	prawn
 __zapa'__	_v._	criticise; disapprove		
 
 
-__zaqa_	_v._	put one's head in		
+__zaqa__	_v._	put one's head in		
 
 
 __zaqe__	_n._	one year		
@@ -186,7 +186,7 @@ __zoho__	_v._	feed a baby after chewing the food
 __zoko ta'tì__	_n._	wood louse		
 
 
-__zor_	_v._	step on something	[_syn._	zar]
+__zor__	_v._	step on something	[_syn._	zar]
 
 
 __zoxe__	_n._	black panther (_Panthera pardus_)
@@ -195,10 +195,10 @@ __zoxe__	_n._	black panther (_Panthera pardus_)
 __zu'__	_v._	wipe (as with a cloth or a hand); rub		
 
 
-__zu'pa'__	v.	erase; wipe out; rub off
+__zu'pa'__	_v._	erase; wipe out; rub off
 
 
 __zuu__	_v._	prod as with a needle
 
 
-__zuupa'__	v.	remove something by pricking
+__zuupa'__	_v._	remove something by pricking
