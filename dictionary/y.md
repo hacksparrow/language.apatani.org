@@ -4,53 +4,149 @@ layout: dictionary
 ---
 
 ya	n.	nephew (term of address)		
+
+
 ya'du'-ya'zu'	adj.	tattered; ruined; decayed		
+
+
 ya'hi	v.	collapse; cave in; crumple		
+
+
 ya'lañ	n.	boneless portion of red meat	syn.	yo aya'
+
+
 ya'pu-ya'lañ	n.	a variety of Muruñ festival considered to be of higher status		
+
+
 yaa	v.	rot; decay; decompose		
+
+
 yaabuñ	adj.	dull (of a person)		
+
+
 yaaje'	adj.	garrulous (of a person)		
+
+
 yaanw	adj.	rotten		
+
+
 yaaxu'	n.	residue of something after rotting or decomposition		
+
+
 yabiñ	n.	a variety of bamboo (Cephalostachium capitatum)		
+
+
 yaci'	v.	close (a sliding door)		
+
+
 yacu	n.	small bamboo container for salt or tobacco		
+
+
 yadiñ	n.	storage basket of bamboo or cane		
+
+
 yagw	n.	cane or bamboo basket		
+
+
 yahiñ	adj.	rotten (esp. of wood)		
+
+
 yai	n.	variety of bamboo (Dendrocalamus hamiltonii)
+
+
 yaji-yalo	n.	soul
+
+
 yaju'	n.	ladle
+
+
 yaju' pwxo	n.	a variety of dragonfly
+
+
 yalañ	n.	stone
+
+
 yalañ pombo	n.	hairy catterpillar
+
+
 yalañ pwro	n.	a small egg container of bamboo
+
+
 yali	n.	fox
+
+
 yalo	n.	shadow; reflection; echo
+
+
 yalo bi'	v.	echo; resonate; reverberate
+
+
 yalu	n.	dispute; conflict; controversy
+
+
 yalu-yabya	n.	stylish; fashionable
+
+
 yama	adj.	poor
+
+
 yamu	n.	fire
+
+
 yamu muku	n.	smoke
+
+
 yamu mwfo	n.	flame
+
+
 yamu mwri	n.	charcoal; embers		
+
+
 yamu'	adj.	ashy (color)		
+
+
 yamyo	n.	color pattern of she-mithun, described as overall black with a white spots on either side		
+
+
 yamyó	n.	floor of split bamboo		
+
+
 yana	n.	a species of bamboo		
+
+
 yañko patw	n.	lion (Panthera lion)		
+
+
 yanu	adj.	calm; peaceful; slow		
+
+
 yanw	n.	leaf	syn.	anw
+
+
 yapa	n.	young man		
+
+
 yapiñ	n.	nose		
+
+
 yapiñ ái	n.	epistaxis		
+
+
 yapiñ hulo	n.	nose plug		
+
+
 yapiñ huxo	n.	bamboo pin used to puncture the nose		
+
+
 yapiñ twpe	n.	tattoo on the nose		
+
+
 yapiñ ubúu	n.	nostril		
+
+
 yapuñ	n.	sky		
+
+
 yapuñ genwñ	n.	thunder		
 yapúu	n.	a color pattern of mithun with overall while color		
 yapvr	n.	mortar		
