@@ -156,7 +156,7 @@ __ciiñ__  _v._  weave
 __ciirw__ _n._  edge; brim  [_syn._  lwwrw]   
 
 
-__cikañ_ _part._ like; similar       
+__cikañ__ _part._ like; similar       
 
 
 __cimiń__ _adj._  docile; humble; modest        
@@ -195,7 +195,7 @@ __còo__ _v._  bounce (as a ball); hop on one foot (of a human)
 __còofa__ _v._  limp        
 
 
-__cor_ _v._  spray; squirt; sprinkle       
+__cor__ _v._  spray; squirt; sprinkle       
 
 
 __corjiñ__  _adj._  straight        
