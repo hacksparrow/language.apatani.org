@@ -1,6 +1,6 @@
 ---
 title: Tanw Aguñ - An Audio Dictionary of the Apatani Language
-layout: default
+layout: page
 ---
 
 <div class="home" markdown="1">
