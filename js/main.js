@@ -47,7 +47,9 @@ $(document).ready(function () {
   $('.dictionary-content p strong').each(function (i, el) {
 
     var letter = document.title.split(' ').splice(-1)[0].toLowerCase()
-    var word = $(el).text().trim().replace(/’/g, "'")
+    var word = $(el).text().trim()
+    word = word.replace(/’/g, "'") // convert to proper apostrophe
+    word = word.replace(/\u300/g, '\u1E81')
 
     var soundPath = '/sounds/words/'+ letter + '/'+ voiceGender + '/' + word + '.mp3'
     
