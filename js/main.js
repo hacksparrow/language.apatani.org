@@ -49,7 +49,10 @@ $(document).ready(function () {
     var letter = document.title.split(' ').splice(-1)[0].toLowerCase()
     var word = $(el).text().trim()
     word = word.replace(/’/g, "'") // convert to proper apostrophe
-    word = word.replace(/w\u300/g, '\u1E81') // problem with ẁ
+
+    if (word.indexOf('\u0300') > -1) {
+      word = word.replace(/w\u0300/g, '\u1E81') // problem with ẁ
+    }
 
     var soundPath = '/sounds/words/'+ letter + '/'+ voiceGender + '/' + word + '.mp3'
     
