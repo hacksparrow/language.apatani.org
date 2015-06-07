@@ -47,7 +47,7 @@ $(document).ready(function () {
   $('.dictionary-content p strong').each(function (i, el) {
 
     var letter = document.title.split(' ').splice(-1)[0].toLowerCase()
-    var word = $(el).text().trim()
+    var word = $(el).text().trim().replace(/’/g, "'")
 
     var soundPath = '/sounds/words/'+ letter + '/'+ voiceGender + '/' + word + '.mp3'
     
