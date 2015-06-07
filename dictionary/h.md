@@ -3,118 +3,342 @@ title: Tanw Dictionary - H
 layout: dictionary
 ---
 
-ha	v.	come; arrive; enter	syn.	áa
-ha'	v.	bite off		
-ha'	v.	collect or catch (for example, fish from water)		
-ha'ló	n.	branch (of tree)		
-ha'tú	v.	obstruct; block; clog		
-háa	v.	smoke dry		
-haabyañ	n.	chest		
-haace	adj.	sad; heart breaking		
-haace'	n.	difficult time; crisis; emergency	syn.	haace' swre
-haaci	n.	east	syn.	dazi cago
-haadw	v.	get angry; annoyed; enraged	n.	anger
-haafiñ	n.	fourth lunar month of the year; April		
-haafiñ	adj.	beautiful; handsome; pretty		
-haafiñ patañ	n.	labour gang engaged in transplanting of paddy		
-haafiñ popvr	n.	a variety of moth		
-haago	adj.	vain; haughty; vainglorious		
-hago	n.	matter; subject; affair	syn.	pwgo
-haagya	n.	entrance	syn.	áagyá
-haaja'	adv.	excessive; exhorbitant; too much		
-haaju'	adj.	light; not heavy	Ant.	aì
-háako	n.	entrance	syn.	áako
-haalo	n.	August-September; ninth month of lunar year		
-haame	adj.	coward; timid	Ant.	haaro
-haapa	adj.	flat; plain	syn.	haafañ
-haapahe	adv.	to a large part; a big quantum; big amount		
-haapiñ	n.	fog; mist	syn.	haapiñ tagyañ
-haapiñ tagyañ	n.	fog; mist	syn.	haapiñ
-haapu'	n.	diaphragm		
-haapuñ	n.	gap (in space or time)		
-haaro	adj.	brave; courageous	Ant.	haame
-haaru	n.	mourning; grief		
-haaru heñ	v.	mourn; grieve		
-haasiñ	v.	dry (esp. over a fire)		
-haaso	adj.	slow; sluggish	adv.	haaso haaso; haasopa
-haaso haaso	adv.	slow; sluggish	syn.	haasopa
-haasvr	n.	the internodal part of a bamboo		
-haata'	n.	front; fore; foreground; anterior		
-haatiñ	n.	node (as of bamboo)		
-haatiñ	adj.	significant; important; notable; remarkable		
-haatiñ bwliñ	adv.	satisfactorily; confidently; convincingly		
-haatw	n.	west	syn.	dazi áago
-háatw	adj.	hopeful; confident; optimistic	adv.	háatw mwlw
-haaya	adj.	hungry; famished; starving		
-haaya pi'	v.	starve		
-haaya-myoxa	n.	famine; scarcity of food	syn.	dwme
-haayañ	n.	pulp; core; inner postion		
-haaza	adj.	small; young		
-habuñ	adj.	cool; cold in a pleasant way	syn.	hefi'
-hadw	v.	be angry	n.	anger
-hafañ	adj.	flat; plain	syn.	haapa
-hafañ byayuñ	n.	tomato		
-hafañ giyañ	n.	cabbage		
-hafañ hamañ	n.	Redflower Ragleaf; Fireweed (Crassocephalum crepidioides)	syn.	genda hamañ
-hafañ sañxañ mefañ	n.	hibiscus (Hibiscus rosasinensis)		
-hágw	v.	escape; run away; flee	var.	hárgw
-hai	n.	water	syn.	yasi
-hajvr	num.	thousand	Or.	Assamese
-hamañ	n.	vegetable		
-hañ	v.	investigate; make enquiries; probe; enquire		
-haho	prep.	up; top; high; upper		
-haqw	pron.	something; a thing that is unknown or unspecified		
-har	v.	wash; bathe		
-har	v.	cut (esp. meat); dismember		
-hár	v.	run; drive (a vehicle)		
-harañ piyo	n.	a variety of children's traditional game		
-harba'	v.	hug; embrace		
-harbyañ	adj.	full (as of moon)		
-harce'	n.	fold of the groin		
-hargó	v.	overtake (esp. by running or driving)		
-hárgw	v.	run away; escape; flee	syn.	hágw
-harje'	v.	run over (esp. by a vehicle)		
-harkó	v.	bore a hole		
-harlañ	n.	thigh		
-harpó	n.	bucket		
-harpuñ	n.	inner thigh		
-harti	n.	rust	syn.	marlañ
-harú	adj.	popular (as of one's personality)		
-harù	n.	lung		
-harw	v.	twist; turn		
-haspatvr	n.	hospital	or.	English
-he'	v.	knit		
-he'	v.	blow (as wind)		
-he'	v.	dig (esp. with a tool)		
-he'	v.	cut with a knife with the sharp edge away from the user, as in smoothening something		
-he'dú	n.	pork intestine along with attached fat; such meat of sacrificed animals traditionally offered to the eldest living sister by the younger ones.	syn.	pidú
-he'i	n.	a portion of meat		
-he'ta'	n.	wooden agricultural implement, esp. used during construction of bundhs		
-he'te'	n.	narrow channel in the wet rice cultivation fields		
-heefi'	adj.	cool, in a pleasant way	syn.	habuñ
-hefa	v.	have patience; have endurance		
-hefu	v.	forget	syn.	aháa ahw'
-helo	v.	pardon; forgive		
-heló	v.	let down; be disappointed		
-heme	v.	promise; vow; pledge	n.	oath; promise
-hemiñ-heñja	adj.	intimate; open (of relationship) 		
-hemó	v.	suspect; doubt; distrust		
-hémò	v.	rest; take a breather				
-heñpvr	adv.	very; exeedingly; exceptionally; immensely	syn.	hentvr		
-hemyó	v.	plan in advance; plan				
-heñ	v.	think; love				
-heñbyañ	adv.	ample; sufficient; adequate				
-heñbyo	v.	crave; desire; yearn; pine for				
-henci	n.	a variety of edible berry				
-heñco	n.	titillation	v.	tickle		
-heñdi	n.	thoughtful man; a gentleman; a good person	adj.	thoughtful		
-heñdvr	v.	conscious; understand; figure out				
-heñje	v.	trust; faith; confidence; belief				
-heñji'	adj.	happy; joyful; exultant				
-heñju	n.	attitude; way of thinking				
-heñju-hemyo	n.	character; disposition; temperament				
-heñju-mwju	n.	behaviour; conduct; deportment				
-heñjuñ	n.	comfort; ease; luxury; opulence	adj.	comfortable	adv.	heñjuñpa
+__ha__	_v._	come; arrive; enter	[_syn._	áa]
+
+
+__ha'__	_v._	bite off		
+
+
+__ha'__	_v._	collect or catch (for example, fish from water)		
+
+
+__ha'ló__	_n._	branch (of tree)		
+
+
+__ha'tú__	_v._	obstruct; block; clog		
+
+
+__háa__	_v._	smoke dry		
+
+
+__haabyañ__	_n._	chest		
+
+
+__haace__	_adj._	sad; heart breaking		
+
+
+__haace'__	_n._	difficult time; crisis; emergency	[_syn._	haace' swre]
+
+
+__haaci__	_n._	east	[_syn._	dazi cago]
+
+
+__haadw__	_v._	get angry; annoyed; enraged	[_n._	anger]
+
+
+__haafiñ__	_n._	fourth lunar month of the year; April		
+
+
+__haafiñ__	_adj._	beautiful; handsome; pretty		
+
+
+__haafiñ patañ__	_n._	labour gang engaged in transplanting of paddy		
+
+
+__haafiñ popvr__	_n._	a variety of moth		
+
+
+__haago__	_adj._	vain; haughty; vainglorious		
+
+
+__hago__	_n._	matter; subject; affair	[_syn._	pwgo]
+
+
+__haagya__	_n._	entrance	[_syn._	áagyá]
+
+
+__haaja'__	_adv._	excessive; exhorbitant; too much		
+
+
+__haaju'__	_adj._	light; not heavy	[_ant._	aì]
+
+
+__háako__	_n._	entrance	[_syn._	áako]
+
+
+__haalo__	_n._	August-September; ninth month of lunar year		
+
+
+__haame__	_adj._	coward; timid	[_ant._	haaro]
+
+
+__haapa__	_adj._	flat; plain	[_syn._	haafañ]
+
+
+__haapahe__	_adv._	to a large part; a big quantum; big amount		
+
+
+__haapiñ__	_n._	fog; mist	[_syn._	haapiñ tagyañ]
+
+
+__haapiñ tagyañ__	_n._	fog; mist	[_syn._	haapiñ]
+
+
+__haapu'__	_n._	diaphragm		
+
+
+__haapuñ__	_n._	gap (in space or time)		
+
+
+__haaro__	_adj._	brave; courageous	[_ant._	haame]
+
+
+__haaru__	_n._	mourning; grief		
+
+
+__haaru heñ__	_v._	mourn; grieve		
+
+
+__haasiñ__	_v._	dry (esp. over a fire)		
+
+
+__haaso__	_adj._	slow; sluggish	[_adv._	haaso haaso; haasopa]
+
+
+__haaso haaso__	_adv._	slow; sluggish	[_syn._	haasopa]
+
+
+__haasvr__	_n._	the internodal part of a bamboo		
+
+
+__haata'__	_n._	front; fore; foreground; anterior		
+
+
+__haatiñ__	_n._	node (as of bamboo)		
+
+
+__haatiñ__	_adj._	significant; important; notable; remarkable		
+
+
+__haatiñ bwliñ__	_adv._	satisfactorily; confidently; convincingly		
+
+
+__haatw__	_n._	west	[_syn._	dazi áago]
+
+
+__háatw__	_adj._	hopeful; confident; optimistic	[_adv._	háatw mwlw]
+
+
+__haaya__	_adj._	hungry; famished; starving		
+
+
+__haaya pi'__	_v._	starve		
+
+
+__haaya-myoxa__	_n._	famine; scarcity of food	[_syn._	dwme]
+
+
+__haayañ__	_n._	pulp; core; inner postion		
+
+
+__haaza__	_adj._	small; young		
+
+
+__habuñ__	_adj._	cool; cold in a pleasant way	[_syn._	hefi']
+
+
+__hadw__	_v._	be angry	[_n._	anger]
+
+
+__hafañ__	_adj._	flat; plain	[_syn._	haapa]
+
+
+__hafañ byayuñ__	_n._	tomato		
+
+
+__hafañ giyañ__	_n._	cabbage		
+
+
+__hafañ hamañ__	_n._	Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides_)	[_syn._	genda hamañ]
+
+
+__hafañ sañxañ mefañ__	_n._	hibiscus (_Hibiscus rosasinensis_)
+
+
+__hágw__	_v._	escape; run away; flee	[_var._	hárgw]
+
+
+__hai__	_n._	water	[_syn._	yasi]
+
+
+__hajvr__	_num._	thousand	[_or._	Assamese]
+
+
+__hamañ__	_n._	vegetable		
+
+
+__hañ__	_v._	investigate; make enquiries; probe; enquire		
+
+
+__haho__	_prep._	up; top; high; upper		
+
+
+__haqw__	_pron._	something; a thing that is unknown or unspecified		
+
+
+__har__	_v._	wash; bathe		
+
+
+__har__	_v._	cut (esp. meat); dismember		
+
+
+__hár__	_v._	run; drive (a vehicle)		
+
+
+__harañ piyo__	_n._	a variety of children's traditional game		
+
+
+__harba'__	_v._	hug; embrace		
+
+
+__harbyañ__	_adj._	full (as of moon)		
+
+
+__harce'__	_n._	fold of the groin		
+
+
+__hargó__	_v._	overtake (esp. by running or driving)		
+
+
+__hárgw__	_v._	run away; escape; flee	[_syn._	hágw]
+
+
+__harje'__	_v._	run over (esp. by a vehicle)		
+
+
+__harkó__	_v._	bore a hole		
+
+
+__harlañ__	n.	thigh		
+
+
+__harpó__	_n._	bucket		
+
+
+__harpuñ__	_n._	inner thigh		
+
+
+__harti__	_n._	rust	[_syn._	marlañ]
+
+
+__harú__	_adj._	popular (as of one's personality)		
+
+
+__harù__	n.	lung		
+
+
+__harw__	_v._	twist; turn		
+
+
+__haspatvr__	_n._	hospital	[_or._	English]
+
+
+__he'__	_v._	knit		
+
+
+__he'__	_v._	blow (as wind)		
+
+
+__he'__	_v._	dig (esp. with a tool)		
+
+
+__he'__	_v._	cut with a knife with the sharp edge away from the user, as in smoothening something		
+
+
+__he'dú__	_n._	pork intestine along with attached fat; such meat of sacrificed animals traditionally offered to the eldest living sister by the younger ones.	[_syn._	pidú]
+
+
+__he'i__	_n._	a portion of meat		
+
+
+__he'ta'__	_n._	wooden agricultural implement (esp. used during construction of bundhs)		
+
+
+__he'te'__	_n._	narrow channel in the wet rice cultivation fields		
+
+
+__heefi'__	_adj._	cool, in a pleasant way	[_syn._	habuñ]
+
+
+__hefa__	_v._	have patience; have endurance		
+
+
+__hefu__	_v._	forget	[_syn._	aháa ahw']
+
+
+__helo__	_v._	pardon; forgive		
+
+
+__heló__	_v._	let down; be disappointed		
+
+
+__heme__	_v._	promise; vow; pledge	[_n._	oath; promise]
+
+
+__hemiñ-heñja__	_adj._	intimate; open (of relationship) 		
+
+
+__hemó__	_v._	suspect; doubt; distrust		
+
+
+__hémò__	_v._	rest; take a breather				
+
+
+__heñpvr__	_adv._	very; exeedingly; exceptionally; immensely	[_syn._	hentvr]
+
+
+__hemyó__	_v._	plan in advance; plan				
+
+
+__heñ__	_v._	think; love				
+
+
+__heñbyañ__	_adv._	ample; sufficient; adequate				
+
+
+__heñbyo__	_v._	crave; desire; yearn; pine for				
+
+
+__henci__	_n._	a variety of edible berry				
+
+
+__heñco__	_n._	titillation	[_v._	tickle]
+
+
+__heñdi__	_n._	thoughtful man; a gentleman; a good person	[_adj._	thoughtful]
+
+
+__heñdvr__	_v._	conscious; understand; figure out				
+
+
+__heñje__	_v._	trust; faith; confidence; belief				
+
+
+__heñji'__	_adj._	happy; joyful; exultant				
+
+
+__heñju__	_n._	attitude; way of thinking				
+
+
+__heñju-hemyo__	_n._	character; disposition; temperament				
+
+
+__heñju-mwju__	_n._	behaviour; conduct; deportment				
+
+
+__heñjuñ__	_n._	comfort; ease; luxury; opulence	[_adj._	comfortable]	[_adv._	heñjuñpa]
+
+
 heñjvr	v.	save up; save for the future		
 heñki	adj.	sincere; honest; unfeigned		
 heñko-heñpe	adj.	confused; perplexed; baffled		
