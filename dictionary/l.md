@@ -31,7 +31,8 @@ __la'du midiñ__	_n._	elbow	_var._	la'du mwriñ
 
 __la'du mwriñ__	_n._	elbow	_var._	la'du midiñ		
 
-__la'dw__	_n._	forefinger; a unit of measurement equivalent to the length of the outstretched thumb and forefinger				
+__la'dw__	_n._	forefinger; a unit of measurement equivalent to the length of the outstretched thumb and forefinger	
+
 __la'dw go'he__	_n._	one unit of la'dw, equivalent to the distance between outstretched thumb and forefinger		
 
 __la'ge'__	_n._	anticubital space		
