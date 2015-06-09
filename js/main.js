@@ -99,9 +99,6 @@ function removeDiacritics (str) {
 
 var playSound = function (player, word) {
 
-  console.log('---- PLAY ----')
-  console.log(word)
-
   word = word.replace(/’/g, "'") // convert to proper apostrophe
 
   if (word.indexOf('\u0300') > -1) {
