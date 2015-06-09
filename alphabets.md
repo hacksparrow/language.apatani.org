@@ -140,7 +140,7 @@ Falling tone: álò (to dry)
 
 **Consonant Lengths**
 
-There are words with short and long consonants as well in Apatani. They are also denoted by single and double letters for short and long respectively.
+There are words with short and long consonants as well in Apatani. They are also denoted by single and double letters for short and long respectively. Examples are:
 
 
 Short consonant: alo (day)
