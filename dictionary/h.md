@@ -735,7 +735,7 @@ __hwmi__	_pron._	that; third person accusative pronoun
 __hwpe hamañ__	_n._	a variety of vegetable (_Elatostema platyphyllum_)		
 
 
-__hwra'_ _adv._		again; once more		
+__hwra'__ _adv._		again; once more		
 
 
 __hwri__	_n._	small particle of dirt		
