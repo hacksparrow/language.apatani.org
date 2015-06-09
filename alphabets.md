@@ -16,7 +16,7 @@ The following vowels from English alphabet are adapted and used as in English us
 | <i class="fa fa-volume-off"></i> E e             | ए          | Emo (Pady) <br> Leñbo (Road)         |
 | <i class="fa fa-volume-off"></i> I i             | इ          | Imi (Sleep) <br> Adiñ (Head)         |
 | <i class="fa fa-volume-off"></i> O o             | अो        | O (Local Beer) <br> Hogya (Leopard)  |
-| <i class="fa fa-volume-off"></i> U u             | उ          | Uì (Spirit) <br> Puulúu (White)        |
+| <i class="fa fa-volume-off"></i> U u             | उ          | Uì (Spirit) <br> Pulu (White)        |
 
 The following symbols are used as additional vowels with modified usage in Apatani alphabet:
 {: random=attribute }
@@ -54,7 +54,7 @@ The following letters are used with modifications as indicated to represent the 
 | <i class="fa fa-volume-off"></i> C c    | च          | Ciru' (Pocket) <br> Pacu (Chick)     |
 | <i class="fa fa-volume-off"></i> F f    | ल्य         | Firotoko (Uvula) <br> Afo (Tongue)   |
 | <i class="fa fa-volume-off"></i> Q q    | ङ          | Qwi (Fish) <br> Pequ (Barbet)        |
-| <i class="fa fa-volume-off"></i> X x    | ख          | Xui (Sour) <br> Taxw (Squirrel)      |
+| <i class="fa fa-volume-off"></i> X x    | ख          | Xui' (Sour) <br> Taxw (Squirrel)      |
 | <i class="fa fa-volume-off"></i> Z z    | ञ          | Zatu (Knife) <br> Azañ (Year)        |
 
 **C. Special Characters**
@@ -132,12 +132,17 @@ Long : saati (pine sap), peenw (procession)
 
 Apatani is a tonal language. The tone associated with a word makes all the difference in giving a meaning to a word. The three main tones are rising, level and falling. The rising tone is denoted by a rising diacritic on the concerned vowel and falling tone with a falling diacritic. The level tone is left unmarked. Examples are:
 
-Rising tone: aló (bone)
+Rising tone: alló (bone)
 <br>
 Level tone: alo (day)
 <br>
-Falling tone: alò (to dry)
+Falling tone: álò (to dry)
 
 **Consonant Lengths**
 
-There are words with short and long consonants as well in Apatani. They are also denoted by single and double letters for short and long respectively.
+There are words with short and long consonants as well in Apatani. They are also denoted by single and double letters for short and long respectively. Examples are:
+
+
+Short consonant: alo (day)
+<br>
+Long consonant: alló (bone)
