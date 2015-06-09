@@ -141,6 +141,8 @@ Falling tone: álò (to dry)
 **Consonant Lengths**
 
 There are words with short and long consonants as well in Apatani. They are also denoted by single and double letters for short and long respectively.
+
+
 Short consonant: alo (day)
 <br>
 Long consonant: alló (bone)
