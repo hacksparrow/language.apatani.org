@@ -591,7 +591,7 @@ __hu'po__	_n._	protective armour of animal skin to cover the body from armpit to
 __hu'si-rasi__	_adj._	hot and humid		
 
 
-__hua_	_v._	fall into something		
+__hua__	_v._	fall into something		
 
 
 __huañ__	_n._	back (anatomy)	[_var._	hoañ]
