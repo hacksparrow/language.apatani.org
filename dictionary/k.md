@@ -8,11 +8,11 @@ ipa: k
 
 __ka__	_v._	see; look at		
 
-__ka'__	v._	solidify; freeze; coagulate		
+__ka'__	_v._	solidify; freeze; coagulate		
 
-__kabyo__	v._	yearn; wish to possess something or someone		
+__kabyo__	_v._	yearn; wish to possess something or someone		
 
-__kaciñ__	v._	recognize; know	[_syn._	kala']
+__kaciñ__	_v._	recognize; know	[_syn._	kala']
 
 __kaco__	_adj._	dirty; soiled; smeared; filthy		
 
@@ -242,7 +242,7 @@ __keñ__	_v._	injure; cause pain or discomfort
 
 __kena kuru__	_n._	a variety of bird		
 
-__kenda__	_n._	black necked crane (Grus nigricollis)	[_var._	keená]
+__kenda__	_n._	black necked crane (_Grus nigricollis_)	[_var._	keená]
 
 __kenna__	_n._	a person who castrates pigs	[_syn._	kwmvr]
 
