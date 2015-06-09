@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - E
 layout: dictionary
+alphabet: E
+devanagari: ए
+ipa: e
 ---
 
 __e'__  _v._  shoot       

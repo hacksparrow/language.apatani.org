@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - W
 layout: dictionary
+alphabet: W
+devanagari: 
+ipa: ɯ
 ---
 
 wbyo'	adj.	long	syn.	obyo'

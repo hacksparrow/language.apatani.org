@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - X
 layout: dictionary
+alphabet: X
+devanagari: ख
+ipa: x
 ---
 
 xa	v.	peel; pare; skin; take the skin off		

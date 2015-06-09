@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - A
 layout: dictionary
+alphabet: A
+devanagari: अा
+ipa: a
 ---
 
 __a__ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made  
@@ -27,10 +30,8 @@ __aalú__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]
   
 __áamì__  _n._  cat     
 
-
 __áamì atúu__	_n._	kitten
-  
-  
+    
 __aamw__  _n._  mango [_or._ Assamese]    
   
 __aapu kai__  _n._  showy; ostentatious (person)      
@@ -153,21 +154,15 @@ __adiñ__  _adv._  only; exclusively; solely
   
 __adiñ__  _n._  head (anatomical)   
 
-
 __adiñ ácì__	_n._	headache
-
 
 __adiñ ce'nw__	_n._	barber
 
-
 __adiñ dilañ__	_n._	grey hair
-
 
 __adiñ diñji__	_n._	black hair
 
-
 __adiñ diñpúu__	_n._	white hair
-
   
 __ado__ _n._  stalk; main stem of a herbaceous plant  [_var._  wdo]   
   
@@ -183,21 +178,15 @@ __afa'__  _v._  lick; lap
    
 __afañ__  _num._  ten   
 
-
 __afañ pwfi__	_num._	forty
-
 
 __afañ xw__	_num._	sixty
 
-
 __afañ yaqo__	_num._	fifty
-
   
 __afe'__  _n._  door     
 
-
 __afe' ago__	_n._	doorstep
-
 
 __afee__  _v._  shiver; tremble; shudder        
   
@@ -211,9 +200,7 @@ __afí-yasì__  _n._  weather; climate
   
 __afi'__  _n._  pig       
   
-
 __afi' asi'__	_n._	cage for pig
-
 
 __afi' yo__ _n._  pork        
   
@@ -223,10 +210,8 @@ __afiñ__  _n._  evening; dusk; late afternoon
   
 __afiñ__  _adj._  smart; bright; savvy
 
-
 __afiñ dafi__	_n._	afternoon
 
-    
 __áfò__ _n._  skin; covering     
      
 __afoo__  _n._  tongue      
@@ -235,9 +220,7 @@ __afóo goñsò__  _n._  mantis  [_var._  afóo koñsò]
      
 __afú__ _v._  lose something; misplace     
 
-
 __aga swco__	_int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
-
     
 __agáa__  _adv._  quickly; rapidly; swiftly; immediately    
     
@@ -253,13 +236,10 @@ __agiñ__  _v._  trouble; irk; niggle
      
 __agoo__  _n._  outside [_ant._  ura] [_adj._  external; exterior]
 
-
 __agoo empuñ__	_n._	space between the entrance and the hearth of a traditional Apatani house
-
 
 __agoo imi'__	_n._	hearth towards the front of the house
 
-     
 __aguñ__  _n._  mouth; language       
      
 __agvr__  _n._  bundh; raised earthen boundary between paddy fields where millet is planted    
@@ -274,10 +254,8 @@ __agyo__  _v._ mix; add; combine
     
 __agyú__  _n._  string; cord  [_syn._  aháa]  
 
-
 __aha fiifi'__	_adj._	horrifying
 
-    
 __aha'__  _v._  hang something     
     
 __aháa__  _n._  string; cord  [_syn._  agyú]    
@@ -288,34 +266,24 @@ __aháa ahw'__ _v._  forget; fail to remember
     
 __aháa ba'__  _v._  hate; loathe; abhor    
 
-
 __aháa du'__	_n._	heartbeat
 
-
 __aháa pìitañ__	_n._	thirst
-    
-    
+        
 __ahe__ _v._  bet; wager; gamble    
-
 
 __ahi__	_n._	tooth
 
-   
 __ahì__ _n._  fruit      
-
 
 __ahi ácì__	_n._	toothache
 
-
 __ahì amvr__	_n._	fruit items
-
 
 __ahi daktor__	_n._	dentist
 
-
 __ahi pyo'su__	_v._	brush one's teeth
 
-   
 __ahiñ__  _adj._  same; similar; matching; identical   
    
 __ahiñ__  _n._  gold        
@@ -348,10 +316,8 @@ __ajañ-bwzv__ _adj._  fragile; soft; tender
    
 __ají__ _n._  farm; wet agricultural field  
 
-
 __ají mwmw__	_n._	farmer
 
-   
 __ají pwhá__  _n._  small cane basket       
    
 __ají sampyá__  _n._  tray, usually of wood, used to move soil from one part of the paddy field to the other   
@@ -432,20 +398,15 @@ __ákótá__ _pron._ one more
    
 __ákoyá__ _pron._ something else   
 
-   
 __aku__ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]  
 
-
 __akw__	_int._	interjection to express pain
-
    
 __ala'__  _n._  hand        
     
 __ala' la'pù__  _n._  fist        
-   
-   
+      
 __ala' muja__	_n._	glove
-
 
 __aláa__  _n._  juice, broth        
    
@@ -459,16 +420,12 @@ __álì__ _v._  plant
    
 __alì arañ__  _n._  bottom; base; lower part        
    
-__alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground       
-   
+__alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
 __ali lembo__ _n._  paved road  [_or._ Assamese]  
-
 
 __alì lwpiñ__	_n._	instep
 
-
 __alì lwpyo__	_n._	sole
-
    
 __alíi__  _v._  bury        
    
@@ -486,9 +443,7 @@ __alo__ _n._  salt
    
 __álò__ _v._  dry    
 
-
 __alo apiñ__	_n._	lunch
-
    
 __alo kamyañ__  _adj._  everyday; daily; commonplace        
    
@@ -505,16 +460,13 @@ __aluñ__  _v._  surprise, shock
 __alvr__  _adj._  hard; firm; rigid; strong [_syn._  arlv]    
    
 __alẃ__ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
-   
 __alw'__  _v._  insert; put       
    
 __alw'__  _v._  exchange; interchange; swap       
    
 __ama__ _n._  mother (term of address)  [_syn._  ane]  
 
-
 __ama'__	_v._	feed (esp. the hired laborers)
-
    
 __amañ__  _n._  roof        
    
@@ -532,20 +484,15 @@ __ami'__  _v._  extinguish; douse; put out (fire) [_syn._  mwmi']
    
 __ami'__  _n._  eye     
 
-
 __ami' ácì__	_n._	conjunctivitis; eye disease
-
 
 __ami' ajañ__	_n._	one who cries easily
 
-   
 __ami' mi'byo__ _n._  eyelash       
    
 __ami' mi'tiñ__ _n._  eyelid
 
-
 __ami' nuri__	_n._	pupil
-
    
 __ami'-aguñ__ _n._  design; motif; pattern (esp.in embroidery)        
    
@@ -561,10 +508,8 @@ __amiñ-ajañ__ _adj._  docile; candid; frank
    
 __amo__ _n._  remaining grains of unhusked rice grains among husked ones   
 
-
 __amo-ahe__	_n._	dust (esp. those sticking on the body after works)
 
-   
 __amu__ _n._  yield; production; quantity (crop)        
    
 __amu__ _n._  hair        
@@ -598,13 +543,10 @@ __anoo__  _adv._  very; extremely; awfully
 __anu__ _n._  younger brother       
    
 __anu-abañ__  _n._  brothers; sibling       
-    
 
 __anw__ _n._  leaf  [_syn._  yanw]
 
-
 __anẁ__ _n._  mother (term of reference)        
-   
     
 __anẁ-aba__ _n._  parent        
    
@@ -638,9 +580,7 @@ __apiñ__  _v._  warm (hand)
    
 __apiñ__  _n._  cooked rice  
 
-
 __apiñ ga'hiñ__	_n._	ball of cooked rice
-
    
 __apiñ pwcañ__  _n._  pot for cooking rice        
    
@@ -656,15 +596,11 @@ __ápù__ _n._  sphere; globe [_v._  wrap (into a sphere)]
    
 __apu' amè__  _n._  dandruff   
 
-
 __apuñ__	_prep._	among
 
-   
 __apuñ-aka__  _n._  confusing state; doubtful   
 
-
 __apur__	_prep._	among; midst
-
    
 __apúu__  _n._  arrow       
    
@@ -684,13 +620,9 @@ __apyuñ__ _n._  bunch; cluster
    
 __aqa'__  _v._  tie into a bundle  
 
-
 __aqw__	_int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
 
-
 __aqw swco__	_int._	interjection to express indifference; let it be	[_syn._	aqw; aga swco]
-
-
    
 __ará__ _adj._  empty; vacant; void       
    
@@ -752,17 +684,13 @@ __arnw'__ _v._  swallow; gulp down; ingest  [_syn._  anw']
    
 __arò__ _n._  morning; daybreak  
 
-
 __arò dafi__	_n._	forenoon
-
-
    
 __arò koñci__ _n._  dawn        
    
 __arò-apiñ__  _n._  meal in the morning; breakfast 
     
 __aro'__	_adj._	lucky
-
 
 __aro' paco__	_int._	expression of happiness; thank you
        
@@ -850,7 +778,6 @@ __attu'__ _v._  close  or block (esp. a hollow container)
    
 __attu' nanw__	_n._	lid used for closing a container
    
-   
 __atú-kahè__  _n._  size        
    
 __atúu__  _adj._  small; tiny; little; miniature  [_n._  baby animal] [_ant._  káhè]
@@ -883,10 +810,8 @@ __axóo__  _n._  head; leader; principal
     
 __axóo pèeruñ__ _n._  a variety of bean 
 
-
 __axor__	_n._	letter	[_or._	Assamese]
 
-    
 __axu'__  _v._  regurgitate       
     
 __axw__ _n._  guts; entrails; viscera       
@@ -927,9 +852,7 @@ __áyò yoofañ lwpa__ _n._  midnight
    
 __ayo-asi'__  _n._  ancestors; progenitors 
 
-
 __ayo-nano__	_n._	a variety of bee (hover bee)
-
    
 __ayobo__ _n._  mother-in-law (term of reference)       
    

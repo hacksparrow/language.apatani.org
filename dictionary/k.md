@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - K
 layout: dictionary
+alphabet: K
+devanagari: क
+ipa: k
 ---
 
 __ka__	_v._	see; look at		

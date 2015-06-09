@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - O
 layout: dictionary
+alphabet: O
+devanagari: अो
+ipa: o
 ---
 
 o	n.	liquor; alcoholic drink; rice or millet beer				

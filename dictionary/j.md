@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - J
 layout: dictionary
+alphabet: J
+devanagari: ज 
+ipa: ɟ
 ---
 
 ja	v.	toss or throw a discus sidearm, such that it flies through the air; cause an object to soar by throwing		

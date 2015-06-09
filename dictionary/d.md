@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - D
 layout: dictionary
+alphabet: D
+devanagari: द
+ipa: d
 ---
 
 __da'__ _v._  stand; be there       

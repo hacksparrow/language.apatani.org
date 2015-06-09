@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - F
 layout: dictionary
+alphabet: F
+devanagari: ल्य
+ipa: ʎ
 ---
 
 __fa'__ _v._  burn; singe; smolder  

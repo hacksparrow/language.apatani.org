@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - G
 layout: dictionary
+alphabet: G
+devanagari: ग
+ipa: g
 ---
 
 __ga__  _v._  scold; rebuke; reprimand;chide        

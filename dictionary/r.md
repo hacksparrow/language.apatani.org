@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - R
 layout: dictionary
+alphabet: R
+devanagari: र
+ipa: r
 ---
 
 ra	v.	build (a structure); construct; fabricate				

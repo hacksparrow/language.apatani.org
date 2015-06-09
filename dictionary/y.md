@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - Y
 layout: dictionary
+alphabet: Y
+devanagari: य 
+ipa: y
 ---
 
 __ya__	_n._	nephew (term of address)		

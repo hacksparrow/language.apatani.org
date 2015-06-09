@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - Z
 layout: dictionary
+alphabet: Z
+devanagari: ञ
+ipa: ɲ
 ---
 
 __za__	_v._	whittle; pare; shave; trim	[_var._	zar]

@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - U
 layout: dictionary
+alphabet: U
+devanagari: उ
+ipa: u
 ---
 
 ude	n.	house			

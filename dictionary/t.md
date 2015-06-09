@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - T
 layout: dictionary
+alphabet: T
+devanagari: त
+ipa: t
 ---
 
 taar	n.	wire; cable; power line	or.	Assamese

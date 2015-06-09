@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - P
 layout: dictionary
+alphabet: P
+devanagari: ŋ
+ipa: p
 ---
 
 pa	v.	cut (by striking); fight; peck				

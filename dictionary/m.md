@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - M
 layout: dictionary
+alphabet: M
+devanagari: म
+ipa: m
 ---
 
 ma	int.	no; exclamation for negative response, esp. to a request or order				

@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - I
 layout: dictionary
+alphabet: I
+devanagari: 
+ipa: i
 ---
 
 __i'ce__	      _n._	  a night's interval	_v._	to keep a night's gap  

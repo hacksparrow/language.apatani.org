@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - H
 layout: dictionary
+alphabet: H
+devanagari: ह 
+ipa: h
 ---
 
 __ha__	_v._	come; arrive; enter	[_syn._	áa]

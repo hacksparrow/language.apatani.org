@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - Q
 layout: dictionary
+alphabet: Q
+devanagari: ङ
+ipa: ŋ
 ---
 
 qa'	v.	tie; bind		

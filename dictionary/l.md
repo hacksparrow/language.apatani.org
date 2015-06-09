@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - L
 layout: dictionary
+alphabet: L
+devanagari: ल
+ipa: l
 ---
 
 __la__	_conj._	and		

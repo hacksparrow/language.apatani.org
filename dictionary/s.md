@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - S
 layout: dictionary
+alphabet: S
+devanagari: स
+ipa: s
 ---
 
 sah	n.	tea	or.	Assamese

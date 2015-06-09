@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - C
 layout: dictionary
+alphabet: C
+devanagari: च
+ipa: c
 ---
 
 __ca__  _v._  ascend; go up; rise (of the sun); sprout (of a plant)   

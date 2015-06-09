@@ -1,6 +1,9 @@
 ---
 title: Tanw Dictionary - N
 layout: dictionary
+alphabet: N
+devanagari: न
+ipa: n
 ---
 
 na'bu-goñbu	adj.	pouting; swollen (esp. around the mouth)				
