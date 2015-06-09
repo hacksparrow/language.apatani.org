@@ -6,8 +6,10 @@ devanagari: प
 ipa: p
 ---
 
-pa	v.	cut (by striking); fight; peck				
-pa	post.	purposive case marker				
+__pa__	_v._	cut (by striking); fight; peck
+
+__pa__	_post._	purposive case marker				
+
 pá	v.	stack; heap up; pile up				
 pa'	v.	suspend or hang something with a string				
 pa'ca	v.	toss up	ant.	pa'lo		
