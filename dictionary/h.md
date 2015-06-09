@@ -549,7 +549,7 @@ __hoñki'__	_v._	bend; stoop	[_var._	huñki']
 __hoó__	_adj._	spacious; roomy; capacious
 
 
-__hóo__	_v._	feed (__esp._ an animal)		
+__hóo__	_v._	feed (_esp._ an animal)		
 
 
 __hoopa__	_post._	therefore; for		
