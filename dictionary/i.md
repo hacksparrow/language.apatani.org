@@ -50,7 +50,7 @@ __imi'__	_n._	sitting space around the traditional fireplace
 
 __imo' pwlo__	_n._	twelfth lunar month of the year; November-December	
 
-__imo__	_n._	paddy	_var._	emo  
+__imo__	_n._	paddy	[_var._	emo]  
 
 __impya'__	_n._	cotton; wool	[_var._	empya']  
 
