@@ -209,4 +209,27 @@ $(document).ready(function () {
 
   })
 
+
+  // play alphabet heading audio
+  $('#alphabet-h1 i').click(function () {
+
+    var self = this
+    var letter = $(this).data('alphabet').toLowerCase()
+    var soundPath = '/sounds/letters/'+ voiceGender +'/'+ letter +'.mp3'
+
+    var sound = soundManager.createSound({
+      url: soundPath,
+      autoLoad: true,
+      onload: function () {
+        $(self).removeClass('fa-volume-off').addClass('fa-volume-up')
+      },
+      onfinish: function() {
+        $(self).removeClass('fa-volume-up').addClass('fa-volume-off')
+      }
+    })
+
+    sound.play()
+
+  })
+
 })
