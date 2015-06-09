@@ -2,7 +2,7 @@
 title: Tanw Dictionary - I
 layout: dictionary
 alphabet: I
-devanagari: 
+devanagari: इ
 ipa: i
 ---
 

@@ -2,7 +2,7 @@
 title: Tanw Dictionary - P
 layout: dictionary
 alphabet: P
-devanagari: ŋ
+devanagari: प
 ipa: p
 ---
 
