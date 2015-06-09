@@ -72,7 +72,7 @@ __haalo__	_n._	August-September; ninth month of lunar year
 __haame__	_adj._	coward; timid	[_ant._	haaro]
 
 
-__haapa__	_adj._	flat; plain	[_syn._	haafañ, nyipa]
+__haapa__	_adj._	flat; plain	[_syn._	haafañ, zipa]
 
 
 __haapahe__	_adv._	to a large part; a big quantum; big amount		
