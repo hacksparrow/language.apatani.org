@@ -636,7 +636,7 @@ __huli__	_n._	boil; pimple
 __humi__	_pron._	whom		
 
 
-__huñki'	v.	bend; stoop	[_var._	hoñki']
+__huñki'__	v.	bend; stoop	[_var._	hoñki']
 
 
 __huñta-reñta__	_adj._	stifling; suffocating, of space; congested		
@@ -657,7 +657,7 @@ __huriñ__	_n._	protective body armour of cane belt worn around the waist
 __hurta'__	_n._	wooden board used for filtering rice water from the cooking pot		
 
 
-__hu_	_pron._	who		
+__hu__	_pron._	who		
 
 
 __hú__	_v._	wake up; rouse; awaken		
