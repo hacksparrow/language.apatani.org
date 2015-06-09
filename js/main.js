@@ -195,12 +195,12 @@ $(document).ready(function () {
 
       if (c.trim().slice(-1) == ']') {
         var match = c.match(/<em>(ant|syn|var)\.<\/em>/)
-        // this will remove the sound event handler added earlier, will need to add them again
         if (match) {
           var word = c.replace(match[0], '').replace(']', '').trim()
           var player = '<i class="fa fa-volume-off volume playable" onclick="playSound(this, \''+ word +'\')"></i>'
-          var playableWord = player + ' ' + word
-          html = html.replace(word, playableWord)
+          var playableWord = player + ' ' + word + ']'
+          var target = word + ']'
+          html = html.replace(target, playableWord)
           $(p).html(html)
         }
       }

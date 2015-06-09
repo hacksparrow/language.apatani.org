@@ -72,7 +72,7 @@ __haalo__	_n._	August-September; ninth month of lunar year
 __haame__	_adj._	coward; timid	[_ant._	haaro]
 
 
-__haapa__	_adj._	flat; plain	[_syn._	haafañ]
+__haapa__	_adj._	flat; plain	[_syn._	haafañ, nyipa]
 
 
 __haapahe__	_adv._	to a large part; a big quantum; big amount		
@@ -429,10 +429,10 @@ __hi'ka__	_v._	frisk
 __hi'su-ho'su__	_adj._	nonplussed; disconcerted; stumped; at a loss		
 
 
-__hi'tiñ__	__v._	bash against something		
+__hi'tiñ__	_v._	bash against something		
 
 
-__hi'xww__	-v._	wring; twist		
+__hi'xww__	_v._	wring; twist		
 
 
 __hibu__	_n._	beak		
