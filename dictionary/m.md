@@ -96,7 +96,7 @@ __mecú__	_adj._	small; small sized; minor
 __medvr__	_n._ 	purification; purification ritual		
 
 
-__medvr__ agyañ_	_n._	altar for purification ritual		
+__medvr agyañ__	_n._	altar for purification ritual		
 
 
 __medvr nelo__	_n._	place of worship (_Lit._ 'house of purity')		
