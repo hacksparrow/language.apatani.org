@@ -36,7 +36,7 @@ __qaare__	_adj._	lose taste or inability to eat more	[_syn._	qaatw]
 __qe'ko__	_v._	open	[_ant._	qe'piñ]
 
 
-__qe'piñ__	_v._	close	[_ant.	qe'ko]
+__qe'piñ__	_v._	close	[_ant._	qe'ko]
 
 
 __qeñci'__	_adj._	tasty; delicious		
