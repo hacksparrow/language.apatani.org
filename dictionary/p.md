@@ -8,14 +8,26 @@ ipa: p
 
 __pa__	_v._	cut (by striking); fight; peck
 
+
 __pa__	_post._	purposive case marker				
 
-pá	v.	stack; heap up; pile up				
-pa'	v.	suspend or hang something with a string				
-pa'ca	v.	toss up	ant.	pa'lo		
-pa'ga	n.	long supporting post on both sides of a traditional Apatani house				
-pa'kvr	v.	encircle; surround; enclose				
-pa'lo	v.	toss down	ant.	pa'ca		
+
+__pá__	_v._	stack; heap up; pile up				
+
+
+__pa'__	_v._	suspend or hang something with a string				
+
+
+__pa'ca__	_v._	toss up	[_ant._	pa'lo]
+
+
+__pa'ga__	_n._	long supporting post on both sides of a traditional Apatani house				
+
+
+__pa'kvr__	_v._	encircle; surround; enclose				
+
+
+__pa'lo__	_v._	toss down	_ant._	pa'ca		
 pa'po	n.	a bamboo pole suspended horizontally on the side wall of the house for keeping clothes				
 pa'si	v.	join two ropes together to increase the length				
 pa'svr	v.	kill by hanging				
