@@ -18,7 +18,7 @@ __la'ca__	_n._	handicap of the hand; disability of the hand
 
 __la'cañ__	_n._	ring				
 
-__la'ci__	_n._	sinistral; left (side)	[_syn._]	la'ku	[ant.	la'bi]'
+__la'ci__	_n._	sinistral; left (side)	[_syn._	la'ku]	[ant.	la'bi]'
 
 __la'ci ala'__	_n._	left hand				
 
