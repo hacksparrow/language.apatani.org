@@ -24,7 +24,7 @@ __maañ__	_v._	creep;  grow along the ground or other surface by means of extend
 __magù__	_v._	bellow as an expression of distress				
 
 
-__mah__	__int._	no; exclamation for negative response to a question				
+__mah__	_int._	no; exclamation for negative response to a question				
 
 
 __maji__	_n._	Tibetan bell without clapper used as a barter item				
@@ -96,10 +96,10 @@ __mecú__	_adj._	small; small sized; minor
 __medvr__	_n._ 	purification; purification ritual		
 
 
-__medvr agyañ_	_n._	altar for purification ritual		
+__medvr__ agyañ_	_n._	altar for purification ritual		
 
 
-__medvr nelo_	_n._	place of worship (_lit._ 'house of purity')		
+__medvr nelo__	_n._	place of worship (_Lit._ 'house of purity')		
 
 
 __meli__	_v._	kill as revenge	[_var._	meñli]
@@ -171,10 +171,10 @@ __mi'ye'__	_v._	wink
 __mi'ye'-gohe'__	_v._	signal; making gesture by winking		
 
 
-__mida_	_n._	a part of marriage ceremony		
+__mida__	_n._	a part of marriage ceremony		
 
 
-__midiñ_	_n._	nursery for paddy; seed bed		
+__midiñ__	_n._	nursery for paddy; seed bed		
 
 
 __mifa bari'__	_n._	whirlwind	[_syn._	ro bari']
@@ -402,7 +402,7 @@ __mula__	_n._	radish	[_or._	Assamese]
 __muñ-sa__	_n._	romance; courtship; love affair	[_Ent._	muñdo (girlfriend) + saado (boyfriend)]
 
 
-__muñdo__	_n._	girlfriend; female lover	[_syn._	zimuñ]	[_ant._	Saado]
+__muñdo__	_n._	girlfriend; female lover	[_syn._	zimuñ]	[_ant._	saado]
 
 
 __mura__	_n._	seat				
