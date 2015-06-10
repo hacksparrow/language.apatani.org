@@ -39,7 +39,7 @@ __qe'ko__	_v._	open	[_ant._	qe'piñ]
 __qe'piñ__	_v._	close	[_ant.	qe'ko]
 
 
-__qeñci'_	_adj._	tasty; delicious		
+__qeñci'__	_adj._	tasty; delicious		
 
 
 __qo__	_pron._	I; first person singular pronoun		
