@@ -316,7 +316,7 @@ __pariñ__	_adj._	combinatin of two or more colors
 __párkó__	_v._	drill a hole		
 
 
-__párko'	v.	screw open		
+__párko'__	_v._	screw open		
 
 
 __parliñ__	_v._	crawl out		
@@ -397,7 +397,7 @@ __parw-molañ__	_n._	a variety of shrub bearing reddish berries commonly found i
 __parw'__	_n._	Khaleej pheasant (_Lophura leucomelanos_)
 
 
-__párww_	_v._	twist; turn around	[_syn._	párww-paxe]
+__párww__	_v._	twist; turn around	[_syn._	párww-paxe]
 
 
 __párxw__	_v._	twist; spin; twirl				
