@@ -6,43 +6,121 @@ devanagari: उ
 ipa: u
 ---
 
-ude	n.	house			
-ufañ kuti	n.	metallic poker; safety pin	syn.	fañso	
-ugù	n.	fireplace; hearth			
-ugya-ragya	adj.	with lots of holes			
-úì	n.	spirit; god; devil			
-úì  ácì	v.	dive inside water			
-úì atúu	n.	forest bug			
-úì bar	v.	a variety of chanting during a particular ritual			
-úì bée	v	a variety of chanting during a particular ritual			
-úì inw	n.	one who can communicate with the god, esp. with spirits of dead ones			
-úì pami	n.	goose pimples			
-úì peruñ	n.	a variety of bean			
-úì subu	n.	yak (Bos grunniens)			
-úì tazi'	n.	cobra lily (Arisaema sp.)			
-ukó	n.	back; rear			
-ukó simbya	n.	rear balcony			
-ulu-byalu	adj.	messy; unappetizing	syn.	byurw-byarw		
-umyú	adj.	pointed (as of a tip)				
-uñ	v.	sip; take a sip				
+__ude__	_n._	house			
+
+
+__ufañ kuti__	_n._	metallic poker; safety pin	[_syn._	fañso]
+
+
+__ugù__	_n._	fireplace; hearth			
+
+
+__ugya-ragya__	_adj._	with lots of holes			
+
+
+__úì_	_n._	spirit; god; devil			
+
+
+__úì  ácì__	_v._	dive inside water			
+
+
+__úì atúu__	_n._	forest bug			
+
+
+__úì bar__	_v._	a variety of chanting during a particular ritual			
+
+
+__úì bée__	_v._	a variety of chanting during a particular ritual			
+
+
+__úì inw__	_n._	one who can communicate with the god, esp. with spirits of dead ones			
+
+
+__úì pami__	_n._	goose pimples			
+
+
+__úì peruñ__	_n._	a variety of bean			
+
+
+__úì subu__	_n._	yak (_Bos grunniens_)			
+
+
+__úì tazi'__	_n._	cobra lily (_Arisaema_ sp.)			
+
+
+__ukó__	_n._	back; rear			
+
+
+__ukó simbya__	_n._	rear balcony			
+
+
+__ulu-byalu__	_adj._	messy; unappetizing	_syn._	byurw-byarw		
+
+
+__umyú__	_adj._	pointed (as of a tip)				
+
+
+__uñ__	_v._	sip; take a sip				
 						
-ura	n.	inside (as of a house)	ant.	agoo		
-ura imi'	n.	second hearth towards the back of the house				
-urú	n.	family				
-uskul	n.	school	or.	English	or.	wskul
-utuñ buluñ	adj.	chubby; healthy	var.	tatuñ buluñ		
-utw	n.	camel	or.	Assamese		
-ubúu	n.	hole				
-uuguñ	n.	entrance of a hole				
-uuko	n.	hole				
-une	n.	wound				
-une gwkor	n.	scar				
-une ceñxo	n.	crust over a wound				
-une pagw	v.	get wounded				
-uunw	n.	main entrance of a hole	ant.	uusvr		
-uurañ	adj.	deep	syn.	aarañ	ant.	uuxa'
-uuro	adj.	big, of hole	ant.	uuzó		
-uro	adv.	forcefully; strongly				
-uusvr	n.	exist of a hole	ant.	uunw		
-uuxa'	adj.	shallow	syn.	aaxa'	ant.	ùurañ
-uuzó	adj.	small, of hole	ant.	uurò		
+
+
+__ura__	_n._	inside (as of a house)	[_ant._	agoo]
+
+
+__ura imi'__	_n._	second hearth towards the back of the house				
+
+
+__urú__	_n._	family				
+
+
+__uskul__	_n._	school	[_or._	English]	[_syn._	wskul]
+
+
+__utuñ buluñ__	_adj._	chubby; healthy	[_var._	tatuñ buluñ]
+
+
+__utw__	_n._	camel	[_or._	Assamese]
+
+
+__ubúu__	_n._	hole				
+
+
+__uuguñ__	_n._	entrance of a hole				
+
+
+__uuko__	_n._	hole				
+
+
+__une__	_n._	wound				
+
+
+__une gwkor__	_n._	scar				
+
+
+__une ceñxo__	_n._	crust over a wound				
+
+
+__une pagw__	_v._	get wounded				
+
+
+__uunw__	_n._	main entrance of a hole	[_ant._	uusvr]
+
+
+__uurañ__	_adj._	deep	[_syn._	aarañ]	[_ant._	uuxa']
+
+
+__uuro__	_adj._	big (of hole)	[_ant._	uuzó]
+
+
+__uro__	_adv._	forcefully; strongly				
+
+
+__uusvr__	_n._	exist of a hole	[_ant._	uunw]
+
+
+__uuxa'__	_adj._	shallow	[_syn._	aaxa']	[_ant._	ùurañ]
+
+
+__uuzó__	_adj._	small (of hole)	[_ant._	uurò]
+
+
