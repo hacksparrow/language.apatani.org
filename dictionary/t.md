@@ -6,332 +6,988 @@ devanagari: त
 ipa: t
 ---
 
-taar	n.	wire; cable; power line	or.	Assamese
-ta'	v.	chop (as to split something)		
-ta'ce	n.	crack; rupture; split		
-ta'cè	v.	cut into two		
-ta'kó	v.	dig a hole or trench		
-ta'miñ	n.	Indian barberry (Mahonia aquifolium)		
-ta'mo	adj.	strong; brawny; powerful		
-ta'mopa	adv.	strongly; bravely		
-ta'mò	n.	a variety of tree; Chinese sumac (Rhus chinensis/Rhus semialata)		
-ta'mú	n.	betel		
-ta'rò	adj.	large (of flat objects); wide; broad	ant.	ta'zó
-ta'zó	adj.	small (of flet objects); thin; narrow		
-ta'ti	n.	cockroach		
-ta'xe'	v.	lie supine		
-taa	v.	swim		
-táa	v.	paw; move the hands in a rapid pawing motion, as when digging away soil		
-ta	v.	listen; hear				
-taabyó	n.	a temporary hut				
-tage'	v.	listen attentively				
-tago'	v.	ignore (listening)	syn.	tapa'		
-tagw	v.	learn (by listening)				
-tagya'	v.	hear wrongly				
-tahw	v.	ask; inquire; interrogate	syn.	taka		
-tahw'	adj.	hard of hearing				
-tajè	v.	believe; regard as true; be convinced by				
-tapa	v.	hear; get news or information				
-tapa'	v.	ignore (listening)	syn.	tago'		
-tapi'	n.	a variety of bird				
-tapi' qwwla	n.	owl	syn.	qwwla; pwtiñ qwwla		
-taapya'	v.	unfasten or untie a knot				
-taarò	adj.	many; large numbers	Syn.	toorò	ant.	tazó
-tazó	adj.	small in number; few in numbers	syn.	tozó	ant.	tarò
-tarò	v.	listen secretly; eavesdrop		
-taaró	n.	variety of a fig		
-taaxè	v.	lie on one's back; lie supine		
-taxo'	v.	disagree; disobey		
-tabe	n.	sugarcane plant	var.	twbe
-tabè	n.	a variety of tree of palm family, the trunk of which is edible		
-tabe axóo	n.	sugarcane	var.	twbe axóo
-tabiñ-taliñ	adj.	bare; naked		
-tabu	n.	snake		
-tabu nwmiñ	n.	a variety of plant (Arisaema)		
-tabu qwi	n.	eel (Anguilliformes)		
-tabu somiñ	n.	a variety of legless lizard		
-tabu'-taru'	adj.	dirty; dusty		
-tabuñ	n.	smallpox		
-tabyo	n.	a species of bamboo (Chimonobambusa callosa)		
-tabyò	v.	be attracted on listening		
-tacañ	n.	wood-boring insect		
-tace	v.	divide; distribute		
-tacì	n.	crab		
-taci'	n.	wood-boring insect attacking bamboo or softwood		
-taciñ	v.	understand; comprehend		
-tado'	n.	a variety of yellow beads	syn.	tado' tasañ
-tado' tasañ	n.	a variety of yellow beads	syn.	tado'
-tadvr	n.	a bamboo species (Pleioblastus simonii)		
-tadvr	n.	parasitic worm		
-tafa	v.	listen		
-tafí	adj.	sarcastic; ironic; sneering		
-tafi'	n.	bruise; contusion		
-tafuñ	n.	tapeworm larvae		
-tagì	n.	sickle		
-tago	n.	a variety of tree		
-tago alì	n.	a wooden tricycle used a children's toy the wheels of which are of tagó tree trunk		
-tagur eñso	n.	a variety of weed		
-tagyá	n.	wood wasp		
-tagywñ mwjvr	n.	matchbox		
-tahañ-si'	n.	mangoose		
-tai belañ	n.	a variety of acacia tree usually used for hedges		
-tai hamañ	n.	a variety of vegetable (Amaranthus spp.)		
-tai' koya	n.	gonorrhea		
-tai' swtiñ	n.	epileptic fit		
-tai' tapiñ	n.	corn		
-tahiñ	n.	mushroom		
-taju-riyañ	n.	variety of a plant; Job's tear		
-tajvr	n.	a bamboo fish trap	syn.	taxuñ
-tajvr	n.	a species of bamboo		
-taka	v.	ask; inquire; interrogate	syn.	tahw
-take'	n.	germ		
-taki	n.	ginger		
-takiñ	n.	cowrie shell	syn.	takiñ za'co
-takiñ za'co	n.	cowrie shell	syn.	takiñ
-tako-laro	n.	variety of a hard stone		
-tako'	n.	dirt		
-taku-tamu	n.	a decorated bamboo stick used during penw procession of Muruñ festival		
-taku'	n.	cucumber		
-taku' kuli	n.	cucumber seeds		
-taku' riila'	n.	cucumber tendril		
-takuñ	n.	peach		
-takuñ putu	n.	a lesser variety of Muruñ festival		
-takuñ yaarv	n.	cricket (Acheta domesticus)		
-takvr	n.	sputum	var.	cukvr
-takvr	n.	star		
-tala	n.	lock	or.	Assamese
-talañ	n.	a disease with skin eruptions including chickenpox and measles		
-talañ	adj.	brownish color (esp. of a cattle)		
-tale'	n.	a variety of garlic	syn.	twle'
-twle'	n.	a variety of garlic	syn.	tale'
-tali yordu	n.	a variety of chilly		
-talo	n.	brass plate		
-talo pwzu	n.	spoon		
-talu ba'lo	v.	betray; deceive		
-taluñ	adj.	an infertile woman		
-talw'	v.	agree		
-talẃ	n.	unnatural death		
-talẃ myoko	n.	land of the dead who meet with unnatural death		
-tama'	n.	a variety of tree		
-tama' amu	n.	fibres of tama' tree used as cover of havershack or cap		
-tamì	n.	weed		
-tami'	n.	fly (Diptera)		
-tamiñ	n.	Common Indian madder (Rubia cordifolia)	var.	twmiñ
-twmiñ	n.	Common Indian madder (Rubia cordifolia)	var.	tamiñ
-tamù	n.	a deity		
-tamyo	n. 	a variety of tree		
-tamyó	adj.	a colour pattern of a mithun, of black colour but a white patch running from the head to the tail at the back		
-tañ	v.	drink; smoke		
-tañdw'	v.	get poisoned by drinking		
-tañgw	adj.	drunk; inebriated		
-taniñ	n.	variety of a plant; wild sesame (Perilla frutescens)	var.	twniñ
-twniñ	n.	variety of a plant; wild sesame (Perilla frutescens)	var.	taniñ
-tañka	v.	taste (drinking or smoking)		
-tañkañ	adv.	drink or smoke for a long time		
-tano	n.	thread; yarn		
-tano pvrv	n.	traditional spinning wheel used to wind yarn into balls		
-tano-gogo	n.	snail	var.	tano gorgo
-tano-gorgo	n.	snail	var.	tano-gogo
-tano'	n.	snot		
-tañpyo	adj.	tasty (of drinks)	Ant.	tañru
-tañru	adj.	bad in taste (of drinks)	ant.	tañpyo
-tañsvr patañ	n.	labour gang engaged in miscellaneous works in the agricultural fields		
-Tanw	n.	Apatani tribe; people of Apatani tribe		
-Tanw aguñ	n.	Apatani language		
-Tanw miyu	n.	Apatani people		
-tañxu'	n.	leftover drinks		
-tañxwñ	v.	get drunk		
-tapañ	n.	algae; moss		
-tapañ dafi	n.	east		
-tapañ-kara alo	n.	Tuesday		
-tape	n.	pumpkin	Syn.	e'pe; ayó tape
-tape hamañ	n.	vegetable of pumplin leaves		
-tape'	n.	leech	var.	twpe'
-tapi	n.	a variety of cane		
-tapiñ	n.	ice	var.	twpiñ
-tapiñ	n.	a species of bamboo		
-tappo	n.	spinning knot		
-tapo	n.	a variety of hardwood tree		
-tapo'	n.	variety of tall grass		
-tapuñ	n.	bat		
-tapúu	adj.	a colour pattern of a mithun, of overall white colour	syn.	yapúu
-tapvr	n.	heavy log put on a prisoner's legs to prevent escape	var.	twpvr
-tapvr	n.	an element of babo	var.	twpvr
-tapvr	n.	cane leaves used during ritual in Myoko festival		
-tapvr 	adv.	terrible (to hear)		
-tapw	n.	an element of loin loom in the form of a rod used to tighten the threads while weaving		
-tapya'	v.	untie		
-tapyo	n.	herbal salt		
-tapyò	adj.	melodius; nice to hear		
-tapyu	n.	a species of bamboo		
-taqu	n.	bee (in group)		
-taqu-aláa	n.	honey		
-taqu-aru'	n.	honeycomb		
-tar	v.	bend; break		
-tar pwta	n.	peacock	syn.	tarlar
-tardu	n.	a bamboo container for storing meat	syn.	yo tardu
-tare	n.	thorn	var.	twre
-tarì	n.	hail		
-tari'	n.	body odor		
-tari'	n.	fern		
-tari' burta'	n.	a variety of snake		
-tariñ	n.	woven cane ring used as kneelet		
-tarji	n.	scorpion; centipede		
-tarjiñ	v.	straighten	Ant.	tarki'
-tarki'	v.	bend	Ant.	tarjiñ
-tarko	n.	variety of plant used as antiseptic after burning it.		
-tarlar	n.	peacock	syn.	tar pwta
-tarxw'	n.	break something with hand		
-tarluñ	adj.	barren; childless		
-tarpi	n.	variety of cane		
-tarpiñ	n.	maggots		
-tartu	v.	break		
-tarú	n.	mosquito		
-tarù	n.	rope		
-taru'	n.	ant		
-tarw	n.	shirt; top		
-tarze	n.	pus	var.	taze
-tasañ	n.	beads		
-tasañ-tayiñ	n.	ornament		
-tase	n.	sago palm; tree fern (Cyathea gigantea)		
-tasi	n.	wall	var.	tarsi
-tarsi	n.	wall	var.	tasi
-tasiñ	n.	larval dragonfly		
-tasiñ pwha	n.	a variety of bamboo basket used for carrying vegetables or edible aquatic insects		
-tasiñ siiñbo	n.	large-sized larvae of dragonfly	syn.	siñbo
-tasiñ siizi'	n.	small-sized larvae of dragonfly	syn.	sizi'
-tasu-tase	adj.	noisy; boisterous		
-tasvr	n.	variety of cane		
-tasw'	n.	wart		
-tatá	adj.	color pattern of mithun bull, described as overall black with a white spots on either side		
-tatuñ buluñ	adj.	chubby	var.	utuñ buluñ
-tatw'	n.	frog		
-taú	n.	desciptive term for mithun bull with color pattern of dark brown color with while in the lower parts of the limbs		
-tau yamu	n.	firefly		
-taxe'	n.	a variety of cane		
-taxe	n.	tick	syn.	twxe
-taxó	adj.	bald		
-taxò	n.	bamboo split used for demarcating land		
-taxuñ	n.	a bamboo fish trap	syn.	tajvr
-taxw	n.	squirrel		
-taxw tabu	n.	bed bug				
-taxw'	n.	head louse				
-taxxuñ	n.	countercurrent fish trap				
-taya rara	adj.	quite; deserted				
-tayañ	n.	bee (single)				
-tayu	n.	wasp				
-taze	n.	pus	syn.	tarze		
-tazi'	n.	corn				
-tazi' aru'	n.	corn ear				
-tazi' marpu	n.	cornsilk				
-tazi' mwge	n.	tongs to roast grains of corn				
-tazi' pamw	n.	corn powder				
-te'	v.	fall  (esp. from a standing position)				
-te'	v.	cut (esp. bushes)				
-te'da'	v.	lean against something				
-te'fa	adj.	slanted				
-tebul	n.	table	or.	English		
-teli	n.	oil	Or.	Assamese		
-tero yorsiñ	n.	dry chilly				
-teya'	n.	millet (Setaria italica)				
-te'hi	v.	fall down				
-teliñ	v.	push something out	Ant.	telw'	Ent.	teñ + aliñ
-telw'	v.	push something in by finger	Ant.	teliñ	Ent.	teñ + alw'
-tema'	v.	touch	Ent.	teñ + mwma'	syn.	mwma'
-teñ	v.	keep in place; place something				
-teñ	v.	touch (esp. with finger)				
-teñbya'	v.	get burnt by touching something hot				
-tero	n.	chilly				
-tero yorsañ	n.	green chilly				
-ti'	v.	rub; scratch				
-ti'ho	v.	make a mark				
-ti'mya'	v.	stain; smudge	syn.	ti'mya'-ti'sa		
-ti'pa'	v.	erase; wipe off; rub out		
-tihi'	adj.	sweet		
-tihxo	adj.	too much sweet or salty		
-tii	v.	pour	syn.	to
-tiilo	v.	to pour some liquid down		
-tiñpi	n.	dry field; dry cultivation area		
-tipi	n.	thumb impression		
-tisvr	adj.	sweet		
-tiyo'	n.	insect; worm		
-to	v.	pour	syn.	tii
-to'	v.	descend; go down; climb down		
-to'pyo	v.	descend first		
-toliñ	v.	pour something out	ant.	tolw'
-tolw'	v.	pour something in	ant.	toliñ
-toñ	v.	offer; give		
-toñ	v.	display		
-toñkiñ	v.	display		
-toñrò	adj.	small (of group)	ant.	tozó
-toñsvr	v.	advise; suggest; counsel; guide		
-toofo'	n.	a variety of flowering plant	syn.	kwle toofo'
-tooko	n.	prop; support; post		
-tooqo	n.	wool		
-tooqo pufe	n.	woollen cloth		
-tooro	n.	Rhino beetle		
-topa'	v.	pour something away		
-tor	v.	unfurl (of flag); spead		
-tozó	adj.	small (of group)	ant.	toñrò
-tú	v.	kick		
-tù	v.	push		
-tu'te'	n.	forehead of a cattle		
-túcé	v.	break something by kicking		
-tùda'	v.	place or push something upright		
-tudw	adj.	short		
-tufa	v.	ambush; lie in wait for; lay trap for		
-túhw-túxe'	v.	kick to and fro with the limb		
-tule'	adj.	slippery; slippy	syn.	bwle'
-tulí	v.	copy; replicate; click (a photo with a camera)	or.	Assamese
-tumbu ude	n.	tent		
-tuñ	v.	imprison; confine; hold captive		
-túpi'	v.	break something fragile by kicking		
-tuqiñ	n.	stump of a felled tree		
-tur	v.	be alive	var.	tor
-tur	v.	support, esp, with a pole or stick	var.	tor
-turcañ	n.	post; pillar	var.	torcañ
-turla'	n.	glass	var.	tùla'
-tusi'	v.	join; attach; couple; connect	syn.	me'si'
-tusù	v.	break a relationship		
-tusvr	v.	straighten one's leg		
-tutu popo	adj.	impulsive; impetuous; reckless		
-tuu	v.	pick up		
-tù	v.	flood		
-tuubyú	n.	edge		
-tuuli	n.	post; pillar		
-tuulu	n.	subclan		
-tuuma	adj.	courageous; daring		
-tuupo	n.	a plant whole upper portion has been removed		
-tusi'-tusi'	adv.	one after the other		
-tutu nanu	n.	bumble bee		
-tw	v.	offer		
-tw'	v.	pound, strike		
-tw'	v.	jerk; pull suddenly		
-tw'diñ	v.	collide		
-tw'ja'-tw'ya'	v.	tear apart; rip		
-tw'jiñ	v.	stretch; lengthen; elongate; make longer	syn.	pujiñ
-tw'li tw'li	adv.	frequently; again and again; over and over again				
-tw'lo	v.	to pull down				
-twdw	adj.	short	ant.	wbyo'		
-twge'	v.	stick; adhere; be glued	adj.	sticky	syn.	age'
-twgò	n.	a variety of ritual, esp. to propitiate benevolent deities	ant.	ciciñ		
-twko	n.	money	or.	Assamese		
-twle'	n.	a variety of garlic	syn.	tale'		
-twlo	v.	drop something from a height				
-twmo	v.	suspend; postpone				
-twniñ	n.	variety of a plant; wild sesame (Perilla frutescens)	var.	taniñ		
-twp pwpw	n.	Himalayan cuckoo (Cuculus saturatus)				
-twpe	n.	tattoo				
-twpi-twpo	adj.	neat; accurate				
-twpya'	n.	a necklace with a few beads on a black thread used as a talisman				
-twpya' tarw	n.	a variety of cotton top				
-twqá	n.	fruit				
-twre	n.	thorn	syn.	tare
-twrw	n.	forehead		
-twrw huufi'	n.	a variety of green grasshopper		
-twrw tatw'	n.	toad		
-tww	v.	throw; toss; fling		
-tww	v.	chop, as of cutting down a tree		
-twwló	v.	cut down (a tree)		
-twxe	n.	louse	var.	taxe
-twxw'	adj.	curly		
+__taar__	_n._	wire; cable; power line	[_or._	Assamese]
+
+
+__ta'__	_v._	chop (as to split something)		
+
+
+__ta'ce__	_n._	crack; rupture; split		
+
+
+__ta'cè__	_v._	cut into two		
+
+
+__ta'kó_	_v._	dig a hole or trench		
+
+
+__ta'miñ__	_n._	Indian barberry (_Mahonia aquifolium_)		
+
+
+__ta'mo__	_adj._	strong; brawny; powerful		
+
+
+__ta'mopa__	_adv._	strongly; bravely		
+
+
+__ta'mò__	_n._	a variety of tree; Chinese sumac (_Rhus chinensis/Rhus semialata_)		
+
+
+__ta'mú__	_n._	betel		
+
+
+__ta'rò__	_adj._	large (of flat objects); wide; broad	[_ant._	ta'zó]
+
+
+__ta'zó__	_adj._	small (of flet objects); thin; narrow		
+
+
+__ta'ti__	_n._	cockroach		
+
+
+__ta'xe'__	_v._	lie supine		
+
+
+__taa__	_v._	swim		
+
+
+__táa__	_v._	paw; move the hands in a rapid pawing motion, as when digging away soil		
+
+
+__ta__	_v._	listen; hear				
+
+
+__taabyó__	_n._	a temporary hut				
+
+
+__tage'__	_v._	listen attentively				
+
+
+__tago'__	_v._	ignore (listening)	[_syn._	tapa']
+
+
+__tagw__	_v._	learn (by listening)				
+
+
+__tagya'__	_v._	hear wrongly				
+
+
+__tahw__	_v._	ask; inquire; interrogate	[_syn._	taka]
+
+
+__tahw'__	_adj._	hard of hearing				
+
+
+__tajè__	_v._	believe; regard as true; be convinced by				
+
+
+__tapa__	_v._	hear; get news or information				
+
+
+__tapa'__	_v._	ignore (listening)	[_syn._	tago']
+
+
+__tapi'__	_n._	a variety of bird				
+
+
+__tapi' qwwla__	_n._	owl	[_syn._	qwwla; pwtiñ qwwla]
+
+
+__taapya'__	_v._	unfasten or untie a knot				
+
+
+__taarò__	_adj._	many; large numbers	[_syn._	toorò]	[_ant._	tazó]
+
+
+__tazó__	_adj._	small in number; few in numbers	[_syn._	tozó]	[_ant._	tarò]
+
+
+__tarò__	_v._	listen secretly; eavesdrop		
+
+
+__taaró__	_n._	variety of a fig		
+
+
+__taaxè__	_v._	lie on one's back; lie supine		
+
+
+__taxo'__	_v._	disagree; disobey		
+
+
+__tabe__	_n._	sugarcane plant	[_var._	twbe]
+
+
+__tabè__	_n._	a variety of tree of palm family, the trunk of which is edible		
+
+
+__tabe axóo__	_n._	sugarcane	[_var._	twbe axóo]
+
+
+__tabiñ-taliñ__	_adj._	bare; naked		
+
+
+__tabu__	_n._	snake		
+
+
+__tabu nwmiñ__	_n._	a variety of plant (_Arisaema_)		
+
+
+__tabu qwi__	_n._	eel (_Anguilliformes_)		
+
+
+__tabu somiñ__	_n._	a variety of legless lizard		
+
+
+__tabu'-taru'__	_adj._	dirty; dusty		
+
+
+__tabuñ__	_n._	smallpox		
+
+
+__tabyo__	_n._	a species of bamboo (_Chimonobambusa callosa_)		
+
+
+__tabyò__	_v._	be attracted on listening		
+
+
+__tacañ__	_n._	wood-boring insect		
+
+
+__tace__	_v._	divide; distribute		
+
+
+__tacì__	_n._	crab		
+
+
+__taci'__	_n._	wood-boring insect attacking bamboo or softwood		
+
+
+__taciñ__	_v._	understand; comprehend		
+
+
+__tado'__	_n._	a variety of yellow beads	[_syn._	tado' tasañ]
+
+
+__tado' tasañ__	_n._	a variety of yellow beads	[_syn._	tado']
+
+
+__tadvr__	_n._	a bamboo species (_Pleioblastus simonii_)		
+
+
+__tadvr__	_n._	parasitic worm		
+
+
+__tafa__	_v._	listen		
+
+
+__tafí__	_adv._	sarcastic; ironic; sneering		
+
+
+__tafi'__	_n._	bruise; contusion		
+
+
+__tafuñ__	_n._	tapeworm larvae		
+
+
+__tagì__	_n._	sickle		
+
+
+__tago__	_n._	a variety of tree		
+
+
+__tago alì__	_n._	a wooden tricycle used a children's toy the wheels of which are of tagó tree trunk		
+
+
+__tagur eñso__	_n._	a variety of weed		
+
+
+__tagyá__	_n._	wood wasp		
+
+
+__tagywñ mwjvr__	_n._	matchbox		
+
+
+__tahañ-si'__	_n._	mangoose		
+
+
+__tai belañ__	_n._	a variety of acacia tree usually used for hedges		
+
+
+__tai hamañ__	_n._	a variety of vegetable (_Amaranthus spp._)		
+
+
+__tai' koya__	_n._	gonorrhea		
+
+
+__tai' swtiñ__	_n._	epileptic fit		
+
+
+__tai' tapiñ__	_n._	corn		
+
+
+__tahiñ__	_n._	mushroom		
+
+
+__taju-riyañ__	_n._	variety of a plant; Job's tear		
+
+
+__tajvr__	_n._	a bamboo fish trap	[_syn._	taxuñ]
+
+
+__tajvr__	_n._	a species of bamboo		
+
+
+__taka__	_v._	ask; inquire; interrogate	[_syn._	tahw]
+
+
+__take'__	_n._	germ		
+
+
+__taki__	_n._	ginger		
+
+
+__takiñ__	_n._	cowrie shell	[_syn._	takiñ za'co]
+
+
+__takiñ za'co__	_n._	cowrie shell	[_syn._	takiñ]
+
+
+__tako-laro__	_n._	variety of a hard stone		
+
+
+__tako'__	_n._	dirt		
+
+
+__taku-tamu__	_n._	a decorated bamboo stick used during penw procession of Muruñ festival		
+
+
+__taku'__	_n._	cucumber		
+
+
+__taku' kuli__	_n._	cucumber seeds		
+
+
+__taku' riila'__	_n._	cucumber tendril		
+
+
+__takuñ__	_n._	peach		
+
+
+__takuñ putu__	_n._	a lesser variety of Muruñ festival		
+
+
+__takuñ yaarv__	_n._	cricket (_Acheta domesticus_)		
+
+
+__takvr__	_n._	sputum	[_var._	cukvr]
+
+
+__takvr__	_n._	star		
+
+
+__tala__	_n._	lock	[_or._	Assamese]
+
+
+__talañ__	_n._	a disease with skin eruptions including chickenpox and measles		
+
+
+__talañ__	_adj._	brownish color (esp. of a cattle)		
+
+
+__tale'__	_n._	a variety of garlic	[_syn._	twle']
+
+
+__twle'__	_n._	a variety of garlic	[_syn._	tale']
+
+
+__tali yordu__	_n._	a variety of chilly		
+
+
+__talo__	_n._	brass plate		
+
+
+__talo pwzu__	_n._	spoon		
+
+
+__talu ba'lo__	_v._	betray; deceive		
+
+
+__taluñ__	_adj._	an infertile woman		
+
+
+__talw'__	_v._	agree		
+
+
+__talẃ__ 	_n._	unnatural death		
+
+
+__talẃ myoko__	_n_.	land of the dead who meet with unnatural death		
+
+
+__tama'__	_n._	a variety of tree		
+
+
+__tama' amu__	_n._	fibres of tama' tree used as cover of havershack or cap		
+
+
+__tamì__	_n._	weed		
+
+
+__tami'__	_n._	fly (_Diptera_)		
+
+
+__tamiñ__	_n._	Common Indian madder (_Rubia cordifolia_)	[_var._	twmiñ]
+
+
+__twmiñ__	_n._	Common Indian madder (_Rubia cordifolia_)	[_var._	tamiñ]
+
+
+__tamù__	_n._	a deity		
+
+
+__tamyo__	_n._ 	a variety of tree		
+
+
+__tamyó__	_adj._	a colour pattern of a mithun, of black colour but a white patch running from the head to the tail at the back		
+
+
+__tañ__	_v._	drink; smoke		
+
+
+__tañdw'__	_v._	get poisoned by drinking		
+
+
+__tañgw__	_adj._	drunk; inebriated		
+
+
+__taniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	twniñ]
+
+
+__twniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	taniñ]
+
+
+__tañka__	_v._	taste (drinking or smoking)		
+
+
+__tañkañ__	_adv._	drink or smoke for a long time		
+
+
+__tano__	_n._	thread; yarn		
+
+
+__tano pvrv__	_n._	traditional spinning wheel used to wind yarn into balls		
+
+
+__tano-gogo__	_n._	snail	[_var._	tano gorgo]
+
+
+__tano-gorgo__	_n._	snail	[_var._	tano-gogo]
+
+
+__tano'__	_n._	snot		
+
+
+__tañpyo__	_adj._	tasty (of drinks)	[_ant._	tañru]
+
+
+__tañru__	_adj._	bad in taste (of drinks)	[_ant._	tañpyo]
+
+
+__tañsvr patañ__	_n._	labour gang engaged in miscellaneous works in the agricultural fields		
+
+
+__Tanw__	_n._	Apatani tribe; people of Apatani tribe		
+
+
+__Tanw aguñ__	_n._	Apatani language		
+
+
+__Tanw miyu__	_n._	Apatani people		
+
+
+__tañxu'__	_n._	leftover drinks		
+
+
+__tañxwñ__	_v._	get drunk		
+
+
+__tapañ__	_n._	algae; moss		
+
+
+__tapañ dafi__	_n._	east		
+
+
+__tapañ-kara alo__	_n._	Tuesday		
+
+
+__tape__	_n._	pumpkin	[_syn._	e'pe; ayó tape]
+
+
+__tape hamañ__	_n._	vegetable of pumplin leaves		
+
+
+__tape'__	_n._	leech	[_var._	twpe']
+
+
+__tapi__	_n._	a variety of cane		
+
+
+__tapiñ__	_n._	ice	[_var._	twpiñ]
+
+
+__tapiñ__	_n._	a species of bamboo		
+
+
+__tappo__	_n._	spinning knot		
+
+
+__tapo__	_n._	a variety of hardwood tree		
+
+
+__tapo'__	_n._	variety of tall grass		
+
+
+__tapuñ__	_n._	bat		
+
+
+__tapúu__	_adj._	a colour pattern of a mithun, of overall white colour	[_syn._	yapúu]
+
+
+__tapvr__	_n._	heavy log put on a prisoner's legs to prevent escape	[_var._	twpvr]
+
+
+__tapvr__	_n._	an element of babo	[_var._	twpvr]
+
+
+__tapvr__	_n._	cane leaves used during ritual in Myoko festival		
+
+
+__tapvr__ 	_adv._	terrible (to hear)		
+
+
+__tapw__	_n._	an element of loin loom in the form of a rod used to tighten the threads while weaving		
+
+
+__tapya'__	v.	untie		
+
+
+__tapyo__	_n._	herbal salt		
+
+
+__tapyò__	_adj._	melodius; nice to hear		
+
+
+__tapyu__	_n._	a species of bamboo		
+
+
+__taqu__	_n._	bee (in group)		
+
+
+__taqu-aláa__	_n._	honey		
+
+
+__taqu-aru'__	_n._	honeycomb		
+
+
+__tar__	_v._	bend; break		
+
+
+__tar pwta__	_n._	peacock	[_syn._	tarlar]
+
+
+__tardu__	_n._	a bamboo container for storing meat	[_syn._	yo tardu]
+
+
+__tare__	_n._	thorn	[_var._	twre]
+
+
+__tarì__	_n._	hail		
+
+
+__tari'__	_n._	body odor		
+
+
+__tari'__	_n._	fern		
+
+
+__tari' burta'__	_n._	a variety of snake		
+
+
+__tariñ__	_n._	woven cane ring used as kneelet		
+
+
+__tarji__	_n._	scorpion; centipede		
+
+
+__tarjiñ__	_v._	straighten	[_ant._	tarki']
+
+
+__tarki'__	_v._	bend	[_ant._	tarjiñ]
+
+
+__tarko__	_n._	variety of plant used as antiseptic after burning it.		
+
+
+__tarlar__	_n._	peacock	[_syn._	tar pwta]
+
+
+__tarxw'__	_n._	break something with hand		
+
+
+__tarluñ__	_adj._	barren; childless		
+
+
+__tarpi__	_n._	variety of cane		
+
+
+__tarpiñ__	_n._	maggots		
+
+
+__tartu__	_v._	break		
+
+
+__tarú__	_n._	mosquito		
+
+
+__tarù__	_n._	rope		
+
+
+__taru'__	_n._	ant		
+
+
+__tarw__	_n._	shirt; top		
+
+
+__tarze__	_n._	pus	[_var._	taze]
+
+
+__tasañ__	_n._	beads		
+
+
+__tasañ-tayiñ__	_n._	ornament		
+
+
+__tase__	_n._	sago palm; tree fern (_Cyathea gigantea_)		
+
+
+__tasi__	n.	wall	[_var._	tarsi]
+
+
+__tarsi__	n.	wall	[_var._	tasi]
+
+
+__tasiñ__	_n._	larval dragonfly		
+
+
+__tasiñ pwha__	_n._	a variety of bamboo basket used for carrying vegetables or edible aquatic insects		
+
+
+__tasiñ siiñbo__	_n._	large-sized larvae of dragonfly	[_syn._	siñbo]
+
+
+__tasiñ siizi'__	_n._	small-sized larvae of dragonfly	[_syn._	sizi']
+
+
+__tasu-tase__	_adj._	noisy; boisterous		
+
+
+__tasvr__	_n._	variety of cane		
+
+
+__tasw'__	_n._	wart		
+
+
+__tatá__	_adj._	color pattern of mithun bull, described as overall black with a white spots on either side		
+
+
+__tatuñ buluñ__	_adj._	chubby	[_var._	utuñ buluñ]
+
+
+__tatw'__	_n._	frog		
+
+
+__taú__	_n._	desciptive term for mithun bull with color pattern of dark brown color with while in the lower parts of the limbs		
+
+
+__tau yamu__	_n._	firefly		
+
+
+__taxe'__	_n._	a variety of cane		
+
+
+__taxe__	_n._	tick	[_syn._	twxe]
+
+
+__taxó__	_adj._	bald		
+
+
+__taxò__	_n._	bamboo split used for demarcating land		
+
+
+__taxuñ__	_n._	a bamboo fish trap	[_syn._	tajvr]
+
+
+__taxw__	_n._	squirrel		
+
+
+__taxw tabu__	_n._	bed bug				
+
+
+__taxw'__	_n._	head louse				
+
+
+__taxxuñ__	_n._	countercurrent fish trap				
+
+
+__taya rara__	_adj._	quite; deserted				
+
+
+__tayañ__	_n._	bee (single)				
+
+
+__tayu__	_n._	wasp				
+
+
+__taze__	_n._	pus	[_syn._	tarze]
+
+
+__tazi'__	_n._	corn				
+
+
+__tazi' aru'__	_n._	corn ear				
+
+
+__tazi' marpu__	_n._	cornsilk				
+
+
+__tazi' mwge__	_n._	tongs to roast grains of corn				
+
+
+__tazi' pamw__	_n._	corn powder				
+
+
+__te'__	_v._	fall  (esp. from a standing position)				
+
+
+__te'__	_v._	cut (esp. bushes)				
+
+
+__te'da'__	_v._	lean against something				
+
+
+__te'fa__	_adj._	slanted				
+
+
+__tebul__	_n._	table	[_or._	English]
+
+
+__teli__	_n._	oil	[_or._	Assamese]
+
+
+__tero yorsiñ__	_n._	dry chilly				
+
+
+__teya'__	_n._	millet (_Setaria italica_)				
+
+
+__te'hi__	_v._	fall down				
+
+
+__teliñ__	_v._	push something out	[_ant._	telw']	[_Ent._	teñ + aliñ]
+
+
+__telw'__	_v._	push something in by finger	[_ant._	teliñ]	[_Ent._	teñ + alw']
+
+
+__tema'__	_v._	touch	[_Ent._	teñ + mwma']	[_syn._	mwma']
+
+
+__teñ__	_v._	keep in place; place something				
+
+
+__teñ__	_v._	touch (esp. with finger)				
+
+
+__teñbya'__	_v._	get burnt by touching something hot				
+
+
+__tero__	_n._	chilly				
+
+
+__tero yorsañ__	_n._	green chilly				
+
+
+__ti'__	_v._	rub; scratch				
+
+
+__ti'ho__	_v._	make a mark				
+
+
+__ti'mya'__	_v._	stain; smudge	[_syn._	ti'mya'-ti'sa]
+
+
+__ti'pa'__	_v._	erase; wipe off; rub out		
+
+
+__tihi'__	_adj._	sweet		
+
+
+__tihxo__	_adj._	too much sweet or salty		
+
+
+__tii__	_v._	pour	[_syn._	to]
+
+
+__tiilo__	_v._	to pour some liquid down		
+
+
+__tiñpi__	_n._	dry field; dry cultivation area		
+
+
+__tipi__	_n._	thumb impression		
+
+
+__tisvr__	_adj._	sweet		
+
+
+__tiyo'__	_n._	insect; worm		
+
+
+__to__	_v._	pour	[_syn._	tii]
+
+
+__to'__	_v._	descend; go down; climb down		
+
+
+__to'pyo__	_v._	descend first		
+
+
+__toliñ__	_v._	pour something out	[_ant._	tolw']
+
+
+__tolw'__	_v._	pour something in	[_ant._	toliñ]
+
+
+__toñ__	_v._	offer; give		
+
+
+__toñ__	_v._	display		
+
+
+__toñkiñ__	_v._	display		
+
+
+__toñrò__	_adj._	small (of group)	[_ant._	tozó]
+
+
+__toñsvr__	_v._	advise; suggest; counsel; guide		
+
+
+__toofo'__	_n._	a variety of flowering plant	[_syn._	kwle toofo']
+
+
+__tooko__	_n._	prop; support; post		
+
+
+__tooqo__	_n._	wool		
+
+
+__tooqo pufe__	_n._	woollen cloth		
+
+
+__tooro__	_n._	Rhino beetle		
+
+
+__topa'__	_v._	pour something away		
+
+
+__tor__	_v._	unfurl (of flag); spead		
+
+
+__tozó__	_adj._	small (of group)	[_ant._	toñrò]
+
+
+__tú__	_v._	kick		
+
+
+__tù__	_v._	push		
+
+
+__tu'te'__	_n._	forehead of a cattle		
+
+
+__túcé__	_v._	break something by kicking		
+
+
+__tùda'__	_v._	place or push something upright		
+
+
+__tudw__	_adj._	short		
+
+
+__tufa__	_v._	ambush; lie in wait for; lay trap for		
+
+
+__túhw-túxe'__	_v._	kick to and fro with the limb		
+
+
+__tule'__	_adj._	slippery; slippy	[_syn._	bwle']
+
+
+__tulí__	_v._	copy; replicate; click (a photo with a camera)	[_or._	Assamese]
+
+
+__tumbu ude__	_n._	tent		
+
+
+__tuñ__	_v._	imprison; confine; hold captive		
+
+
+__túpi'__	_v._	break something fragile by kicking		
+
+
+__tuqiñ__	_n._	stump of a felled tree		
+
+
+__tur__	_v._	be alive	[_var._	tor]
+
+
+__tur__	_v._	support (esp. with a pole or stick)	[_var._	tor]
+
+
+__turcañ__	_n._	post; pillar	[_var._	torcañ]
+
+
+__turla'__	_n._	glass	[_var._	tùla']
+
+
+__tusi'__	_v._	join; attach; couple; connect	[_syn._	me'si']
+
+
+__tusù__	_v._	break a relationship		
+
+
+__tusvr__	_v._	straighten one's leg		
+
+
+__tutu popo__	_adj._	impulsive; impetuous; reckless		
+
+
+__tuu__	_v._	pick up		
+
+
+__tù__	_v._	flood		
+
+
+__tuubyú__	_n._	edge		
+
+
+__tuuli__	_n._	post; pillar		
+
+
+__tuulu__	_n._	subclan		
+
+
+__tuuma__	_adj._	courageous; daring		
+
+
+__tuupo__	_n._	a plant whole upper portion has been removed		
+
+
+__tusi'-tusi'__	_adv._	one after the other		
+
+
+__tutu nanu__	_n._	bumble bee		
+
+
+__tw_	_v._	offer		
+
+
+__tw'__	_v._	pound, strike		
+
+
+__tw'__	_v._	jerk; pull suddenly		
+
+
+__tw'diñ__	_v._	collide		
+
+
+__tw'ja'-tw'ya'__	_v._	tear apart; rip		
+
+
+__tw'jiñ__	_v._	stretch; lengthen; elongate; make longer	[_syn._	pujiñ]
+
+
+__tw'li tw'li__	_adv._	frequently; again and again; over and over again				
+
+
+__tw'lo__	_v._	to pull down				
+
+
+__twdw__	_adj._	short	[_ant._	wbyo']
+
+
+__twge'__	_v._	stick; adhere; be glued	[_adj._	sticky]	[_syn._	age']
+
+
+__twgò__	_n._	a variety of ritual (esp. to propitiate benevolent deities)	[_ant._	ciciñ]
+
+
+__twko__	_n._	money	[_or._	Assamese]
+
+
+__twle'__	_n._	a variety of garlic	[_syn._	tale']
+
+
+__twlo__	_v._	drop something from a height				
+
+
+__twmo__	_v._	suspend; postpone				
+
+
+__twniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	taniñ]
+
+
+__twp pwpw__	_n._	Himalayan cuckoo (_Cuculus saturatus_)
+
+
+__twpe__	_n._	tattoo				
+
+
+__twpi-twpo__	_adj._	neat; accurate				
+
+
+__twpya'__	_n._	a necklace with a few beads on a black thread used as a talisman				
+
+
+__twpya' tarw__	_n._	a variety of cotton top				
+
+
+__twqá__	_n._	fruit				
+
+
+__twre__	_n._	thorn	[_syn._	tare]
+
+
+__twrw__	_n._	forehead		
+
+
+__twrw huufi'__	_n._	a variety of green grasshopper		
+
+
+__twrw tatw'__	_n._	toad		
+
+
+__tww__	_v._	throw; toss; fling		
+
+
+__tww__	_v._	chop, as of cutting down a tree		
+
+
+__twwló__	_v._	cut down (a tree)		
+
+
+__twxe__	_n._	louse	[_var._	taxe]
+
+
+__twxw'__	_adj._	curly		
