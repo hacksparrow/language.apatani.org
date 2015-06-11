@@ -66,7 +66,7 @@ __wrw__	_v._	fumigate rodents in their holes with smoke
 __wrww__	_n._	horn	[_syn._	arww; swrww]
 
 
-__wsañ_	_n._	high jump				
+__wsañ__	_n._	high jump				
 
 
 __wskul__	_n._	school	[_syn._	uskul]	[_or._	English]
