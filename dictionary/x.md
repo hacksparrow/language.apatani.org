@@ -6,98 +6,286 @@ devanagari: ख
 ipa: x
 ---
 
-xa	v.	peel; pare; skin; take the skin off		
-xaa	v.	collect; collect contributions	syn.	mya
-xa'ce	v.	split; break apart		
-xa	v.	bark (of a barking deer)		
-xaañcu'	n.	can container with a lid, esp. to store rice		
-xaaruñ	n.	a benevolent god that protects a household		
-xaaruñ agyañ	n.	altar for the xaruñ god		
-xaata'	adj.	dirty; stain on the face after crying		
-xaci	n.	ceiling rack for storing meat	syn.	yo bade; bade
-xañ	v.	narrate; gossip		
-xañxañ	adv.	firmly; pervently; forcefully	syn.	xañxañ dwrañ
-xañxañ-dwrañ	adv.	firmly; pervently; forcefully	syn.	xañxañ
-xapa'	v.	scrape something off		
-xapo	n.	bamboo rack above the fireplace		
-xapú	v.	peel off		
-xaq	n.	bed; cot	syn.	saq
-xaqá	v.	kneel down		
-xaqe fañge	n.	water scorpion (Nepidae)		
-xe	v.	read; count		
-xe	v.	distribute; divide		
-xe	v.	force something		
-xè	v.	suffice; be enough		
-xe'	v.	cry; sob		
-xe'	v.	put on dress; cover		
-xe'	v.	winnow		
-xeda harnw	n.	special messenger, usually female, who informs about a ritual like Subu or Muruñ to the traditional friends in other villages		
-xe'liñ	v.	take off; uncover	ant.	xe'lw'
-xe'lw'	v.	put on; cover	ant.	xe'liñ
-xe'pa'	v.	undress; take dress off		
-xe'qw	v.	sob impulsively		
-xée	v.	fry; roast		
-xeeñ	v.	roast		
-xei	n.	cinnamon (Cinnamomum verum)		
-xei áfò	n.	cinnamon bark		
-xeli	v.	play		
-xelo	n.	ritual occasion in Myoko festival on which the gods are bade farewell, usually on the 15th day of the festival		
-xelw'	v.	force someone to do something		
-xeñ	v.	cut		
-xeñ	v.	toil	syn.	apó xeñ
-xeñji'	n.	temple	var.	xezi'
-xeñji' amú	n.	hair on the temple		
-xeñpi	v.	dry by heating		
-xeñqu	v.	warm something		
-xeñtw pakù	n.	ashy wood pigeon (Columba pulchricollis)		
-xeta'	n.	book	Or.	Assamese
-xezi'	n.	temple	var.	xeñji'
-xirki	n.	window		
-xo'	v.	crow (as a cock)		
-xo'	v.	pry open		
-xo'kó-xo'pè	adj.	disorganized; mess; tangled		
-xomu	n.	ritual element of an altar		
-xomyú	adj.	tapering		
-xoñcañ	n.	corner		
-xoñdañ	n.	front or back wall of a house	syn.	piñdañ
-xoñxuñ	n.	falcon; eagle		
-xoo	v.	stir		
-xooló	adj.	main; supreme; principal; chief; head		
-xoopa'	v.	remove something by using a stick as a lever		
-xootu	n.	metal skewer for male hair knot		
-xú	v.	aim		
-xú	v.	cut off; prune		
-xú	v.	measure		
-xugyu'	n.	funnel shaped cane or bamboo distiller		
-xui'	adj.	sour		
-xuñta	n.	timber; wooden post
-xuu	adj.	old
-xw	num.	six
-xw	v.	cost; value
-xw	v.	count; innumerate
-xw	v.	slide while in sitting position; scoot
-xw'	v.	prod; pound
-xwka	v.	count; innumerate
-xw'ko'	v.	unbolt
-xwbe	n.	other
-xwbo ajiñ	n.	ceremonial friend
-xwbo lariñ	n.	millipede
-xwce	v.	divide (by counting)
-xwdiñ	v.	add
-xwjañ	n.	small intestine
-xwjañ-xwro	n.	bowels
-xwlañ	n.	a variety of red-brown squirrel
-xwnwñ	adj.	costly; valued
-xwpa'	v.	substract
-xwpó	v.	cut a tree in the middle of its trunk
-xwqw-xaqa	adj.	muddle
-xwro	n.	large intestine
-xwtiñ	v.	compare
-xww	v.	boil; cook
-xww	v.	tie, esp. hair into a knot
-xwwgu	v.	warm something by boiling
-xwwke	v.	tie loosely
-xwwnw	n.	navel
-xwwnwñ	adj.	cooked
-xwwtw	n.	ascites
-xwxu-xwce	v.	discriminate; differentiate
+__xa__	_v._	peel; pare; skin; take the skin off		
+
+
+__xaa__	_v._	collect; collect contributions	[_syn._	mya]
+
+
+__xa'ce__	_v._	split; break apart		
+
+
+__xa__	_v._	bark (of a barking deer)		
+
+
+__xaañcu'__	_n._	can container with a lid (esp. to store rice)
+
+
+__xaaruñ__	_n._	a benevolent god that protects a household		
+
+
+__xaaruñ agyañ__	_n._	altar for the xaruñ god		
+
+
+__xaata'__	_adj._	dirty; stain on the face after crying		
+
+
+__xaci__	_n._	ceiling rack for storing meat	[_syn._	yo bade; bade]
+
+
+__xañ__	_v._	narrate; gossip		
+
+
+__xañxañ__	_adv._	firmly; pervently; forcefully	[_syn._	xañxañ dwrañ]
+
+
+__xañxañ-dwrañ__	_adv._	firmly; pervently; forcefully	[_syn._	xañxañ]
+
+
+__xapa'__	_v._	scrape something off		
+
+
+__xapo__	_n._	bamboo rack above the fireplace		
+
+
+__xapú__	_v._	peel off		
+
+
+__xaq__	_n._	bed; cot	[_syn._	saq]
+
+
+__xaqá__	_v._	kneel down		
+
+
+__xaqe fañge__	_n._	water scorpion (_Nepidae_)		
+
+
+__xe__	_v._	read; count		
+
+
+__xe__	_v._	distribute; divide		
+
+
+__xe__	_v._	force something		
+
+
+__xè__	_v._	suffice; be enough		
+
+
+__xe'__	_v._	cry; sob		
+
+
+__xe'__	_v._	put on dress; cover		
+
+
+__xe'__	_v._	winnow		
+
+
+__xeda harnw__	_n._	special messenger, usually female, who informs about a ritual like Subu or Muruñ to the traditional friends in other villages		
+
+
+__xe'liñ__	_v._	take off; uncover	[_ant._	xe'lw']
+
+
+__xe'lw'__	_v._	put on; cover	[_ant._	xe'liñ]
+
+
+__xe'pa'__	_v._	undress; take dress off		
+
+
+__xe'qw__	_v._	sob impulsively		
+
+
+__xée__	_v._	fry; roast		
+
+
+__xeeñ__	_v._	roast		
+
+
+__xei__	_n._	cinnamon (_Cinnamomum verum_)		
+
+
+__xei áfò__	_n._	cinnamon bark		
+
+
+__xeli__	_v._	play		
+
+
+__xelo__	_n._	ritual occasion in Myoko festival on which the gods are bade farewell, usually on the 15th day of the festival		
+
+
+__xelw'__	_v._	force someone to do something		
+
+
+__xeñ__	_v._	cut		
+
+
+__xeñ__	_v._	toil	[_syn._	apó xeñ]
+
+
+__xeñji'__	_n._	temple	[_var._	xezi']
+
+
+__xeñji' amú__	_n._	hair on the temple		
+
+
+__xeñpi__	_v._	dry by heating		
+
+
+__xeñqu__	_v._	warm something		
+
+
+__xeñtw pakù__	_n._	ashy wood pigeon (_Columba pulchricollis_)		
+
+
+__xeta'__	_n._	book	[_or._	Assamese]
+
+
+__xezi'__	_n._	temple	[_var._	xeñji']
+
+
+__xirki__	_n._	window		
+
+
+__xo'__	_v._	crow (as a cock)		
+
+
+__xo'__	_v._	pry open		
+
+
+__xo'kó-xo'pè__	_adj._	disorganized; mess; tangled		
+
+
+__xomu__	_n._	ritual element of an altar		
+
+
+__xomyú__	_adj._	tapering		
+
+
+__xoñcañ__	_n._	corner		
+
+
+__xoñdañ__	_n._	front or back wall of a house	[_syn._	piñdañ]
+
+
+__xoñxuñ__	_n._	falcon; eagle		
+
+
+__xoo__	_v._	stir		
+
+
+__xooló__	_adj._	main; supreme; principal; chief; head		
+
+
+__xoopa'__	_v._	remove something by using a stick as a lever		
+
+
+__xootu__	_n._	metal skewer for male hair knot		
+
+
+__xú__	_v._	aim		
+
+
+__xú__	_v._	cut off; prune		
+
+
+__xú__	_v._	measure		
+
+
+__xugyu'__	_n._	funnel shaped cane or bamboo distiller		
+
+
+__xui'__	_adj._	sour		
+
+
+__xuñta__	_n._	timber; wooden post
+
+
+__xuu__	_adj._	old
+
+
+__xw__	_num._	six
+
+
+__xw_	_v._	cost; value
+
+
+__xw__	_v._	count; innumerate
+
+
+__xw__	_v._	slide while in sitting position; scoot
+
+
+__xw'__	_v._	prod; pound
+
+
+__xwka__	_v._	count; innumerate
+
+
+__xw'ko'__	_v._	unbolt
+
+
+__xwbe__	_n._	other
+
+
+__xwbo ajiñ__	_n._	ceremonial friend
+
+
+__xwbo lariñ__	_n._	millipede
+
+
+__xwce__	_v._	divide (by counting) [_Entym._ xw (count) + tace (divide)]
+
+
+__xwdiñ__	_v._	add
+
+
+__xwjañ__	_n._	small intestine
+
+
+__xwjañ-xwro__	_n._	bowels
+
+
+__xwlañ__	_n._	a variety of red-brown squirrel
+
+
+__xwnwñ__	_adj._	costly; valued
+
+
+__xwpa'__	_v._	substract
+
+
+__xwpó__	_v._	cut a tree in the middle of its trunk
+
+
+__xwqw-xaqa__	_adj._	muddle
+
+
+__xwro__	_n._	large intestine
+
+
+__xwtiñ__	_v._	compare
+
+
+__xww__	_v._	boil; cook
+
+
+__xww__	_v._	tie (esp. hair into a knot)
+
+
+__xwwgu__	_v._	warm something by boiling
+
+
+__xwwke__	_v._	tie loosely
+
+
+__xwwnw__	_n._	navel
+
+
+__xwwnwñ__	_adj._	cooked
+
+
+__xwwtw__	_n._	ascites
+
+
+__xwxu-xwce__	_v._	discriminate; differentiate
