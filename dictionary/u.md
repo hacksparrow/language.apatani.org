@@ -18,7 +18,7 @@ __ugù__	_n._	fireplace; hearth
 __ugya-ragya__	_adj._	with lots of holes			
 
 
-__úì_	_n._	spirit; god; devil			
+__úì__	_n._	spirit; god; devil			
 
 
 __úì  ácì__	_v._	dive inside water			
