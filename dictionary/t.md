@@ -18,7 +18,7 @@ __ta'ce__	_n._	crack; rupture; split
 __ta'cè__	_v._	cut into two		
 
 
-__ta'kó_	_v._	dig a hole or trench		
+__ta'kó__	_v._	dig a hole or trench		
 
 
 __ta'miñ__	_n._	Indian barberry (_Mahonia aquifolium_)		
@@ -900,7 +900,7 @@ __tusi'-tusi'__	_adv._	one after the other
 __tutu nanu__	_n._	bumble bee		
 
 
-__tw_	_v._	offer		
+__tw__	_v._	offer		
 
 
 __tw'__	_v._	pound, strike		
