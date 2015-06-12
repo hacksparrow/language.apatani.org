@@ -12,7 +12,7 @@ __la'bi'__	_n._	dextral; right (side)	[_ant._	la'ci]
 
 __la'bú__	_n._	sleeve; part of a garment that covers the arms	
 
-__a'bu__	_v._	quickly wash one's hand		
+__la'bu__	_v._	quickly wash one's hand		
 
 __la'ca__	_n._	handicap of the hand; disability of the hand	
 
@@ -94,7 +94,7 @@ __la'tiñ__	_adv._	forcefully; with strength
 
 __la'xwñ__	_n._	dirt on the hands		
 
-__laa__	_v._	take; grasp; cluth		
+__laa__	_vr._	take; grasp; cluth		
 
 __laako__	_n._	a crossed stick in front of the entrance to signify the performance of a ritual in the household	
 
@@ -130,7 +130,7 @@ __lama__	_adj._	few; some; scant; meagre	[_syn._	icu;] ice
 
 __lamu'-layu__	_adj._	pinkish (color)		
 
-__lañ__	_v._	move (esp. of head)		
+__lañ__	_vr._	move (esp. of head)		
 
 __lañcañ__	_adj._	red		
 
@@ -158,13 +158,13 @@ __laqe__	_num._	hundred
 
 __laqu__	_n._	neck
 
-__lar__	_v._	challenge; bet		
+__lar__	_vr._	challenge; bet		
 
 __laxw'__	_adj._	cold	[_Ant._	gubu']
 
-__le'__	_v._	flap (of wing)		
+__le'__	_vr._	flap (of wing)		
 
-__le'__	_v._	lop off		
+__le'__	_vr._	lop off		
 
 __le'be'__	_v._	flap (wings) with helplessness		
 
@@ -193,13 +193,13 @@ __lembo__	_n._	road	[_var._	leñbo]
 
 __lembyañ-lerañ__	_n._	crossroad; an intersection of two or more roads		
 
-__leñ__	_v._	filter; sieve; sift		
+__leñ__	_vr._	filter; sieve; sift		
 
-__leñ__	_v._	perish en masse, as do the wild bamboo after flowering	
+__leñ__	_vr._	perish en masse, as do the wild bamboo after flowering	
 
-__leñ__	_v._	collect, as honey		
+__leñ__	_vr._	collect, as honey		
 
-__leñ__	_v._	build ladder on a tree to climb it	
+__leñ__	_vr._	build ladder on a tree to climb it	
 
 __leñbo__	_n._	road	[_var._	lembo]
 
@@ -211,15 +211,15 @@ __leqò aji__	_n._	rice field near the village	[_ant._	jabyò aji]
 
 __leyu__	_n._	a small path leading to a village		
 
-__li__	_v._	sow; seed; broadcast		
+__li__	_vr._	sow; seed; broadcast		
 
 __li lilañ__	_n._	cicada (Cicadidae)		
 
 __li'ki'-li'ko__	_adv._	showy; flirty		
 
-__lii__	_v._	challenge, as in potlatch		
+__lii__	_vr._	challenge, as in potlatch		
 
-__liñ__	_v._	exit; go out		
+__liñ__	_vr._	exit; go out		
 
 __liñgya__	_n._	exit; doorway; gateway	
 
@@ -277,7 +277,7 @@ __lozì__	_n._	two days
 
 __lozì-lohiñ__	_n._	some days		
 
-__lu__	_v._	speak; talk; converse; articulate		
+__lu__	_vr._	speak; talk; converse; articulate		
 
 __luah__	_n._	dumb; mute		
 
@@ -367,11 +367,11 @@ __luzo__	_v._	speak without purpose
 
 __luzo'__	_v._	practice speaking
 
-__lw__	_v._	plant
+__lw__	_vr._	plant
 
-__lw'__	_v._	shed, as leaves do from the trees
+__lw'__	_vr._	shed, as leaves do from the trees
 
-__lw'__	_v._	put, esp. grains into a container
+__lw'__	_vr._	put, esp. grains into a container
 
 __lw'su__	_v._	interchange; exchange
 
@@ -459,7 +459,7 @@ __lwsiñ pwtu__	_n._	calf
 
 __lwta'__	_n._	cockspur		
 
-__lww__	_v._	lie down		
+__lww__	_vr._	lie down		
 
 __lwwbuñ__	_n._	unnatural death, of a woman		
 
