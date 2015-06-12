@@ -13,7 +13,8 @@ _syn._ synonym
 _or._ origin  
 _n._ noun  
 _num._ number  
-_v._ verb  
+_v._ verb    
+_Vr._ verb root   
 _adv._ adverb  
 _int._ interjection  
 _adj._ adjective  
