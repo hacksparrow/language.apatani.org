@@ -54,7 +54,7 @@ __imo__	_n._	paddy	[_var._	emo]
 
 __impya'__	_n._	cotton; wool	[_var._	empya']  
 
-__iñ__	_v._	go		  
+__iñ__	_vr._	go		  
 
 __iñpó__	_v._	cross; pass by		 
 
