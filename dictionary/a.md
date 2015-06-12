@@ -8,7 +8,7 @@ ipa: a
 
 __a__ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made  
   
-__áa__  _v._  come; arrive; enter  
+__áa__  _Vr._  come; arrive; enter  
   
 __áade__  _v._  come close; approach  
   
