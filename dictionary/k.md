@@ -6,9 +6,9 @@ devanagari: क
 ipa: k
 ---
 
-__ka__	_v._	see; look at		
+__ka__	_vr._	see; look at		
 
-__ka'__	_v._	solidify; freeze; coagulate		
+__ka'__	_vr._	solidify; freeze; coagulate		
 
 __kabyo__	_v._	yearn; wish to possess something or someone		
 
@@ -146,9 +146,9 @@ __kaqu__	_v._	differentiate; distinguish; tell apart
 
 __kaqu-kare__	_v._	discriminate; be biased against; be prejudiced against		
 
-__kar__	_v._	emerge (of the moon)			
+__kar__	_vr._	emerge (of the moon)			
 
-__kàr__	_v._	roll (esp. a mat)				
+__kàr__	_vr._	roll (esp. a mat)				
 
 __karbyañ__	_adj._	full (of the moon)	[_syn._	harbyañ]		
 
@@ -198,9 +198,9 @@ __kaxè__	_v._	look in anger
 
 __kaxwñ-kamwñ__	_adv._	look with confusion; unsatisfactory; disagreeable		
 
-__ke__	_v._	write		
+__ke__	_vr._	write		
 
-__ke'__	_v._	put on cloth (esp. blankets, quilts or shawls); cover; overspread; overlay	
+__ke'__	_vr._	put on cloth (esp. blankets, quilts or shawls); cover; overspread; overlay	
 
 __ke'ba__	_v._	put cloth on somebody		
 
@@ -216,9 +216,9 @@ __keciñ__	_v._	to know how to write
 
 __kedu__	_n._	an agricultural implement of short wooden digging stick used to make holes for planting paddy or millet		
 
-__kee__	_v._	rub (like a tobacco in the hand)		
+__kee__	_vr._	rub (like a tobacco in the hand)		
 
-__kée__	_v._	pole vault; jump with a pole		
+__kée__	_vr._	pole vault; jump with a pole		
 
 __keele__	_n._	an agricultural implement of short pointed bamboo chisel used for weeding		
 
@@ -238,7 +238,7 @@ __kela'__	_n._	good writer; one who writes well	[_adv._	good in writing; skilled
 
 __kempa__	_int._	interjection expressing sympathy		
 
-__keñ__	_v._	injure; cause pain or discomfort		
+__keñ__	_vr._	injure; cause pain or discomfort		
 
 __kena kuru__	_n._	a variety of bird		
 
@@ -268,11 +268,11 @@ __kiru'__	_n._	hunting party
 
 __ko__	_prep._	in; at		
 
-__ko__	_v._	throw out (from the mouth); throw up		
+__ko__	_vr._	throw out (from the mouth); throw up		
 
-__ko'__	_v._	pry; move or open something or to separate something from something else with force		
+__ko'__	_vr._	pry; move or open something or to separate something from something else with force		
 
-__ko'__	_v._	to divine an omen by examining a chicken liver		
+__ko'__	_vr._	to divine an omen by examining a chicken liver		
 
 __ko'bu__	_n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bw]
 
@@ -356,7 +356,7 @@ __kone koñtw__	_adv._	only one; lonely	[_syn._	akó koñtw]
 
 __koñtw__	_part._	only		
 
-__kóo__	_v._	move the hips, as when closing a door with the hands full or bumping against someone	
+__kóo__	_vr._	move the hips, as when closing a door with the hands full or bumping against someone	
 
 __kóò__	_n._	son				
 
@@ -442,7 +442,7 @@ __kozañ__	_n._	the year before last; two years ago
 
 __kozañ zaqe__	_n._	three years back		
 
-__ku__	_v._	ask for; beg; seek; request; solicit		
+__ku__	_vr._	ask for; beg; seek; request; solicit		
 
 __ku'bañ__	_v._	keep something, esp. a container, upside down		
 
@@ -458,7 +458,7 @@ __kumpa'__	_v._	throw away (esp. from a container)
 
 __kumur__	_n._	grasshopper	[_var._	kurmu]
 
-__kuñ__	_v._	pour, esp. grains from one container to other		
+__kuñ__	_vr._	pour, esp. grains from one container to other		
 
 __kupyu'__	_v._	rinse (esp. a container like a pot)	[_syn._	kupyu' kusvr]
 
@@ -478,7 +478,7 @@ __kutiñ__	_n._	traditional relationship
 
 __kutu__	_n._	oil; pig fat used as hair oil		
 
-__kuu__	_v._	throw; hurl		
+__kuu__	_vr._	throw; hurl		
 
 __kuupa'__	_v._	throw away		
 
