@@ -6,10 +6,10 @@ devanagari: ग
 ipa: g
 ---
 
-__ga__  _v._  scold; rebuke; reprimand;chide        
+__ga__  _vr._  scold; rebuke; reprimand;chide        
 
 
-__ga'__ _v._  grasp; clutch; grip; grab       
+__ga'__ _vr._  grasp; clutch; grip; grab       
 
 
 __ga'bw__ _v._  hold on to something (as someone's hand, a stick or a knife)        
@@ -75,10 +75,10 @@ __garw__  _n._  vehicle
 __gasu__  _v._  have verbal quarrel       
 
 
-__gè__  _v._  mark; write [_syn._  ke, page]    
+__gè__  _vr._  mark; write [_syn._  ke, page]    
 
 
-__ge'__ _v._  stick; adhere to; glue  [_syn._  age']    
+__ge'__ _vr._  stick; adhere to; glue  [_syn._  age']    
 
 
 __gehe__  _v._  yawn        
@@ -90,7 +90,7 @@ __genda hamañ__ _n._  Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides
 __genw nañ__  _v._  blame someone else for one' own mistake       
 
 
-__gi__  _v._  operate a hinged door       
+__gi__  _vr._  operate a hinged door       
 
 
 __giko'__ _v._  open (a hinged door)  [_ant._  gipiñ] [_syn._  gipyañ]
@@ -117,13 +117,13 @@ __giyañ hamañ__ _n._  cabbage leaf mustard (_Brassica juncea_ var. _rugosa_)  
 __giyañ yorli__ _n._  cabbage leaf mustard seed       
 
 
-__go__  _v._  fly; soar       
+__go__  _vr._  fly; soar       
 
 
-__go__  _v._  throw [_syn._  ri; ku]    
+__go__  _vr._  throw [_syn._  ri; ku]    
 
 
-__go'__ _v._  measure with outstretched thumb and finger        
+__go'__ _vr._  measure with outstretched thumb and finger        
 
 
 __goi tabú__  _n._  common Indian monitor lizard (_Varanus bengalensis_)  [_var._  gyoi tabú]   
@@ -144,7 +144,7 @@ __golu paka'__  _n._  dimple on the cheek
 __gomu__  _n._  facial hair; beard; moustache       
 
 
-__goñ__ _v._  utter; emit       
+__goñ__ _vr._  utter; emit       
 
 
 __goñcañ__  _n._  labial commissure       
@@ -177,13 +177,13 @@ __goñpw__ _n._  chin
 __goñpyañ__ _v._  close mouth [_ant._  goñko']  [_syn._  goñpiñ]
 
 
-__goo__ _v._  demarcate a boundary (esp. with fencing)        
+__goo__ _vr._  demarcate a boundary (esp. with fencing)        
 
 
-__góò__ _v._  hug; embrace; cuddle        
+__góò__ _vr._  hug; embrace; cuddle        
 
 
-__gòo__ _v._  swell (as a wound); bloat; bulge [_syn._  pyañ]    
+__gòo__ _vr._  swell (as a wound); bloat; bulge [_syn._  pyañ]    
 
 
 __gòobu__ _v._  swell (as a wound); bloat; bulge [_syn._  pyañ]  [_var._  gòrbú; gòbúr]
@@ -219,13 +219,13 @@ __gorxañ__  _n._  armpit; underarm
 __gozó__  _adj._  small (of a mouth); low voice [_ant._  gorò]    
 
 
-__gu__  _v._  crawl (as a baby or a caterpillar)        
+__gu__  _vr._  crawl (as a baby or a caterpillar)        
 
 
-__gu'__ _v._  hatch; sit on or brood eggs       
+__gu'__ _vr._  hatch; sit on or brood eggs       
 
 
-__gu'__ _v._  turn or turn oneself over (esp. in lying position)        
+__gu'__ _vr._  turn or turn oneself over (esp. in lying position)        
 
 
 __gu'pi__ _v._  lie face down       
@@ -249,10 +249,10 @@ __guqa__  _v._  lie down (esp. of quadruplets)
 __guri'__ _v._  get up; stand up  [_syn._  bari']   
 
 
-__gw__  _v._  wear clothing; pregnant; bear (fruit or leaves, of a tree)        
+__gw__  _vr._  wear clothing; pregnant; bear (fruit or leaves, of a tree)        
 
 
-__gw'__ _v._  lie down        
+__gw'__ _vr._  lie down        
 
 
 __gw'ha__ _v._  lie down        
@@ -288,7 +288,7 @@ __gwrw__  _n._  spring action noose trap
 __gwtu-gwra__ _n._  traditional relations and ways of life        
 
 
-__gww__ _v._  move by manouvering       
+__gww__ _vr._  move by manouvering       
 
 
 __gwwpw__ _n._  goiter        
@@ -303,16 +303,16 @@ __gwwzó__ _adj._  small (of a basket)  [_ant._  gwwrò]
 __gwxu'__ _n._  worn out dress        
 
 
-__gya__ _v._  dry (as of liquid)       
+__gya__ _vr._  dry (as of liquid)       
 
 
-__gya'__  _v._  wander; roam        
+__gya'__  _vr._  wander; roam        
 
 
-__gyáa__  _v._  spread (esp. seeds or sand by throwing)       
+__gyáa__  _vr._  spread (esp. seeds or sand by throwing)       
 
 
-__gyàa__  _v._  cut, with an inward motion of the blade         
+__gyàa__  _vr._  cut, with an inward motion of the blade         
 
 
 __gyaasi__  _n._  mother's mother's brother's patrilines; portion of the meat traditionally offered to such relations       
@@ -330,19 +330,19 @@ __gyandi__  _n._  debt; dues; financial obligation
 __gyapya-gyasa__  _v._  spread by throwing        
 
 
-__gyo__ _v._  hurt or kill accidentally       
+__gyo__ _vr._  hurt or kill accidentally       
 
 
-__gyo'__  _v._  call; hail        
+__gyo'__  _vr._  call; hail        
 
 
-__gyo'__  _v._  prepare cane rope; smoothen cane rope       
+__gyo'__  _vr._  prepare cane rope; smoothen cane rope       
 
 
 __gyoi tabú__ _n._  common Indian monitor lizard (_Varanus bengalensis_)  [_var._  goi tabú]    
 
 
-__gyoo'__ _n._  noose trap        
+__gyoo'__ _nr._  noose trap        
 
 
 __gyopu__ _n._  shooting star       
@@ -357,7 +357,7 @@ __gyu-gyuro__ _n._  trachea
 __gyuñtañ__ _n._  negotiator; go between in a marriage        
 
 
-__gyuu__  _v._  yell; howl; scream; shout       
+__gyuu__  _vr._  yell; howl; scream; shout       
 
 
 __gyuzañ__  _n._  ritual performed to appease a malevolent spiriti  [_ant._  twgò]    
