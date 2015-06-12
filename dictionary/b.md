@@ -6,7 +6,7 @@ devanagari: ब
 ipa: b
 ---
 
-__ba__  _v._  vomit; puke; retch
+__ba__  _vr._  vomit; puke; retch
      
 __ba'__ _v._  carry; transport        
      
