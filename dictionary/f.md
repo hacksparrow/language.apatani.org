@@ -6,9 +6,9 @@ devanagari: ल्य
 ipa: ʎ
 ---
 
-__fa'__ _v._  burn; singe; smolder  
+__fa'__ _vr._  burn; singe; smolder  
 
-__fa'__ _v._  lick
+__fa'__ _vr._  lick
 
 __fa'co__ _n._  tiny metal bell [_syn._  za'co]
 
@@ -36,9 +36,9 @@ __fapu pufe__ _n._  an ordinary customary white shawl
 
 __faqa__  _v._  flow in (of water)
 
-__fe__  _v._  wade through
+__fe__  _vr._  wade through
 
-__fe'__ _v._  roll something (esp. thread between the palms)
+__fe'__ _vr._  roll something (esp. thread between the palms)
 
 __fe'be__ _n._  larva of water beetle [_syn._  bukofe'be]
 
@@ -52,7 +52,7 @@ __fe'pu__ _n._  doorlatch [_syn._  arkonanw; fe'ko]
 
 __fego__  _n._  threshold; entrance
 
-__feñ__ _v._  measure with outstretched hands
+__feñ__ _vr._  measure with outstretched hands
 
 __fì__  _v._  become
 
@@ -66,7 +66,7 @@ __fi'la__ _n._  the legs of the pigs sacrificed during Myoko which are usually p
 
 __fihe__  _post._ till; until
 
-__fíi__ _v._  slither (as snakes do)
+__fíi__ _vr._  slither (as snakes do)
 
 __fiifi'__  _adj._  horrifying  [_syn._  aha fiifi']
 
@@ -86,11 +86,11 @@ __fofi'-coci'__ _n._  rogue; an unreliable person [_syn._  suru dozó]
 
 __fohe__  _n._  one type; one variety
 
-__fo__  _v._  jump
+__fo__  _vr._  jump
 
-__foo__ _v._  tease out the outer layer of a bamboo as a rope
+__foo__ _vr._  tease out the outer layer of a bamboo as a rope
 
-__fóo__ _v._  collect, esp. firewood
+__fóo__ _vr._  collect, esp. firewood
 
 __fòobó__ _v._  jump across
 
