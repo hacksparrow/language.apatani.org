@@ -8,11 +8,11 @@ ipa: b
 
 __ba__  _vr._  vomit; puke; retch
      
-__ba'__ _v._  carry; transport        
+__ba'__ _vr._  carry; transport        
      
 __ba'so__ _adj._  long  [_syn._  wbyo'] [_ant._  twdw]
       
-__báa__ _v._  roll; spin; rotate        
+__báa__ _vr._  roll; spin; rotate        
    
 __baabu'__  _adj._  healthy (esp. of child); pampered        
    
@@ -22,7 +22,7 @@ __baarò__ _adj._  big flat object [_ant._  bazo, barzo]
    
 __baayo'__  _adv._  slow; sluggish        
    
-__bábì__  _v._  swing; dangle       
+__bábì__  _n._  swing; dangle       
    
 __babiñ__ _adj._  stark; bare, as of a field        
    
@@ -48,11 +48,11 @@ __balu__  _n._  garden
    
 __bañbañ__  _adj._  heavy or hoarse voice       
    
-__bar__ _v._  carry something with a horizontal bar or a rod        
+__bar__ _vr._  carry something with a horizontal bar or a rod        
    
-__bár__ _v._  charge interest       
+__bár__ _vr._  charge interest       
    
-__barr__  _v._  chant in a loud manner as when performing some traditional Apatani rituals        
+__barr__  _vr._  chant in a loud manner as when performing some traditional Apatani rituals        
    
 __baarañ__  _adj._  interior (esp. location of a house)        
    
@@ -94,9 +94,9 @@ __barzo__ _adj._  small flat object [_ant._  baarò] [_var._  bazo]
    
 __bazo__  _adj._  small flat object [_ant._  baarò] [_var._  barzó]
    
-__be__  _v._  fasten or tie       
+__be__  _vr._  fasten or tie       
    
-__be'__ _v._  spring, something under tension; leap (as frogs do)        
+__be'__ _vr._  spring, something under tension; leap (as frogs do)        
    
 __be'ce__ _v._  crack; split; rapture       
    
@@ -114,7 +114,7 @@ __be'ri__ _n._  decorative border; edge
    
 __bebu'__ _n._  gun [_syn._  mubu'; bibu']
    
-__bée__ _v._  chant; invoke       
+__bée__ _vr._  chant; invoke       
    
 __befe__  _v._  chatter; babble       
    
@@ -124,9 +124,9 @@ __beluñ__ _n._  friend; audience (term of reference)
    
 __beluñku__ _pron._ friends; audience (term of address)       
    
-__beñ__ _v._  vocalize (esp. of animals and birds); chirp; warble; sing        
+__beñ__ _vr._  vocalize (esp. of animals and birds); chirp; warble; sing        
    
-__beeñ__  _v._  shine, of sun; heat, of fire        
+__beeñ__  _vr._  shine, of sun; heat, of fire        
    
 __beqna__ _n._  brinjal (_Solanam melongena_) [_or._ Assamese]    
    
@@ -134,19 +134,19 @@ __beyuñ__ _n._  tomato; potato  [_var._  byayuñ]
    
 __beezì__ _n._  term of address for two audince; term of reference for two persons        
    
-__bi__  _v._  give; offer       
+__bi__  _vr._  give; offer       
    
 __bibu'__ _n._  gun syn.  mubu' [_var._  bebu']
    
 __bidiñ__ _n._  ritual hunting of monkey prior to Myoko festival        
    
-__bíi__ _v._  cascade; flow (as water)       
+__bíi__ _vr._  cascade; flow (as water)       
    
-__bìi__ v.  move to and fro; swing; oscillate        
+__bìi__ vr.  move to and fro; swing; oscillate        
    
-__bíi'__  _v._  emit sound; echo        
+__bíi'__  _vr._  emit sound; echo        
    
-__bíi'__  _v._  compensate; make reparation; make amends        
+__bíi'__  _vr._  compensate; make reparation; make amends        
    
 __biiku-bifa__  _adj._  boastful; egoistical; vainglorious        
    
@@ -170,7 +170,7 @@ __bije zaazi__  _n._  lichen around bamboo nodes  [_syn._  bije yatań, subu zaa
    
 __bilañ abíi__  _n._  Red and white Apatani traditional skirt        
    
-__biñ__ _v._  uproot (as of weed)        
+__biñ__ _vr._  uproot (as of weed)        
    
 __biñpa__ _n._  rope of bamboo skin       
    
@@ -190,7 +190,7 @@ __biyañ__ _n._  girdle (esp. of female used to hold the skirt)
    
 __biyañ tw'gya__  _n._  waist (esp. of female)        
    
-__bo__  _v._  cross; traverse       
+__bo__  _vr._  cross; traverse       
    
 __bo'go__ _n._  dam, for diverting water to irrigation channel        
    
@@ -200,15 +200,15 @@ __boha__  _n._  cane rope tied to a babó for acrobatic game; acrobatic game pla
    
 __bóì__ _n._  track made by large game        
    
-__bóo__ _v._  pull; tug; lug; drag; draw        
+__bóo__ _vr._  pull; tug; lug; drag; draw        
    
 __borta'__  _n._  a variety of snake; cobra var.  burta'; sala burta    
    
-__bù__  _v._  uproot        
+__bù__  _vr._  uproot        
    
-__bu'__ _v._  multiply; proliferate; procreate        
+__bu'__ _vr._  multiply; proliferate; procreate        
    
-__bu'__ _v._  burst; explode        
+__bu'__ _vr._  burst; explode        
    
 __bu'li uune__  _n._  a variety of ulcerative infective wound of the skin; ecthyma        
    
@@ -226,7 +226,7 @@ __bwluñ-bwle__  _adj._  sickly, unappetizing  [_var._  buluñ-bwle]
    
 __buluñ-bwle__  _adj._  sickly, unappetizing  [_var._  bwluñ-bwle]    
    
-__buñ__ _v._  crowd       
+__buñ__ _vr._  crowd       
    
 __buñci__ _n._  ninth month of the year; September-October        
    
@@ -242,9 +242,9 @@ __busañ tabú__  _n._  a variety of snake; Green Ratsnake (_Senticolis triaspis
    
 __busu'__ _v._  get loose; loosen; slacken        
    
-__buu__ _v._  hold; keep; own [_var._  bww]   
+__buu__ _vr._  hold; keep; own [_var._  bww]   
    
-__búu__ _v._  give birth to [_var._  bww]   
+__búu__ _vr._  give birth to [_var._  bww]   
    
 __buudu-buugyá__  _n._  household articles        
    
@@ -322,9 +322,9 @@ __bwso__  _adj._  afraid; scared; terrified
    
 __bwso-kaco__ _n._  forbidden; proscribed; prohibited       
    
-__bww__ _v._  hold; keep; own [_var._  buu]   
+__bww__ _vr._  hold; keep; own [_var._  buu]   
    
-__bww__ _v._  give birth to [_var._  buu]   
+__bww__ _vr._  give birth to [_var._  buu]   
    
 __bwya'__ _adj._  soft; spongy; pliable [_syn._  bwfe'] [_Ant._  alvr]
    
@@ -338,11 +338,11 @@ __bwzañ__ _n._  last year
    
 __bwzi'-bwza__  _adj._  silky; delicate; soft [_syn._  bwza-bwza]   
    
-__bya'__  _v._  hesitate; waver; vicillate        
+__bya'__  _vr._  hesitate; waver; vicillate        
    
-__byaa__  _v._  ruin; disintegrate        
+__byaa__  _vr._  ruin; disintegrate        
    
-__byáa__  _v._  roast; grill        
+__byáa__  _vr._  roast; grill        
    
 __byaací__  _n._  space between the front verandah and the main space in an Apatani house [_syn._  byaarañ]   
    
@@ -366,7 +366,7 @@ __byañtuñ__ _adj._  big and thick (esp. of flower)
    
 __byapu'__  _n._  bamboo shoot  [_syn._  behé, wtw rwbw, wtw bwrw]    
    
-__byar__  _v._  flip; flick       
+__byar__  _vr._  flip; flick       
    
 __byarbó__  _v._  jump across       
    
@@ -374,7 +374,7 @@ __byayuñ__  _n._  tomato; potato  [_var._  beyuñ]
    
 __byazó__ _adj._  small (esp. of flower)        
    
-__byo'__  _v._  shine (as sun); radiate; glow; glare        
+__byo'__  _vr._  shine (as sun); radiate; glow; glare        
    
 __byo'dá__  _adj._  bright; brilliant       
    
@@ -382,9 +382,9 @@ __byo'hú__  _v._  brighten; light up; illuminate
    
 __byodiñ__  _n._  an element of ritual altar        
    
-__byoñ__  _v._  extinguish (of a major fire); stop a fight       
+__byoñ__  _vr._  extinguish (of a major fire); stop a fight       
    
-__byo__ _v._  swim        
+__byo__ _vr._  swim        
    
 __byoopvr__ _n._  a variety of headgear       
    
@@ -394,7 +394,7 @@ __byuhu__ _n._  grave; tomb
    
 __byurw-byarw__ _adj._  dirty; unappetizing; messy  [_syn._  ulu-byalu]   
    
-__byuu__  v.  suck        
+__byuu__  vr.  suck        
    
 __byuxwñ__  n.  cemetry; burial ground; graveyard       
    
