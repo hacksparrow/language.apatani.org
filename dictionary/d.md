@@ -18,7 +18,7 @@ __da'hi'-da'mo__  _v._  stand for a while; wait for a while
 __da're'ke__  _n._  lower rack over the fireplace [_syn._  daare' re'ke]    
 
 
-__dáa__ _v._  take step; pace; tread        
+__dáa__ _vr._  take step; pace; tread        
 
 
 __daanw__ _n._  a gift item on the occasion of Mida, a part of Apatani marriage ceremony        
@@ -60,7 +60,7 @@ __damiñda__ _n._  a variety of Apatani traditional dance, accompanied by bwsí
 __damu__  _n._  wooden digging stick used as an agricultural implement        
 
 
-__dañ__ _v._  beat (with a stick)       
+__dañ__ _vr._  beat (with a stick)       
 
 
 __dañsò__ _n._  spear with long handle        
@@ -90,10 +90,10 @@ __dapo pogyañ__ _n._  an altar erected during a community penalty or to announc
 __daqi__  _v._  fall (from standing position); tumble       
 
 
-__dar__ _v._  move or lift with a stick used as a lever       
+__dar__ _vr._  move or lift with a stick used as a lever       
 
 
-__dar__ _v._  break (as a stick); crack; snap        
+__dar__ _vr._  break (as a stick); crack; snap        
 
 
 __daruu__ _n._  summer        
@@ -135,10 +135,10 @@ __dazi riila'__ _n._  sunray
 __dazo__  _adj._  without reason; aimless [_adv._  dazopa]    
 
 
-__de'__ _v._  crack; split; rapture       
+__de'__ _vr._  crack; split; rapture       
 
 
-__de'__ _v._  plait or weave       
+__de'__ _vr._  plait or weave       
 
 
 __de'go__ _n._  crack       
@@ -186,10 +186,10 @@ __didu__  _n._  liquid container of bamboo  [_syn._  dije]
 __didvr__ _adj._  fluent, as in speech; articulate        
 
 
-__diì__ _v._  detach; peel        
+__diì__ _vr._  detach; peel        
 
 
-__díi__ _v._  plant; transplant; implant        
+__díi__ _vr._  plant; transplant; implant        
 
 
 __diifañ__  _n._  areas of human activity between the forests and the villages        
@@ -207,7 +207,7 @@ __diiha__ _n._  clay soil
 __diiko'__  _n._  hard soil; lumps of soil        
 
 
-__díiñ__  _v._  curse       
+__díiñ__  _vr._  curse       
 
 
 __diipa'__  _v._  peel off; detach        
@@ -234,7 +234,7 @@ __dimu__  n.  hair (of head)
 __dimvr__ _n._  dust  [_syn._  pwmvr]   
 
 
-__diñ__ _v._  pound with something        
+__diñ__ _vr._  pound with something        
 
 
 __diñ nanw__  _n._  pillow; headrest  [_syn._  garu]    
@@ -300,7 +300,7 @@ __domiñ-doqe'__ _n._  fatique due to change in weather
 __dompo turla__ _n._  large bamboo glass        
 
 
-__doñ__ _v._  stitch; seam        
+__doñ__ _vr._  stitch; seam        
 
 
 __doodu__ _n._  drop        
@@ -336,7 +336,7 @@ __dopu mwdóo__  _n._  drizzle on a sunny day
 __doqe'__ _adj._  sunny; cloudless  [_ant._  domiñ]   
 
 
-__dor__ _v._  become a captive or a prisoner        
+__dor__ _vr._  become a captive or a prisoner        
 
 
 __dorgi__ _n._  earthworm       
@@ -360,16 +360,16 @@ __doxo-acañ__ _n._  corner in the house reserved for ritual altars
 __doza'__ _n._  sunny day; cloudless day        
 
 
-__du__  _v._  drip (of water)       
+__du__  _vr._  drip (of water)       
 
 
-__dù__  _v._  dig; excavate       
+__dù__  _vr._  dig; excavate       
 
 
-__du'__ _v.  throb; beat (as of heart)        
+__du'__ _vr.  throb; beat (as of heart)        
 
 
-__du'__ _v._  offer something for sale; market        
+__du'__ _vr._  offer something for sale; market        
 
 
 __du'jo__ _n._  commission paid to a sale agent       
@@ -390,7 +390,7 @@ __dulu káanw__  _n._  a person who looks after somebody else's cattle
 __duñbiñ__  _adj._  bald; hairless  [_syn._  duñxó]   
 
 
-__dur__ _v._  dig and push (for example with the snout of a pig)  [_var._  dór]   
+__dur__ _vr._  dig and push (for example with the snout of a pig)  [_var._  dór]   
 
 
 __durgu__ _n._  wooden trough       
