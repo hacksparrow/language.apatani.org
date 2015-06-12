@@ -6,16 +6,16 @@ devanagari: च
 ipa: c
 ---
 
-__ca__  _v._  ascend; go up; rise (of the sun); sprout (of a plant)   
+__ca__  _vr._  ascend; go up; rise (of the sun); sprout (of a plant)   
 
 
-__caa__ _v._  step on       
+__caa__ _vr._  step on       
 
 
-__cáa__ _v._  split; slit       
+__cáa__ _vr._  split; slit       
 
 
-__càa__ _v._  take paddy from the granary       
+__càa__ _vr._  take paddy from the granary       
 
 
 __caabañ__  _v._  crush something underground with the feet       
@@ -69,7 +69,7 @@ __cañtw__ _n._  earth
 __cañtw-dotw__  _n._  universe; cosmos        
 
 
-__car__ _v._  boil        
+__car__ _vr._  boil        
 
 
 __carxw__ _v._  boil properly; boil fully       
@@ -81,13 +81,13 @@ __cayiñ-doyiñ__ _n._  autumn
 __cazó__  _adj._  small (of pot) [_ant._  cáarò]   
 
 
-__ce'__ _v._  argue; contend; claim; wrangle        
+__ce'__ _vr._  argue; contend; claim; wrangle        
 
 
-__ce'__ _v._  cut (as with scissor)        
+__ce'__ _vr._  cut (as with scissor)        
 
 
-__ce'__ _v._  press or squeeze; sandwich; compress        
+__ce'__ _vr._  press or squeeze; sandwich; compress        
 
 
 __ce'ga__ _adj._  argumentative; quarrelsome; belligerant; captious       
@@ -105,25 +105,25 @@ __cee__ _adj._  small amount; few; scarce; scant; meagre
 __ceeda__ _part._ almost; close to        
 
 
-__ceñ__ _v._  bundle; bunch; clump        
+__ceñ__ _vr._  bundle; bunch; clump        
 
 
 __ceñxo__ _n._  scab (of a wound); crust       
 
 
-__cí__  _v._  claim (ownership)       
+__cí__  _vr._  claim (ownership)       
 
 
-__cì__  _v._  bite        
+__cì__  _vr._  bite        
 
 
-__ci'__ _v._  hurl (as a javelin)       
+__ci'__ _vr._  hurl (as a javelin)       
 
 
-__ci'__ _v._  move fast (as a fish do)        
+__ci'__ _vr._  move fast (as a fish do)        
 
 
-__ci'__ _v._  hold (with both arms)        
+__ci'__ _vr._  hold (with both arms)        
 
 
 __ci'pw__ _n._  frame of the bamboo sliding door        
@@ -150,7 +150,7 @@ __cifù__  _n._  little forktail (_Enicurus scouleri_)
 __cigu__  _n._  source (of a stream)       
 
 
-__cíi__ _v._  be extinct        
+__cíi__ _vr._  be extinct        
 
 
 __ciiñ__  _v._  weave       
@@ -192,13 +192,13 @@ __cogiñ__ _v._  squat; crouch
 __colo__  _n._  a decorative element of babó        
 
 
-__còo__ _v._  bounce (as a ball); hop on one foot (of a human)        
+__còo__ _vr._  bounce (as a ball); hop on one foot (of a human)        
 
 
 __còofa__ _v._  limp        
 
 
-__cor__ _v._  spray; squirt; sprinkle       
+__cor__ _vr._  spray; squirt; sprinkle       
 
 
 __corjiñ__  _adj._  straight        
@@ -213,7 +213,7 @@ __corkw__ _adj._  smart; strong; rigid
 __cortiñ__  _n._  waterfall       
 
 
-__cu'__ _v._  spit; expectorate       
+__cu'__ _vr._  spit; expectorate       
 
 
 __cuca__  _n._  an element of a ritual altar        
@@ -231,7 +231,7 @@ __cukvr__ _n._  sputum  [_syn._  takvr]
 __culu__  _n._  a variety of children's game        
 
 
-__cuu__ _v._  move with head forward        
+__cuu__ _vr._  move with head forward        
 
 
 __cuuki__ _v._  stoop [_syn._  cuukw]   
