@@ -6,13 +6,13 @@ devanagari: ह
 ipa: h
 ---
 
-__ha__	_v._	come; arrive; enter	[_syn._	áa]
+__ha__	_vr._	come; arrive; enter	[_syn._	áa]
 
 
-__ha'__	_v._	bite off		
+__ha'__	_vr._	bite off		
 
 
-__ha'__	_v._	collect or catch (for example, fish from water)		
+__ha'__	_vr._	collect or catch (for example, fish from water)		
 
 
 __ha'ló__	_n._	branch (of tree)		
@@ -21,7 +21,7 @@ __ha'ló__	_n._	branch (of tree)
 __ha'tú__	_v._	obstruct; block; clog		
 
 
-__háa__	_v._	smoke dry		
+__háa__	_vr._	smoke dry		
 
 
 __haabyañ__	_n._	chest		
@@ -180,7 +180,7 @@ __hajvr__	_num._	thousand	[_or._	Assamese]
 __hamañ__	_n._	vegetable		
 
 
-__hañ__	_v._	investigate; make enquiries; probe; enquire		
+__hañ__	_vr._	investigate; make enquiries; probe; enquire		
 
 
 __haho__	_prep._	up; top; high; upper		
@@ -189,13 +189,13 @@ __haho__	_prep._	up; top; high; upper
 __haqw__	_pron._	something; a thing that is unknown or unspecified		
 
 
-__har__	_v._	wash; bathe		
+__har__	_vr._	wash; bathe		
 
 
-__har__	_v._	cut (esp. meat); dismember		
+__har__	_vr._	cut (esp. meat); dismember		
 
 
-__hár__	_v._	run; drive (a vehicle)		
+__hár__	_vr._	run; drive (a vehicle)		
 
 
 __harañ piyo__	_n._	a variety of children's traditional game		
@@ -246,16 +246,16 @@ __harw__	_v._	twist; turn
 __haspatvr__	_n._	hospital	[_or._	English]
 
 
-__he'__	_v._	knit		
+__he'__	_vr._	knit		
 
 
-__he'__	_v._	blow (as wind)		
+__he'__	_vr._	blow (as wind)		
 
 
-__he'__	_v._	dig (esp. with a tool)		
+__he'__	_vr._	dig (esp. with a tool)		
 
 
-__he'__	_v._	cut with a knife with the sharp edge away from the user, as in smoothening something		
+__he'__	_vr._	cut with a knife with the sharp edge away from the user, as in smoothening something		
 
 
 __he'dú__	_n._	pork intestine along with attached fat; such meat of sacrificed animals traditionally offered to the eldest living sister by the younger ones.	[_syn._	pidú]
@@ -303,7 +303,7 @@ __heñpvr__	_adv._	very; exeedingly; exceptionally; immensely	[_syn._	hentvr]
 __hemyó__	_v._	plan in advance; plan				
 
 
-__heñ__	_v._	think; love				
+__heñ__	_vr._	think; love				
 
 
 __heñbyañ__	_adv._	ample; sufficient; adequate				
@@ -411,13 +411,13 @@ __hequ-heñre__	_v._	treat differently; discriminate; be biased against
 __heru__	_adj._	sad; unhappy	[_Entym._	heñ + ru]
 
 
-__hi'__	_v._	feel; search with hand		
+__hi'__	_vr._	feel; search with hand		
 
 
-__hi'__	_v._	whip; lash; flog		
+__hi'__	_vr._	whip; lash; flog		
 
 
-__hi'__	_v._	paint; apply paint to; white-wash		
+__hi'__	_vr._	paint; apply paint to; white-wash		
 
 
 __hi'hw-hi'xe__	_v._	swivel around; wriggle; squirm		
@@ -444,7 +444,7 @@ __hibu__	_n._	beak
 __híh'__	_n._	dried fermented bamboo shoot		
 
 
-__híi__	_v._	chant; intone; incant		
+__híi__	_vr._	chant; intone; incant		
 
 
 __hiicí__	_v._	grimace; make face (usually in pain)	[_syn._	hiizi']
@@ -471,7 +471,7 @@ __hilu'__	_adj._	smooth; glossy; polished
 __hime__	_n._	child; youngster		
 
 
-__hiñ__	_v._	pinch		
+__hiñ__	_vr._	pinch		
 
 
 __hiñxañ__	_num._	thirty		
@@ -504,7 +504,7 @@ __ho__	_prep._	in; at
 __ho__	_conj._	and		
 
 
-__ho'__	_v._	catch with a loop of rope; catch with a noose		
+__ho'__	_vr._	catch with a loop of rope; catch with a noose		
 
 
 __ho'gyo-ho'fo__	_adj._	mixed up; mingle; intermingle; amalgamate	[_syn._	ho'yo-ho'ci]
@@ -543,7 +543,7 @@ __hojalo__	_conj._	but; even then
 __hokw__	_post._	from
 
 
-__hoñ__	_v._	burn (esp. in bulk)		
+__hoñ__	_vr._	burn (esp. in bulk)		
 
 
 __hoñki'__	_v._	bend; stoop	[_var._	huñki']
@@ -552,13 +552,13 @@ __hoñki'__	_v._	bend; stoop	[_var._	huñki']
 __hoó__	_adj._	spacious; roomy; capacious
 
 
-__hóo__	_v._	feed (_esp._ an animal)		
+__hóo__	_vr._	feed (_esp._ an animal)		
 
 
 __hoopa__	_post._	therefore; for		
 
 
-__hor__	_v._	dry; harden (as of paddy in sun)		
+__hor__	_vr._	dry; harden (as of paddy in sun)		
 
 
 __horci__	_adj._	smart; agile		
@@ -573,10 +573,10 @@ __horfi'__	v.	look obliquely
 __horku__	_adj._	slanting; squinting		
 
 
-__hú__	_v._	pound; pummel		
+__hú__	_vr._	pound; pummel		
 
 
-__hu'__	_v._	shake; jiggle; agitate		
+__hu'__	_vr._	shake; jiggle; agitate		
 
 
 __hu'biñ__	_n._	sweat	[_v._	sweat]
@@ -663,22 +663,22 @@ __hurta'__	_n._	wooden board used for filtering rice water from the cooking pot
 __hu__	_pron._	who		
 
 
-__hú__	_v._	wake up; rouse; awaken		
+__hú__	_vr._	wake up; rouse; awaken		
 
 
-__húu__	_v._	whittle; scrape; shave		
+__húu__	_vr._	whittle; scrape; shave		
 
 
-__hù__	__v._	prick; stab		
+__hù__	__vr._	prick; stab		
 
 
-__huu__	_v._	light up; brighten		
+__huu__	_vr._	light up; brighten		
 
 
 __huuda__	_adj._	bright		
 
 
-__hùu__	_v._	be fatty (as pork might get); be oily				
+__hùu__	_vr._	be fatty (as pork might get); be oily				
 
 
 __hùufi'__	_n._	fat; oil				
