@@ -6,7 +6,7 @@ devanagari: ए
 ipa: e
 ---
 
-__e'__  _v._  shoot       
+__e'__  _vr._  shoot       
 
 
 __e'ciñ__ _adv._  skilled in shooting       
@@ -33,7 +33,7 @@ __efañ__  _n._  ear of grain
 __eha__ _v._  make ritual offerings to nature including forests and agricultural fields
 
 
-__ektor__ _v._ actor [_or._ English]
+__ektor__ _n._ actor [_or._ English]
 
 
 __elañ__  _n._  a variety of red rice, usually late ripening        
