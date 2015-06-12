@@ -6,13 +6,13 @@ devanagari: ज
 ipa: ɟ
 ---
 
-__ja__	_v._	toss or throw a discus sidearm, such that it flies through the air; cause an object to soar by throwing		
+__ja__	_vr._	toss or throw a discus sidearm, such that it flies through the air; cause an object to soar by throwing		
 
 
-__jaa__	_v._	sway (as a drunken person do); stagger		
+__jaa__	_vr._	sway (as a drunken person do); stagger		
 
 
-__jáa__	_v._	soar or fly without flapping the wings (as a hawk)		
+__jáa__	_vr._	soar or fly without flapping the wings (as a hawk)		
 
 
 __jáaji__	_n._	aeroplane		
@@ -36,16 +36,16 @@ __jabyò aji__	_n._	fields located far away from the villages
 __jalo__	_conj._	although; even if; or		
 
 
-__jañ__	_v._	become fat; put on weight		
+__jañ__	_vr._	become fat; put on weight		
 
 
-__jañ__	_v._	be trustworthy, as the omen of chickeen liver or egg might be		
+__jañ__	_vr._	be trustworthy, as the omen of chickeen liver or egg might be		
 
 
 __jañda__	_n._	flag	[_or._	Assamese]
 
 
-__jar__	_v._	fly; soar; glide		
+__jar__	_vr._	fly; soar; glide		
 
 
 __jar__	__num._	thousand		
@@ -66,7 +66,7 @@ __jarpa'__	_v._	toss away	[_syn._	jaapa']
 __jarpiñ__	_v._	hysteria; sickness caused by the spirit of a dead person		
 
 
-__je'__	_v._	soften; become tender on cooked		
+__je'__	_vr._	soften; become tender on cooked		
 
 
 __je'bi'__	_n._	mud; swampy area		
@@ -84,10 +84,10 @@ __je'ta__	_adj._	flattened
 __ji__	_adj._	black		
 
 
-__jí__	_v._	roll; spin; rotate; turn round and round		
+__jí__	_vr._	roll; spin; rotate; turn round and round		
 
 
-__ji'__	_v._	melt; thaw; dissolve		
+__ji'__	_vr._	melt; thaw; dissolve		
 
 
 __jibu garw__	_n._	jeep	[_or._	English]
@@ -147,7 +147,7 @@ __jimi-jaama__	_adj._	hazy; smoggy
 __jimvr__	_pron._	all; whole	[_syn._	mwlañ]
 
 
-__jiñ__	_v._	tie				
+__jiñ__	_vr._	tie				
 
 
 __jiñko jiñko__	_adj._	lanky; tall and thin		
@@ -162,10 +162,10 @@ __jirw-jixe__	_v._	rotate to and fro
 __jixe tarw__	_n._	a kind of shirt (esp. for males)		
 
 
-__jo__	_v._	lift; carry		
+__jo__	_vr._	lift; carry		
 
 
-__jo'__	_v._	cut, lengthwise with a blade		
+__jo'__	_vr._	cut, lengthwise with a blade		
 
 
 __joca__	_v._	lift or carry up	[_ant._	jolo]
@@ -201,16 +201,16 @@ __jompu__	_n._	bamboo shaving used as a ritual element or a decorative item	[_sy
 __jomw'__	_n._	cloud				
 
 
-__joo__	_v._	pay as wage				
+__joo__	_vr._	pay as wage				
 
 
 __joojo__	_adj._	refreshing; fresh				
 
 
-__ju_	_v._	winnow				
+__ju_	_vr._	winnow				
 
 
-__jú__	_v._	weigh; measure				
+__jú__	_vr._	weigh; measure				
 
 
 __juja__	_adj._	wet	[_ant._	pitañ]	[_syn._	juza]
