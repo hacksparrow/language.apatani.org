@@ -60,7 +60,7 @@ __ulu-byalu__	_adj._	messy; unappetizing	_syn._	byurw-byarw
 __umyú__	_adj._	pointed (as of a tip)				
 
 
-__uñ__	_v._	sip; take a sip				
+__uñ__	_vr._	sip; take a sip				
 						
 
 
