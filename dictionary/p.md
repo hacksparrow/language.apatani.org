@@ -6,16 +6,16 @@ devanagari: प
 ipa: p
 ---
 
-__pa__	_v._	cut (by striking); fight; peck
+__pa__	_vr._	cut (by striking); fight; peck
 
 
 __pa__	_post._	purposive case marker				
 
 
-__pá__	_v._	stack; heap up; pile up				
+__pá__	_vr._	stack; heap up; pile up				
 
 
-__pa'__	_v._	suspend or hang something with a string				
+__pa'__	_vr._	suspend or hang something with a string				
 
 
 __pa'ca__	_v._	toss up	[_ant._	pa'lo]
@@ -41,10 +41,10 @@ __pa'svr__	_v._	kill by hanging
 __pa'zi__	_n._	stick, usually used for support	[_syn._	lopa]
 
 
-__paa__	_v._	find (esp. by chance or luck); stumble on; chance on				
+__paa__	_vr._	find (esp. by chance or luck); stumble on; chance on				
 
 
-__paa'__	_v._	bargain; offer to buy something				
+__paa'__	_vr._	bargain; offer to buy something				
 
 
 __paaka'__	_n._	plate	[_syn._	paaku']
@@ -244,7 +244,7 @@ __pamyo__	_n._	injury; incumberance	[_syn._	pamyo-taxo]
 __pamyo-taxo__	_n._	injury; incumberance	[_syn._	pamyo]
 
 
-__pañ__	_n._	cook by steaming in bamboo		
+__pañ__	_vr._	cook by steaming in bamboo		
 
 
 __pano__	_v._	sting		
@@ -283,16 +283,16 @@ __papù paxu__	_n._	egg shell
 __papuu__	_n._	white (esp. hen)		
 
 
-__par__	_v._	crawl under something; creep; wriggle		
+__par__	_vr._	crawl under something; creep; wriggle		
 
 
-__par__	_v._	make or light fire; ignire fire		
+__par__	_vr._	make or light fire; ignire fire		
 
 
-__pár__	_v._	screw; twist; turn		
+__pár__	_vr._	screw; twist; turn		
 
 
-__pàr__	_v._	solidify; bake		
+__pàr__	_vr._	solidify; bake		
 
 
 __para__	_v._	crawl in	[_ant._	parliñ]
@@ -514,16 +514,16 @@ __pazi'__	_n._	small broken pieces of rice
 __pazi' azi'__	_n._	small rice grains that remain after sieving		
 
 
-__pe__	_v._	switch; lever		
+__pe__	_vr._	switch; lever		
 
 
-__pé__	_v._	distribute; dole out; apportion; allocate		
+__pé__	_vr._	distribute; dole out; apportion; allocate		
 
 
-__pe'__	_v._	lay a trap; entrap; ensnare		
+__pe'__	_vr._	lay a trap; entrap; ensnare		
 
 
-__pe'__	_v._	tuck something in; insert		
+__pe'__	_vr._	tuck something in; insert		
 
 
 __pe'kó__	_adj._	smart, of a person; strong, of taste		
@@ -541,7 +541,7 @@ __peca sanw__	_n._	tree of wild pear (_Pyrus_ sp.)
 __pece__	_v._	wrench something into two parts; pry something into two	[_syn._	petú]
 
 
-__pee__	_v._	chant producing a characteristic sound "ho ho…"		
+__pee__	_vr._	chant producing a characteristic sound "ho ho…"		
 
 
 __peenw__	_n._	ceremonial procession as a part of Murung festival		
@@ -550,13 +550,13 @@ __peenw__	_n._	ceremonial procession as a part of Murung festival
 __pemi'__	_v._	put off (light)		
 
 
-__peñ__	_v._	bequeath	[_var._	piñ]
+__peñ__	_vr._	bequeath	[_var._	piñ]
 
 
-__peñ__	_v._	build; construct	[_var._	piñ]
+__peñ__	_vr._	build; construct	[_var._	piñ]
 
 
-__peñ__	_v._	mature; come of age; be full-grown		
+__peñ__	_vr._	mature; come of age; be full-grown		
 
 
 __peñbe__	_n._	snow	[_var._	piñbe]
@@ -604,22 +604,22 @@ __petú__	_v._	break something into two or more pieces	[_syn._	pece]
 __pexó__	_n._	a variety of bird				
 
 
-__pi__	_v._	slice or saw				
+__pi__	_vr._	slice or saw				
 
 
-__pí__	_v._	bark				
+__pí__	_vr._	bark				
 
 
-__pì__	_v._	clap; pat; swat				
+__pì__	_vr._	clap; pat; swat				
 
 
-__pì__	_v._	divine an omen by examining an egg				
+__pì__	_vr._	divine an omen by examining an egg				
 
 
-__pi'__	_v._	bear; put up with				
+__pi'__	_vr._	bear; put up with				
 
 
-__pi'__	_v._	sharpen; hone; whet	[_var._	apì]
+__pi'__	_vr._	sharpen; hone; whet	[_var._	apì]
 
 
 __pi're'__	_v._	sharpen; hone; whet				
@@ -634,7 +634,7 @@ __pi'zi xaqe__	_num._	eighty
 __pidú__	_n._	pork intestine along with attached fat; such meat of sacrificed animals traditionally offered to the eldest living sister by the younger ones.	[_syn._	he'dú]
 
 
-__pìi__	_v._	dry				
+__pìi__	_vr._	dry				
 
 
 __piifa__	_n._	ritual performed to propitiate pìfá úì				
@@ -691,7 +691,7 @@ __pimpù__	_n._	tiffin; light meal; small amount of food item (esp. for offering
 __pimw'__	_v._	slice into pieces				
 
 
-__piñ__	_v._	pinch; grasp; tweak; nip				
+__piñ__	_vr._	pinch; grasp; tweak; nip				
 
 
 __piñbè__	_n._	snow	[_var._	peñbè]
@@ -766,16 +766,16 @@ __piyañ__	_n._	Indian mole rat; Bandicoot rat (_Bandicota bengalensis_)
 __piyu__	_n._	ashes obtained by burining of certain edible plants which are used for preparing pila by filteration				
 
 
-__po__	_v._	hug; embrace; clasp		
+__po__	_vr._	hug; embrace; clasp		
 
 
-__po__	_v._	weave		
+__po__	_vr._	weave		
 
 
-__po'__	_v._	grow (as horns do)		
+__po'__	_vr._	grow (as horns do)		
 
 
-__po'__	_v._	hop; bounce; leap		
+__po'__	_vr._	hop; bounce; leap		
 
 
 __po'do__	_v._	stumble over or fall down accidentally	[_n._	accident]
@@ -835,7 +835,7 @@ __pombo laso__	_n._	a variety of insect with long limbs
 __pombo rwko__	n.	millipede				
 
 
-__poñ__	_v._	soak; marinate				
+__poñ__	_vr._	soak; marinate				
 
 
 __poñcu'__	_adj._	narrow				
@@ -850,7 +850,7 @@ __poñtañ__	_n._	a section of village council
 __poñtin__	_n._	pen	[_or._	Assamese]
 
 
-__poo__	_v._	chop a tree trunk with horizontal blows				
+__poo__	_vr._	chop a tree trunk with horizontal blows				
 
 
 __poobw__	_n._	disturbance due to certain practice or unfortunate incident				
@@ -877,7 +877,7 @@ __poqe__	_adj._	different	[_adv._	poqepa]
 __poqe-poqe__	_adj._	varied; diverse		
 
 
-__por__	_v._	cut as in longitudinally dividing a bamboo into two		
+__por__	_vr._	cut as in longitudinally dividing a bamboo into two		
 
 
 __pore__	_n._	a variety of beer preparation	[_syn._	pore o]
@@ -907,13 +907,13 @@ __potuñ__	_n._	witness in a business transaction
 __poxe__	_n._	a variety of beer considered inferior in quality		
 
 
-__pu__	_v._	bind		
+__pu__	_vr._	bind		
 
 
-__pu__	_v._	make; create; manufacture				
+__pu__	_vr._	make; create; manufacture				
 
 
-__pù__	_v._	hatch (an egg)				
+__pù__	_vr._	hatch (an egg)				
 
 
 __puca__	_v._	float (on water)	[_ant._	puha]
@@ -982,7 +982,7 @@ __puñko__	_n._	intermediate position; middle	[_syn._	peñko]
 __puñtu__	_adj._	hump; ridge; bulge; swelling	[_ant._	paka']
 
 
-__pur__	_v._	pluck (fruits); remove		
+__pur__	_vr._	pluck (fruits); remove		
 
 
 __purdo__	_v._	pluck (fruits) for oneself		
@@ -1012,7 +1012,7 @@ __pvrv__	_n._	large cane mat used for temporary storage of paddy during harvesti
 __pvrv__	_n._	traditional spinning wheel used to wind yarn into balls	[_syn._	tano pvrv]
 
 
-__pw'__	_v._	sweep; clean				
+__pw'__	_vr._	sweep; clean				
 
 
 __pw'pa'__	_v._	sweep away				
@@ -1218,7 +1218,7 @@ __pwtiñ__	_n._	an open space
 __pwtiñ qwwla__	_n._	owl	[_syn._	tapi' qwwla; qwwla]
 
 
-__pww__	_v._	collect with palms		
+__pww__	_vr._	collect with palms		
 
 
 __pwwlw'__	_v._	replenish (esp. liquor)		
@@ -1248,13 +1248,13 @@ __pwzu__	_n._	spoon
 __pwzú__	_n._	brain		
 
 
-__pyà__	_v._	destroy; dismantle		
+__pyà__	_vr._	destroy; dismantle		
 
 
-__pya'__	_v._	splash; throw (water)		
+__pya'__	_vr._	splash; throw (water)		
 
 
-__pya'__	_v._	undo; answer (to a question put as means of ayú)		
+__pya'__	_vr._	undo; answer (to a question put as means of ayú)		
 
 
 __pya'lo__	_v._	release captive fowls from the cage		
@@ -1275,7 +1275,7 @@ __pya'se__	_v._	wash by splashing water
 __pyali__	_n._	seed (esp. of rice)
 
 
-__pyañ__	_v._	swell, as of wound	[_syn._	gòobu]
+__pyañ__	_vr._	swell, as of wound	[_syn._	gòobu]
 
 
 __pyàpa'__	_v._	destroy and remove a structure		
@@ -1293,7 +1293,7 @@ __pyapúu__	_n._	early maturing variety of rice
 __pyapyuñ__	_adv._	together; in collaboration; in cooperation; jointly		
 
 
-__pyar__	_v._	fold; braid		
+__pyar__	_vr._	fold; braid		
 
 
 __pyarki'__	_v._	fold		
@@ -1323,14 +1323,14 @@ __pyazi'__	n.	early maturing variety of paddy belonging to mìipyá group
 __pyazó__	_adj._	small, as a plot of land or a grain	[_ant._ 	pyarò]
 
 
-__pyo__	_v._	catch by pinching with a pincer		
+__pyo__	_vr._	catch by pinching with a pincer		
 
 
-__pyo__	_v._	open (as eye)		
+__pyo__	_vr._	open (as eye)		
 				
 
 
-__pyo'__	_v._	detach (a splinter from a wood]
+__pyo'__	_vr._	detach (a splinter from a wood]
 
 
 __pyo'ce__	_v._	detach something to divide into two		
@@ -1348,13 +1348,13 @@ __pyo'xo'__	_v._	have a different opinion
 __pyoko'__	_v._	open, of eye
 
 
-__pyu__	_v._	move to and fro (esp. a post)
+__pyu__	_vr._	move to and fro (esp. a post)
 
 
-__pyú__	_v._	beguile; entice; lure
+__pyú__	_vr._	beguile; entice; lure
 
 
-__pyu'__	_v._	sell
+__pyu'__	_vr._	sell
 
 
 __pyu'nw__	_n._	seller
