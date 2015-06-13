@@ -6,15 +6,15 @@ devanagari: र
 ipa: r
 ---
 
-__ra__	_v._	build (a structure); construct; fabricate				
+__ra__	_vr._	build (a structure); construct; fabricate				
 
-__ra'__	_v._	bind; strap; fasten				
+__ra'__	_vr._	bind; strap; fasten				
 
 __ra'po__	_v._	tie on something; strap	[_syn._	rw'po	]	
 
 __ra'tiñ__	_v._	fasten (as of a door)			
 
-__raa__	_v._	avenge; take revenge for			
+__raa__	_vr._	avenge; take revenge for			
 
 __raabúu__	_n._	hollow				
 
@@ -22,7 +22,7 @@ __rade emo__	_n._	a late ripening variety of paddy
 
 __ragyañ__	_n._	a pole of kwra tree used to carry the Myoko pig.
 
-__rahe__	_v._	serious; solemn; earnest; profound			
+__rahe__	_adv._	serious; solemn; earnest; profound			
 
 __raji__	_n._	plastic				
 
@@ -36,7 +36,7 @@ __rahw__	_v._	rotate something
 
 __rako__	_n._	tortoise	[_var._	rwko]	[_syn._	samiñ rako]
 
-__rañ__	_v._	tie; tether				
+__rañ__	_vr._	tie; tether				
 
 __rañda__	_n._	smoothing plane	_or._	Assamese
 
@@ -54,9 +54,9 @@ __rasó__	_v._	position lengthwise	[_Ant._	rapw]
 
 __razi'__	_n._	chain		
 
-__re'__	_v._	cross (a river); traverse; travel across	
+__re'__	_vr._	cross (a river); traverse; travel across	
 
-__re'__	_v._	shave; scrape		
+__re'__	_vr._	shave; scrape		
 
 __re'bya__	_n._	ladder	[_syn._	abya]
 
@@ -74,9 +74,9 @@ __rel garw__	_n._	train	_or._	Assamese
 
 __reqe__	_adj._	tired	[_var._	reqw]
 
-__ri__	_v._	read	_Or._	Assamese
+__ri__	_vr._	read	_Or._	Assamese
 
-__ri__	_v._	throw	[_syn._	ku], go
+__ri__	_vr._	throw	[_syn._	ku], go
 
 __rì afiñ__	_n._	the day after tomorrow evening	
 
@@ -88,9 +88,9 @@ __rica__	_v._	throw something up	[_ant._	rilo]
 
 __ríi__	_n._	drool		
 
-__ríi__	_v._	sew; stitch		
+__ríi__	_vr._	sew; stitch		
 
-__rìi__	_v._	mark; mark a line		
+__rìi__	_vr._	mark; mark a line		
 
 __ribo__	_v._	throw something across	
 
@@ -142,7 +142,7 @@ __rizo gyadu__	_n._	rings of bamboo splits that are hoisted with poles in the to
 
 __ro bari'__	_n._	whirlwind	[_syn._	mifa bari']
 
-__ro'__	_v._	snatch; seize		
+__ro'__	_vr._	snatch; seize		
 
 __ro'ko__	_n._	a bamboo strip that tightens the beams of a house		
 
@@ -158,17 +158,17 @@ __rohiñhe__	_adv._	thrice; three times
 
 __ronw__	_n._	madman; lunatic; maniac	[_syn._	runw]
 
-__roñ__	_v._	burn; scorch; set on fire		
+__roñ__	_vr._	burn; scorch; set on fire		
 
-__roñ__	_v._	break relationship; avoid (esp. a relation); antipathy; abhorence		
+__roñ__	_vr._	break relationship; avoid (esp. a relation); antipathy; abhorence		
 
-__roñ__	_v._	be mad; go insane; become crazy	[_var._	ruñ]
+__roñ__	_vr._	be mad; go insane; become crazy	[_var._	ruñ]
 
 __roñpe__	_adv._	four times		
 
 __roñxe__	_adv._	six times		
 
-__rò__	_v._	spy; observe furtively; keep an eye on
+__rò__	_vr._	spy; observe furtively; keep an eye on
 
 __roqe__	_adv._	once; one time		
 
@@ -182,9 +182,9 @@ __rori__	_n._	spectacles; eyeglasses
 
 __roze__	_adv._	twice; two times		
 
-__ruu__	_v._	chase away; drive away	
+__ruu__	_vr._	chase away; drive away	
 
-__ru__	_v._	sneak; plot; machinate; conspire		
+__ru__	_vr._	sneak; plot; machinate; conspire		
 
 __rugu__	_v._	take care of security; guard	
 
@@ -192,7 +192,7 @@ __rui__	_n._	ear wax	[_syn._	yarú rui]
 
 __rumali__	_n._	handkerchief	_or._	Assamese
 
-__ruñ__	_v._	be mad; go insane; become crazy	[_var._	roñ]
+__ruñ__	_vr._	be mad; go insane; become crazy	[_var._	roñ]
 
 __ruñgya'__	_adj._	crazy; mad; insane; not right in the head		
 
@@ -204,9 +204,9 @@ __runw__	_n._	madman; lunatic; maniac	[_var._	ronw]
 
 __rupu__	_n._	silver	[_var._	rwpu]
 
-__ruu__	_v._	drill; bore a hole in; make a hole in		
+__ruu__	_vr._	drill; bore a hole in; make a hole in		
 
-__rúu__	_v._	shed (as trees do of leaves)	
+__rúu__	_vr._	shed (as trees do of leaves)	
 
 __ru-xa__	_n._	noise; tumult; commotion	
 
@@ -226,13 +226,13 @@ __rutiñ hwrañ__	_n._	a variety of earring worn by women
 
 __ruyó__	_n._	a variety of cane earring		
 
-__rw__	_v._	stagnate (as do the water)	
+__rw__	_vr._	stagnate (as do the water)	
 
-__rw'__	_v._	bind; strap		
+__rw'__	_vr._	bind; strap		
 
-__rw'__	_v._	cut into pieces with sawing or slicing movement		
+__rw'__	_vr._	cut into pieces with sawing or slicing movement		
 
-__rw'__	_v._	sit (as do the chickens); perch; roost		
+__rw'__	_vr._	sit (as do the chickens); perch; roost		
 
 __rw'lo__	_v._	pour a liquid down		
 
@@ -278,7 +278,7 @@ __rwpu__	_n._	silver	[_var._	rupu]
 
 __rwsi-rwse__	_adj._	messy; disorganized; chaotic; cluttered	
 
-__rww__	_v._	buy; purchase	[_Ant._	pyu']		
+__rww__	_vr._	buy; purchase	[_Ant._	pyu']		
 
 __rwxw afiñ__	_n._	the evening after four days			
 
