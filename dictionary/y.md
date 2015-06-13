@@ -21,7 +21,7 @@ __ya'lañ__	_n._	boneless portion of red meat	[_syn._	yo aya']
 __ya'pu-ya'lañ__	_n._	a variety of Muruñ festival considered to be of higher status		
 
 
-__yaa__	_v._	rot; decay; decompose		
+__yaa__	_vr._	rot; decay; decompose		
 
 
 __yaabuñ__	_adj._	dull (of a person)		
@@ -165,7 +165,7 @@ __yapyo__	_n._	winnower
 __yaqo__	_num._	five		
 
 
-__yar__	_v._	persuade; coax; convince; win over		
+__yar__	_vr._	persuade; coax; convince; win over		
 
 
 __yara__	_n._	a cane basket used by males for fetching firewood		
@@ -315,10 +315,10 @@ __yorxuñ__	_n._	Sichuan pepper	[_syn._	yorxañ]
 __yorxuñ hamañ__	_n._	toothache plant; paracress (_Acmella oleracea_)		
 
 
-__yu__	_v._	chant an ayú		
+__yu__	_vr._	chant an ayú		
 
 
-__yu'__	_v._	skewer		
+__yu'__	_vr._	skewer		
 
 
 __yu'ti__	_v._	tighten; tie something tightly		
@@ -327,4 +327,4 @@ __yu'ti__	_v._	tighten; tie something tightly
 __yugyañ__	_n._	ritual altar of the Apatanis	[_syn._	agyañ]
 
 
-__yuu__	_v._	extend (as hand)		
+__yuu__	_vr._	extend (as hand)		
