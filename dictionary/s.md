@@ -14,7 +14,7 @@ __sa ci'ri__	_n._	a variety of antique sword
 
 __sah patw__	_n._	tea leaf; tea grain
 
-__sa'__	_v._	breath; suck; cough	
+__sa'__	_vr._	breath; suck; cough	
 
 __sa'ca__	_v._	get excited; be motivated	[_syn._	du'ca]
 
@@ -42,7 +42,7 @@ __sa'riñ__	_n._	cough
 
 __sa'xw'__	_v._	intimidating; unnerving; daunting; formidable	[_Ant._	sa'pe']
 
-__sa__	_v._	expel, as when delivering babies or defecating		
+__sa__	_vr._	expel, as when delivering babies or defecating		
 
 __sabw__	_n._	officer; a dignified person	
 
@@ -112,9 +112,9 @@ __sampyá__	_n._	wooden tray used for transporting soil from one place to the ot
 
 __sampyu__	_n._	a variety of blue coloured beads	
 
-__saañ__	_v._	grow; live		
+__saañ__	_vr._	grow; live		
 
-__sañ__	_v._	push or stuff something		
+__sañ__	_vr._	push or stuff something		
 
 __sañbw__	_n._	branch, of a tree	[_syn._	sanw aha']
 
@@ -184,9 +184,9 @@ __sapì__	_adj._	flattened
 
 __saq__	_n._	cot; bed
 
-__sar__	_v._	denigrate; criticise; disparage	
+__sar__	_vr._	denigrate; criticise; disparage	
 
-__sár__	_v._	rip; tear	
+__sár__	_vr._	rip; tear	
 
 __sárce__	_v._	tear something into two parts
 
@@ -218,7 +218,7 @@ __sarxo__	_n._	stalk, of millet
 
 __sati__	_n._	umbrella	_Or._	Assamese
 
-__se__	_v._	pull		
+__se__	_vr._	pull		
 
 __seliñ__	_v._	pull something out
 
@@ -232,7 +232,7 @@ __sembo__	_n._	a variety of wild cherry	[_var._	semo]
 
 __semo__	_n._	a variety of wild cherry	[_var._	sembo]
 
-__señ__	_v._	wither; dry		
+__señ__	_vr._	wither; dry		
 
 __señbi'__	_adj._	half withered	
 
@@ -258,7 +258,7 @@ __sikuñ-siri__	_adj._	wrinkled; crunkled
 
 __sila'__	_v._	stitch or sew (esp. with sewing machine)	_Or._	Assamese
 
-__siñ__	_v._	feed (esp. liquid food)		
+__siñ__	_vr._	feed (esp. liquid food)		
 
 __siiñbo__	_n._	large-sized larvae of dragonfly	[_syn._	tasiñ siñbo]	
 
@@ -276,7 +276,7 @@ __siyo__	_n._	this night; tonight
 
 __sizi' tasiñ__	_n._	a variety of small sized larvae	
 
-__soh__	_v._	play; joke; flirt	
+__soh__	_vr._	play; joke; flirt	
 
 __so__	_post._	at; in			
 
@@ -292,7 +292,7 @@ __some__	_n._	bamboo shavings used as an element of altar as well as for decorat
 
 __somiñ qarmiñ__	_n._	entertainment; amusement; enjoyment	
 
-__soñ__	_v._	move sideways		
+__soñ__	_vr._	move sideways		
 
 __so__	_dem._	here		
 __soli__	_n._	a sacrificial share of meat comprising of hind leg	
@@ -311,11 +311,11 @@ __sozó__	_adj._	thin (of objects like a thread)	[_Ant._	sorò]
 
 __sopiñ__	_n._	lizard		
 
-__sor__	_v._	complain; protest		
+__sor__	_vr._	complain; protest		
 
-__sor__	_v._	slip; skid		
+__sor__	_vr._	slip; skid		
 
-__sor__	_v._	stretch; sprawl; lounge		
+__sor__	_vr._	stretch; sprawl; lounge		
 
 __sorjiñ__	_v._	stretch straight; straighten out	[_adj._	straight]
 
@@ -331,11 +331,11 @@ __soxañ__	_n._	trophy; memento (esp. of special achievements)
 
 __soy tarw__	_n._	sweater	_or._	Assamese
 
-__sù__	_v._	rear; breed; bring up; nurture	
+__sù__	_vr._	rear; breed; bring up; nurture	
 
-__su'__	_v._	probe; explore; investigate
+__su'__	_vr._	probe; explore; investigate
 
-__su'__	_v._	ladle; scoop	
+__su'__	_vr._	ladle; scoop	
 
 __su'bi__	_v._	ladle water for somebody
 
@@ -395,15 +395,15 @@ __surúu dozó__	_n._	traitor; scoundrel
 
 __susumomo__	_adj._	disappointed; dispirited; downcast
 
-__su__	_v._	evaporate; emit smoke	
+__su__	_vr._	evaporate; emit smoke	
 
 __suh__	_n._	spring		
 
 __sufi' sume__	_adj._	crooked; dishonest; untrustworthy
 
-__sw__	_v._	die		
+__sw__	_vr._	die		
 
-__sw__	_v._	claw; scratch		
+__sw__	_vr._	claw; scratch		
 
 __swbi__	_n._	monkey		
 
