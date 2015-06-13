@@ -6,7 +6,7 @@ devanagari: ञ
 ipa: ɲ
 ---
 
-__za__	_v._	whittle; pare; shave; trim	[_var._	zar]
+__za__	_vr._	whittle; pare; shave; trim	[_var._	zar]
 
 
 __za'co__	_n._	tiny metal bell	[_syn._	fa'co]
@@ -24,7 +24,7 @@ __za'ziñ__	_n._	fermented rice
 __za'zo'__	_adv._	slow; sluggish	[_syn._	za'za']
 
 
-__zaa__	_v._	point; aim; direct		
+__zaa__	_vr._	point; aim; direct		
 
 
 __zaanw__	_n._	general term for maternal uncles		
@@ -75,7 +75,7 @@ __zakù__	_adj._	tilted; askew
 __zaliñ__	_v._	put one's head out; peep out		
 
 
-__zañ__	_v._	move with the head leading		
+__zañ__	_vr._	move with the head leading		
 
 
 __zañbuñ__	_v._	put one's head into the water	[_syn._	zañbyuñ]
@@ -99,10 +99,10 @@ __zaqe__	_n._	one year
 __zaqo__	_n._	five years		
 
 
-__zar__	_v._	whittle; pare; shave; trim		
+__zar__	_vr._	whittle; pare; shave; trim		
 
 
-__zar__	_v._	step on something	[_syn._	zor]
+__zar__	_vr._	step on something	[_syn._	zor]
 
 
 __zatañ__	_n._	snout or muzzle (of animal); edge or tip		
@@ -117,7 +117,7 @@ __zazi'__	_n._	honey	[_syn._	zazo]
 __zazu'__	_n._	double chin; wrinkle under the chin		
 
 
-__zeñ__	_v._	chew; masticate		
+__zeñ__	_vr._	chew; masticate		
 
 
 __zeñci'__	_adj._	tasty; delicious	[_syn._	qeñci']
@@ -180,7 +180,7 @@ __zipá__	_n._	general term for people living in the plains of the south
 __zipá yaru__	_n._	an aquatic plant; azolla (_Azolla pinnata_)		
 
 
-__zo'__	_v._	to abstain from doing some things during ritual prohibition		
+__zo'__	_vr._	to abstain from doing some things during ritual prohibition		
 
 
 __zoho__	_v._	feed a baby after chewing the food		
@@ -189,7 +189,7 @@ __zoho__	_v._	feed a baby after chewing the food
 __zoko ta'tì__	_n._	wood louse		
 
 
-__zor__	_v._	step on something	[_syn._	zar]
+__zor__	_vr._	step on something	[_syn._	zar]
 
 
 __zoxe__	_n._	black panther (_Panthera pardus_)
@@ -201,7 +201,7 @@ __zu'__	_v._	wipe (as with a cloth or a hand); rub
 __zu'pa'__	_v._	erase; wipe out; rub off
 
 
-__zuu__	_v._	prod as with a needle
+__zuu__	_vr._	prod as with a needle
 
 
 __zuupa'__	_v._	remove something by pricking
