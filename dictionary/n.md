@@ -9,7 +9,7 @@ ipa: n
 __na'bu-goñbu__	_adj._	pouting; swollen (esp. around the mouth)				
 
 
-__naa__	_v._	collect; gather; muster				
+__naa__	_vr._	collect; gather; muster				
 
 
 __nago__ _n._	ritual hut in the middle of a village				
@@ -36,7 +36,7 @@ __nama__	_pron._	your mother	[_syn._	nane]
 __nami__	_n._	portion of village, esp. the upper one	[_ant._	nako]
 
 
-__nañ__	_v._	push; press				
+__nañ__	_vr._	push; press				
 
 
 __nañbo__	_v._	push something across				
@@ -69,7 +69,7 @@ __nañtiñ__	_v._	close by pushing
 __naqe__	_n._	a unit of measure equivalent to the width of a palm				
 
 
-__nar__	_v._	borrow				
+__nar__	_vr._	borrow				
 
 
 __nar pwcañ__	_n._	earthen pot from the water of which a newborn is bathed for the first time				
@@ -108,16 +108,16 @@ __nasw__	_n._	dance	[_or._	Hindi]	[_var._	nasu]
 __ne__	_pron._	how much; how many				
 
 
-__ne'__	_v._	rub or scrape				
+__ne'__	_vr._	rub or scrape				
 
 
-__ne'__	_v._	gnaw, as a rodent; nibble				
+__ne'__	_vr._	gnaw, as a rodent; nibble				
 
 
-__nee__	_v._	thresh or knead				
+__nee__	_vr._	thresh or knead				
 
 
-__née__	_v._	wrestle				
+__née__	_vr._	wrestle				
 
 
 __néesu__	_n._	wrestling				
@@ -156,13 +156,13 @@ __nelo__	_n._	household; independent house
 __nelw'__	_v._	send somebody in	[_ant._	neliñ]
 
 
-__neñ__	_v._	send someone somewhere				
+__neñ__	_vr._	send someone somewhere				
 
 
-__neñ__	_v._	sniff; smell				
+__neñ__	_vr._	sniff; smell				
 
 
-__neñ__	_v._	push, using the body; nudge				
+__neñ__	_vr._	push, using the body; nudge				
 
 
 __neñbu__	_n._	home				
@@ -214,10 +214,10 @@ __neñxa__	_adj._	stale
 __nesú__	_n._	granary				
 
 
-__ni'__	_v._	prune				
+__ni'__	_vr._	prune				
 
 
-__ni__	_v._	trap (esp. birds with glue)				
+__ni__	_vr._	trap (esp. birds with glue)				
 
 
 __nikuñ dapo__	_n._	customary law				
@@ -244,13 +244,13 @@ __no hokw__	_pron._	from where
 __no hopa__	_pron._	for where				
 
 
-__noñ__	_v._	call (esp. an animal)
+__noñ__	_vr._	call (esp. an animal)
 
 
 __nu__	_adj._	dark red colour
 
 
-__nu__	_v._	collect; accumulate; assemble; stockpile
+__nu__	_vr._	collect; accumulate; assemble; stockpile
 
 
 __nufañ__	_n._	plain area; level ground
@@ -274,7 +274,7 @@ __nunumi__	_pron._	you (plural); second person plural pronoun, accusative case
 __nunupa__	_pron._	for you (plural); second person plural pronoun, purpostive case
 
 
-__nuu__	_v._	knead something (as dough) or as in washing cloth
+__nuu__	_vr._	knead something (as dough) or as in washing cloth
 
 
 __nw__	_pron._	what
@@ -286,7 +286,7 @@ __nw da__	_pron._	when (future tense)
 __nw do__	_pron._ 	when (past tense)
 
 
-__nw'__	_v._	prick; stab
+__nw'__	_vr._	prick; stab
 
 
 __nw'pu__	_v._	swallow without chewing; gozzle down; gobble down
@@ -358,7 +358,7 @@ __nwtepa__	_pron._	why	[_var._ 	nwmopa]	[_syn._	nwmpa]
 __nwtw apa__	_int._	enough; that’s enough; interjecton to express satisfacton				
 
 
-__nww__	_v._	instigate; provoke				
+__nww__	_vr._	instigate; provoke				
 
 
 __nwyi__	_n._	an element of loin loom				
