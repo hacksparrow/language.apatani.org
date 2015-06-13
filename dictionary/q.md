@@ -6,10 +6,10 @@ devanagari: ङ
 ipa: ŋ
 ---
 
-__qa'__	_v._	tie; bind		
+__qa'__	_vr._	tie; bind		
 
 
-__qar__	_v._	laugh; smile		
+__qar__	_vr._	laugh; smile		
 
 
 __qarka__	_v._	smile		
@@ -54,13 +54,13 @@ __qo'rò__	_adj._	big (plot of land)	[_ant._	qo'zó]
 __qoya__	_pron._	something else		
 
 
-__qoo__	_v._	get lost; get missing; go astray		
+__qoo__	_vr._	get lost; get missing; go astray		
 
 
 __qunu__	_pron._	we; first person plural pronoun		
 
 
-__qur__	_v._	move something heavy using lever		
+__qur__	_vr._	move something heavy using lever		
 
 
 __qurca__	_v._	move up something heavy using lever		
@@ -69,7 +69,7 @@ __qurca__	_v._	move up something heavy using lever
 __qurlo__	_v._	move down something heavy using lever		
 
 
-__qw__	_v._	move to and fro		
+__qw__	_vr._	move to and fro		
 
 
 __qwfañ__	_n._	variety of a fish considered sacred by the Apatanis		
