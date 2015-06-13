@@ -9,7 +9,7 @@ ipa: t
 __taar__	_n._	wire; cable; power line	[_or._	Assamese]
 
 
-__ta'__	_v._	chop (as to split something)		
+__ta'__	_vr._	chop (as to split something)		
 
 
 __ta'ce__	_n._	crack; rupture; split		
@@ -48,13 +48,13 @@ __ta'ti__	_n._	cockroach
 __ta'xe'__	_v._	lie supine		
 
 
-__taa__	_v._	swim		
+__taa__	_vr._	swim		
 
 
-__táa__	_v._	paw; move the hands in a rapid pawing motion, as when digging away soil		
+__táa__	_vr._	paw; move the hands in a rapid pawing motion, as when digging away soil		
 
 
-__ta__	_v._	listen; hear				
+__ta__	_vr._	listen; hear				
 
 
 __taabyó__	_n._	a temporary hut				
@@ -351,7 +351,7 @@ __tamyo__	_n._ 	a variety of tree
 __tamyó__	_adj._	a colour pattern of a mithun, of black colour but a white patch running from the head to the tail at the back		
 
 
-__tañ__	_v._	drink; smoke		
+__tañ__	_vr._	drink; smoke		
 
 
 __tañdw'__	_v._	get poisoned by drinking		
@@ -489,7 +489,7 @@ __taqu-aláa__	_n._	honey
 __taqu-aru'__	_n._	honeycomb		
 
 
-__tar__	_v._	bend; break		
+__tar__	_vr._	bend; break		
 
 
 __tar pwta__	_n._	peacock	[_syn._	tarlar]
@@ -666,10 +666,10 @@ __tazi' mwge__	_n._	tongs to roast grains of corn
 __tazi' pamw__	_n._	corn powder				
 
 
-__te'__	_v._	fall  (esp. from a standing position)				
+__te'__	_vr._	fall  (esp. from a standing position)				
 
 
-__te'__	_v._	cut (esp. bushes)				
+__te'__	_vr._	cut (esp. bushes)				
 
 
 __te'da'__	_v._	lean against something				
@@ -702,10 +702,10 @@ __telw'__	_v._	push something in by finger	[_ant._	teliñ]	[_Ent._	teñ + alw']
 __tema'__	_v._	touch	[_Ent._	teñ + mwma']	[_syn._	mwma']
 
 
-__teñ__	_v._	keep in place; place something				
+__teñ__	_vr._	keep in place; place something				
 
 
-__teñ__	_v._	touch (esp. with finger)				
+__teñ__	_vr._	touch (esp. with finger)				
 
 
 __teñbya'__	_v._	get burnt by touching something hot				
@@ -717,7 +717,7 @@ __tero__	_n._	chilly
 __tero yorsañ__	_n._	green chilly				
 
 
-__ti'__	_v._	rub; scratch				
+__ti'__	_vr._	rub; scratch				
 
 
 __ti'ho__	_v._	make a mark				
@@ -735,7 +735,7 @@ __tihi'__	_adj._	sweet
 __tihxo__	_adj._	too much sweet or salty		
 
 
-__tii__	_v._	pour	[_syn._	to]
+__tii__	_vr._	pour	[_syn._	to]
 
 
 __tiilo__	_v._	to pour some liquid down		
@@ -753,10 +753,10 @@ __tisvr__	_adj._	sweet
 __tiyo'__	_n._	insect; worm		
 
 
-__to__	_v._	pour	[_syn._	tii]
+__to__	_vr._	pour	[_syn._	tii]
 
 
-__to'__	_v._	descend; go down; climb down		
+__to'__	_vr._	descend; go down; climb down		
 
 
 __to'pyo__	_v._	descend first		
@@ -768,10 +768,10 @@ __toliñ__	_v._	pour something out	[_ant._	tolw']
 __tolw'__	_v._	pour something in	[_ant._	toliñ]
 
 
-__toñ__	_v._	offer; give		
+__toñ__	_vr._	offer; give		
 
 
-__toñ__	_v._	display		
+__toñ__	_vr._	display		
 
 
 __toñkiñ__	_v._	display		
@@ -801,16 +801,16 @@ __tooro__	_n._	Rhino beetle
 __topa'__	_v._	pour something away		
 
 
-__tor__	_v._	unfurl (of flag); spead		
+__tor__	_vr._	unfurl (of flag); spead		
 
 
 __tozó__	_adj._	small (of group)	[_ant._	toñrò]
 
 
-__tú__	_v._	kick		
+__tú__	_vr._	kick		
 
 
-__tù__	_v._	push		
+__tù__	_vr._	push		
 
 
 __tu'te'__	_n._	forehead of a cattle		
@@ -840,7 +840,7 @@ __tulí__	_v._	copy; replicate; click (a photo with a camera)	[_or._	Assamese]
 __tumbu ude__	_n._	tent		
 
 
-__tuñ__	_v._	imprison; confine; hold captive		
+__tuñ__	_vr._	imprison; confine; hold captive		
 
 
 __túpi'__	_v._	break something fragile by kicking		
@@ -849,10 +849,10 @@ __túpi'__	_v._	break something fragile by kicking
 __tuqiñ__	_n._	stump of a felled tree		
 
 
-__tur__	_v._	be alive	[_var._	tor]
+__tur__	_vr._	be alive	[_var._	tor]
 
 
-__tur__	_v._	support (esp. with a pole or stick)	[_var._	tor]
+__tur__	_vr._	support (esp. with a pole or stick)	[_var._	tor]
 
 
 __turcañ__	_n._	post; pillar	[_var._	torcañ]
@@ -873,10 +873,10 @@ __tusvr__	_v._	straighten one's leg
 __tutu popo__	_adj._	impulsive; impetuous; reckless		
 
 
-__tuu__	_v._	pick up		
+__tuu__	_vr._	pick up		
 
 
-__tù__	_v._	flood		
+__tù__	_vr._	flood		
 
 
 __tuubyú__	_n._	edge		
@@ -900,13 +900,13 @@ __tusi'-tusi'__	_adv._	one after the other
 __tutu nanu__	_n._	bumble bee		
 
 
-__tw__	_v._	offer		
+__tw__	_vr._	offer		
 
 
-__tw'__	_v._	pound, strike		
+__tw'__	_vr._	pound, strike		
 
 
-__tw'__	_v._	jerk; pull suddenly		
+__tw'__	_vr._	jerk; pull suddenly		
 
 
 __tw'diñ__	_v._	collide		
@@ -978,10 +978,10 @@ __twrw huufi'__	_n._	a variety of green grasshopper
 __twrw tatw'__	_n._	toad		
 
 
-__tww__	_v._	throw; toss; fling		
+__tww__	_vr._	throw; toss; fling		
 
 
-__tww__	_v._	chop, as of cutting down a tree		
+__tww__	_vr._	chop, as of cutting down a tree		
 
 
 __twwló__	_v._	cut down (a tree)		
