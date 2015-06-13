@@ -18,7 +18,7 @@ __ma'lañ__	_n._	many; numerous; abundant
 __ma'lo__	_conj._	either; or				
 
 
-__maañ__	_v._	creep;  grow along the ground or other surface by means of extending stems or branches (as creepers do)				
+__maañ__	_vr._	creep;  grow along the ground or other surface by means of extending stems or branches (as creepers do)				
 
 
 __magù__	_v._	bellow as an expression of distress				
@@ -45,7 +45,7 @@ __malo-kalo__	_adv._	please; pray
 __maló__	_adj._	big; huge; renowned				
 
 
-__mañ__	_v._	finish a building; put roof on a building				
+__mañ__	_vr._	finish a building; put roof on a building				
 
 
 __mañpo__	_n._	roof covering				
@@ -75,10 +75,10 @@ __mata' peruñ__	_n._	a variety of bean
 __mazañ__	_n._	traditional friend from other tribe		
 
 
-__me__	_v._	search; look for; seek; check		
+__me__	_vr._	search; look for; seek; check		
 
 
-__me'__	_v._	join; link; couple	[_syn._	me'si']
+__me'__	_vr._	join; link; couple	[_syn._	me'si']
 
 
 __me'si'__	_v._	join; link; couple	[_syn._	me'si' me'me; tusi']
@@ -105,7 +105,7 @@ __medvr nelo__	_n._	place of worship (_Lit._ 'house of purity')
 __meli__	_v._	kill as revenge	[_var._	meñli]
 
 
-__meñ__	_v._	kill; assasinate; execute; slaughter		
+__meñ__	_vr._	kill; assasinate; execute; slaughter		
 
 
 __meñdw__	_n._	buffalo		
@@ -129,7 +129,7 @@ __mepiñ__	_n._	a variety of ritual in which the shaman smears rice powder mixtu
 __metw__	_n._	a ritual performed to protect plants from Pyodu Bwzi, the God of Famine		
 
 
-__mi'__	_v._	get extinguished (of fire or light)		
+__mi'__	_vr._	get extinguished (of fire or light)		
 
 
 __mi'be'__	_v._	blink; wink		
@@ -306,7 +306,7 @@ __miyu__	_n._	human beings	[_syn._	neha]
 __miyu-mima__	_n._	human beings		
 
 
-__mo__	_v._	move one's face		
+__mo__	_vr._	move one's face		
 
 
 __mò__	_pron._	he; she; third person singular pronoun		
@@ -339,7 +339,7 @@ __mombati__	_n._	candle	[_or._	Assamese]
 __mome__	_n._	trunk (of elephant)		
 
 
-__moñ__	_v._	chase; drive away; persue		
+__moñ__	_vr._	chase; drive away; persue		
 
 
 __moñpa'__	_v._	chase; drive away; persue		
@@ -363,13 +363,13 @@ __morto__	_n._	metal arrowhead	[_var._	murto]
 __moru__	_n._	cheek		
 
 
-__mu'__	_v._	blow (air)		
+__mu'__	_vr._	blow (air)		
 
 
-__mu'__	_v._	brew (beer)		
+__mu'__	_vr._	brew (beer)		
 
 
-__mu'__	_v._	rut (animals)		
+__mu'__	_vr._	rut (animals)		
 
 
 __mu'go__	_n._	outlet in a paddy field		
@@ -423,7 +423,7 @@ __murù__	_n._	torch; flambeau
 __muruñ__	_n._	first month of the lunar year; january; name of the festival celebrated in January				
 
 
-__mw__	_v._	do				
+__mw__	_vr._	do				
 
 
 __mwbi'__	_v._	spill; splash				
@@ -761,7 +761,7 @@ __mwtú__	_n._	half burned firewood
 __mwtù__	_n._	beginning	[_v._	do something for the first time]
 
 
-__mww__	_v._	heal		
+__mww__	_vr._	heal		
 
 
 __mwxa__	_v._	compete; challenge; contend with; vie with		
@@ -827,10 +827,10 @@ __mwzo__	_v._	do something without purpose or for free
 __mwzò__	_v._	drill (esp. exercise)		
 
 
-__mya__	_v._	lull; console		
+__mya__	_vr._	lull; console		
 
 
-__mya__	_v._	collect contributions; collect	[_syn._	xa]
+__mya__	_vr._	collect contributions; collect	[_syn._	xa]
 
 
 __myamya__	_n._	ringworm		
@@ -842,7 +842,7 @@ __myamya__	_n._	antique brass plate
 __myamya pwro__	_n._	plated bamboo basket for storing the myamya brass plate		
 
 
-__myañ__	_v._	name		
+__myañ__	_vr._	name		
 
 
 __myobya__	_adj._	facing the sunny side	[_ant._	myofi]
