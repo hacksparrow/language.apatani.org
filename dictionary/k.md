@@ -252,7 +252,7 @@ __keñte bíi__	_n._	a variety of skirt of black and white color
 
 __keñte pufe__	_n._	a variety of shawl usually made by stitching togethe discarded clothes
 
-__kera pwcañ__	_n._	cauldron	[_or.	Assamese]
+__kera pwcañ__	_n._	cauldron	[_or._	Assamese]
 
 __keyiñ__	_adj._	good; serene		
 
