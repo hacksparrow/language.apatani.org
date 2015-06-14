@@ -166,7 +166,7 @@ __karpo-popi alo__	_n._	Saturday
 
 __karpya'__	_v._	unroll				
 
-__karsiñ__	_n._	kerosene	[_syn._	Assamese]		
+__karsiñ__	_n._	kerosene	[_or._	Assamese]		
 
 __karu__	_adj._	ugly; unappealing; unsightly	[_ant._	kapyo]		
 
@@ -252,7 +252,7 @@ __keñte bíi__	_n._	a variety of skirt of black and white color
 
 __keñte pufe__	_n._	a variety of shawl usually made by stitching togethe discarded clothes
 
-__kera pwcañ__	_n._	cauldron	Or.	Assamese
+__kera pwcañ__	_n._	cauldron	[_or.	Assamese]
 
 __keyiñ__	_adj._	good; serene		
 
