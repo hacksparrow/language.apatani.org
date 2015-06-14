@@ -48,7 +48,7 @@ __jañda__	_n._	flag	[_or._	Assamese]
 __jar__	_vr._	fly; soar; glide		
 
 
-__jar__	__num._	thousand		
+__jar__	_num._	thousand		
 
 
 __jare__	_num._	one thousand	[_etym._	jar + he]
@@ -96,7 +96,7 @@ __jibu garw__	_n._	jeep	[_or._	English]
 __jifá__	_n._	coarse silk		
 
 
-__jifiñ__	_n._	Indian strawberry (_Potentilla indica_)	[_syn._	jifuñ; akì jifuñ]
+__jifiñ__	_n._	Indian strawberry (_Potentilla indica_)	[_syn._	jifuñ]; [_syn._ akì jifuñ]
 
 
 __jifuñ__	_n._	Indian strawberry (_Potentilla indica_)	[_syn._	jifiñ]
@@ -171,7 +171,7 @@ __jo'__	_vr._	cut, lengthwise with a blade
 __joca__	_v._	lift or carry up	[_ant._	jolo]
 
 
-__jolo__	_v._	lift or carry down	[_ant._	jolca]
+__jolo__	_v._	lift or carry down	[_ant._	joca]
 
 
 __jopyañ__	_v._	close something by placing something in the opening	[_ant._	joko']
@@ -207,7 +207,7 @@ __joo__	_vr._	pay as wage
 __joojo__	_adj._	refreshing; fresh				
 
 
-__ju_	_vr._	winnow				
+__ju__	_vr._	winnow				
 
 
 __jú__	_vr._	weigh; measure				
