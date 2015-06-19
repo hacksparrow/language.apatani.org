@@ -158,11 +158,11 @@ __adiñ ácì__	_n._	headache
 
 __adiñ ce'nw__	_n._	barber
 
-__adiñ dilañ__	_n._	grey hair
+__adiñ dilañ__	_n._	grey or red hair
 
 __adiñ diñji__	_n._	black hair
 
-__adiñ diñpúu__	_n._	white hair
+__adiñ diñpúu__	_n._	white or grey hair
   
 __ado__ _n._  stalk; main stem of a herbaceous plant  [_var._  wdo]   
   
