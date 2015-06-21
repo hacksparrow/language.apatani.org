@@ -858,7 +858,7 @@ __ayobo__ _n._  mother-in-law (term of reference)
    
 __ayóo__  _n._  up; upper       
    
-__ayóo tapè__ _n._  pumpkin [_var._  ayóo twpe] [_syn._  e'pè, tápè]
+__ayóo twpè__ _n._  pumpkin [_syn._  e'pè, tápè]
    
 __ayóo zacù__ _n._  upper lip       
    
