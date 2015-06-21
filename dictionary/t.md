@@ -420,7 +420,7 @@ __tapañ dafi__	_n._	east
 __tapañ-kara alo__	_n._	Tuesday		
 
 
-__tape__	_n._	pumpkin	[_syn._	e'pe; ayó tape]
+__tape__	_n._	pumpkin	[_syn._	e'pe; ayó twpe]
 
 
 __tape hamañ__	_n._	vegetable of pumplin leaves		

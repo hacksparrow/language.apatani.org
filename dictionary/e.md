@@ -18,7 +18,7 @@ __e'da'__ _v._  shoot at target [_ant._  e'xa']
 __e'la'__ _adj._  good in shooting        
 
 
-__e'pe__  _n._  pumpkin [_syn._  tápè; ayó tápè]    
+__e'pe__  _n._  pumpkin [_syn._  tápè; ayó twpè]    
 
 
 __e'xa'__ _v._  miss a target by shooting [_ant._  e'da']   

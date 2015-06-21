@@ -158,11 +158,11 @@ __adiñ ácì__	_n._	headache
 
 __adiñ ce'nw__	_n._	barber
 
-__adiñ dilañ__	_n._	grey hair
+__adiñ dilañ__	_n._	grey or red hair
 
 __adiñ diñji__	_n._	black hair
 
-__adiñ diñpúu__	_n._	white hair
+__adiñ diñpúu__	_n._	white or grey hair
   
 __ado__ _n._  stalk; main stem of a herbaceous plant  [_var._  wdo]   
   
@@ -858,7 +858,7 @@ __ayobo__ _n._  mother-in-law (term of reference)
    
 __ayóo__  _n._  up; upper       
    
-__ayóo tapè__ _n._  pumpkin [_var._  ayóo twpe] [_syn._  e'pè, tápè]
+__ayóo twpè__ _n._  pumpkin [_syn._  e'pè, tápè]
    
 __ayóo zacù__ _n._  upper lip       
    
