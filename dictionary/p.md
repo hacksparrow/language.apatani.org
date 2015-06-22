@@ -56,7 +56,7 @@ __paako__	_n._	an element of babo
 __paaku'__	_n._	plate	[_syn._	paaka']
 
 
-__paapi__	_n._	a variety of flowering plant (_Hedychium_ sp.)				
+__paapi__	_n._	a variety of flowering plant (_Hedychium ellipticum_)				
 
 
 __paapw__	_n._	a distinct plot in a vegetable garden				
