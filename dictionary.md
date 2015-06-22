@@ -1,7 +1,7 @@
 ---
 title: Tanw Aguñ - Apatani Dictionary
 h1: Dictionary
-layout: dictionary
+layout: dictionary-home
 ---
 
 _Click on the alphabet of your interest to navigate for the entries for the selected alphabet._
