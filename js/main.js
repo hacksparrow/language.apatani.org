@@ -196,11 +196,18 @@ $(document).ready(function () {
       if (c.trim().slice(-1) == ']') {
         var match = c.match(/<em>(ant|syn|var)\.<\/em>/)
         if (match) {
+
           var word = c.replace(match[0], '').replace(']', '').trim()
-          var player = '<i class="fa fa-volume-off volume playable" onclick="playSound(this, \''+ word +'\')"></i>'
-          var playableWord = player + ' ' + word + ']'
+          var playableWords = []
+
+          word.split(';').forEach(function (entry) {
+            var player = '<i class="fa fa-volume-off volume playable" onclick="playSound(this, \''+ entry +'\')"></i>' + entry
+            playableWords.push(player)
+          })
+
           var target = word + ']'
-          html = html.replace(target, playableWord)
+          html = html.replace(target, playableWords.join('; ') + ']')
+
           $(p).html(html)
         }
       }
