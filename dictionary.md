@@ -4,9 +4,9 @@ h1: Dictionary
 layout: dictionary
 ---
 
-Click on the alphabet of your interest to navigate for the entries for the selected alphabet.
+_Click on the alphabet of your interest to navigate for the entries for the selected alphabet._
 
-The following abbreviations are used in the dictionary.
+The following __abbreviations__ are used in the dictionary.
 
 _ant._ antonym  
 _syn._ synonym  
