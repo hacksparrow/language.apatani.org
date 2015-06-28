@@ -128,15 +128,6 @@ Short: tamì (weed), peca (wild pear)
 <br>
 Long : saati (pine sap), peenw (procession)
 
-**Tones**
-
-Apatani is a tonal language. The tone associated with a word makes all the difference in giving a meaning to a word. The three main tones are rising, level and falling. The rising tone is denoted by a rising diacritic on the concerned vowel and falling tone with a falling diacritic. The level tone is left unmarked. Examples are:
-
-Rising tone: alló (bone)
-<br>
-Level tone: alo (day)
-<br>
-Falling tone: álò (to dry)
 
 **Consonant Lengths**
 
@@ -146,3 +137,14 @@ There are words with short and long consonants as well in Apatani. They are also
 Short consonant: alo (day)
 <br>
 Long consonant: alló (bone)
+
+
+**Tones**
+
+Apatani is a tonal language. The tone associated with a word makes all the difference in giving a meaning to a word. The three main tones are rising, level and falling. The rising tone is denoted by a rising diacritic on the concerned vowel and falling tone with a falling diacritic. The level tone is left unmarked. Examples are:
+
+Rising tone: alló (bone)
+<br>
+Level tone: alo (day)
+<br>
+Falling tone: álò (to dry)
