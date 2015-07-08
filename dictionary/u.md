@@ -109,7 +109,7 @@ __uunw__	_n._	main entrance of a hole	[_ant._	uusvr]
 __uurañ__	_adj._	deep	[_syn._	aarañ]	[_ant._	uuxa']
 
 
-__uuro__	_adj._	big (of hole)	[_ant._	uuzó]
+__uurò__	_adj._	big (of hole)	[_ant._	uuzó]
 
 
 __uro__	_adv._	forcefully; strongly				
