@@ -15,7 +15,7 @@ __xaa__	_vr._	collect; collect contributions	[_syn._	mya]
 __xa'ce__	_v._	split; break apart		
 
 
-__xa__	_vr._	bark (of a barking deer)		
+__xáa__	_vr._	bark (of a barking deer)		
 
 
 __xaañcu'__	_n._	can container with a lid (esp. to store rice)
