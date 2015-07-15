@@ -170,13 +170,13 @@ __sañxañ__	_n._	border post
 
 __sañxañ__	_n._	rubber		
 
-__sañxañ mefañ__	_n._	a variety of fencing plant; privet (Ligustrum ovalifolium)	
+__sañxañ mefañ__	_n._	a variety of fencing plant; privet (_Ligustrum ovalifolium_)	
 
 __sañxe page__	_n._	a variety of bead
 
 __sañxó__	_n._	smoke-dried meat
 
-__sañxw'__	_n._	a variety of plant used as dye (Eurya acuminata var. euprista)
+__sañxw'__	_n._	a variety of plant used as dye (_Eurya acuminata var. euprista_)
 
 __sañxw'__	_adj._	retarded growth	
 
@@ -238,7 +238,7 @@ __señbi'__	_adj._	half withered
 
 __señsw'__	_adj._	dry (of wood); thin (of a person)
 
-__seya hamañ__	_n._	Chameleon plant (Houttuynia cordata)	
+__seya hamañ__	_n._	Chameleon plant (_Houttuynia cordata_)	
 
 __sezi__	_n._	rhododendron		
 
@@ -463,7 +463,7 @@ __swlo__	_n._	today	[_adv._	swloda]
 
 __swlo bwfo__	_n._	recently; lately; now a days		
 
-__swlw__	_n._	Large Indian Civet (Viverra zibetha)	
+__swlw__	_n._	Large Indian Civet (_Viverra zibetha_)	
 
 __swlw'__	_n._	water container of bamboo		
 
@@ -511,7 +511,7 @@ __swtw__	_n._	elephant
 
 __swtw ahi__	_n._	elephant tusk		
 
-__swtw byako__	_n._	yellow berried nightshade (Solanum xanthocarpum)
+__swtw byako__	_n._	yellow berried nightshade (_Solanum xanthocarpum_)
 
 __sww__	_n._	cow; ox				
 
@@ -535,7 +535,7 @@ __swxá__	_n._	an altar
 
 __swxó__	_n._	water channel	
 
-__swxw__	_n._	porcupine	[_syn._	swxẁ pux]ẁ
+__swxẁ__	_n._	porcupine	[_syn_ swxẁ  pu]x̀
 
 __swxẁ puxẁ__	_n._	porcupine	[_syn._	swxẁ]
 
