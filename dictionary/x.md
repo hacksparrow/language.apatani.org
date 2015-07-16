@@ -207,7 +207,7 @@ __xuu__	_adj._	old
 __xw__	_num._	six
 
 
-__xw_	_vr._	cost; value
+__xw__	_vr._	cost; value
 
 
 __xw__	_vr._	count; innumerate
