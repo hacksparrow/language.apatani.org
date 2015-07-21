@@ -421,6 +421,7 @@ __álì__ _v._  plant
 __alì arañ__  _n._  bottom; base; lower part        
    
 __alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
+
 __ali lembo__ _n._  paved road  [_or._ Assamese]  
 
 __alì lwpiñ__	_n._	instep
