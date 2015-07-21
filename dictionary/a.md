@@ -50,7 +50,7 @@ __aarìda__  _n._  in the future; in the coming years
   
 __aarv__  _n._  Portion of lower limb of an animal  
   
-__aaxa'__ _adj._  shallow _syn._  uuxa' _ant._  aarañ  
+__aaxa'__ _adj._  shallow [_syn._  uuxa'] [_ant._  aarañ]  
   
 __aba'__  _v._  put a load; help carry       
   
@@ -78,25 +78,25 @@ __abíi__  _n._  lower garment whether skirt or pant
   
 __abíi-tarw__ _n._  dress; clothes; garments; attire       
   
-__abiñ__  _adj._  fruitful; productive  _ant._  asu'    
+__abiñ__  _adj._  fruitful; productive  [_ant._  asu']    
   
-__abrv__  _pron._ something; something that is unspecified or unknown _var._  abvr    
+__abrv__  _pron._ something; something that is unspecified or unknown[ _var._  abvr]    
   
-__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  arbú, abúr  _ant._  aro'  
+__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  arbú, abúr]  [_ant._  aro']  
   
 __abù__ _adj._  many; numerous; a lot of; plenty of         
   
 __abu-ake'__  _n._  manure; fertilizer        
   
-__abu'__  _v._  coddled; pampered _adv._  abu'swla    
+__abu'__  _v._  coddled; pampered [_adv._  abu'swla]    
   
 __abu'swla__  _adv._  indulgently       
   
-__abúr__  _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  abú; arbú _Ant._  aro'
+__abúr__  _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; arbú] [_Ant._  aro']
   
 __abúu__  _n._  a cylinderical structure    
   
-__abvr__  _pron._ something; something that is unspecified or unknown _var._  abrv    
+__abvr__  _pron._ something; something that is unspecified or unknown [_var._  abrv]    
   
 __abyá__  _n._  ladder; stepladder        
   
