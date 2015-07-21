@@ -6,13 +6,9 @@ devanagari: स
 ipa: s
 ---
 
-__sah__	_n._	tea	_or._	Assamese
-
-__sa__	_n._	rope	
+__sa__	_vr._	expel, as when delivering babies or defecating		
 
 __sa ci'ri__	_n._	a variety of antique sword
-
-__sah patw__	_n._	tea leaf; tea grain
 
 __sa'__	_vr._	breath; suck; cough	
 
@@ -42,29 +38,7 @@ __sa'riñ__	_n._	cough
 
 __sa'xw'__	_v._	intimidating; unnerving; daunting; formidable	[_Ant._	sa'pe']
 
-__sa__	_vr._	expel, as when delivering babies or defecating		
-
-__sabw__	_n._	officer; a dignified person	
-
-__sadi__	_n._	plantation (esp. of pine); pine estate	[_syn._	sañsuñ; salw]
-
-__sadi-sapa__	_n._	plantation		
-
-__saliñ__	_v._	expel out	
-
-__salw__	_v._	plantation	[_syn._	sañsuñ; sadi]
-
-__samañ__	_n._	pine needle	
-
-__sapi__	_n._	a variety of tree
-
-__sari__	_n._	a variety of tree which is allergic to those who are sensitive to it	
-
-__saró__	_n._	firewood of bamboo		
-
-__saro' sanw__	_n._	banyan tree (Ficus bengalensis)	
-
-__sarw__	_n._	knot (of tree); nodule; node	
+__saañ__	_v._	grow; live
 
 __saati__	_n._	pine sap	
 
@@ -76,6 +50,12 @@ __sabe'__	_n._	key	_Or._	Assamese
 
 __sabuñ__	_n._	soap	_Or._	Assamese
 
+__sabw__	_n._	officer; a dignified person	
+
+__sadi__	_n._	plantation (esp. of pine); pine estate	[_syn._	sañsuñ; salw]
+
+__sadi-sapa__	_n._	plantation		
+
 __sado__	_n._	boyfriend; male lover	[_syn._	miya]
 
 __sadvr__	_n._	conical shaped bamboo filter	[_syn._	o sadvr]
@@ -84,7 +64,9 @@ __safi'__	_adj._	green
 
 __safó__	_n._	a variety of tree; Fragrant Himalayan Champaka (Michelia champaca)
 
-__saq__	_n._	cot; bed	[_syn._	xaq]
+__sah__	_n._	tea	_or._	Assamese
+
+__sah patw__	_n._	tea leaf; tea grain
 
 __saha__	_n._	cane rope	[_var._	swha]
 
@@ -92,15 +74,21 @@ __saiklo__	_v._	bicycle	_or._	Assamese
 
 __sakori__	_n._	job; employment	
 
-__sala burta'__	_n._	cobra; King cobra (Ophiophagus hannah)	[_var._	sala borta']
-
 __sala borta'__	_n._	cobra; King cobra (Ophiophagus hannah)	[_var._	sala burta']
+
+__sala burta'__	_n._	cobra; King cobra (Ophiophagus hannah)	[_var._	sala borta']
 
 __sale'__	_adj._	raw, as of wood; standing wood		
 
+__saliñ__	_v._	expel out	
+
 __saluñ__	_n._	medium sized cucumber		
 
+__salw__	_v._	plantation	[_syn._	sañsuñ; sadi]
+
 __salw'__	_v._	push something in	
+
+__samañ__	_n._	pine needle	
 
 __samiñ rako__	_n._	tortoise	[_syn._	rako; rwko]
 
@@ -111,8 +99,6 @@ __sampú__	_n._	a variety of white beads of chank shell
 __sampyá__	_n._	wooden tray used for transporting soil from one place to the other in an agricultural field
 
 __sampyu__	_n._	a variety of blue coloured beads	
-
-__saañ__	_vr._	grow; live		
 
 __sañ__	_vr._	push or stuff something		
 
@@ -180,9 +166,11 @@ __sañxw'__	_n._	a variety of plant used as dye (_Eurya acuminata var. euprista_
 
 __sañxw'__	_adj._	retarded growth	
 
+__sapi__	_n._	a variety of tree
+
 __sapì__	_adj._	flattened
 
-__saq__	_n._	cot; bed
+__saq__	_n._	cot; bed	[_syn._	xaq]
 
 __sar__	_vr._	denigrate; criticise; disparage	
 
@@ -191,6 +179,8 @@ __sár__	_vr._	rip; tear
 __sárce__	_v._	tear something into two parts
 
 __sardiñ__	_n._	short-cut	_v._	take a short cut
+
+__sari__	_n._	a variety of tree which is allergic to those who are sensitive to it	
 
 __sarja'__	_v._	rip; tear
 
@@ -202,6 +192,10 @@ __sarli__	_n._	millet seed preserved for the next season
 
 __sarma pucuñ__	_n._	a mound of refuse mainly comprising of millet stalk and other weeds in a millet garden	
 
+__saró__	_n._	firewood of bamboo		
+
+__saro' sanw__	_n._	banyan tree (Ficus bengalensis)	
+
 __sarpu sarse__	_n._	an early ripening variety of millet
 
 __sarpu'__	_n._	balloon; bladder
@@ -212,6 +206,8 @@ __sarsw'__	_adj._	bland; insipid; weak (of liquor)
 
 __sarw__	_n._	teacher	_Or._	English
 
+__sarw__	_n._	knot (of tree); nodule; node	
+
 __sarxe sarse__	_n._	a late ripening variety of millet
 
 __sarxo__	_n._	stalk, of millet
@@ -220,13 +216,11 @@ __sati__	_n._	umbrella	_Or._	Assamese
 
 __se__	_vr._	pull		
 
+__seh__	_n._	flat cane string for carrying load	
+
 __seliñ__	_v._	pull something out
 
 __selw__	_v._	pull something in
-
-__setu__	_v._	stop by pulling	
-
-__seh__	_n._	flat cane string for carrying load	
 
 __sembo__	_n._	a variety of wild cherry	[_var._	semo]
 
@@ -238,49 +232,55 @@ __señbi'__	_adj._	half withered
 
 __señsw'__	_adj._	dry (of wood); thin (of a person)
 
+__setu__	_v._	stop by pulling	
+
 __seya hamañ__	_n._	Chameleon plant (_Houttuynia cordata_)	
 
 __sezi__	_n._	rhododendron		
 
-__si'__	_n._	urine	_v._	urinate
-
 __si__	_dem._	this		
+
+__si'__	_n._	urine	_v._	urinate
 
 __sih'__	_n._	spring (esp. where animals come to drink)	
 
 __siibi'__	_adj._	shrivel; wither; wilt	
 
-__sipuñ__	_n._	recently; these days	
+__siiñbo__	_n._	large-sized larvae of dragonfly	[_syn._	tasiñ siñbo]	
 
-__sitañ__	_pron._	like this; this way	[_adv._	sitañpa]
+__siizi'__	_n._	small-sized larvae of dragonfly	[_syn._	tasiñ siizi']	
 
 __sikuñ-siri__	_adj._	wrinkled; crunkled		
 
 __sila'__	_v._	stitch or sew (esp. with sewing machine)	_Or._	Assamese
 
+__simbya__	_n._	balcony in a traditional house	[_var._	siñbya]	
+
 __siñ__	_vr._	feed (esp. liquid food)		
-
-__siiñbo__	_n._	large-sized larvae of dragonfly	[_syn._	tasiñ siñbo]	
-
-__siizi'__	_n._	small-sized larvae of dragonfly	[_syn._	tasiñ siizi']	
 
 __siñbya__	_n._	balcony in a traditional house	[_var._	simbya]	
 
-__simbya__	_n._	balcony in a traditional house	[_var._	siñbya]	
+__sipuñ__	_n._	recently; these days	
 
 __sisa__	_n._	glass	_or._	Hindi	
 
 __sisi__	_n._	now	[_var._	swsi]	[_adv._	sisida]
 
+__sitañ__	_pron._	like this; this way	[_adv._	sitañpa]
+
 __siyo__	_n._	this night; tonight	
 
 __sizi' tasiñ__	_n._	a variety of small sized larvae	
 
-__soh__	_vr._	play; joke; flirt	
-
 __so__	_post._	at; in			
 
+__so__	_dem._	here		
+
 __so'ko__	_n._	jaw	
+
+__soh__	_vr._	play; joke; flirt	
+
+__sohte__	_v._	roam; travel for fun	
 
 __sojañ__	_n._	lizard	
 
@@ -288,28 +288,19 @@ __soki'__	_n._	chair	_or._	Assamese
 
 __soku-soka__	_v._	tease; make fun of; poke fun at; trifle with	
 
+__soli__	_n._	a sacrificial share of meat comprising of hind leg	
+
 __some__	_n._	bamboo shavings used as an element of altar as well as for decoration	[_syn._	jompu]	
+
+__some__	_n._	palm civet		
 
 __somiñ qarmiñ__	_n._	entertainment; amusement; enjoyment	
 
 __soñ__	_vr._	move sideways		
 
-__so__	_dem._	here		
-__soli__	_n._	a sacrificial share of meat comprising of hind leg	
-
-__some__	_n._	palm civet		
+__sopiñ__	_n._	lizard		
 
 __sopo__	_adj._	slim; slender; svelte; lissome	
-
-__sorò__	_adj._	thick (of objects like a thread)	[_Ant._	sozó]
-
-__sosiñ__	_n._	steel wire rope		
-
-__sosvr__	_adj._	shrill (of voice); high pitched; thin voice	[_ant._	bañbañ]
-
-__sozó__	_adj._	thin (of objects like a thread)	[_Ant._	sorò]
-
-__sopiñ__	_n._	lizard		
 
 __sor__	_vr._	complain; protest		
 
@@ -321,15 +312,23 @@ __sorjiñ__	_v._	stretch straight; straighten out	[_adj._	straight]
 
 __sorjo'__	_adj._	elongated; straighten out	
 
+__sorò__	_adj._	thick (of objects like a thread)	[_Ant._	sozó]
+
 __sosi'-sosi'__	_adv._	in a line; one after the other	
+
+__sosiñ__	_n._	steel wire rope		
 
 __sosma__	_n._	goggle	_or._	Assamese
 
-__sohte__	_v._	roam; travel for fun	
+__sosvr__	_adj._	shrill (of voice); high pitched; thin voice	[_ant._	bañbañ]
 
 __soxañ__	_n._	trophy; memento (esp. of special achievements)	
 
 __soy tarw__	_n._	sweater	_or._	Assamese
+
+__sozó__	_adj._	thin (of objects like a thread)	[_Ant._	sorò]
+
+__su__	_vr._	evaporate; emit smoke	
 
 __sù__	_vr._	rear; breed; bring up; nurture	
 
@@ -363,7 +362,11 @@ __subu tu'te'__	_n._	a variety of wild strawberry
 
 __sudu__	_n._	bamboo container	
 
+__sufi' sume__	_adj._	crooked; dishonest; untrustworthy
+
 __sufu__	_adj._	empty (of feeling)	
+
+__suh__	_n._	spring		
 
 __sukuñ__	_n._	well; spring	
 
@@ -394,12 +397,6 @@ __surúu__	_adj._	deceptive; crafty; treacherous
 __surúu dozó__	_n._	traitor; scoundrel		
 
 __susumomo__	_adj._	disappointed; dispirited; downcast
-
-__su__	_vr._	evaporate; emit smoke	
-
-__suh__	_n._	spring		
-
-__sufi' sume__	_adj._	crooked; dishonest; untrustworthy
 
 __sw__	_vr._	die		
 
