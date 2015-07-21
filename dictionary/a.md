@@ -422,6 +422,7 @@ __alì arañ__  _n._  bottom; base; lower part
    
 __alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
 
+
 __ali lembo__ _n._  paved road  [_or._ Assamese]  
 
 __alì lwpiñ__	_n._	instep
@@ -461,6 +462,8 @@ __aluñ__  _v._  surprise, shock
 __alvr__  _adj._  hard; firm; rigid; strong [_syn._  arlv]    
    
 __alẃ__ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
+
+
 __alw'__  _v._  insert; put       
    
 __alw'__  _v._  exchange; interchange; swap       
