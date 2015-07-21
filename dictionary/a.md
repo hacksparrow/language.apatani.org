@@ -246,7 +246,7 @@ __agvr__  _n._  bundh; raised earthen boundary between paddy fields where millet
     
 __agw__ _v._  dress; clothe; put on dress        
      
-__agyá__  _v._  toplace one's hand(s) with palms facing upwards, as when receiving something.     
+__agyá__  _v._  to place one's hand(s) with palms facing upwards, as when receiving something.     
      
 __agyañ__ _n._  ritual altar of the Apatanis    
     
