@@ -532,7 +532,7 @@ __swxá__	_n._	an altar
 
 __swxó__	_n._	water channel	
 
-__swxẁ__	_n._	porcupine	[_syn._ swxẁ pux̀]
+__swxẁ__	_n._	porcupine	[_syn._ swxẁ puxẁ]
 
 __swxẁ puxẁ__	_n._	porcupine	[_syn._	swxẁ]
 
