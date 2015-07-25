@@ -4,7 +4,7 @@ h1: Dictionary
 layout: dictionary-home
 ---
 
-_Click on the alphabet of your interest to navigate for the entries for the selected alphabet._
+_Click on the letter of your interest to navigate for the entries for the selected letter._
 
 The following __abbreviations__ are used in the dictionary.
 

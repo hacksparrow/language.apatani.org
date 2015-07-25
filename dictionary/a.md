@@ -50,7 +50,7 @@ __aarìda__  _n._  in the future; in the coming years
   
 __aarv__  _n._  Portion of lower limb of an animal  
   
-__aaxa'__ _adj._  shallow _syn._  uuxa' _ant._  aarañ  
+__aaxa'__ _adj._  shallow [_syn._  uuxa'] [_ant._  aarañ]  
   
 __aba'__  _v._  put a load; help carry       
   
@@ -78,25 +78,25 @@ __abíi__  _n._  lower garment whether skirt or pant
   
 __abíi-tarw__ _n._  dress; clothes; garments; attire       
   
-__abiñ__  _adj._  fruitful; productive  _ant._  asu'    
+__abiñ__  _adj._  fruitful; productive  [_ant._  asu']    
   
-__abrv__  _pron._ something; something that is unspecified or unknown _var._  abvr    
+__abrv__  _pron._ something; something that is unspecified or unknown[ _var._  abvr]    
   
-__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  arbú, abúr  _ant._  aro'  
+__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  arbú, abúr]  [_ant._  aro']  
   
 __abù__ _adj._  many; numerous; a lot of; plenty of         
   
 __abu-ake'__  _n._  manure; fertilizer        
   
-__abu'__  _v._  coddled; pampered _adv._  abu'swla    
+__abu'__  _v._  coddled; pampered [_adv._  abu'swla]    
   
 __abu'swla__  _adv._  indulgently       
   
-__abúr__  _adj._  unlucky; unfortunate; jinxed; ill-fated _var._  abú; arbú _Ant._  aro'
+__abúr__  _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; arbú] [_Ant._  aro']
   
 __abúu__  _n._  a cylinderical structure    
   
-__abvr__  _pron._ something; something that is unspecified or unknown _var._  abrv    
+__abvr__  _pron._ something; something that is unspecified or unknown [_var._  abrv]    
   
 __abyá__  _n._  ladder; stepladder        
   
@@ -246,7 +246,7 @@ __agvr__  _n._  bundh; raised earthen boundary between paddy fields where millet
     
 __agw__ _v._  dress; clothe; put on dress        
      
-__agyá__  _v._  toplace one's hand(s) with palms facing upwards, as when receiving something.     
+__agyá__  _v._  to place one's hand(s) with palms facing upwards, as when receiving something.     
      
 __agyañ__ _n._  ritual altar of the Apatanis    
     
@@ -421,6 +421,8 @@ __álì__ _v._  plant
 __alì arañ__  _n._  bottom; base; lower part        
    
 __alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
+
+
 __ali lembo__ _n._  paved road  [_or._ Assamese]  
 
 __alì lwpiñ__	_n._	instep
@@ -460,6 +462,8 @@ __aluñ__  _v._  surprise, shock
 __alvr__  _adj._  hard; firm; rigid; strong [_syn._  arlv]    
    
 __alẃ__ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
+
+
 __alw'__  _v._  insert; put       
    
 __alw'__  _v._  exchange; interchange; swap       
