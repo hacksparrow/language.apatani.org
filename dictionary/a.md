@@ -8,7 +8,7 @@ ipa: a
 
 __a__ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made. _Aga dwto a!_ [Eat quickly, ok!]. _Qo lucike a!_ [I will speak, ok!]   
   
-__áa__  _Vr._  come; arrive; enter  
+__áa__  _vr._  come; arrive; enter  
   
 __áade__  _v._  come close; approach. _So áadeto, qoya ako lukoso_ [Come close; I will tell you something.]  
   
@@ -18,13 +18,13 @@ __áagya'__ _v._  come to a wrong place or a wrong way. _Si Yami ka udema po? Qo
   
 __áajó__  _n._  benefit of coming; wage or fare for coming. _Haqw áajó zijema, qo hwka udeho áatema kw._ [I will not come that place as there is no benefit of it.]  
   
-__áakò__  _n._  entrance; entry; door [_var._  háakò]. _Lemba uraho áako si pe ha?_ [Is this the entry to the inside of the village?]. _Dahito, áakomi da'tinñbw yo._ [Move aside, don't stand blocking the entrance.]  
+__áakò__  _n._  entrance; entry; door [_var._  háakò]. _Lemba uraho áako si pe ha?_ [Is this the entry to the inside of the village?]. _Da'hito, áakomi da'tiñbw yo._ [Move aside, don't stand blocking the entrance.]  
   
 __áakuñ__ _v._  come together; gather. _Mwlañja'hw so áakuñto._ [Everybody gather here.]       
   
-__áakuñ__ _v._  come early. _Konñda áakuñfa a._ [Come early tomorrow.]    
+__áakuñ__ _v._  come early. _Koñda áakuñfa a._ [Come early tomorrow.]    
   
-__áakúr__ _v._  return; come back. _No áakurfi po?_ [Have you returned?]       
+__áakúr__ _v._  return; come back. _No áakurfi ha?_ [Have you returned?]       
   
 __aalú__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
   
