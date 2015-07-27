@@ -6,17 +6,17 @@ devanagari: अा
 ipa: a
 ---
 
-__a__ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made. _Aga dwto a!_ [Eat quickly, ok!]. _Qo lucike a!_ [I will speak, ok!]   
+__a__ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made. _Aga dwto __a__!_ [Eat quickly, ok!]. _Qo lucike __a__!_ [I will speak, ok!]   
   
 __áa__  _Vr._  come; arrive; enter  
   
-__áade__  _v._  come close; approach _So áadeto, qoya ako lukoso_ [Come close; I will tell you something.]  
+__áade__  _v._  come close; approach. _So __áade__to, qoya ako lukoso_ [Come close; I will tell you something.]  
   
-__áagyá__ _n._  entrance; door  [_var._ háagyá] _Mo mi áagyá ho da'fakwne to_ [Let him wait at the entrance.]   
+__áagyá__ _n._  entrance; door  [_var._ háagyá]. _Mo mi __áagyá__ ho da'fakwne to_ [Let him wait at the entrance.]   
   
-__áagya'__ _v._  come to a wrong place or a wrong way. _Si Yami ka udema po? Qo áagya'bwdo._ [Isn't this Yami's house? I have come to the wrong place.]  
+__áagya'__ _v._  come to a wrong place or a wrong way. _Si Yami ka udema po? Qo __áagya'__bwdo._ [Isn't this Yami's house? I have come to the wrong place.]  
   
-__áajó__  _n._  benefit of coming; wage or fare for coming. _Haqw áajoó zijema, qo hwka udeho áatema kw._ [I will not come that place as there is no benefit of it.]  
+__áajó__  _n._  benefit of coming; wage or fare for coming. _Haqw __áajó__ zijema, qo hwka udeho áatema kw._ [I will not come that place as there is no benefit of it.]  
   
 __áakò__  _n._  entrance; entry; door [_var._  háakò]  
   
