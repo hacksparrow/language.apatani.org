@@ -18,13 +18,13 @@ __áagya'__ _v._  come to a wrong place or a wrong way. _Si Yami ka udema po? Qo
   
 __áajó__  _n._  benefit of coming; wage or fare for coming. _Haqw áajó zijema, qo hwka udeho áatema kw._ [I will not come that place as there is no benefit of it.]  
   
-__áakò__  _n._  entrance; entry; door [_var._  háakò]  
+__áakò__  _n._  entrance; entry; door [_var._  háakò]. _Lemba uraho áako si pe ha?_ [Is this the entry to the inside of the village?]. _Dahito, áakomi da'tinñbw yo._ [Move aside, don't stand blocking the entrance.]  
   
-__áakuñ__ _v._  come together; gather       
+__áakuñ__ _v._  come together; gather. _Mwlañja'hw so áakuñto._ [Everybody gather here.]       
   
-__áakuñ__ _v._  come early    
+__áakuñ__ _v._  come early. _Konñda áakuñfa a._ [Come early tomorrow.]    
   
-__áakúr__ _v._  return; come back       
+__áakúr__ _v._  return; come back. _No áakurfi po?_ [Have you returned?]       
   
 __aalú__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
   
