@@ -42,7 +42,7 @@ __aarda__ _n._  tomorrow
   
 __aarda-rida__  _n._  in the future; in the coming days    
   
-__aare__  _adv._  quick; fast; swift  
+__aare__  _adv._  quick; fast; swift. _Myodu-myolo icu do ke, aare iñto a._ [Time is less, go quickly.]  
   
 __aarí__  _n._  saw [_or._ Hindi]   
   
