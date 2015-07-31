@@ -36,7 +36,7 @@ __aamw__  _n._  mango [_or._ Assamese]
   
 __aapu kai__  _n._  showy; ostentatious (person)      
   
-__aarañ__ _adj._  deep  [_syn._  uurañ]   
+__aarañ__ _adj._  deep  [_syn._  uurañ]. _Yamuna kwle ho yasi abu dùunwñ, heñpvr aarañ du do._ [Since there are lots of water in the Yamuna river, it would be very deep.]   
   
 __aarda__ _n._  tomorrow     
   
