@@ -50,11 +50,11 @@ __aarìda__  _n._  in the future; in the coming years
   
 __aarv__  _n._  Portion of lower limb of an animal  
   
-__aaxa'__ _adj._  shallow [_syn._  uuxa'] [_ant._  aarañ]  
+__aaxa'__ _adj._  shallow [_syn._  uuxa'] [_ant._  aarañ]. _Swzañ mwdó abù húmanwñ swgañ si aaxa' do._ [Since it did not rain much this year, the stream is shallow.]   
   
-__aba'__  _v._  put a load; help carry       
+__aba'__  _v._  put a load; help carry. _Wqa aba'to pe._ [Help me carry the baby.]       
   
-__abañ__  _v._  bury (esp. in ash)      
+__abañ__  _v._  bury (esp. in ash). _Hwka yalañ mi mubu ho abañto._ [Bury that stone in the ash.]      
   
 __abañ__  _n._  elder brother    
   
@@ -70,15 +70,15 @@ __abba-bañkuñ__ _n._  great grandfather
   
 __abba-ci__ _n._  step father       
   
-__ábì__ _v._  swing; sway; oscillate; move back and forth       
+__ábì__ _v._  swing; sway; oscillate; move back and forth. _Tatu tarù soheho ábìla da'._ [Tatu is swinging on a rope.]        
   
-__abi'__  _adj._  complete        
+__abi'__  _adj._  complete. _Abi'ma rañ ke, ice birañ pe._ [It is not complete yet; give me some more.]        
   
 __abíi__  _n._  lower garment whether skirt or pant  
   
 __abíi-tarw__ _n._  dress; clothes; garments; attire       
   
-__abiñ__  _adj._  fruitful; productive  [_ant._  asu']    
+__abiñ__  _adj._  fruitful; productive  [_ant._  asu']. _Gambo heñpvr ayapa purilala la sabw fido ku. Mo ka puri rijo hw abiñne ke._ [Gambo has become an officer after studying well. His effort has been fruitful.]      
   
 __abrv__  _pron._ something; something that is unspecified or unknown[ _var._  abvr]    
   
