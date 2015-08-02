@@ -80,9 +80,9 @@ __abíi-tarw__ _n._  dress; clothes; garments; attire
   
 __abiñ__  _adj._  fruitful; productive  [_ant._  asu']. _Gambo heñpvr ayapa purilala la sabw fido ku. Mo ka puri rijo hw abiñne ke._ [Gambo has become an officer after studying well. His effort has been fruitful.]      
   
-__abrv__  _pron._ something; something that is unspecified or unknown[ _var._  abvr]    
+__abrv__  _pron._ something; something that is unspecified or unknown[ _var._  abvr]. _Qo abrv he aha ahw' bwdo._ [I am forgetting something.]    
   
-__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  arbú, abúr]  [_ant._  aro']  
+__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  arbú, abúr]  [_ant._  aro'].  
   
 __abù__ _adj._  many; numerous; a lot of; plenty of         
   
