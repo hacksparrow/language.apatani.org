@@ -150,9 +150,9 @@ __adañ__  _adj._  strong; sturdy _Swka yalañ ude si adañ kapa do._ [This ston
   
 __adiñ__  _v._  add; include; incorporate; admix  _Nwka posa bare mi alw'do koda laqe dokiñdo._ [If you add your one rupee, it will be a hundred rupee.]    
   
-__adiñ__  _adv._  only; exclusively; solely _Aji ho zimw adiñ kapado._ [I can see only women in the fields.]       
+__adiñ__  _adv._  only; exclusively; solely _Qo aji ho zimw adiñ kapado._ [I can see only women in the fields.]       
   
-__adiñ__  _n._  head (anatomical) _Sw adiñ mi abañja' mi bidu._ [The head of the sacrificed cow is offered to the eldest brother.]  
+__adiñ__  _n._  head (anatomical) _Sww adiñ mi abañja' mi bidu._ [The head of the sacrificed cow is offered to the eldest brother.]  
 
 __adiñ ácì__	_n._	headache
 
