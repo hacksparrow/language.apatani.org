@@ -144,15 +144,15 @@ __acuñ__  _v._  hide; conceal; camouflage; cove up
    
 __adáa__  _n._  a person who has always had only one wife       
   
-__adañ__  _n._  spear [_var._  wdañ]    
+__adañ__  _n._  spear [_var._  wdañ]  _Bíilo swre mi adañ lo nw'ne._ [In the olden days the wild pigs were hunted with spears.]  
   
-__adañ__  _adj._  strong; sturdy        
+__adañ__  _adj._  strong; sturdy _Swka yalañ ude si adañ kapa do._ [This stone house looks sturdy.]        
   
-__adiñ__  _v._  add; include; incorporate; admix     
+__adiñ__  _v._  add; include; incorporate; admix  _Nwka posa bare mi alw'do koda laqe dokiñdo._ [If you add your one rupee, it will be a hundred rupee.]    
   
-__adiñ__  _adv._  only; exclusively; solely       
+__adiñ__  _adv._  only; exclusively; solely _Aji ho zimw adiñ kapado._ [I can see only women in the fields.]       
   
-__adiñ__  _n._  head (anatomical)   
+__adiñ__  _n._  head (anatomical) _Sw adiñ mi abañja' mi bidu._ [The head of the sacrificed cow is offered to the eldest brother.]  
 
 __adiñ ácì__	_n._	headache
 
