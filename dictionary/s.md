@@ -436,7 +436,7 @@ __swfiñ swro__	_n._	now a days; these days
 
 __swfo'__	_n._	river bank; beach	
 
-__swgañ__	_n._	irrigation channel	
+__swgañ__	_n._	irrigation channel; drainage system; small natural rivulet [_syn._ swliñ]	
 
 __swgo__	_n._	bridge		
 
