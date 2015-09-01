@@ -454,6 +454,8 @@ __swlì__	_n._	water body
 
 __swliñ__	_n._	a small track inside the kitchen garden	
 
+__swliñ__ -n._ irrigation channel [_syn._ swgañ]
+
 __swliñ__	_adj._	wild (of a domestic animal esp. a mithun or a cow)	
 
 __swlo__	_n._	today	[_adv._	swloda]		
