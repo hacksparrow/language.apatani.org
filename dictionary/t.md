@@ -363,9 +363,6 @@ __tañgw__	_adj._	drunk; inebriated
 __taniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	twniñ]
 
 
-__twniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	taniñ]
-
-
 __tañka__	_v._	taste (drinking or smoking)		
 
 
@@ -411,7 +408,7 @@ __tañxu'__	_n._	leftover drinks
 __tañxwñ__	_v._	get drunk		
 
 
-__tapañ__	_n._	algae; moss		
+__tapañ__	_n._	algae; moss	[_syn._ twpañ]	
 
 
 __tapañ dafi__	_n._	east		
@@ -950,6 +947,8 @@ __twniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	t
 
 __twp pwpw__	_n._	Himalayan cuckoo (_Cuculus saturatus_)
 
+
+__twpañ__ _n._ moss; algae [_syn._ tapañ]
 
 __twpe__	_n._	tattoo				
 
