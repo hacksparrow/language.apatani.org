@@ -350,7 +350,7 @@ __subu rwgo__	_n._	plaited cane ring for mithun horns
 
 __subu sa__	_n._	cane rope for mithuns		
 
-__subu sih'__	_n._	pond or puddle where mithuns gather to drink water
+__subu sih'__	_n._	pond or puddle where mithuns gather to drink water; watering hole
 
 __subu swbo__	_n._	mithun bull		
 
