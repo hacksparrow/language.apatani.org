@@ -558,7 +558,7 @@ __anẁ-ci__  _n._  step mother
    
 __anw'__  _v._  swallow; gulp down; ingest  [_var._  arnw']   
    
-__anw'__  _n._  hurry; haste; urgent        
+__anw'__  _adv._  hurry; haste; urgent        
    
 __apa-ama__ _adj._  simple; artless; guileless; innocent        
    
