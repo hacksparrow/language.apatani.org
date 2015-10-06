@@ -87,7 +87,10 @@ __ce'__ _vr._  argue; contend; claim; wrangle
 __ce'__ _vr._  cut (as with scissor)        
 
 
-__ce'__ _vr._  press or squeeze; sandwich; compress        
+__ce'__ _vr._  press or squeeze; sandwich; compress       
+
+
+__ce'ce'__	_adj._	stubborn; obstinate
 
 
 __ce'ga__ _adj._  argumentative; quarrelsome; belligerant; captious       
