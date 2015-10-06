@@ -300,7 +300,7 @@ __aì__  _adj._  raw; uncooked
    
 __aì__  _adj._  heavy     
 
-__ai-are _adj._ annoyed; vexed; exasperating; problematic
+__ai-are__ _adj._ annoyed; vexed; exasperating; problematic
    
 __aì-haaju'__ _n._  weight   
    
