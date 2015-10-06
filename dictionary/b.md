@@ -42,11 +42,17 @@ __baji'__ _v._  cook in oil [_or._ Assamese]
    
 __baji__  _n._  time  [_or._ Assamese]    
    
-__baka'__ _n._  dent; depression        
+__baka'__ _n._  dent; depression     
+
+__bako'__	_n._	box	[_or._	Assamese]
+
+__baltiq__	_n._	bucket
    
 __balu__  _n._  garden        
    
-__bañbañ__  _adj._  heavy or hoarse voice       
+__bañbañ__  _adj._  heavy or hoarse voice    
+
+__bañs garw__	_n._	bus	[_or._	English]
    
 __bar__ _vr._  carry something with a horizontal bar or a rod        
    
@@ -202,7 +208,12 @@ __bóì__ _n._  track made by large game
    
 __bóo__ _vr._  pull; tug; lug; drag; draw        
    
-__borta'__  _n._  a variety of snake; cobra var.  burta'; sala burta    
+__borta'__  _n._  a variety of snake; cobra var.  burta'; sala burta   
+
+__bosta__	_n._	jute bag; gunny bag	_or._	Assamese
+
+
+__botoli__	_n._	bottle	_or._	English
    
 __bù__  _vr._  uproot        
    
@@ -224,7 +235,9 @@ __bukofe'be__ _n._  larva of water beetle [_syn._  fe'be]
    
 __bwluñ-bwle__  _adj._  sickly, unappetizing  [_var._  buluñ-bwle]    
    
-__buluñ-bwle__  _adj._  sickly, unappetizing  [_var._  bwluñ-bwle]    
+__buluñ-bwle__  _adj._  sickly, unappetizing  [_var._  bwluñ-bwle]   
+
+__bum__	_n._	bomb	[_or._	English]
    
 __buñ__ _vr._  crowd       
    
@@ -356,7 +369,12 @@ __byaarañ__ _n._  space between the front verandah and the main space in an Apa
    
 __byaazó__  _adj._  narrow (esp. of path)       
    
-__byací__ _adj._  smart; quick; agile [_syn._  cibyw]   
+__byací__ _adj._  smart; quick; agile [_syn._  cibyw]  
+
+__byako__	_n._	common term of berries
+
+
+__byaku' tale'__	_n._	onion
    
 __byakú__ _n._  a child with developmental delay        
    
