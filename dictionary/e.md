@@ -24,7 +24,12 @@ __e'pe__  _n._  pumpkin [_syn._  tápè; ayó twpè]
 __e'xa'__ _v._  miss a target by shooting [_ant._  e'da']   
 
 
-__e'xw__  _v._  kill by shooting        
+__e'xw__  _v._  kill by shooting    
+
+__ebyosa__	_int._	interjectiont to express agreement
+
+
+__eem__	_int._	yes
 
 
 __efañ__  _n._  ear of grain        
@@ -90,7 +95,12 @@ __enda__  _n._  fifth lunar moon; May
 __endi__  _n._  rice plant; rice seedling       
 
 
-__ene'__  _adv._  without reason; without purpose; without work [_or._ Assamese]    
+__ene'__  _adv._  without reason; without purpose; without work [_or._ Assamese]   
+
+__eñjañ__	_n._	rainy season	[_Ent._	eñdi + ajañ]
+
+
+__eñku__	_n._	paddy of previous harvest		
 
 
 __eñsu'__ _v._  fail (esp. of rice plant; failing to fruit)        
