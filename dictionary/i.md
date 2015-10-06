@@ -118,6 +118,8 @@ __iñgu__	_v._	change direction or destination of going
 
 __iñgya'__	_v._	astray; off course; go the wrong way	
 
+__iñpó__	_v._	cross; travel across; traverse
+
 __iza__	_int._	interjection to express repugnance	[_syn._	ija]  
 
 __ija__	_int._	interjection to express repugnance	[_syn._	iza]  
