@@ -369,10 +369,14 @@ __dù__  _vr._  dig; excavate
 __du'__ _vr.  throb; beat (as of heart)        
 
 
-__du'__ _vr._  offer something for sale; market        
+__du'__ _vr._  offer something for sale; market     
+
+__du'ca__	_v._	get excited; be motivated	[_syn._	sa'ca]
 
 
 __du'jo__ _n._  commission paid to a sale agent       
+
+__dui__	_n._	tobacco	[_syn._	muku]
 
 
 __dukañ__ _n._  shop  [_or._ Assamese]    
