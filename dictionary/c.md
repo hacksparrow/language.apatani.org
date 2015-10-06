@@ -183,7 +183,10 @@ __cixw-cixo__ _n._  a variety of bird; black drongo (_Dicrurus macrocercus_)
 __cizu'__ _n._  soot; impure carbon particles resulting from the incomplete combustion of wood        
 
 
-__co'myo'__ _adv._  slowly; silently; stealthily        
+__co'myo'__ _adv._  slowly; silently; stealthily 
+
+
+__cofo paka'__ _n._ small metallic plate, esp. to serve side dishes
 
 
 __coga-coga__ _adv._  waddling; manner of walking with short steps and swaying motion       
