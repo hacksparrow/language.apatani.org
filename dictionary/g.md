@@ -12,7 +12,15 @@ __ga__  _vr._  scold; rebuke; reprimand;chide
 __ga'__ _vr._  grasp; clutch; grip; grab       
 
 
-__ga'bw__ _v._  hold on to something (as someone's hand, a stick or a knife)        
+__ga'bw__ _v._  hold on to something (as someone's hand, a stick or a knife)   
+
+__ga'ce__	_v._	break by clutching something		
+
+
+__ga'ci'__	_v._	hold something at its tip or edge	[_ant._	ga'po]
+
+
+__ga'hiñ__	_v._	shape something into a ball with the hands		
 
 
 __ga'je'__  _v._  soften something by grasping repeatedly       
