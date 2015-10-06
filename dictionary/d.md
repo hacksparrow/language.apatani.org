@@ -12,7 +12,9 @@ __da'__ _v._  stand; be there
 __da'fa__ _v._  wait (standing); halt; pause        
 
 
-__da'hi'-da'mo__  _v._  stand for a while; wait for a while       
+__da'hi'-da'mo__  _v._  stand for a while; wait for a while   
+
+__da'mo__	_v._	rest; take a breather	[_syn._	hémò]
 
 
 __da're'ke__  _n._  lower rack over the fireplace [_syn._  daare' re'ke]    
@@ -42,13 +44,19 @@ __daaze__ _n._  two steps
 __daazó__ _adj._  small step  [_ant._  daarò]   
 
 
-__dacañ__ _n._  iron; metal       
+__dacañ__ _n._  iron; metal    
+
+__dacañ pwcañ__	_n._	metallic pot
 
 
-__dacañ pwloo__ _n._  metallic crowbar        
+__dacañ pwloo__ _n._  metallic crowbar 
+
+__daci mida__	_n._	mida of lesser variety	[_ant._	datw mida]
 
 
-__dahw-daaxe__  _v._  go here and there       
+__dahw-daaxe__  _v._  go here and there   
+
+__dali__	_n._	dried pulse usually prepared as gravy and taken with rice	[_or._	Assamese]
 
 
 __daliñ__ _n._  path made by a hunter; hunting track  [_var._  dwliñ]   
@@ -60,10 +68,16 @@ __damiñda__ _n._  a variety of Apatani traditional dance, accompanied by bwsí
 __damu__  _n._  wooden digging stick used as an agricultural implement        
 
 
-__dañ__ _vr._  beat (with a stick)       
+__dañ__ _vr._  beat (with a stick)   
+
+__dañlò__	_v._	beat something down; cause to fall by beating	[_syn._	dañte']
 
 
-__dañsò__ _n._  spear with long handle        
+__dañsò__ _n._  spear with long handle   
+
+__dañte'__	_v._	beat something down; cause to fall by beating	[_syn._	dañlò]
+
+__dañtvr__	_v._	break something by beating
 
 
 __danw__  _n._  heavy wooden hammer       
@@ -105,7 +119,9 @@ __darw'__ _adj._  clean; pure; clear  [_adv._  darw'pa]
 __darw' pyabya__  _adv._  clean; pure; clear        
 
 
-__dasvr__ _adj._  free; without burden; unencumbered  [_syn._  heñsvr]    
+__dasvr__ _adj._  free; without burden; unencumbered  [_syn._  heñsvr]  
+
+__datw mida__	_n._	mida of greater variety	[_ant._	daci mida]
 
 
 __dazi__  _n._  sun       
@@ -129,7 +145,11 @@ __dazi cago__ _n._  east  [_syn._  haaci]
 __dazi lofañ__  _n._  mid-day; noon [_syn._  alo lwpa]    
 
 
-__dazi riila'__ _n._  sunray        
+__dazi riila'__ _n._  sunray    
+
+__dazi somiñ__	_n._	a species of legless lizard; Asian glass lizard (_Ophisaurus gracillis_)
+
+__dazi tatw' arnw'__	_n._	solar eclipse
 
 
 __dazo__  _adj._  without reason; aimless [_adv._  dazopa]    
@@ -246,7 +266,9 @@ __diñgyañ__ _n._  fencepost
 __diñko__ _n._  metal skewer inserted horizontally through the male hair knot [_syn._  pwdiñ xootu]   
 
 
-__diñta'__  _n._  scalp; top portion of head        
+__diñta'__  _n._  scalp; top portion of head    
+
+__diñtu__	_v._	nod
 
 
 __diñtu'__  _v._  comb        
@@ -267,7 +289,11 @@ __ditiñ ya'ì__  _v._  landslide; mudslide
 __dituñ__ _n._  social event; occasion  [_syn._  dituñ-potuñ]   
 
 
-__dituñ-potuñ__ _n._  ceremony; social event; occasion  [_syn._ dituñ]   
+__dituñ-potuñ__ _n._  ceremony; social event; occasion  [_syn._ dituñ]  
+
+__ditvr__	_n._	lumps of soil (esp. in paddy fields)
+
+__diyu'__	_n._	marsh; swamp
 
 
 __do__  _v._  be; exist; lie  [_ant._  zima]    
@@ -371,7 +397,7 @@ __du'__ _vr.  throb; beat (as of heart)
 
 __du'__ _vr._  offer something for sale; market     
 
-__du'ca__	_v._	get excited; be motivated	[_syn._	sa'ca]
+__du'ca__	_v._	get excited; be motivated; fired up	[_syn._	sa'ca]
 
 
 __du'jo__ _n._  commission paid to a sale agent       
@@ -442,7 +468,11 @@ __dw'__ _v._  have adverse or allergic reaction to something ingested
 __dwbe__  _v._  eat to heart' content; eat so much one cannot eat any more        
 
 
-__dwbuñ__ _n._  greedy; gluttonous        
+__dwbuñ__ _n._  greedy; gluttonous    
+
+__dwdw'__	_v._	poison (by eating)	[_adj._	poisonous]
+
+__dwdw' tahiñ__	_n._	poisonous mushroom
 
 
 __dwgoo__ _n._  food; eatable       
@@ -473,6 +503,8 @@ __dwma-haama__  _n._  purification ritual
 
 
 __dwme__  _n._  famine; food shortage [_syn._  haaya-myoxa]   
+
+__dwmw nanw__	_n._	side dish
 
 
 __dwnw pafo__ _n._  an element of a ritual altar        
