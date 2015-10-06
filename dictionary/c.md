@@ -159,7 +159,10 @@ __ciiñ__  _v._  weave
 __ciirw__ _n._  edge; brim  [_syn._  lwwrw]   
 
 
-__cikañ__ _part._ like; similar       
+__cikañ__ _part._ like; similar    
+
+
+__cíkù__ _n._ pocket; pouch (_syn._ ciru')
 
 
 __cimiń__ _adj._  docile; humble; modest        
