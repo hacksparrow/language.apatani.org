@@ -298,7 +298,9 @@ __ahu-apo__ _n._  body; torso [_syn._  ahu]
    
 __aì__  _adj._  raw; uncooked     
    
-__aì__  _adj._  heavy      
+__aì__  _adj._  heavy     
+
+__ai-are _adj._ annoyed; vexed; exasperating; problematic
    
 __aì-haaju'__ _n._  weight   
    
