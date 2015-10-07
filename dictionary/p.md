@@ -964,9 +964,6 @@ __púliñ__	_v._	flower; bloom; blossom
 __pulis__	_n._	police		
 
 
-__pulu__	_adj._	white		
-
-
 __pulu'__	_v._	cover		
 
 
