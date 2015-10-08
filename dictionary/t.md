@@ -339,9 +339,6 @@ __tami'__	_n._	fly (_Diptera_)
 __tamiñ__	_n._	Common Indian madder (_Rubia cordifolia_)	[_var._	twmiñ]
 
 
-__twmiñ__	_n._	Common Indian madder (_Rubia cordifolia_)	[_var._	tamiñ]
-
-
 __tamù__	_n._	a deity		
 
 
@@ -937,6 +934,9 @@ __twle'__	_n._	a variety of garlic	[_syn._	tale']
 
 
 __twlo__	_v._	drop something from a height				
+
+
+__twmiñ__	_n._	Common Indian madder (_Rubia cordifolia_)	[_var._	tamiñ]
 
 
 __twmo__	_v._	suspend; postpone				
