@@ -310,8 +310,6 @@ __aíi__ _n._  blood
    
 __aíi hiipiñ__  _n._  feline jaw used to decorate a machete sheath      
    
-__aiñ__ _n._  gold        
-   
 __ajań__  _adj._  young; immature       
    
 __ajañ-bwzv__ _adj._  fragile; soft; tender       
