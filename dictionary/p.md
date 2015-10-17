@@ -532,7 +532,7 @@ __pe'kó__	_adj._	smart, of a person; strong, of taste
 __pebe'__	_v._	release something (esp. which was under tension)
 
 
-__peca__	_n._	a variety of wild apple		
+__peca__	_n._	a variety of wild apple	(_Docynia indica_)	
 
 
 __peca sanw__	_n._	tree of wild pear (_Pyrus_ sp.)		
