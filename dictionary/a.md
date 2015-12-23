@@ -6,7 +6,7 @@ devanagari: अा
 ipa: a
 ---
 
-__a__ /a/_int._  an interjection at the end of a sentence to emphasize or reinforce the statement made. _Aga dwto a!_ [Eat quickly, ok!]. _Qo lucike a!_ [I will speak, ok!]   
+__a__ /a/ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made. _Aga dwto a!_ [Eat quickly, ok!]. _Qo lucike a!_ [I will speak, ok!]   
   
 __áa__ /áa/  _vr._  come; arrive; enter  
   
@@ -14,47 +14,47 @@ __áade__ /áade/  _v._  come close; approach. _So áadeto, qoya ako lukoso_ [Co
   
 __áagyá__  /áagjá/ _n._  entrance; door  [_var._ háagyá]. _Mo mi áagyá ho da'fakwne to_ [Let him wait at the entrance.]   
   
-__áagya'__ _v._  come to a wrong place or a wrong way. _Si Yami ka udema po? Qo áagya'bwdo._ [Isn't this Yami's house? I have come to the wrong place.]  
+__áagya'__ /áagjaɁ/ _v._  come to a wrong place or a wrong way. _Si Yami ka udema po? Qo áagya'bwdo._ [Isn't this Yami's house? I have come to the wrong place.]  
   
-__áajó__  _n._  benefit of coming; wage or fare for coming. _Haqw áajó zijema, qo hwka udeho áatema kw._ [I will not come that place as there is no benefit of it.]  
+__áajó__ /áaɟó/  _n._  benefit of coming; wage or fare for coming. _Haqw áajó zijema, qo hwka udeho áatema kw._ [I will not come that place as there is no benefit of it.]  
   
-__áakò__  _n._  entrance; entry; door [_var._  háakò]. _Lemba uraho áako si pe ha?_ [Is this the entry to the inside of the village?]. _Da'hito, áakomi da'tiñbw yo._ [Move aside, don't stand blocking the entrance.]  
+__áakò__ /áakò/  _n._  entrance; entry; door [_var._  háakò]. _Lemba uraho áako si pe ha?_ [Is this the entry to the inside of the village?]. _Da'hito, áakomi da'tiñbw yo._ [Move aside, don't stand blocking the entrance.]  
   
-__áakuñ__ _v._  come together; gather. _Mwlañja'hw so áakuñto._ [Everybody gather here.]       
+__áakuñ__ /áakũ/ _v._  come together; gather. _Mwlañja'hw so áakuñto._ [Everybody gather here.]       
   
-__áakuñ__ _v._  come early. _Koñda áakuñfa a._ [Come early tomorrow.]    
+__áakuñ__ /áakũ/  _v._  come early. _Koñda áakuñfa a._ [Come early tomorrow.]    
   
-__áakúr__ _v._  return; come back. _No áakurfi ha?_ [Have you returned?]       
+__áakúr__ /áakúr/ _v._  return; come back. _No áakurfi ha?_ [Have you returned?]       
   
-__aalú__  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
+__aalú__ /áalú/  _n._  potato [_or._ Assamese]  [_syn._  byayuñ]  
   
-__áamì__  _n._  cat     
+__áamì__  /áamì/ _n._  cat     
 
-__áamì atúu__	_n._	kitten
+__áamì atúu__	/áamì atúu/ _n._	kitten
     
-__aamw__  _n._  mango [_or._ Assamese]    
+__aamw__  /aamɯ/ _n._  mango [_or._ Assamese]    
   
-__aapu kai__  _n._  showy; ostentatious (person)      
+__aapu kai__  /aapu kai/ _n._  showy; ostentatious (person)      
   
-__aarañ__ _adj._  deep  [_syn._  uurañ]. _Yamuna kwle ho yasi abu dùunwñ, heñpvr aarañ du do._ [Since there are lots of water in the Yamuna river, it would be very deep.]   
+__aarañ__ /aarã/ _adj._  deep  [_syn._  uurañ]. _Yamuna kwle ho yasi abu dùunwñ, heñpvr aarañ du do._ [Since there are lots of water in the Yamuna river, it would be very deep.]   
   
-__aarda__ _n._  tomorrow     
+__aarda__ /aarda/ _n._  tomorrow     
   
-__aarda-rida__  _n._  in the future; in the coming days    
+__aarda-rida__  /aarda-rida/ _n._  in the future; in the coming days    
   
-__aare__  _adv._  quick; fast; swift. _Myodu-myolo icu do ke, aare iñto a._ [Time is less, go quickly.]  
+__aare__  /aare/ _adv._  quick; fast; swift. _Myodu-myolo icu do ke, aare iñto a._ [Time is less, go quickly.]  
   
-__aarí__  _n._  saw [_or._ Hindi]   
+__aarí__  /aarí/ _n._  saw [_or._ Hindi]   
   
-__aarìda__  _n._  in the future; in the coming years   
+__aarìda__  /aarìda/ _n._  in the future; in the coming years   
   
-__aarv__  _n._  Portion of lower limb of an animal  
+__aarv__  /aarǝ/ _n._  Portion of lower limb of an animal  
   
-__aaxa'__ _adj._  shallow [_syn._  uuxa'] [_ant._  aarañ]. _Swzañ mwdó abù húmanwñ swgañ si aaxa' do._ [Since it did not rain much this year, the stream is shallow.]   
+__aaxa'__ /aaxaɁ/ _adj._  shallow [_syn._  uuxa'] [_ant._  aarañ]. _Swzañ mwdó abù húmanwñ swgañ si aaxa' do._ [Since it did not rain much this year, the stream is shallow.]   
   
-__aba'__  _v._  put a load; help carry. _Wqa aba'to pe._ [Help me carry the baby.]       
+__aba'__  /abaɁ/ _v._  put a load; help carry. _Wqa aba'to pe._ [Help me carry the baby.]       
   
-__abañ__  _v._  bury (esp. in ash). _Hwka yalañ mi mubu ho abañto._ [Bury that stone in the ash.]      
+__abañ__  /abã/ _v._  bury (esp. in ash). _Hwka yalañ mi mubu ho abañto._ [Bury that stone in the ash.]      
   
 __abañ__  _n._  elder brother    
   
