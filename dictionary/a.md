@@ -56,73 +56,73 @@ __aba'__  /abaɁ/ _v._  put a load; help carry. _Wqa aba'to pe._ [Help me carry 
   
 __abañ__  /abã/ _v._  bury (esp. in ash). _Hwka yalañ mi mubu ho abañto._ [Bury that stone in the ash.]      
   
-__abañ__  _n._  elder brother    
+__abañ__  /abã/ _n._  elder brother    
   
-__abañ__  _n._  burning pain       
+__abañ__  /abã/ _n._  burning pain       
   
-__abba__  _n._  father; daddy; papa     
+__abba__  /abba/ _n._  father; daddy; papa     
   
-__abba-apá__  _n._  ancestor; forefather; progenitor        
+__abba-apá__  /abba-apá/ _n._  ancestor; forefather; progenitor        
   
-__abba-axá__  _n._  man (esp. married man); adult man    
+__abba-axá__  /abba-axá/ _n._  man (esp. married man); adult man    
   
-__abba-bañkuñ__ _n._  great grandfather       
+__abba-bañkuñ__ /abba-bãkũ/ _n._  great grandfather       
   
-__abba-ci__ _n._  step father       
+__abba-ci__ /abba-ci/ _n._  step father       
   
-__ábì__ _v._  swing; sway; oscillate; move back and forth. _Tatu tarù soheho ábìla da'._ [Tatu is swinging on a rope.]        
+__ábì__ /ábì/ _v._  swing; sway; oscillate; move back and forth. _Tatu tarù soheho ábìla da'._ [Tatu is swinging on a rope.]        
   
-__abi'__  _adj._  complete. _Abi'ma rañ ke, ice birañ pe._ [It is not complete yet; give me some more.]        
+__abi'__  /abiɁ/ _adj._  complete. _Abi'ma rañ ke, ice birañ pe._ [It is not complete yet; give me some more.]        
   
-__abíi__  _n._  lower garment whether skirt or pant  
+__abíi__  /abíi/ _n._  lower garment whether skirt or pant  
   
-__abíi-tarw__ _n._  dress; clothes; garments; attire       
+__abíi-tarw__ /abíi-tarɯ/ _n._  dress; clothes; garments; attire       
   
-__abiñ__  _adj._  fruitful; productive  [_ant._  asu']. _Gambo heñpvr ayapa purilala la sabw fido ku. Mo ka puri rijo hw abiñne ke._ [Gambo has become an officer after studying well. His effort has been fruitful.]      
+__abiñ__  /abĩ/ _adj._  fruitful; productive  [_ant._  asu']. _Gambo heñpvr ayapa purilala la sabw fido ku. Mo ka puri rijo hw abiñne ke._ [Gambo has become an officer after studying well. His effort has been fruitful.]      
   
-__abrv__  _pron._ something; something that is unspecified or unknown[ _var._  abvr]. _Qo abrv he aha ahw' bwdo._ [I am forgetting something.]    
+__abrv__  /abrǝ/ _pron._ something; something that is unspecified or unknown[ _var._  abvr]. _Qo abrv he aha ahw' bwdo._ [I am forgetting something.]    
   
-__abú__ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  arbú, abúr]  [_ant._  aro'].  
+__abú__ /abú/ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  arbú, abúr]  [_ant._  aro'].  
   
-__abù__ _adj._  many; numerous; a lot of; plenty of         
+__abù__ /abù/ _adj._  many; numerous; a lot of; plenty of         
   
-__abu-ake'__  _n._  manure; fertilizer        
+__abu-ake'__ /abu-akeɁ/ _n._  manure; fertilizer        
   
-__abu'__  _v._  coddled; pampered [_adv._  abu'swla]    
+__abu'__  /abuɁ/ _v._  coddled; pampered [_adv._  abu'swla]    
   
-__abu'swla__  _adv._  indulgently       
+__abu'swla__ /abuɁsɯla/ _adv._  indulgently       
   
-__abúr__  _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; arbú] [_Ant._  aro']
+__abúr__  /abúr/ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; arbú] [_Ant._  aro']
   
-__abúu__  _n._  a cylinderical structure    
+__abúu__  /abúu/ _n._  a cylinderical structure    
   
-__abvr__  _pron._ something; something that is unspecified or unknown [_var._  abrv]    
+__abvr__  /abǝr/ _pron._ something; something that is unspecified or unknown [_var._  abrv]    
   
-__abyá__  _n._  ladder; stepladder        
+__abyá__  /abjá/ _n._  ladder; stepladder        
   
-__abyo__  _adv._  endearingly; fondly; affectionately [_adj._  endearing]   
+__abyo__  /abjo/ _adv._  endearingly; fondly; affectionately [_adj._  endearing]   
   
-__abyóo__ _n._  headgear of a priest made of woven cloth        
+__abyóo__ /abjóo/ _n._  headgear of a priest made of woven cloth        
   
-__abyu__  _v._  move; shake; flutter; budge       
+__abyu__  /abju/ _v._  move; shake; flutter; budge       
   
-__abyu-ate'__ _n._  movement; motion; activity  [_var._  abyú-axe']   
+__abyu-ate'__ /abju-ateɁ/ _n._  movement; motion; activity  [_var._  abyú-axe']   
   
-__abyu-axe'__ _n._  movement; motion; activity  [_var._  abyú-ate']   
+__abyu-axe'__ /abju-axeɁ/ _n._  movement; motion; activity  [_var._  abyú-ate']   
   
-__abyuñ__ _v._  give a finishing touch by filling up soil (of a hole in the soil) or by binding       
+__abyuñ__ /abjũ/ _v._  give a finishing touch by filling up soil (of a hole in the soil) or by binding       
   
-__abyuñ-afuñ__  _v._  finish binding; tie up by tightening the rope after binding something       
+__abyuñ-afuñ__ /abjũ-aʎũ/ _v._  finish binding; tie up by tightening the rope after binding something       
   
-__acáa__  _v._  put up; erect       
+__acáa__  /acáa/ _v._  put up; erect       
   
-__ace'__  _adj._  narrow; tight       
+__ace'__  /aceɁ/ _adj._  narrow; tight       
     
-__ací__ _n._  elder brother's wife (term of address)     
+__ací__ /ací/ _n._  elder brother's wife (term of address)     
   
-__ácì__ _adv._  very; to a high degree        
+__ácì__ /ácì/ _adv._  very; to a high degree        
    
-__ácì__ _v._  hide; conceal       
+__ácì__ /ácì/ _v._  hide; conceal       
        
 __ácì__ _n._  pain; suffering [_v._  have pain; suffer]   
   
