@@ -124,29 +124,29 @@ __ácì__ /ácì/ _adv._  very; to a high degree
    
 __ácì__ /ácì/ _v._  hide; conceal       
        
-__ácì__ _n._  pain; suffering [_v._  have pain; suffer]   
+__ácì__ /ácì/ _n._  pain; suffering [_v._  have pain; suffer]   
   
-__aci takvr__ _n._  star        
+__aci takvr__ /aci takǝr/ _n._  star        
   
-__aci-afá__ _adj._  precarious; critical       
+__aci-afá__ /aci-aʎá/ _adj._  precarious; critical       
    
-__ácì-ahè__ _n._  ailment; suffering        
+__ácì-ahè__ /ácì-ahè/ _n._  ailment; suffering        
   
-__ací-baró__  _n._  brothers; siblings  [_var._  ací-búrù]    
+__ací-baró__  /ací-baró/ _n._  brothers; siblings  [_var._  ací-búrù]    
   
-__ací-búrù__  _n._  brothers; siblings  [_var._  ací-baró]    
+__ací-búrù__ /ací-búrù/ _n._  brothers; siblings  [_var._  ací-baró]    
   
-__aciñ__  _pron._ group; crowd  [_var._  atañ]    
+__aciñ__  /acĩ/ _pron._ group; crowd  [_var._  atañ]    
   
-__acò-amyò__  _n._  animals; creatures      
+__acò-amyò__  /acò-amyò/ _n._  animals; creatures      
    
-__acuñ__  _v._  hide; conceal; camouflage; cove up        
+__acuñ__  /acũ/ _v._  hide; conceal; camouflage; cove up        
    
-__adáa__  _n._  a person who has always had only one wife       
+__adáa__  /adáa/ _n._  a person who has always had only one wife       
   
-__adañ__  _n._  spear [_var._  wdañ]  _Bíilo swre mi adañ lo nw'ne._ [In the olden days the wild pigs were hunted with spears.]  
+__adañ__  /adã/ _n._  spear [_var._  wdañ]  _Bíilo swre mi adañ lo nw'ne._ [In the olden days the wild pigs were hunted with spears.]  
   
-__adañ__  _adj._  strong; sturdy _Swka yalañ ude si adañ kapa do._ [This stone house looks sturdy.]        
+__adañ__  /adã/ _adj._  strong; sturdy _Swka yalañ ude si adañ kapa do._ [This stone house looks sturdy.]        
   
 __adiñ__  _v._  add; include; incorporate; admix  _Nwka posa bare mi alw'do koda laqe dokiñdo._ [If you add your one rupee, it will be a hundred rupee.]    
   
