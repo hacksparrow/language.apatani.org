@@ -6,13 +6,13 @@ devanagari: अा
 ipa: a
 ---
 
-__a__ _int._  an interjection at the end of a sentence to emphasize or reinforce the statement made. _Aga dwto a!_ [Eat quickly, ok!]. _Qo lucike a!_ [I will speak, ok!]   
+__a__ /a/_int._  an interjection at the end of a sentence to emphasize or reinforce the statement made. _Aga dwto a!_ [Eat quickly, ok!]. _Qo lucike a!_ [I will speak, ok!]   
   
-__áa__  _vr._  come; arrive; enter  
+__áa__ /áa/  _vr._  come; arrive; enter  
   
-__áade__  _v._  come close; approach. _So áadeto, qoya ako lukoso_ [Come close; I will tell you something.]  
+__áade__ /áade/  _v._  come close; approach. _So áadeto, qoya ako lukoso_ [Come close; I will tell you something.]  
   
-__áagyá__ _n._  entrance; door  [_var._ háagyá]. _Mo mi áagyá ho da'fakwne to_ [Let him wait at the entrance.]   
+__áagyá__  /áagjá/ _n._  entrance; door  [_var._ háagyá]. _Mo mi áagyá ho da'fakwne to_ [Let him wait at the entrance.]   
   
 __áagya'__ _v._  come to a wrong place or a wrong way. _Si Yami ka udema po? Qo áagya'bwdo._ [Isn't this Yami's house? I have come to the wrong place.]  
   
