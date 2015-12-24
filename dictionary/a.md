@@ -148,131 +148,131 @@ __adañ__  /adã/ _n._  spear [_var._  wdañ]  _Bíilo swre mi adañ lo nw'ne._ 
   
 __adañ__  /adã/ _adj._  strong; sturdy _Swka yalañ ude si adañ kapa do._ [This stone house looks sturdy.]        
   
-__adiñ__  _v._  add; include; incorporate; admix  _Nwka posa bare mi alw'do koda laqe dokiñdo._ [If you add your one rupee, it will be a hundred rupee.]    
+__adiñ__ /adĩ/ _v._  add; include; incorporate; admix  _Nwka posa bare mi alw'do koda laqe dokiñdo._ [If you add your one rupee, it will be a hundred rupee.]    
   
-__adiñ__  _adv._  only; exclusively; solely _Qo aji ho zimw adiñ kapado._ [I can see only women in the fields.]       
+__adiñ__ /adĩ/ _adv._  only; exclusively; solely _Qo aji ho zimw adiñ kapado._ [I can see only women in the fields.]       
   
-__adiñ__  _n._  head (anatomical) _Sww adiñ mi abañja' mi bidu._ [The head of the sacrificed cow is offered to the eldest brother.]  
+__adiñ__  /adĩ/ _n._  head (anatomical) _Sww adiñ mi abañja' mi bidu._ [The head of the sacrificed cow is offered to the eldest brother.]  
 
-__adiñ ácì__	_n._	headache
+__adiñ ácì__ /adĩ ácì/	_n._	headache
 
-__adiñ ce'nw__	_n._	barber
+__adiñ ce'nw__	/adĩ ceɁnɯ/ _n._	barber
 
-__adiñ dilañ__	_n._	grey or red hair
+__adiñ dilañ__	/adĩ dilã/ _n._	grey or red hair
 
-__adiñ diñji__	_n._	black hair
+__adiñ diñji__ /adĩ dĩɟi/	_n._	black hair
 
-__adiñ diñpúu__	_n._	white or grey hair
+__adiñ diñpúu__	/adĩ dĩpúu/ _n._	white or grey hair
   
-__ado__ _n._  stalk; main stem of a herbaceous plant  [_var._  wdo]   
+__ado__ /ado/ _n._  stalk; main stem of a herbaceous plant  [_var._  wdo]   
   
-__adóo__  _adj._  distant; far; remote  [_ant._  kúcì]    
+__adóo__ /adóo/ _adj._  distant; far; remote  [_ant._  kúcì]    
   
-__adú__ _n._  noise; sound  [_v._  make noise]   
+__adú__ /adú/ _n._  noise; sound  [_v._  make noise]   
   
-__ádù__ _v._  get pricked (by a thorn)        
+__ádù__ /ádù/ _v._  get pricked (by a thorn)        
   
-__aduñ-arañ__ _adj._  disoriented; muddled; confused       
+__aduñ-arañ__ /adũ-arã/ _adj._  disoriented; muddled; confused       
   
-__afa'__  _v._  lick; lap       
+__afa'__  /aʎaɁ/ _v._  lick; lap       
    
-__afañ__  _num._  ten   
+__afañ__ /aʎã/ _num._  ten   
 
-__afañ pwfi__	_num._	forty
+__afañ pwfi__ /aʎã pɯʎi/	_num._	forty
 
-__afañ xw__	_num._	sixty
+__afañ xw__	/aʎã xɯ/ _num._	sixty
 
-__afañ yaqo__	_num._	fifty
+__afañ yaqo__	/aʎã jaŋo/ _num._	fifty
   
-__afe'__  _n._  door     
+__afe'__ /aʎeɁ/ _n._  door     
 
-__afe' ago__	_n._	doorstep
+__afe' ago__ /aʎeɁ ago/	_n._	doorstep
 
-__afee__  _v._  shiver; tremble; shudder        
+__afee__  /aʎee/ _v._  shiver; tremble; shudder        
   
-__afí__ _n._  bow    
+__afí__ /aʎí/ _n._  bow    
   
-__afí__ _n._  air, wind       
+__afí__ /aʎí/ _n._  air, wind       
    
-__afí-aróo__  _n._  storm; rainstorm; windstorm       
+__afí-aróo__ /aʎí-aróo/  _n._  storm; rainstorm; windstorm       
   
-__afí-yasì__  _n._  weather; climate        
+__afí-yasì__  /aʎí-jasì/ _n._  weather; climate        
   
-__afi'__  _n._  pig       
+__afi'__  /aʎiɁ/ _n._  pig       
   
-__afi' asi'__	_n._	cage for pig
+__afi' asi'__	/aʎiɁ asiɁ/ _n._	cage for pig
 
-__afi' yo__ _n._  pork        
+__afi' yo__ /aʎiɁ jo/ _n._  pork        
   
-__afiñ__  _n._  pancreas        
+__afiñ__ /aʎĩ/  _n._  pancreas        
   
-__afiñ__  _n._  evening; dusk; late afternoon
+__afiñ__  /aʎĩ/ _n._  evening; dusk; late afternoon
   
-__afiñ__  _adj._  smart; bright; savvy
+__afiñ__ /aʎĩ/  _adj._  smart; bright; savvy
 
-__afiñ dafi__	_n._	afternoon
+__afiñ dafi__ /aʎĩ daʎi/	_n._	afternoon
 
-__áfò__ _n._  skin; covering     
+__áfò__ /áʎò/ _n._  skin; covering     
      
-__afoo__  _n._  tongue      
+__afoo__  /aʎoo/ _n._  tongue      
      
-__afóo goñsò__  _n._  mantis  [_var._  afóo koñsò]  
+__afóo goñsò__ /aʎóo gõsò/ _n._  mantis  [_var._  afóo koñsò]  
      
-__afú__ _v._  lose something; misplace     
+__afú__ /aʎú/ _v._  lose something; misplace     
 
-__aga swco__	_int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
+__aga swco__ /aga sɯco/	_int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
     
-__agáa__  _adv._  quickly; rapidly; swiftly; immediately    
+__agáa__  /agáa/ _adv._  quickly; rapidly; swiftly; immediately    
     
-__ágè__ _v._  drain out (water from a field)      
+__ágè__ /ágè/ _v._  drain out (water from a field)      
      
-__age'__  _v._  stick as with glue   
+__age'__  /ageɁ/ _v._  stick as with glue   
      
-__age'__  _n._  quiver        
+__age'__  /ageɁ/ _n._  quiver        
      
-__agiñ__  _post._ with; along with; in the same direction       
+__agiñ__  /agĩ/ _post._ with; along with; in the same direction       
      
-__agiñ__  _v._  trouble; irk; niggle        
+__agiñ__  /agĩ/ _v._  trouble; irk; niggle        
      
-__agoo__  _n._  outside [_ant._  ura] [_adj._  external; exterior]
+__agoo__  /agoo/ _n._  outside [_ant._  ura] [_adj._  external; exterior]
 
-__agoo empuñ__	_n._	space between the entrance and the hearth of a traditional Apatani house
+__agoo empuñ__ /agoo empũ/	_n._	space between the entrance and the hearth of a traditional Apatani house
 
-__agoo imi'__	_n._	hearth towards the front of the house
+__agoo imi'__	/agoo imiɁ/ _n._	hearth towards the front of the house
 
-__aguñ__  _n._  mouth; language       
+__aguñ__  /agũ/ _n._  mouth; language       
      
-__agvr__  _n._  bundh; raised earthen boundary between paddy fields where millet is planted    
+__agvr__  /agǝr/ _n._  bundh; raised earthen boundary between paddy fields where millet is planted    
     
-__agw__ _v._  dress; clothe; put on dress        
+__agw__ /agɯ/ _v._  dress; clothe; put on dress        
      
-__agyá__  _v._  to place one's hand(s) with palms facing upwards, as when receiving something.     
+__agyá__  /agjá/ _v._  to place one's hand(s) with palms facing upwards, as when receiving something.     
      
-__agyañ__ _n._  ritual altar of the Apatanis    
+__agyañ__ /agjã/ _n._  ritual altar of the Apatanis    
     
-__agyo__  _v._ mix; add; combine  
+__agyo__  /agjo/ _v._ mix; add; combine  
     
-__agyú__  _n._  string; cord  [_syn._  aháa]  
+__agyú__  /agjú/ _n._  string; cord  [_syn._  aháa]  
 
-__aha fiifi'__	_adj._	horrifying
+__aha fiifi'__ /aha ʎiiʎiɁ/	_adj._	horrifying
 
-__aha'__  _v._  hang something     
+__aha'__  /ahaɁ/ _v._  hang something     
     
-__aháa__  _n._  string; cord  [_syn._  agyú]    
+__aháa__  /aháa/ _n._  string; cord  [_syn._  agyú]    
     
-__aháa__  _n._  heart       
+__aháa__  /aháa/ _n._  heart       
     
-__aháa ahw'__ _v._  forget; fail to remember   
+__aháa ahw'__ /aháa ahɯɁ/ _v._  forget; fail to remember   
     
-__aháa ba'__  _v._  hate; loathe; abhor    
+__aháa ba'__  /aháa baɁ/ _v._  hate; loathe; abhor    
 
-__aháa du'__	_n._	heartbeat
+__aháa du'__	/aháa duɁ/ _n._	heartbeat
 
-__aháa pìitañ__	_n._	thirst
+__aháa pìitañ__	/aháa pìitã/ _n._	thirst
         
-__ahe__ _v._  bet; wager; gamble    
+__ahe__ /ahe/ _v._  bet; wager; gamble    
 
-__ahi__	_n._	tooth
+__ahi__	/ahi/ _n._	tooth
 
 __ahì__ _n._  fruit      
 
