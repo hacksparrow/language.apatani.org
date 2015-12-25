@@ -274,47 +274,47 @@ __ahe__ /ahe/ _v._  bet; wager; gamble
 
 __ahi__	/ahi/ _n._	tooth
 
-__ahì__ _n._  fruit      
+__ahì__ /ahì/ _n._  fruit      
 
-__ahi ácì__	_n._	toothache
+__ahi ácì__	/ahi ácì/ _n._	toothache
 
-__ahì amvr__	_n._	fruit items
+__ahì amvr__	/ahì amǝr/ _n._	fruit items
 
-__ahi daktor__	_n._	dentist
+__ahi daktor__	/ahi daktor/ _n._	dentist
 
-__ahi pyo'su__	_v._	brush one's teeth
+__ahi pyo'su__	/ahi pyoɁsu/ _v._	brush one's teeth
 
-__ahiñ__  _adj._  same; similar; matching; identical   
+__ahiñ__  /ahĩ/ _adj._  same; similar; matching; identical   
    
-__ahiñ__  _n._  gold        
+__ahiñ__  /ahĩ/ _n._  gold        
    
-__ahu__ _n._  body; torso [_syn._  ahu-apo]   
+__ahu__ /ahu/ _n._  body; torso [_syn._  ahu-apo]   
    
-__ahú__ _v._  wake up; rouse  [_syn._  mwhù]   
+__ahú__ /ahú/ _v._  wake up; rouse  [_syn._  mwhù]   
    
-__ahu ará__ _adj._  naked; nude; undressed        
+__ahu ará__ /ahu ará/ _adj._  naked; nude; undressed        
    
-__ahu-apo__ _n._  body; torso [_syn._  ahu]   
+__ahu-apo__ /ahu apo/ _n._  body; torso [_syn._  ahu]   
    
-__aì__  _adj._  raw; uncooked     
+__aì__  /aì/ _adj._  raw; uncooked     
    
-__aì__  _adj._  heavy     
+__aì__  /aì/ _adj._  heavy     
 
-__ai-are__ _adj._ annoyed; vexed; exasperating; problematic
+__ai-are__ /ai-are/ _adj._ annoyed; vexed; exasperating; problematic
    
-__aì-haaju'__ _n._  weight   
+__aì-haaju'__ /aì-haaɟuɁ/ _n._  weight   
    
-__ai'__ _adj._  miser; mean       
+__ai'__ /aiɁ/ _adj._  miser; mean       
     
-__aíi__ _n._  blood       
+__aíi__ /aìi/ _n._  blood       
    
-__aíi hiipiñ__  _n._  feline jaw used to decorate a machete sheath      
+__aíi hiipiñ__  /aíi hiipĩ/ _n._  feline jaw used to decorate a machete sheath      
    
-__ajań__  _adj._  young; immature       
+__ajań__  /aɟã/ _adj._  young; immature       
    
-__ajañ-bwzv__ _adj._  fragile; soft; tender       
+__ajañ-bwzv__ /aɟã-bɯɲǝ/ _adj._  fragile; soft; tender       
    
-__ají__ _n._  farm; wet agricultural field  
+__ají__ /ají/ _n._  farm; wet agricultural field  
 
 __ají mwmw__	_n._	farmer
 
