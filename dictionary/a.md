@@ -316,41 +316,41 @@ __ajañ-bwzv__ /aɟã-bɯɲǝ/ _adj._  fragile; soft; tender
    
 __ají__ /ají/ _n._  farm; wet agricultural field  
 
-__ají mwmw__	_n._	farmer
+__ají mwmw__ /aɟí mɯnɯ/	_n._	farmer
 
-__ají pwhá__  _n._  small cane basket       
+__ají pwhá__  /aɟí pɯhá/ _n._  small cane basket       
    
-__ají sampyá__  _n._  tray, usually of wood, used to move soil from one part of the paddy field to the other   
+__ají sampyá__ /aɟí sampjá/  _n._  tray, usually of wood, used to move soil from one part of the paddy field to the other   
    
-__ají-fa'pyó__  _n._  agriculture; farming      
+__ají-fa'pyó__  /aɟí-ʎaɁpjó/ _n._  agriculture; farming      
    
-__ajiñ__  _n._  friend; company; mate [_v._  befriend]   
+__ajiñ__ /aɟĩ/  _n._  friend; company; mate [_v._  befriend]   
    
-__ajiñ arañ__ _n._  bossom friend; confidante; alter ego     
+__ajiñ arañ__ /aɟĩ arã/ _n._  bossom friend; confidante; alter ego     
    
-__ajiñ-apw__  _n._  company; friendship       
+__ajiñ-apw__  /aɟĩ-apɯ/ _n._  company; friendship       
    
-__ajiñbò__  _n._  friend (used as both term of reference and address)       
+__ajiñbò__  /aɟĩbò/ _n._  friend (used as both term of reference and address)       
    
-__ajo__ _adj._  gentle; tender      
+__ajo__ /aɟo/ _adj._  gentle; tender      
    
-__ajóo__  _n._  fare; wage  [_v._ hire; pay for]   
+__ajóo__ /aɟóo/  _n._  fare; wage  [_v._ hire; pay for]   
    
-__aju__ _int._  yes; okay [_syn._  kájù]    
+__aju__ /aɟu/ _int._  yes; okay [_syn._  kájù]    
       
-__ájù__ _n._  appearance; image [_syn._  ájùu-amyò]   
+__ájù__ /áɟù/ _n._  appearance; image [_syn._  ájùu-amyò]   
    
-__ájù-amyò__  _n._  appearance; image [_syn._  ájùu]    
+__ájù-amyò__ /áɟù-amjò/  _n._  appearance; image [_syn._  ájùu]    
    
-__aju'__  _adj._  weak; frail; feeble; sick; ailing [_n._  weak person]   
+__aju'__  /aɟuɁ/ _adj._  weak; frail; feeble; sick; ailing [_n._  weak person]   
    
-__ajvr__  _v._  to be playful as a dog waging its tail        
+__ajvr__  /aɟǝr/ _v._  to be playful as a dog waging its tail        
     
-__akañ__  _prep._ bottom; beneath       
+__akañ__  /akã/ _prep._ bottom; beneath       
    
-__akañ zacú__ _n._  lower lip       
+__akañ zacú__ /akã ɲacú/ _n._  lower lip       
    
-__akée__  _n._  food item used as a gift to express friendly gesture        
+__akée__  /akée/ _n._  food item used as a gift to express friendly gesture        
    
 __akì__ _n._  dog       
    
