@@ -812,55 +812,55 @@ __axóo__  /axóo/ _n._  stalk; stem
     
 __axóo__  /axóo/ _n._  head; leader; principal       
     
-__axóo pèeruñ__ _n._  a variety of bean 
+__axóo pèeruñ__ /axóo pèerũ/ _n._  a variety of bean 
 
-__axor__	_n._	letter	[_or._	Assamese]
+__axor__	/axor/ _n._	letter	[_or._	Assamese]
 
-__axu'__  _v._  regurgitate       
+__axu'__  /axuɁ/ _v._  regurgitate       
     
-__axw__ _n._  guts; entrails; viscera       
+__axw__ /axɯ/ _n._  guts; entrails; viscera       
   
-__axw__ _n._  comb       
+__axw__ /axɯ/ _n._  comb       
    
-__axw ácì__	_n._	stomach pain
+__axw ácì__	/axɯ ácì/ _n._	stomach pain
       
-__axw har__ _v._  have loose motion [_syn._  axw sáa]   
+__axw har__ /axɯ har/ _v._  have loose motion [_syn._  axw sáa]   
    
-__axw harnwñ__  _n._  diarrhea        
+__axw harnwñ__  /axɯ harnɯ̃/ _n._  diarrhea        
    
-__axw sáa__ _v._  have loose motion [_syn._  axw har]   
+__axw sáa__ /axɯ sa/ _v._  have loose motion [_syn._  axw har]   
    
-__axw-ere'__  _n._  entrails; viscera       
+__axw-ere'__  /axɯ-ereɁ/ _n._  entrails; viscera       
    
-__axw'-pata'__  _n._  ribs, rib cage        
+__axw'-pata'__  /axɯɁ-pataɁ/ _n._  ribs, rib cage        
    
-__axwñ-amw__  _adv._  confused; disconcerted; befuddled; dumbfounded        
+__axwñ-amw__  /axɯ̃-amɯ/ _adv._  confused; disconcerted; befuddled; dumbfounded        
    
-__aya__ _adj._  good; beautiful; virtuous; righteous; suitable; appropriate       
+__aya__ /aja/ _adj._  good; beautiful; virtuous; righteous; suitable; appropriate       
    
-__aya-kaco__  _n._  quality; condition        
+__aya-kaco__  /aja kaco/ _n._  quality; condition        
     
-__aya'__  _n._  flesh       
+__aya'__  /ajaɁ/ _n._  flesh       
    
-__ayádù__ _int._  interjection of frustration       
+__ayádù__ /ajádu/ _int._  interjection of frustration       
    
-__ayo__ _n._  grandmother or mother-in-law (term of address)        
+__ayo__ /ajo/ _n._  grandmother or mother-in-law (term of address)        
    
-__ayò__ _n._  night       
+__ayò__ /ajò/ _n._  night       
    
-__ayò lwpá__  _n._  midnight        
+__ayò lwpá__  /ajò lɯpá/ _n._  midnight        
    
-__áyò yoofañ__  _n._  late night        
+__áyò yoofañ__  /ájò jooʎã/ _n._  late night        
    
-__áyò yoofañ lwpa__ _n._  midnight        
+__áyò yoofañ lwpa__ /ájò jooʎã lɯpa/ _n._  midnight        
    
-__ayo-asi'__  _n._  ancestors; progenitors 
+__ayo-asi'__  /ajo-asiɁ/ _n._  ancestors; progenitors 
 
-__ayo-nano__	_n._	a variety of bee (hover bee)
+__ayo-nano__	/ajo-nano/ _n._	a variety of bee (hover bee)
    
-__ayobo__ _n._  mother-in-law (term of reference)       
+__ayobo__ /ajobo/ _n._  mother-in-law (term of reference)       
    
-__ayóo__  _n._  up; upper       
+__ayóo__  /ajóo/ _n._  up; upper       
    
 __ayóo twpè__ _n._  pumpkin [_syn._  e'pè, tápè]
    
