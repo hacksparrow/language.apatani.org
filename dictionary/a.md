@@ -552,265 +552,265 @@ __anw__ /anɯ/ _n._  leaf  [_syn._  yanw]
 
 __anẁ__ /anɯ̀/ _n._  mother (term of reference)        
     
-__anẁ-aba__ _n._  parent        
+__anẁ-aba__  /anɯ̀-aba  /  _n._  parent        
    
-__anẁ-ci__  _n._  step mother       
+__anẁ-ci__  /anɯ̀-ci  /  _n._  step mother       
    
-__anw'__  _v._  swallow; gulp down; ingest  [_var._  arnw']   
+__anw'__  /anɯɁ/ _v._  swallow; gulp down; ingest  [_var._  arnw']   
    
-__anw'__  _adv._  hurry; haste; urgent        
+__anw'__  /anɯɁ/ _adv._  hurry; haste; urgent        
    
-__apa-ama__ _adj._  simple; artless; guileless; innocent        
+__apa-ama__ /apa-ama/ _adj._  simple; artless; guileless; innocent        
    
-__apa'__  _v._  to give up; to let go [_syn._  opa']    
+__apa'__  /apaɁ/ _v._  to give up; to let go [_syn._  opa']    
    
-__apáa__  _adj._  young; immature       
+__apáa__  /apáa/ _adj._  young; immature       
    
-__apañ keemañ__ _n._  male dragonfly        
+__apañ keemañ__ /apã keemã/ _n._  male dragonfly        
    
-__apel__  _n._  apple [_or._ English]   
+__apel__  /apel/ _n._  apple [_or._ English]   
    
-__ápì__ _v._  dry       
+__ápì__ /ápì/ _v._  dry       
    
-__api-aláa__  _n._  sap of a tree       
+__api-aláa__  /api-aláa/ _n._  sap of a tree       
    
-__apì-ara__ _n._  clapping        
+__apì-ara__ /apì-ara/ _n._  clapping        
    
-__api'__  _v._  feed (esp. fowls)       
+__api'__  /apiɁ/ _v._  feed (esp. fowls)       
    
-__api'__  _v._  break (by dropping)       
+__api'__  /apiɁ/ _v._  break (by dropping)       
    
-__apiñ__  _v._  warm (hand)       
+__apiñ__  /apĩ/ _v._  warm (hand)       
    
-__apiñ__  _n._  cooked rice  
+__apiñ__  /apĩ/ _n._  cooked rice  
 
-__apiñ ga'hiñ__	_n._	ball of cooked rice
+__apiñ ga'hiñ__	/apĩ gaɁhĩ/ _n._	ball of cooked rice
    
-__apiñ pwcañ__  _n._  pot for cooking rice        
+__apiñ pwcañ__  /apĩ pɯcã/ _n._  pot for cooking rice        
    
-__apó__ _n._  body        
+__apó__ /apó/ _n._  body        
    
-__apó xeñ__ _v._  toil; work hard; engage in physical labor       
+__apó xeñ__ /apó xẽ/ _v._  toil; work hard; engage in physical labor       
    
-__apóo__  _v._  put cloths on cloth holder        
+__apóo__  /apóo/ _v._  put cloths on cloth holder        
    
-__appú__  _n._  flower        
+__appú__  /appú/ _n._  flower        
    
-__ápù__ _n._  sphere; globe [_v._  wrap (into a sphere)]    
+__ápù__ /ápù/ _n._  sphere; globe [_v._  wrap (into a sphere)]    
    
-__apu' amè__  _n._  dandruff   
+__apu' amè__  /apuɁ amè/ _n._  dandruff   
 
-__apuñ__	_prep._	among
+__apuñ__	/apũ/ _prep._	among
 
-__apuñ-aka__  _n._  confusing state; doubtful   
+__apuñ-aka__  /apũ aka/ _n._  confusing state; doubtful   
 
-__apur__	_prep._	among; midst
+__apur__	/apur/ _prep._	among; midst
    
-__apúu__  _n._  arrow       
+__apúu__  /apúu/ _n._  arrow       
    
-__apvr__  _n._  gallbladder       
+__apvr__  /apǝr/ _n._  gallbladder       
    
-__apw__ _n._  breadth       
+__apw__ /apɯ/ _n._  breadth       
    
-__apw-asó__ _n._  area; dimension       
+__apw-asó__ /apɯ-asó/ _n._  area; dimension       
    
-__apyáa__ _n._  tracks made by small animals        
+__apyáa__ /apjáa/ _n._  tracks made by small animals        
    
-__apyo'__ _v._  dilute; make a liquid thinner or weaker       
+__apyo'__ /apjoɁ/ _v._  dilute; make a liquid thinner or weaker       
    
-__apyu__  _v._  spead (a mat) on the floor        
+__apyu__  /apju/ _v._  spead (a mat) on the floor        
    
-__apyuñ__ _n._  bunch; cluster        
+__apyuñ__ /apjũ/ _n._  bunch; cluster        
    
-__aqa'__  _v._  tie into a bundle  
+__aqa'__  /aŋaɁ/ _v._  tie into a bundle  
 
-__aqw__	_int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
+__aqw__	/aŋɯ/ _int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
 
-__aqw swco__	_int._	interjection to express indifference; let it be	[_syn._	aqw; aga swco]
+__aqw swco__ /aŋɯ sɯco/	_int._	interjection to express indifference; let it be	[_syn._	aqw; aga swco]
    
-__ará__ _adj._  empty; vacant; void       
+__ará__ /ará/ _adj._  empty; vacant; void       
    
-__ara'__  v.  tie       
+__ara'__  /araɁ/ _v._  tie       
    
-__arañ__  _v._  block; choke; plug; obstruct; close [_syn._  atiñ]    
+__arañ__  /arã/ _v._  block; choke; plug; obstruct; close [_syn._  atiñ]    
    
-__arañ__  _n._  bottom (of a tree or a bamboo)        
+__arañ__  /arã/ _n._  bottom (of a tree or a bamboo)        
    
-__arañ__  _adj._  close, of relation        
+__arañ__  /arã/ _adj._  close, of relation        
    
-__arañ nanw__ _n._  cork; bottle stopper; an object to seal a container       
+__arañ nanw__ /arã nanɯ/ _n._  cork; bottle stopper; an object to seal a container       
    
-__árbì__  _n._  portion of pork offered to wife's eldest living sister        
+__árbì__  /árbì/ _n._  portion of pork offered to wife's eldest living sister        
    
-__arbú__  _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; abúr] [_Ant._  aro']
+__arbú__  /arbú/ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; abúr] [_Ant._  aro']
    
-__arcì__  _v._  roll        
+__arcì__  /arcì/ _v._  roll        
    
-__arè__ _adj._  loose; not fixed tightly or firmly        
+__arè__ /arè/ _adj._  loose; not fixed tightly or firmly        
    
-__árè__ _v._  wash (esp. interior of a pot)       
+__árè__ /árè/ _v._  wash (esp. interior of a pot)       
    
-__are'__  _adj._  sharp; honed        
+__are'__  /areɁ/ _adj._  sharp; honed        
    
-__argò__  _n._  vein, artery, nerve, tendon [_var._  arrò]    
+__argò__  /argò/ _n._  vein, artery, nerve, tendon [_var._  arrò]    
    
-__arí__ _v._  string together (beads)       
+__arí__ /arí/ _v._  string together (beads)       
    
-__arí__ _n._  price; cost; charge       
+__arí__ /arí/ _n._  price; cost; charge       
    
-__arì__ _v._  demarcate; delimit; delineate       
+__arì__ /arì/ _v._  demarcate; delimit; delineate       
    
-__arí-apw__ _n._  neighbourhood; locality       
+__arí-apw__ /arí-apɯ/ _n._  neighbourhood; locality       
 
-__ari'__  _v._  choke; retch        
+__ari'__  /ariɁ/ _v._  choke; retch        
    
-__aríi__  _n._  border; boundary        
+__aríi__  /aríi/ _n._  border; boundary        
    
-__ariñ__  _adj._  brittle; fragile; breakable       
+__ariñ__  /arĩ/ _adj._  brittle; fragile; breakable       
    
-__arjiñ__ _v._  stretch (esp. one's body)       
+__arjiñ__ /arɟĩ/ _v._  stretch (esp. one's body)       
    
-__arki'__ _v._  arrange (a rope) into a loop        
+__arki'__ /arkiɁ/ _v._  arrange (a rope) into a loop        
    
-__arkó__  _v._  latch; fasten; bolt; lock       
+__arkó__  /arkó/ _v._  latch; fasten; bolt; lock       
    
-__arlv__  _adj._  hard; firm; rigid; strong [_var._  alvr]    
+__arlv__  /arlǝ/ _adj._  hard; firm; rigid; strong [_var._  alvr]    
    
-__armiñ__ _adj._  ripe  [_var._  amiñ]    
+__armiñ__ /armĩ/ _adj._  ripe  [_var._  amiñ]    
    
-__armyañ__  _n._  name  var.  amyañ   
+__armyañ__  /armjã/ _n._  name  var.  amyañ   
    
-__armyuñ__  _v._  grow (as an offshoot) [_var._  amyuñ]   
+__armyuñ__  /armjũ/ _v._  grow (as an offshoot) [_var._  amyuñ]   
    
-__arná__  _v._  choke       
+__arná__  /arná/ _v._  choke       
    
-__arnw'__ _v._  swallow; gulp down; ingest  [_syn._  anw']    
+__arnw'__ /arnɯɁ/ _v._  swallow; gulp down; ingest  [_syn._  anw']    
    
-__arò__ _n._  morning; daybreak  
+__arò__ /arò/ _n._  morning; daybreak  
 
-__arò dafi__	_n._	forenoon
+__arò dafi__	/arò daʎi/ _n._	forenoon
    
-__arò koñci__ _n._  dawn        
+__arò koñci__ /arò kõci/ _n._  dawn        
    
-__arò-apiñ__  _n._  meal in the morning; breakfast 
+__arò-apiñ__  /arò-apĩ/ _n._  meal in the morning; breakfast 
     
-__aro'__	_adj._	lucky
+__aro'__	/aroɁ/ _adj._	lucky
 
-__aro' paco__	_int._	expression of happiness; thank you
+__aro' paco__	/aroɁ paco/ _int._	expression of happiness; thank you
        
-__aróo__  _adj._  poor; destitute       
+__aróo__  /aróo/ _adj._  poor; destitute       
    
-__arpw__  _n._  bamboo crossbeam of a fence       
+__arpw__  /arpɯ/ _n._  bamboo crossbeam of a fence       
    
-__arrò__  _n._  vein, artery, nerve, tendon [_var._  argò]    
+__arrò__  /arrò/ _n._  vein, artery, nerve, tendon [_var._  argò]    
    
-__arta'__ _n._  portion; segment; section       
+__arta'__ /artaɁ/ _n._  portion; segment; section       
    
-__artiñ__ _n._  scrotum       
+__artiñ__ /artĩ/ _n._  scrotum       
    
-__artiñ bwliñ__ _n._  testicle  
+__artiñ bwliñ__ /artĩ bɯlĩ/ _n._  testicle  
    
-__artiñ ku__	_v._	castrate
+__artiñ ku__	/artĩ ku/ _v._	castrate
       
-__artù__  _n._  gizzard (of a bird)       
+__artù__  /artù/ _n._  gizzard (of a bird)       
    
-__árù__ _n._  weed; unwanted plant in an cultivated field       
+__árù__ /árù/ _n._  weed; unwanted plant in an cultivated field       
    
-__árù__ _adj._  coarse; rough; large  [_ant._  amw']    
+__árù__ /árù/ _adj._  coarse; rough; large  [_ant._  amw']    
    
-__aru'__  _n._  outer covering of bean or corn        
+__aru'__ /aruɁ/ _n._  outer covering of bean or corn        
    
-__aruñ__  _adv._  near; close by        
+__aruñ__  /arũ/ _adv._  near; close by        
    
-__aruñ__  _v._  be possessed  (esp. by evil spirits)        
+__aruñ__  /arũ/ _v._  be possessed  (esp. by evil spirits)        
    
-__arww__  _n._  horn (anatomical)       
+__arww__  /arɯɯ/ _n._  horn (anatomical)       
    
-__arww__  _n._  bundle (esp. of bamboo)       
+__arww__  /arɯɯ/ _n._  bundle (esp. of bamboo)       
    
-__asañ__  v.  laud; praise; extol       
+__asañ__  /asã/ _v._  laud; praise; extol       
    
-__asañ__  _n._  north       
+__asañ__  /asã/ _n._  north       
    
-__asè__ _v._  wash; clean       
+__asè__ /asè/ _v._  wash; clean       
    
-__asi'__  _n._  nest; lair; den       
+__asi'__  /asiɁ/ _n._  nest; lair; den       
    
-__asiñ__  _v._  feed (esp. liquid food)       
+__asiñ__  /asĩ/ _v._  feed (esp. liquid food)       
    
-__asó__ _n._  length        
+__asó__ /asó/ _n._  length        
    
-__asoo__  _n._  party; group; gang; supporter  
+__asoo__  /asoo/ _n._  party; group; gang; supporter  
    
-__asorit__	_adj._	surprising; amazing; startling	[_or._	Assamese]
+__asorit__	/asorit/ _adj._	surprising; amazing; startling	[_or._	Assamese]
       
-__ásù__ _adj._  lazy; slothful; sluggish        
+__ásù__ /ásù/ _adj._  lazy; slothful; sluggish        
    
-__ásù-ale__ _adj._  lazy        
+__ásù-ale__ /ásù-ale/ _adj._  lazy        
    
-__asu'__  _v._  sneeze        
+__asu'__  /asuɁ/ _v._  sneeze        
     
-__asu'__  _adj._  dud crop; fuitless; unproductive  [_ant._  abiñ]    
+__asu'__  /asuɁ/ _adj._  dud crop; fuitless; unproductive  [_ant._  abiñ]    
    
-__asu'-asa'__ _n._  disgrace; shame       
+__asu'-asa'__ /asuɁ-asaɁ/ _n._  disgrace; shame       
    
-__asvr__  _n._  splinter (of wood)        
+__asvr__  /asǝr/ _n._  splinter (of wood)        
    
-__asw__ _n._  line; long narrow mark        
+__asw__ /asɯ/ _n._  line; long narrow mark        
    
-__asw'__  _v._  bite        
+__asw'__  /asɯɁ/ _v._  bite        
    
-__ata__ _n._  aunt (term of address)        
+__ata__ /ata/ _n._  aunt (term of address)        
    
-__ata'__  _n._  stinger (on a bee)  [_var._  wta']    
+__ata'__  /ataɁ/ _n._  stinger (on a bee)  [_var._  wta']    
    
-__atañ__  _pron._ group; crowd  [_var._  aciñ]    
+__atañ__  /atã/ _pron._ group; crowd  [_var._  aciñ]    
    
-__ate__ _n._  elder brother (term of address)       
+__ate__ /ate/ _n._  elder brother (term of address)       
    
-__atiñ__  _v._  block; choke; plug; obstruct; close [_syn._  arañ]    
+__atiñ__  /atĩ/ _v._  block; choke; plug; obstruct; close [_syn._  arañ]    
    
-__ato__ _n._  grandfather or father in law (term of address)        
+__ato__ /ato/ _n._  grandfather or father in law (term of address)        
    
-__atobo__ _n._  father-in-law (term of reference)       
+__atobo__ /atobo/ _n._  father-in-law (term of reference)       
    
-__attè__  _adj._  thick (of a liquid)       
+__attè__  /attè/ _adj._  thick (of a liquid)       
    
-__áttò__  _n._  owner [_ant._  mii]   
+__áttò__  /áttò/ _n._  owner [_ant._  mii]   
    
-__attu'__ _v._  close  or block (esp. a hollow container)   
+__attu'__ /attuɁ/ _v._  close  or block (esp. a hollow container)   
    
-__attu' nanw__	_n._	lid used for closing a container
+__attu' nanw__	/attuɁ nanɯ/ _n._	lid used for closing a container
    
-__atú-kahè__  _n._  size        
+__atú-kahè__  /atú-kahè/ _n._  size        
    
-__atúu__  _adj._  small; tiny; little; miniature  [_n._  baby animal] [_ant._  káhè]
+__atúu__  /atúu/ _adj._  small; tiny; little; miniature  [_n._  baby animal] [_ant._  káhè]
    
-__atúu__  _n._  progeny; young; offspring       
+__atúu__  /atúu/ _n._  progeny; young; offspring       
    
-__atw'__  _v._  keep; store; retain; hold on to       
+__atw'__  /atɯɁ/ _v._  keep; store; retain; hold on to       
     
-__au'__ _n._  traditional red cane belt       
+__au'__ /auɁ/ _n._  traditional red cane belt       
     
-__au' gwgyá__ _n._  waist       
+__au' gwgyá__ /auɁ gɯgjá/ _n._  waist       
    
-__aúu__ _n._  son-in-law (term of address)        
+__aúu__ /aúu/ _n._  son-in-law (term of address)        
    
-__aw'__ _v._  forget        
+__aw'__ /aɯɁ/ _v._  forget        
     
-__axa-ayá__ _v._ burning sensation       
+__axa-ayá__ /axa-ajá/ _v._ burning sensation       
    
-__axáa__  adj.  old; aged; elderly        
+__axáa__  /axáa/ _adj._  old; aged; elderly        
    
-__axáa tayú__ _adj._  mature; elderly       
+__axáa tayú__ axáa tayú/ _adj._  mature; elderly       
    
-__axe'__  _n._  kidney  [_var._  arxe']   
+__axe'__  /axeɁ/ _n._  kidney  [_var._  arxe']   
     
-__axoo__  _adj._  entangled (hair)        
+__axoo__  /axoo/ _adj._  entangled (hair)        
     
-__axóo__  _n._  stalk; stem       
+__axóo__  /axóo/ _n._  stalk; stem       
     
-__axóo__  _n._  head; leader; principal       
+__axóo__  /axóo/ _n._  head; leader; principal       
     
 __axóo pèeruñ__ _n._  a variety of bean 
 
