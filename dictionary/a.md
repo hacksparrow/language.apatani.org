@@ -352,205 +352,205 @@ __akañ zacú__ /akã ɲacú/ _n._  lower lip
    
 __akée__  /akée/ _n._  food item used as a gift to express friendly gesture        
    
-__akì__ _n._  dog       
+__akì__ /akì/ _n._  dog       
    
-__akì amù__ _n._  dog's hair        
+__akì amù__ /akì amù/ _n._  dog's hair        
    
-__akì asi'__  _n._  kennel; shelter for a dog       
+__akì asi'__  /akì asiɁ/ _n._  kennel; shelter for a dog       
    
-__akì dula__  _n._  rope used to tie dogs; dog rope       
+__akì dula__  /akì dula/ _n._  rope used to tie dogs; dog rope       
     
-__akì durgu__ _n._  wooden trough for feeding dogs        
+__akì durgu__ /akì durgu/ _n._  wooden trough for feeding dogs        
     
-__akì ipa'__  _n._  faeces of dogs        
+__akì ipa'__  /akì ipaɁ/ _n._  faeces of dogs        
     
-__akì kíibò__ _n._  male dog        
+__akì kíibò__ /akì kíiboò/ _n._  male dog        
     
-__akì kíicú__ _n._  puppy       
+__akì kíicú__ /akì kíicú/ _n._  puppy       
    
-__akì kíinw__ _n._  bitch       
+__akì kíinw__ /akì kíinɯ/ _n._  bitch       
     
-__akì tadvr__ _n._  tape worm   
+__akì tadvr__ /akì tadǝr/ _n._  tape worm   
 
-__akì talañ__	_n._	dog of brownish color
+__akì talañ__	/akì talã/ _n._	dog of brownish color
 
 
-__akì tapúu__	_n._	dog of white color
+__akì tapúu__	/akì tapúu/ _n._	dog of white color
     
     
-__akì taxw__  _n._  flea  [_var._  akì twxè]    
+__akì taxw__  /akì taxɯ/ _n._  flea  [_var._  akì twxè]    
    
-__akì twxè__  _n._  flea  [_var._  akì taxw]    
+__akì twxè__  /akì tɯxè/ _n._  flea  [_var._  akì taxw]    
    
-__akì-paro'__ _n._  domestic animals        
+__akì-paro'__ /akì-paroɁ/ _n._  domestic animals        
    
-__akó__ _num._  one; single       
+__akó__ /akó/ _num._  one; single       
    
-__ákò__ _adj._  low; short        
+__ákò__ /ákò/ _adj._  low; short        
    
-__akó koñtw'__  _adj._  only one; alone [_adv._  akó koñtw']    
+__akó koñtw'__  /akó kõtɯɁ/ _adj._  only one; alone [_adv._  akó koñtw']    
    
-__akó-abi'__  _pron._ everyone; everybody; every person       
+__akó-abi'__  /akó abiɁ/ _pron._ everyone; everybody; every person       
    
-__ákó-ákó__ _pron._ one by one; one after the other       
+__ákó-ákó__ /akó-akó/ _pron._ one by one; one after the other       
    
-__ákótá__ _pron._ one more        
+__ákótá__ /akótá/ _pron._ one more        
    
-__ákoyá__ _pron._ something else   
+__ákoyá__ /akojá/ _pron._ something else   
 
-__aku__ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]  
+__aku__ /aku/ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]  
 
-__akw__	_int._	interjection to express pain
+__akw__	/akɯ/ _int._	interjection to express pain
    
-__ala'__  _n._  hand        
+__ala'__  /alaɁ/ _n._  hand        
     
-__ala' la'pù__  _n._  fist        
+__ala' la'pù__ /alaɁ laɁpù/ _n._  fist        
       
-__ala' muja__	_n._	glove
+__ala' muja__	/alaɁ muja/ _n._	glove
 
-__aláa__  _n._  juice, broth        
+__aláa__  /aláa/ _n._  juice, broth        
    
-__alañ__  _n._  neck;hump of an ox; neck of a bottle or a pot       
+__alañ__  /alã/ _n._  neck;hump of an ox; neck of a bottle or a pot       
    
-__ale'__  _n._  wing        
+__ale'__  /aleɁ/ _n._  wing        
    
-__alì__ _n._  leg       
+__alì__ /alì/ _n._  leg       
    
-__álì__ _v._  plant        
+__álì__ /alì/ _v._  plant        
    
-__alì arañ__  _n._  bottom; base; lower part        
+__alì arañ__  /alì arã/ _n._  bottom; base; lower part        
    
-__alì innánw__  _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
-
-
-__ali lembo__ _n._  paved road  [_or._ Assamese]  
-
-__alì lwpiñ__	_n._	instep
-
-__alì lwpyo__	_n._	sole
-   
-__alíi__  _v._  bury        
-   
-__alíi__  _n._  seed; descendant; progeny; successor        
-   
-__aliñ__  _adj._  wild; untamed; fierce; savage [_ant._  amiñ]    
-   
-__aliñ__  _v._  make something round; wind a quantity of yarn or thread into a ball (esp. by using a kind of spinning wheel)  [_n._  ball; sphere]    
-   
-__alló__  _n._  bone        
-   
-__alo__ _n._  day       
-   
-__alo__ _n._  salt        
-   
-__álò__ _v._  dry    
-
-__alo apiñ__	_n._	lunch
-   
-__alo kamyañ__  _adj._  everyday; daily; commonplace        
-   
-__alo lwpá__  _n._  noon        
-   
-__alóo__  _n._  bamboo flooring support       
-   
-__alóo xuu__  _n._  inherited property (esp. house plot)       
-   
-__álù__ _n._  task  [_v._  to work] [_adj._  busy]
-   
-__aluñ__  _v._  surprise, shock       
-   
-__alvr__  _adj._  hard; firm; rigid; strong [_syn._  arlv]    
-   
-__alẃ__ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
+__alì innánw__ /alì innánɯ/ _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
 
 
-__alw'__  _v._  insert; put       
-   
-__alw'__  _v._  exchange; interchange; swap       
-   
-__ama__ _n._  mother (term of address)  [_syn._  ane]  
+__ali lembo__ /ali lembo/ _n._  paved road  [_or._ Assamese]  
 
-__ama'__	_v._	feed (esp. the hired laborers)
-   
-__amañ__  _n._  roof        
-   
-__amánw__ _pron._ everything; each item       
-   
-__ámè__ _v._  mate        
-   
-__amí__ _n._  elder sister (term of reference)        
-   
-__ámì__ _n._  tail        
-   
-__amí-abañ__  _n._  elders        
-   
-__ami'__  _v._  extinguish; douse; put out (fire) [_syn._  mwmi']   
-   
-__ami'__  _n._  eye     
+__alì lwpiñ__	/alì lɯpĩ/ _n._	instep
 
-__ami' ácì__	_n._	conjunctivitis; eye disease
+__alì lwpyo__	/alì lɯpjo/ _n._	sole
+   
+__alíi__  /alíi/ _v._  bury        
+   
+__alíi__  /alíi/ _n._  seed; descendant; progeny; successor        
+   
+__aliñ__  /alĩ/ _adj._  wild; untamed; fierce; savage [_ant._  amiñ]    
+   
+__aliñ__  /alĩ/ _v._  make something round; wind a quantity of yarn or thread into a ball (esp. by using a kind of spinning wheel)  [_n._  ball; sphere]    
+   
+__alló__  /alló/ _n._  bone        
+   
+__alo__ /alo/ _n._  day       
+   
+__alo__ /alo/ _n._  salt        
+   
+__álò__ /alò/ _v._  dry    
 
-__ami' ajañ__	_n._	one who cries easily
+__alo apiñ__	/alo apĩ/ _n._	lunch
+   
+__alo kamyañ__  /alo kamjã/ _adj._  everyday; daily; commonplace        
+   
+__alo lwpá__  /alo lɯpá/ _n._  noon        
+   
+__alóo__  /alóo/ _n._  bamboo flooring support       
+   
+__alóo xuu__ /alóo xuu/ _n._  inherited property (esp. house plot)       
+   
+__álù__ /álù/ _n._  task  [_v._  to work] [_adj._  busy]
+   
+__aluñ__ /alũ/  _v._  surprise, shock       
+   
+__alvr__  /alǝr/ _adj._  hard; firm; rigid; strong [_syn._  arlv]    
+   
+__alẃ__ /alɯ́/ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
 
-__ami' mi'byo__ _n._  eyelash       
-   
-__ami' mi'tiñ__ _n._  eyelid
 
-__ami' nuri__	_n._	pupil
+__alw'__  /alɯɁ/ _v._  insert; put       
    
-__ami'-aguñ__ _n._  design; motif; pattern (esp.in embroidery)        
+__alw'__  /alɯɁ/ _v._  exchange; interchange; swap       
    
-__amiñ__  _adj._  docile; obedient; sumbissive; deferential [_ant._  aliñ]    
+__ama__ /ama/ _n._  mother (term of address)  [_syn._  ane]  
+
+__ama'__	/amaɁ/ _v._	feed (esp. the hired laborers)
    
-__amiñ__  _adj._  ripe; cooked        
+__amañ__  /amã/ _n._  roof        
    
-__amiñ__  _n._  shade; shadow       
+__amánw__ /amánɯ/ _pron._ everything; each item       
+   
+__ámè__ /ámè/ _v._  mate        
+   
+__amí__ /amí/ _n._  elder sister (term of reference)        
+   
+__ámì__ /ámì/ _n._  tail        
+   
+__amí-abañ__  /amí-abã/ _n._  elders        
+   
+__ami'__  /amiɁ/ _v._  extinguish; douse; put out (fire) [_syn._  mwmi']   
+   
+__ami'__  /amiɁ/ _n._  eye     
+
+__ami' ácì__	/amiɁ ácì/ _n._	conjunctivitis; eye disease
+
+__ami' ajañ__	/amiɁ aɟã/ _n._	one who cries easily
+
+__ami' mi'byo__ /amiɁ miɁbjo/ _n._  eyelash       
+   
+__ami' mi'tiñ__ /amiɁ miɁtĩ/ _n._  eyelid
+
+__ami' nuri__	/amiɁ nuri/ _n._	pupil
+   
+__ami'-aguñ__ /amiɁ-agũ/ _n._  design; motif; pattern (esp.in embroidery)        
+   
+__amiñ__  /amĩ/ _adj._  docile; obedient; sumbissive; deferential [_ant._  aliñ]    
+   
+__amiñ__  /amĩ/ _adj._  ripe; cooked        
+   
+__amiñ__  /amĩ/ _n._  shade; shadow       
     
-__amiñ-ahiñ__ n.  gift; present       
+__amiñ-ahiñ__ /amĩ-ahĩ/ _n._  gift; present       
    
-__amiñ-ajañ__ _adj._  docile; candid; frank       
+__amiñ-ajañ__ /amĩ-aɟã/ _adj._  docile; candid; frank       
    
-__amo__ _n._  remaining grains of unhusked rice grains among husked ones   
+__amo__ /amo/ _n._  remaining grains of unhusked rice grains among husked ones   
 
-__amo-ahe__	_n._	dust (esp. those sticking on the body after works)
+__amo-ahe__	/amo-ahe/ _n._	dust (esp. those sticking on the body after works)
 
-__amu__ _n._  yield; production; quantity (crop)        
+__amu__ /amu/ _n._  yield; production; quantity (crop)        
    
-__amu__ _n._  hair        
+__amu__ /amu/ _n._  hair        
    
-__amú__ _n._  lie; untruth; falsehood [_v._  to tell a lie]   
+__amú__ /amú/ _n._  lie; untruth; falsehood [_v._  to tell a lie]   
    
-__amu pèeruñ__  _n._  a variety of bean [_syn._  po'tuñ pèeruñ]   
+__amu pèeruñ__  /amu pèerũ/ _n._  a variety of bean [_syn._  po'tuñ pèeruñ]   
    
-__amẁ__ _n._  daughter-in-law (term of address)       
+__amẁ__ /amɯ̀/  _n._  daughter-in-law (term of address)       
    
-__amw arwlò__ _int._  interjection to express hopelessness  [_syn._  lorw'lo]   
+__amw arwlò__  /amɯ arɯlò/ _int._  interjection to express hopelessness  [_syn._  lorw'lo]   
    
-__amw'__  _adj._  small; tiny; fine [_ant._  árù]   
+__amw'__  /amɯɁ/ _adj._  small; tiny; fine [_ant._  árù]   
    
-__amya'__ _n._  penis       
+__amya'__ /amjaɁ/ _n._  penis       
    
-__amyañ__ _n._  name  [_var._  armyañ]    
+__amyañ__ /amjã/ _n._  name  [_var._  armyañ]    
    
-__añ__  _int._  an interjection at the end of a sentence to solicit agreement to a statement        
+__añ__  /ã/ _int._  an interjection at the end of a sentence to solicit agreement to a statement        
    
-__ane__ _n._  mother (term of address)  [_syn._  ama]   
+__ane__ /ane/ _n._  mother (term of address)  [_syn._  ama]   
    
-__anee__  _v._  provide packing or support to join or mend something.       
+__anee__  /anee/ _v._  provide packing or support to join or mend something.       
    
-__aníi__  _n._  fruit bud       
+__aníi__  /aníi/ _n._  fruit bud       
    
-__ano__ _v._  to smear; to put on; to rub in; to apply (ointment)       
+__ano__ /ano/ _v._  to smear; to put on; to rub in; to apply (ointment)       
    
-__anoo__  _adv._  very; extremely; awfully        
+__anoo__  /anoo/ _adv._  very; extremely; awfully        
    
-__anu__ _n._  younger brother       
+__anu__ /anu/ _n._  younger brother       
    
-__anu-abañ__  _n._  brothers; sibling       
+__anu-abañ__  /anu-abã/ _n._  brothers; sibling       
 
-__anw__ _n._  leaf  [_syn._  yanw]
+__anw__ /anɯ/ _n._  leaf  [_syn._  yanw]
 
-__anẁ__ _n._  mother (term of reference)        
+__anẁ__ /anɯ̀/ _n._  mother (term of reference)        
     
 __anẁ-aba__ _n._  parent        
    
