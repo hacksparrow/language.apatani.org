@@ -862,26 +862,26 @@ __ayobo__ /ajobo/ _n._  mother-in-law (term of reference)
    
 __ayóo__  /ajóo/ _n._  up; upper       
    
-__ayóo twpè__ _n._  pumpkin [_syn._  e'pè, tápè]
+__ayóo twpè__ /ajóo tɯpè/ _n._  pumpkin [_syn._  e'pè, tápè]
    
-__ayóo zacù__ _n._  upper lip       
+__ayóo zacù__ /ajóo ɲacù/ _n._  upper lip       
    
-__ayú__ _n._  traditional ballad usually sang by the males as competition or simple narration       
+__ayú__ /ajú/ _n._  traditional ballad usually sang by the males as competition or simple narration       
    
-__ayúu__  _n._  long time back        
+__ayúu__  /ajúu/ _n._  long time back        
    
-__ayúu mapà__ _n._  in a short while        
+__ayúu mapà__ /ajúu mapà/ _n._  in a short while        
    
-__azañ__  _n._  year        
+__azañ__  /aɲã/ _n._  year        
    
-__azè__ _num._  two (term of reference)       
+__azè__ /aɲè/ _num._  two (term of reference)       
    
-__azì__ _num._  two       
+__azì__ /aɲì/ _num._  two       
    
-__aziñ__  _n._  breast; milk        
+__aziñ__  /aɲĩ/ _n._  breast; milk        
    
-__aziñ ziñpvr__ _n._  nipple   
+__aziñ ziñpvr__ /aɲĩ ɲĩpǝr/ _n._  nipple   
    
-__azìnw__	_n._	second
+__azìnw__	/aɲìnɯ/ _n._	second
       
-__azóo__  _v._  be subject to a behavioral restriction due to a taboo.        
+__azóo__  /aɲóo/ _v._  be subject to a behavioral restriction due to a taboo.        
