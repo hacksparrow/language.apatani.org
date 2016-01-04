@@ -261,159 +261,159 @@ __búu__ /búu/ _vr._  give birth to [_var._  bww]
    
 __buudu-buugyá__ /buudu-buugjá/ _n._  household articles        
    
-__buufú__ _n._  tadpole       
+__buufú__ /buuʎú/ _n._  tadpole       
    
-__buuì__  _n._  rat dropping        
+__buuì__  /buui/ _n._  rat dropping        
    
-__buukò__ _n._  a variety of large jungle rat       
+__buukò__ /buukò/ _n._  a variety of large jungle rat       
    
-__buulì__ _n._  variety of rats seen after bamboo flowring in large numbers       
+__buulì__ /buulì/ _n._  variety of rats seen after bamboo flowring in large numbers       
    
-__buuñtw__  _n._  tenth month of the year; October        
+__buuñtw__ /buũtɯ/ _n._  tenth month of the year; October        
    
-__buupiñ__  _v._  follow in birth order        
+__buupiñ__  /buupĩ/ _v._  follow in birth order        
    
-__buupiñ swnw__ _n._  twin; siblings        
+__buupiñ swnw__ /buupĩ sɯnɯ/ _n._  twin; siblings        
    
-__buuro__ _adj._  thick or big cylinderical object  [_ant._  buuzó]   
+__buuro__ /buuro/ _adj._  thick or big cylinderical object  [_ant._  buuzó]   
    
-__buutuñ__  _n._  a person who remains bachelor       
+__buutuñ__  /buutũ/ _n._  a person who remains bachelor       
    
-__buutw__ _n._  community; society        
+__buutw__ /buutɯ/ _n._  community; society        
    
-__buuxe__ _n._  a variety of house rat        
+__buuxe__ /buuxe/ _n._  a variety of house rat        
    
-__buuzó__ _adj._  small cylinderical object [_ant._  buurò]   
+__buuzó__ /buuɲó/ _adj._  small cylinderical object [_ant._  buurò]   
    
-__bwdañ__ _n._  precipice; cliff        
+__bwdañ__ /bɯdã/ _n._  precipice; cliff        
    
-__bwdañ daara'__  _n._  stiff cliff       
+__bwdañ daara'__ /bɯdã daaraɁ/ _n._  stiff cliff       
    
-__bwdí__  _adj._  trick; tactic; strategy [_or._ Assamese]    
+__bwdí__  /bɯdí/ _adj._  trick; tactic; strategy [_or._ Assamese]    
    
-__bwdí ba'lo__  _n._  conspiracy        
+__bwdí ba'lo__ /bɯdí baɁlo/ _n._  conspiracy        
    
-__bwfe'__ _adj._  soft; spongy; pliable [_syn._  bwya'] [_ant._  alvr]
+__bwfe'__ /bɯʎeɁ/ _adj._  soft; spongy; pliable [_syn._  bwya'] [_ant._  alvr]
    
-__bwfiñ__ _n._  yesterday evening       
+__bwfiñ__ /bɯʎĩ/ _n._  yesterday evening       
    
-__bwfo'__ _adj._  nearby; near        
+__bwfo'__ /bɯʎoɁ/ _adj._  nearby; near        
    
-__bwfo__  _n._  yesterday       
+__bwfo__  /bɯʎo/ _n._  yesterday       
    
-__bwhiñ__ _n._  a variety of tree       
+__bwhiñ__ /bɯhĩ/ _n._  a variety of tree       
    
-__bwje__  _adj._  many; in large numbers; profuse; copious  [_var._  bwjé bwjé]   
+__bwje__  /bɯɟe/ _adj._  many; in large numbers; profuse; copious  [_var._  bwjé bwjé]   
    
-__bwjvr__ _n._  market; bazaar  [_or._ Assamese]    
+__bwjvr__ /bɯɟǝr/ _n._  market; bazaar  [_or._ Assamese]    
    
-__bwle'__ _adj._  slippery; oily; greasy; slimy [_syn._  tule']   
+__bwle'__ /bɯleɁ/ _adj._  slippery; oily; greasy; slimy [_syn._  tule']   
    
-__bwliñ kormo__ _n._  a variety of fruit        
+__bwliñ kormo__ /bɯlĩ kormo/ _n._  a variety of fruit        
    
-__bwlu-bwla'__  _adv._  hurriedly; suddenly       
+__bwlu-bwla'__  /bɯlu-bɯlaɁ/ _adv._  hurriedly; suddenly       
    
-__bwlw__  _adj._  loose (as of a tooth or a post)        
+__bwlw__  /bɯlɯ/ _adj._  loose (as of a tooth or a post)        
    
-__bwnw__  _n._  female; damsel; lady        
+__bwnw__  /bɯnɯ/ _n._  female; damsel; lady        
    
-__bwpw'__ _prep._ under; beneath; below       
+__bwpw'__ /bɯpɯɁ/ _prep._ under; beneath; below       
    
-__bwpw' tabú__  _n._  a variety of poisonous snake (_Pareas monticola_)       
+__bwpw' tabú__  /bɯpɯɁ tabú/ _n._  a variety of poisonous snake (_Pareas monticola_)       
    
-__bwriñ__ _n._  python (_Python molurus_)       
+__bwriñ__ /bɯrĩ/ _n._  python (_Python molurus_)       
    
-__bwra'__ _adj._  mellow (of taste)       
+__bwra'__ /bɯraɁ/ _adj._  mellow (of taste)       
    
-__bwro__  _n._  yesterday morning       
+__bwro__  /bɯro/ _n._  yesterday morning       
    
-__bwsañ tabú__  _n._  a variety of snake; Green Ratsnake (_Senticolis triaspis_)  [_var._  busañ tabú]    
+__bwsañ tabú__ /bɯsã tabú/ _n._  a variety of snake; Green Ratsnake (_Senticolis triaspis_)  [_var._  busañ tabú]    
    
-__bwsi__  _n._  traditional ballad; song; lyrics        
+__bwsi__  /bɯsi/ _n._  traditional ballad; song; lyrics        
    
-__bwso__  _adj._  afraid; scared; terrified       
+__bwso__  /bɯso/ _adj._  afraid; scared; terrified       
    
-__bwso-kaco__ _n._  forbidden; proscribed; prohibited       
+__bwso-kaco__ /bɯso kaco/ _n._  forbidden; proscribed; prohibited       
    
-__bww__ _vr._  hold; keep; own [_var._  buu]   
+__bww__ /bɯɯ/ _vr._  hold; keep; own [_var._  buu]   
    
-__bww__ _vr._  give birth to [_var._  buu]   
+__bww__ /bɯɯ/ _vr._  give birth to [_var._  buu]   
    
-__bwya'__ _adj._  soft; spongy; pliable [_syn._  bwfe'] [_Ant._  alvr]
+__bwya'__ /bɯjaɁ/ _adj._  soft; spongy; pliable [_syn._  bwfe'] [_Ant._  alvr]
    
-__bwyo__  _n._  yesterday night       
+__bwyo__  /bɯjo/ _n._  yesterday night       
    
-__bwyo__  _adj._  weedy; full of weed (of a field)       
+__bwyo__  /bɯjo/ _adj._  weedy; full of weed (of a field)       
    
-__bwza-bwza__ _adj._  silky; delicate; soft [_syn._  bwzi'-bwza]    
+__bwza-bwza__ /bɯɲa-bɯɲa/ _adj._  silky; delicate; soft [_syn._  bwzi'-bwza]    
    
-__bwzañ__ _n._  last year       
+__bwzañ__ /bɯɲã/ _n._  last year       
    
-__bwzi'-bwza__  _adj._  silky; delicate; soft [_syn._  bwza-bwza]   
+__bwzi'-bwza__ /bɯɲiɁ-bɯɲa/ _adj._  silky; delicate; soft [_syn._  bwza-bwza]   
    
-__bya'__  _vr._  hesitate; waver; vicillate        
+__bya'__  /bjaɁ/ _vr._  hesitate; waver; vicillate        
    
-__byaa__  _vr._  ruin; disintegrate        
+__byaa__  /bjaa/ _vr._  ruin; disintegrate        
    
-__byáa__  _vr._  roast; grill        
+__byáa__  /bjáa/ _vr._  roast; grill        
    
-__byaací__  _n._  space between the front verandah and the main space in an Apatani house [_syn._  byaarañ]   
+__byaací__  /bjaací/ _n._  space between the front verandah and the main space in an Apatani house [_syn._  byaarañ]   
    
-__byaago__  _n._  front verandah of an Apatani house        
+__byaago__  /bjaago/ _n._  front verandah of an Apatani house        
    
-__byaakañ__ _n._  space underneath the house        
+__byaakañ__ /bjaakã/ _n._  space underneath the house        
    
-__byaako__  _n._  kind of edible berry        
+__byaako__  /bjaako/ _n._  kind of edible berry        
    
-__byaarañ__ _n._  space between the front verandah and the main space in an Apatani house [_syn._  byaací]    
+__byaarañ__ /bjaarã/ _n._  space between the front verandah and the main space in an Apatani house [_syn._  byaací]    
    
-__byaazó__  _adj._  narrow (esp. of path)       
+__byaazó__  /bjaaɲó/ _adj._  narrow (esp. of path)       
    
-__byací__ _adj._  smart; quick; agile [_syn._  cibyw]  
+__byací__ /bjací/ _adj._  smart; quick; agile [_syn._  cibyw]  
 
-__byako__	_n._	common term of berries
+__byako__	/bjako/ _n._	common term of berries
 
 
-__byaku' tale'__	_n._	onion
+__byaku' tale'__ /bjakuɁ taleɁ/	_n._	onion
    
-__byakú__ _n._  a child with developmental delay        
+__byakú__ /bjakú/ _n._  a child with developmental delay        
    
-__byañkvr__ _adj._  thick [_ant._  bofó]    
+__byañkvr__ /bjãkǝr/ _adj._  thick [_ant._  bofó]    
    
-__byañtuñ__ _adj._  big and thick (esp. of flower)       
+__byañtuñ__ /bjãtũ/ _adj._  big and thick (esp. of flower)       
    
-__byapu'__  _n._  bamboo shoot  [_syn._  behé, wtw rwbw, wtw bwrw]    
+__byapu'__  /bjapuɁ/ _n._  bamboo shoot  [_syn._  behé, wtw rwbw, wtw bwrw]    
    
-__byar__  _vr._  flip; flick       
+__byar__  /bjar/ _vr._  flip; flick       
    
-__byarbó__  _v._  jump across       
+__byarbó__  /bjarbó/ _v._  jump across       
    
-__byayuñ__  _n._  tomato; potato  [_var._  beyuñ]   
+__byayuñ__  /bjajũ/ _n._  tomato; potato  [_var._  beyuñ]   
    
-__byazó__ _adj._  small (esp. of flower)        
+__byazó__ /bjaɲó/ _adj._  small (esp. of flower)        
    
-__byo'__  _vr._  shine (as sun); radiate; glow; glare        
+__byo'__  /bjoɁ/ _vr._  shine (as sun); radiate; glow; glare        
    
-__byo'dá__  _adj._  bright; brilliant       
+__byo'dá__ /bjoɁdá/ _adj._  bright; brilliant       
    
-__byo'hú__  _v._  brighten; light up; illuminate        
+__byo'hú__ /bjoɁhú/ _v._  brighten; light up; illuminate        
    
-__byodiñ__  _n._  an element of ritual altar        
+__byodiñ__ /bjodĩ/ _n._  an element of ritual altar        
    
-__byoñ__  _vr._  extinguish (of a major fire); stop a fight       
+__byoñ__ /bjõ/ _vr._  extinguish (of a major fire); stop a fight       
    
-__byo__ _vr._  swim        
+__byo__ /bjo/ _vr._  swim        
    
-__byoopvr__ _n._  a variety of headgear       
+__byoopvr__ /bjoopǝr/ _n._  a variety of headgear       
    
-__byopa__ _n._  cap; headgear       
+__byopa__ /bjopa/ _n._  cap; headgear       
    
-__byuhu__ _n._  grave; tomb       
+__byuhu__ /bjuhu/ _n._  grave; tomb       
    
-__byurw-byarw__ _adj._  dirty; unappetizing; messy  [_syn._  ulu-byalu]   
+__byurw-byarw__ /bjurɯ-bjarɯ/ _adj._  dirty; unappetizing; messy  [_syn._  ulu-byalu]   
    
-__byuu__  vr.  suck        
+__byuu__  /bjuu/ _vr._  suck        
    
-__byuxwñ__  n.  cemetry; burial ground; graveyard       
+__byuxwñ__  /bjuxɯ̃/ _n._  cemetry; burial ground; graveyard       
    
-__byw__ n.  a species of bamboo       
+__byw__ /bjɯ/ _n._  a species of bamboo       
