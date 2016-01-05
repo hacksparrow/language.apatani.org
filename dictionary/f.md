@@ -30,68 +30,64 @@ __fañpiñ-cañtuñ__ /ʎãpĩ-cãtũ/ _n._  protective deity in the household
 
 __fañso__ /ʎãso/ _n._  metallic skewer [_syn._  ufañ kuti] 
 
-__fanw__  _n._  one who blesses; God
+__fanw__  /ʎanɯ/ _n._  one who blesses; God
 
-__fapu pufe__ _n._  an ordinary customary white shawl
+__fapu pufe__ /ʎapu puʎe/ _n._  an ordinary customary white shawl
 
-__faqa__  _v._  flow in (of water)
+__faqa__  /ʎaŋa/ _v._  flow in (of water)
 
-__fe__  _vr._  wade through
+__fe__  /ʎe/ _vr._  wade through
 
-__fe'__ _vr._  roll something (esp. thread between the palms)
+__fe'__ /ʎeɁ/ _vr._  roll something (esp. thread between the palms)
 
-__fe'be__ _n._  larva of water beetle [_syn._  bukofe'be]
+__fe'be__ /ʎeɁbe/ _n._  larva of water beetle [_syn._  bukofe'be]
 
-__fe'ko__ _n._  doorlatch [_syn._  arkonanw; fe'pu]
+__fe'ko__ /ʎeɁko/_n._  doorlatch [_syn._  arkonanw; fe'pu]
 
-__fe'po__ _v._  join a thread by rollin on the palms
+__fe'po__ /ʎeɁpo/ _v._  join a thread by rollin on the palms
 
-__fe'pu__ _n._  horizontal piece of bamboo holding the framework of a door  
+__fe'pu__ /ʎeɁpu/ _n._  doorlatch; horizontal piece of bamboo holding the framework of a door [_syn._  arkonanw; fe'ko]
 
-__fe'pu__ _n._  doorlatch [_syn._  arkonanw; fe'ko]
+__fego__  /ʎego/ _n._  threshold; entrance
 
-__fego__  _n._  threshold; entrance
+__feñ__ /ʎẽ/ _vr._  measure with outstretched hands
 
-__feñ__ _vr._  measure with outstretched hands
+__fì__  /ʎì/ _v._  become
 
-__fì__  _v._  become
+__fi'cu pwzañ__ /ʎiɁcu pɯɲã/ _n._  ceremonial friend who exchange the heads of sacrificed pigs 
 
-__fi'cu pwzañ__ _n._  ceremonial friend who exchange the heads of sacrificed pigs 
+__fi'do__ /ʎiɁdo/ _n._  food for pigs
 
-__fi'do__ _n._  food for pigs
+__fi'kuñ-firi__ /ʎiɁkũ-ʎiri/ _adj._  wrinkled; crease; pucker; crinkle  
 
-__fi'kuñ-firi__ _adj._  wrinkled; crease; pucker; crinkle  
+__fi'la__ /ʎiɁla/ _n._  the legs of the pigs sacrificed during Myoko which are usually presented to the cousins
 
-__fi'la__ _n._  the legs of the pigs sacrificed during Myoko which are usually presented to the cousins
+__fihe__  /ʎihe/ _post._ till; until
 
-__fihe__  _post._ till; until
+__fíi__ /ʎíi/ _vr._  slither (as snakes do)
 
-__fíi__ _vr._  slither (as snakes do)
+__fiifi'__  /ʎiʎiɁ/ _adj._  horrifying  [_syn._  aha fiifi']
 
-__fiifi'__  _adj._  horrifying  [_syn._  aha fiifi']
+__firo toko__ /ʎiro toko/ _n._  uvula
 
-__firo toko__ _n._  uvula
+__fiyo'__ /ʎijoɁ/ _n._  portion of meat which is the extra fat covering of the stomach
 
-__fiyo'__ _n._  portion of meat which is the extra fat covering of the stomach
+__fo'gañ__  /ʎoɁgã/ _n._  blunt edge of the sword
 
-__fo'gañ__  _n._  blunt edge of the sword
+__fo'li__ /ʎoɁli/ _n._  machete handle; handle or butt of a machete; hilt
 
-__fo'li__ _n._  machete handle
+__fo'ro__ /ʎoɁro/ _n._  sharp edge of the sword
 
-__fo'li__ _n._  hilt; handle or butt of a machete
+__fofi'-coci'__ /ʎoʎiɁ-cociɁ/ _n._  rogue; an unreliable person [_syn._  suru dozó]
 
-__fo'ro__ _n._  sharp edge of the sword
+__fohe__  /ʎohe/ _n._  one type; one variety
 
-__fofi'-coci'__ _n._  rogue; an unreliable person [_syn._  suru dozó]
+__fo__  /ʎo/ _vr._  jump
 
-__fohe__  _n._  one type; one variety
+__foo__ /ʎoo/ _vr._  tease out the outer layer of a bamboo as a rope
 
-__fo__  _vr._  jump
+__fóo__ /ʎóo/ _vr._  collect, esp. firewood
 
-__foo__ _vr._  tease out the outer layer of a bamboo as a rope
+__fòobó__ /ʎóobó/ _v._  jump across
 
-__fóo__ _vr._  collect, esp. firewood
-
-__fòobó__ _v._  jump across
-
-__fòohá__ _v._  jump in       
+__fòohá__ /ʎóohá/ _v._  jump in       
