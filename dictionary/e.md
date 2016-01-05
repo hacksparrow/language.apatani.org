@@ -101,32 +101,32 @@ __ene'__  /eneɁ/ _adv._  without reason; without purpose; without work [_or._ A
 __eñjañ__	/ẽɟã/ _n._	rainy season	[_Ent._	eñdi + ajañ]
 
 
-__eñku__	_n._	paddy of previous harvest		
+__eñku__	/ẽku/ _n._	paddy of previous harvest		
 
 
-__eñsu'__ _v._  fail (esp. of rice plant; failing to fruit)        
+__eñsu'__ /ẽsuɁ/ _v._  fail (esp. of rice plant; failing to fruit)        
 
 
-__eñtw__  _n._  paddy harvest       
+__eñtw__  /ẽtɯ/ _n._  paddy harvest       
 
 
-__eñtw patañ__  _n._  labor gang for paddy harvesting       
+__eñtw patañ__  /ẽtɯ patã/ _n._  labor gang for paddy harvesting       
 
 
-__eñtw pwlò__ _n._  tenth lunar month; October        
+__eñtw pwlò__ /ẽtɯ pɯlò/ _n._  tenth lunar month; October        
 
 
-__eñtw pvrv__ _n._  large cane mat used for temporary storage of harvested paddy in the field       
+__eñtw pvrv__ /ẽtɯ pǝrǝ/ _n._  large cane mat used for temporary storage of harvested paddy in the field       
 
 
-__eñtw tari__ _n._  kiwi (_Actinidia_ sp.)        
+__eñtw tari__ /ẽtɯ tari/ _n._  kiwi (_Actinidia_ sp.)        
 
 
-__eñtw yagw__ _n._  medium sized cane basket        
+__eñtw yagw__ /ẽtɯ jagɯ/ _n._  medium sized cane basket        
 
 
-__eñxo__  _n._  rice stalk; portion of a stalk        
+__eñxo__ /ẽxo/  _n._  rice stalk; portion of a stalk        
 
 
-__ere'__  _n._  belly; stomach        
+__ere'__  /ereɁ/ _n._  belly; stomach        
 
