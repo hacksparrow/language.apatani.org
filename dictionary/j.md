@@ -6,115 +6,115 @@ devanagari: ज
 ipa: ɟ
 ---
 
-__ja__	_vr._	toss or throw a discus sidearm, such that it flies through the air; cause an object to soar by throwing		
+__ja__	/ɟa/ _vr._	toss or throw a discus sidearm, such that it flies through the air; cause an object to soar by throwing		
 
 
-__jaa__	_vr._	sway (as a drunken person do); stagger		
+__jaa__	/ɟaa/ _vr._	sway (as a drunken person do); stagger		
 
 
-__jáa__	_vr._	soar or fly without flapping the wings (as a hawk)		
+__jáa__	/ɟáa/ _vr._	soar or fly without flapping the wings (as a hawk)		
 
 
-__jáaji__	_n._	aeroplane		
+__jáaji__ /ɟáaɟi/	_n._	aeroplane		
 
 
-__jaaku-jaafa__	_v._	stagger; walk unsteadily		
+__jaaku-jaafa__	/ɟaaku-ɟaaʎa/ _v._	stagger; walk unsteadily		
 
 
-__jaañtu__	_adj._	fat; plump; chubby		
+__jaañtu__	/ɟaãtu/ _adj._	fat; plump; chubby		
 
 
-__jaapa'__	_v._	toss away	[_syn._	jarpa']
+__jaapa'__ /ɟaapaɁ/	_v._	toss away	[_syn._	jarpa']
 
 
-__jabyò__	_n._	outskirts, usually of a village		
+__jabyò__	/ɟabjò/ _n._	outskirts, usually of a village		
 
 
-__jabyò aji__	_n._	fields located far away from the villages		
+__jabyò aji__	/ɟabjò aɟi/ _n._	fields located far away from the villages		
 
 
-__jalo__	_conj._	although; even if; or		
+__jalo__	/ɟalo/ _conj._	although; even if; or		
 
 
-__jañ__	_vr._	become fat; put on weight		
+__jañ__ /ɟã/	_vr._	become fat; put on weight		
 
 
-__jañ__	_vr._	be trustworthy, as the omen of chickeen liver or egg might be		
+__jañ__	/ɟã/ _vr._	be trustworthy, as the omen of chickeen liver or egg might be		
 
 
-__jañda__	_n._	flag	[_or._	Assamese]
+__jañda__	/ɟãda/ _n._	flag	[_or._	Assamese]
 
 
-__jar__	_vr._	fly; soar; glide		
+__jar__	/ɟar/ _vr._	fly; soar; glide		
 
 
-__jar__	_num._	thousand		
+__jar__	/ɟar/ _num._	thousand		
 
 
-__jare__	_num._	one thousand	[_etym._	jar + he]
+__jare__	/ɟare/ _num._	one thousand	[_etym._	jar + he]
 
 
-__jarkiñ__	_n._	jerakin; a container	[_or._	Assamese]
+__jarkiñ__	/ɟarkĩ/ _n._	jerakin; a container	[_or._	Assamese]
 
 
-__jarkuñ__	_num._	one thousand (term of enumeration)		
+__jarkuñ__	/ɟarkũ/ _num._	one thousand (term of enumeration)		
 
 
-__jarpa'__	_v._	toss away	[_syn._	jaapa']
+__jarpa'__	/ɟarpaɁ/ _v._	toss away	[_syn._	jaapa']
 
 
-__jarpiñ__	_v._	hysteria; sickness caused by the spirit of a dead person		
+__jarpiñ__	/ɟarpĩ/ _v._	hysteria; sickness caused by the spirit of a dead person		
 
 
-__je'__	_vr._	soften; become tender on cooked		
+__je'__	/ɟeɁ/ _vr._	soften; become tender on cooked		
 
 
-__je'bi'__	_n._	mud; swampy area		
+__je'bi'__	/ɟeɁbiɁ/ _n._	mud; swampy area		
 
 
-__je'je'__	_adj._	soft due to cooking too much		
+__je'je'__	/ɟeɁɟeɁ / _adj._	soft due to cooking too much		
 
 
-__je'me'__	_adj._	flat; deflatted		
+__je'me'__	/ɟeɁmeɁ / _adj._	flat; deflatted		
 
 
-__je'ta__	_adj._	flattened		
+__je'ta__	/ɟeɁta/ _adj._	flattened		
 
 
-__ji__	_adj._	black		
+__ji__	/ɟi/ _adj._	black		
 
 
-__jí__	_vr._	roll; spin; rotate; turn round and round		
+__jí__	/ɟi/ _vr._	roll; spin; rotate; turn round and round		
 
 
-__ji'__	_vr._	melt; thaw; dissolve		
+__ji'__	/ɟiɁ/ _vr._	melt; thaw; dissolve		
 
 
-__jibu garw__	_n._	jeep	[_or._	English]
+__jibu garw__ /ɟibu garɯ/	_n._	jeep	[_or._	English]
 
 
-__jifá__	_n._	coarse silk		
+__jifá__	/ɟiʎá/ _n._	coarse silk		
 
 
-__jifiñ__	_n._	Indian strawberry (_Potentilla indica_)	[_syn._	jifuñ]; [_syn._ akì jifuñ]
+__jifiñ__	/ɟiʎĩ/ _n._	Indian strawberry (_Potentilla indica_)	[_syn._	jifuñ]; [_syn._ akì jifuñ]
 
 
-__jifuñ__	_n._	Indian strawberry (_Potentilla indica_)	[_syn._	jifiñ]
+__jifuñ__	/ɟiʎũ/ _n._	Indian strawberry (_Potentilla indica_)	[_syn._	jifiñ]
 
 
-__jigjiro__	_n._	kind of a traditional shawl				
+__jigjiro__	/ɟigɟiro/ _n._	kind of a traditional shawl				
 
 
-__jihi'__	_adj._	quiet; silent				
+__jihi'__	/ɟihiɁ/ _adj._	quiet; silent				
 
 
-__jihi' rara__	_adj._	silent; peaceful				
+__jihi' rara__	/ɟihiɁ rara/ _adj._	silent; peaceful				
 
 
-__jihiñ__	_n._	rag; scrap of cloth; dirty linen				
+__jihiñ__	/ɟihĩ/ _n._	rag; scrap of cloth; dirty linen				
 
 
-__jihw-jixe__	_v._	roll to and fro				
+__jihw-jixe__	/ɟihɯ-ɟixe/ _v._	roll to and fro				
 
 
 __jiimu__	_v._	giddy; dizzy; vertiginous	[_n._	giddiness]	[_syn._	sumu]
