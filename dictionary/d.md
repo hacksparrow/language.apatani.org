@@ -89,112 +89,109 @@ __dañxo__ /dãxo/ _n._  long sharp stick
 __dañxo-pa'zì__ /dãxo-paɁɲì/ _n._  weapon        
 
 
-__dañxw__ _v._  beat to death; kill by beating        
+__dañxw__ /dãxɯ/ _v._  beat to death; kill by beating        
 
 
-__dañxw'__  _v._  beat into fragmant (for example bone); fracture or break something by beating       
+__dañxw'__  /dãxɯɁ/ _v._  beat into fragmant (for example bone); fracture or break something by beating       
 
 
-__dapo__  _n._  penalty; prohibition; sanction        
+__dapo__  /dapo/ _n._  penalty; prohibition; sanction        
 
 
-__dapo pogyañ__ _n._  an altar erected during a community penalty or to announce such a penalty       
+__dapo pogyañ__ /dapo pogjã/ _n._  an altar erected during a community penalty or to announce such a penalty       
 
 
-__daqi__  _v._  fall (from standing position); tumble       
+__daqi__  /daŋi/ _v._  fall (from standing position); tumble       
 
 
-__dar__ _vr._  move or lift with a stick used as a lever       
+__dar__ /dar/ _vr._  move or lift with a stick used as a lever       
 
 
-__dar__ _vr._  break (as a stick); crack; snap        
+__dar__ /dar/ _vr._  break (as a stick); crack; snap        
 
 
-__daruu__ _n._  summer        
+__daruu__ /daruu/ _n._  summer        
 
 
-__darw'__ _adj._  clean; pure; clear  [_adv._  darw'pa]   
+__darw'__ /darɯɁ/ _adj._  clean; pure; clear  [_adv._  darw'pa]   
 
 
-__darw' pyabya__  _adv._  clean; pure; clear        
+__darw' pyabya__  /darɯɁ pjabja/ _adv._  clean; pure; clear        
 
 
-__dasvr__ _adj._  free; without burden; unencumbered  [_syn._  heñsvr]  
+__dasvr__ /dasǝr/ _adj._  free; without burden; unencumbered  [_syn._  heñsvr]  
 
-__datw mida__	_n._	mida of greater variety	[_ant._	daci mida]
+__datw mida__	/datɯ mida/ _n._	mida of greater variety	[_ant._	daci mida]
 
 
-__dazi__  _n._  sun       
+__dazi__  /daɲi/ _n._  sun       
 
 
-__dazi áago__ _n._  west  [_syn._  haatw]   
+__dazi áago__ /daɲi áago/ _n._  west  [_syn._  haatw]   
 
 
-__dazi agyañ__  _n._  altar for propitiating Dazi (the Sun God)       
+__dazi agyañ__  /daɲi agjã/ _n._  altar for propitiating Dazi (the Sun God)       
 
 
-__dazi alo__  _n._  Sunday        
+__dazi alo__  /daɲi alo/ _n._  Sunday        
 
 
-__dazi caca__ _n._  a small variety of cicada       
+__dazi caca__ /daɲi caca/ _n._  a small variety of cicada       
 
 
-__dazi cago__ _n._  east  [_syn._  haaci]   
+__dazi cago__ /daɲi cago/ _n._  east  [_syn._  haaci]   
 
 
-__dazi lofañ__  _n._  mid-day; noon [_syn._  alo lwpa]    
+__dazi lofañ__  /daɲi loʎã/ _n._  mid-day; noon [_syn._  alo lwpa]    
 
 
-__dazi riila'__ _n._  sunray    
+__dazi riila'__ /daɲi riilaɁ/ _n._  sunray    
 
-__dazi somiñ__	_n._	a species of legless lizard; Asian glass lizard (_Ophisaurus gracillis_)
+__dazi somiñ__	/daɲi somĩ/ _n._	a species of legless lizard; Asian glass lizard (_Ophisaurus gracillis_)
 
-__dazi tatw' arnw'__	_n._	solar eclipse
+__dazi tatw' arnw'__	/daɲi tatɯɁ arnɯɁ/ _n._	solar eclipse
 
 
-__dazo__  _adj._  without reason; aimless [_adv._  dazopa]    
+__dazo__  /daɲo/ _adj._  without reason; aimless [_adv._  dazopa]    
 
 
-__de'__ _vr._  crack; split; rapture       
+__de'__ /deɁ/ _vr._  crack; split; rapture       
 
 
-__de'__ _vr._  plait or weave       
+__de'__ /deɁ/ _vr._  plait or weave       
 
 
-__de'go__ _n._  crack       
+__de'go__ /deɁgo/ _n._  crack       
 
 
-__de'lo__ _n._  frame of a basket, etc.       
+__de'lo__ /deɁlo/ _n._  frame of a basket, etc.       
 
 
-__defañ rwcañ__ _n._  bell  [_syn._  defañ rwci]    
+__defañ rwcañ__ /deʎã rɯcã/ _n._  bell used by prist during rituals [_syn._  defañ rwci]    
 
 
-__defañ rwci__  _n._  bell  [_syn._  defañ rwcañ]   
+__defañ rwci__  /deʎã rɯci/ _n._  bell  [_syn._  defañ rwcañ]   
 
 
-__defañ-rwcañ__ _n._  bell used by priest during rituals        
+__dekiñ__ /dekĩ/ _n._  clay        
 
 
-__dekiñ__ _n._  clay        
+__dekiñ pwcañ__ /dekĩ pɯcã/ _n._  clay pot        
 
 
-__dekiñ pwcañ__ _n._  clay pot        
+__dema__  /dema/ _adj._  naughty; disobedient  [_ant._  deñkí]   
 
 
-__dema__  _adj._  naughty; disobedient  [_ant._  deñkí]   
+__dema úì__ /dema úì/ _n._  evil spirit       
 
 
-__demaúì__ _n._  evil spirit       
+__dempyo__  /dempjo/ _n._  mouse       
 
 
-__dempyo__  _n._  mouse       
+__deñki__ /dẽki/ _adj._  sincere; obedient [_ant._  dema]    
 
 
-__deñki__ _adj._  sincere; obedient [_ant._  dema]    
-
-
-__deqe__  _n._  hair (of a child)        
+__deqe__  /deŋe/ _n._  hair (of a child)        
 
 
 __dibur__ _n._  mole cricket (_Gryllotalpidae_)       
