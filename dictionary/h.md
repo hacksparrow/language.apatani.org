@@ -588,196 +588,196 @@ __hu'hw-hu'xe__	/huɁhɯ-huɁxe/ _v._	shake to and fro
 __hu'pa'-hu'ya__	/huɁpaɁ-huɁja/ _adj._	lavish; extravagant		
 
 
-__hu'po__	_n._	protective armour of animal skin to cover the body from armpit to the groin		
+__hu'po__	/huɁpo/ _n._	protective armour of animal skin to cover the body from armpit to the groin		
 
 
-__hu'si-rasi__	_adj._	hot and humid		
+__hu'si-rasi__	/huɁsi-rasi/ _adj._	hot and humid		
 
 
-__hua__	_v._	fall into something		
+__hua__	/hua/ _v._	fall into something		
 
 
-__huañ__	_n._	back (anatomy)	[_var._	hoañ]
+__huañ__	/huã/ _n._	back (anatomy)	[_var._	hoañ]
 
 
-__huañ ácì__	_n._	backache; back pain		
+__huañ ácì__	/huã ácì/ _n._	backache; back pain		
 
 
-__huañ alló__	_n._	backbone	[_var._	hoañ alló]
+__huañ alló__	/huã alló/ _n._	backbone	[_var._	hoañ alló]
 
 
-__hubo-hulo__	__adj._	almost; roughly equal		
+__hubo-hulo__	/hubo-hulo/ __adj._	almost; roughly equal		
 
 
-__hubur__	_n._	pipe, usually of bamboo or wood, to conduct water from one field to the other	[_var._	hurbu]
+__hubur__	/hubur/ _n._	pipe, usually of bamboo or wood, to conduct water from one field to the other	[_var._	hurbu]
 
 
-__hubyu__	_n._	scum; froth		
+__hubyu__	/hubju/ _n._	scum; froth		
 
 
-__hubyú__	_n._	sheath; scabbard		
+__hubyú__ /hubjú/	_n._	sheath; scabbard		
 
 
-__hufu__	_n._	bamboo javelin		
+__hufu__	/huʎu/ _n._	bamboo javelin		
 
 
-__húì__	_v._	fall		
+__húì__	/húi/ _v._	fall		
 
 
-__hukw__	_pron._	whose		
+__hukw__	/hukɯ/ _pron._	whose		
 
 
-__hukw-makw__	_adj._	impulsive; impetuous; reckless		
+__hukw-makw__	/hukɯ-makɯ/ _adj._	impulsive; impetuous; reckless		
 
 
-__hula'__	_n._	aerial yam (_Dioscorea bulbifera_)		
+__hula'__	/hulaɁ/ _n._	aerial yam (_Dioscorea bulbifera_)		
 
 
-__huli__	_n._	boil; pimple		
+__huli__	/huli/ _n._	boil; pimple		
 
 
-__humi__	_pron._	whom		
+__humi__	/humi/ _pron._	whom		
 
 
-__huñki'__	v.	bend; stoop	[_var._	hoñki']
+__huñki'__	/hũkiɁ/ _v._	bend; stoop	[_var._	hoñki']
 
 
-__huñta-reñta__	_adj._	stifling; suffocating, of space; congested		
+__huñta-reñta__	/hũta-rẽta/ _adj._	stifling; suffocating, of space; congested		
 
 
-__hupa__	_pron._	for whom		
+__hupa__	/hupa/ _pron._	for whom		
 
 
-__huqa__	_v._	squat (esp. of quadruplets)	[_syn._	buqá]
+__huqa__	/huŋa/ _v._	squat (esp. of quadruplets)	[_syn._	buqá]
 
 
-__hurbu__	_n._	pipe, usually of bamboo or wood, to conduct water from one field to the other	[_var._	hubur]
+__hurbu__	/hurbu/ _n._	pipe, usually of bamboo or wood, to conduct water from one field to the other	[_var._	hubur]
 
 
-__huriñ__	_n._	protective body armour of cane belt worn around the waist		
+__huriñ__	/hurĩ/ _n._	protective body armour of cane belt worn around the waist		
 
 
-__hurta'__	_n._	wooden board used for filtering rice water from the cooking pot		
+__hurta'__	/hurtaɁ/ _n._	wooden board used for filtering rice water from the cooking pot		
 
 
-__hu__	_pron._	who		
+__hu__	/hu/ _pron._	who		
 
 
-__hú__	_vr._	wake up; rouse; awaken		
+__hú__	/hú/ _vr._	wake up; rouse; awaken		
 
 
-__húu__	_vr._	whittle; scrape; shave		
+__húu__	/húu/ _vr._	whittle; scrape; shave		
 
 
-__hù__	__vr._	prick; stab		
+__hù__	/hù/ _vr._	prick; stab		
 
 
-__huu__	_vr._	light up; brighten		
+__huu__	/huu/ _vr._	light up; brighten		
 
 
-__huuda__	_adj._	bright		
+__huuda__	/huuda/ _adj._	bright		
 
 
-__hùu__	_vr._	be fatty (as pork might get); be oily				
+__hùu__	/hùu/ _vr._	be fatty (as pork might get); be oily				
 
 
-__hùufi'__	_n._	fat; oil				
+__hùufi'__	/hùuʎiɁ/ _n._	fat; oil				
 
 
-__húro__	_v._	awaken; arouse; wake up				
+__húro__	/húro/ _v._	awaken; arouse; wake up				
 
 
-__huuto__	_n._	light				
+__huuto__	/huuto/ _n._	light				
 
 
-__huxo__	_n._	handle (esp. of agricultural implements like spade or axe)				
+__huxo__	/huxo/ _n._	handle (esp. of agricultural implements like spade or axe)				
 
 
-__huzi__	_n._	pestle				
+__huzi__	/huɲi/ _n._	pestle				
 
 
-__hwba'__	_adj._	next; following				
+__hwba'__	/hɯbaɁ/ _adj._	next; following				
 
 
-__hwbyw__	_n._	bamboo branch				
+__hwbyw__	/hɯbjɯ/ _n._	bamboo branch				
 
 
-__hwfañ__	_prep._	like; similar; alike				
+__hwfañ__	/hɯʎã/ _prep._	like; similar; alike				
 
 
-__hwguñ hamañ__	_n._	a variety of vegetable; Japanese parsly (_Oenanthe javanica_)				
+__hwguñ hamañ__	/hɯgũ hamã/ _n._	a variety of vegetable; Japanese parsly (_Oenanthe javanica_)				
 
 
-__hwjañ__	_n._	new born				
+__hwjañ__	/hɯɟã/ _n._	new born				
 
 
-__hwjañ apiñ__	_n._	food contributed when a newborn baby is born				
+__hwjañ apiñ__	/hɯɟã apĩ/ _n._	food contributed when a newborn baby is born				
 
 
-__hwjañ lopa__	_n._	a stick presented to a child with developemntal delay by her maternal grandparent				
+__hwjañ lopa__	/hɯɟã lopa/ _n._	a stick presented to a child with developemntal delay by her maternal grandparent				
 
 
-__hwjañ lwha'__	_n._	small cane basket used as the container of food contributed during birth of a newborn by the mother's mother 				
+__hwjañ lwha'__	/hɯɟã lɯhaɁ/ _n._	small cane basket used as the container of food contributed during birth of a newborn by the mother's mother 				
 
 
-__hwjañ mwnwñ__	_n._	component of mida ceremony which is the offering for the children of the newly married couple				
+__hwjañ mwnwñ__	/hɯɟã mɯnɯ̃/ _n._	component of mida ceremony which is the offering for the children of the newly married couple				
 
 
-__hwjo__	_n._	a variety of bamboo				
+__hwjo__	/hɯɟo/ _n._	a variety of bamboo				
 
 
-__hwka' hamañ__	_n._	a variety of edible fern		
+__hwka' hamañ__	/hɯkaɁ hamã/ _n._	a variety of edible fern		
 
 
-__hwki__	_n._	stillbirth		
+__hwki__	/hɯki/ _n._	stillbirth		
 
 
-__hwmi__	_pron._	that; third person accusative pronoun		
+__hwmi__	/hɯmi/ _pron._	that; third person accusative pronoun		
 
 
-__hwpe hamañ__	_n._	a variety of vegetable (_Elatostema platyphyllum_)		
+__hwpe hamañ__	/hɯpehamã/ _n._	a variety of vegetable (_Elatostema platyphyllum_)		
 
 
-__hwra'__ _adv._		again; once more		
+__hwra'__ /hɯraɁ/ _adv._		again; once more		
 
 
-__hwri__	_n._	small particle of dirt		
+__hwri__	/hɯri/ _n._	small particle of dirt		
 
 
-__hwri-hwxo__	_n._	dirt particles		
+__hwri-hwxo__	/hɯri-hɯxo/ _n._	dirt particles		
 
 
-__hwro hamañ__	_n._	a variety of eggplant taken as vegetable		
+__hwro hamañ__	/hɯro hamã/ _n._	a variety of eggplant taken as vegetable		
 
 
-__hwrw__	_n._	a traditional dance accompanied by ballad of same name, usually performed by the males		
+__hwrw__	/hɯrɯ/ _n._	a traditional dance accompanied by ballad of same name, usually performed by the males		
 
 
-__hwsañ__	_n._	grass; fodder		
+__hwsañ__	/hɯsã/ _n._	grass; fodder		
 
 
-__hwsò__	_n._	a variety of bamboo	[_syn._	bihé]
+__hwsò__	/hɯsò/ _n._	a variety of bamboo	[_syn._	bihé]
 
 
-__hww__	_pron._	that		
+__hww__	/hɯɯ/ _pron._	that		
 
 
-__hwwbo__	_n._	bull		
+__hwwbo__	/hɯɯbo/ _n._	bull		
 
 
-__hwwmi__	_n._	widow		
+__hwwmi__	/hɯɯmi/ _n._	widow		
 
 
-__hwwnw__	_n._	cow		
+__hwwnw__	/hɯɯnɯ/ _n._	cow		
 
 
-__hwwzi__	_dem._	those two		
+__hwwzi__	/hɯɯɲi/ _dem._	those two		
 
 
-__hwzañ__	_n._	shame; shy	[_v._	be shy]
+__hwzañ__	/hɯɲã/ _n._	shame; shy	[_v._	be shy]
 
 
-__hwzò__	_n._	the ninth day of the ten-day post-natal confinement of a mother and newborn		
+__hwzò__	/hɯɲò/ _n._	the ninth day of the ten-day post-natal confinement of a mother and newborn		
 
 
-__hwzur hamañ__	_n._	a variety of vegetable		
+__hwzur hamañ__	/hɯɲur hamã/ _n._	a variety of vegetable		
