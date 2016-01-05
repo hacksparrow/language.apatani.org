@@ -6,105 +6,105 @@ devanagari: ग
 ipa: g
 ---
 
-__ga__  _vr._  scold; rebuke; reprimand;chide        
+__ga__  /ga/ _vr._  scold; rebuke; reprimand;chide        
 
 
-__ga'__ _vr._  grasp; clutch; grip; grab       
+__ga'__ /gaɁ/ _vr._  grasp; clutch; grip; grab       
 
 
-__ga'bw__ _v._  hold on to something (as someone's hand, a stick or a knife)   
+__ga'bw__ /gaɁbɯ/ _v._  hold on to something (as someone's hand, a stick or a knife)   
 
-__ga'ce__	_v._	break by clutching something		
+__ga'ce__	/gaɁce/ _v._	break by clutching something		
 
 
-__ga'ci'__	_v._	hold something at its tip or edge	[_ant._	ga'po]
+__ga'ci'__	/gaɁciɁ/ _v._	hold something at its tip or edge	[_ant._	ga'po]
 
 
-__ga'hiñ__	_v._	shape something into a ball with the hands		
+__ga'hiñ__	/gaɁhĩ/ _v._	shape something into a ball with the hands		
 
 
-__ga'je'__  _v._  soften something by grasping repeatedly       
+__ga'je'__  /gaɁje/ _v._  soften something by grasping repeatedly       
 
 
-__ga'svr__  _v._  strangle with hand        
+__ga'svr__  /gaɁsǝr/ _v._  strangle with hand        
 
 
-__ga'ti__ _v._  hold tightly        
+__ga'ti__ /gaɁti/ _v._  hold tightly        
 
 
-__ga'tiñ__  _v._  block by holding        
+__ga'tiñ__  /gaɁtĩ/ _v._  block by holding        
 
 
-__ga'tú__ _v._  catch; hold       
+__ga'tú__ /gaɁtú/ _v._  catch; hold       
 
 
-__gaambw__  _n._  border; brim; boundary        
+__gaambw__  /gaambɯ/ _n._  border; brim; boundary        
 
 
-__gaarò__ _adj._  large, as a field [_ant._  gartú]   
+__gaarò__ /gaarò/ _adj._  large, as a field [_ant._  gartú]   
 
 
-__gaga__  _adj._  quarrelsome       
+__gaga__  /gaga/ _adj._  quarrelsome       
 
 
-__gagvr__ _adv._  by any means; by hook or by crook       
+__gagvr__ /gagǝr/ _adv._  by any means; by hook or by crook       
 
 
-__gai'__  _v._  sing [_or._ Assamese]    
+__gai'__  /gaiɁ/ _v._  sing [_or._ Assamese]    
 
 
-__gajor__ _n._  carrot  [_or._ Assamese]    
+__gajor__ /gaɟor/ _n._  carrot  [_or._ Assamese]    
 
 
-__ganda__ _n._  country; land       
+__ganda__ /ganda/ _n._  country; land       
 
 
-__ganda-neñcañ__  _n._  landed properties       
+__ganda-neñcañ__  /ganda-nẽcã/ _n._  landed properties       
 
 
-__gaqu__  _n._  mouth harp        
+__gaqu__  /gaŋu/ _n._  mouth harp        
 
 
-__garpw'__  _n._  paddy field in the lower portion  [_ant._  garta']    
+__garpw'__  /garpɯɁ/ _n._  paddy field in the lower portion  [_ant._  garta']    
 
 
-__garta'__  _n._  paddy field in the upper portion  [_ant._  garpw']    
+__garta'__  /gartaɁ/ _n._  paddy field in the upper portion  [_ant._  garpw']    
 
 
-__gartú__ _adj._  small (as a field) [_ant._  gaarò]   
+__gartú__ /gartú/ _adj._  small (as a field) [_ant._  gaarò]   
 
 
-__garu__  _n._  pillow  [_syn._  diñ nanw]    
+__garu__  /garu/ _n._  pillow  [_syn._  diñ nanw]    
 
 
-__garw__  _n._  vehicle       
+__garw__ /garɯ/  _n._  vehicle       
 
 
-__gasu__  _v._  have verbal quarrel       
+__gasu__  /gasu/ _v._  have verbal quarrel       
 
 
-__gè__  _vr._  mark; write [_syn._  ke, page]    
+__gè__  /gè/ _vr._  mark; write [_syn._  ke, page]    
 
 
-__ge'__ _vr._  stick; adhere to; glue  [_syn._  age']    
+__ge'__ /geɁ/ _vr._  stick; adhere to; glue  [_syn._  age']    
 
 
-__gehe__  _v._  yawn        
+__gehe__  /gehe/ _v._  yawn        
 
 
-__genda hamañ__ _n._  Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides_) [_syn._  hafañ hamañ]   
+__genda hamañ__ /genda hamã/ _n._  Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides_) [_syn._  hafañ hamañ]   
 
 
-__genw nañ__  _v._  blame someone else for one' own mistake       
+__genw nañ__  /genɯ nã/ _v._  blame someone else for one' own mistake       
 
 
-__gi__  _vr._  operate a hinged door       
+__gi__  /gi/ _vr._  operate a hinged door       
 
 
-__giko'__ _v._  open (a hinged door)  [_ant._  gipiñ] [_syn._  gipyañ]
+__giko'__ /gikoɁ/ _v._  open (a hinged door)  [_ant._  gipiñ] [_syn._  gipyañ]
 
 
-__gimbyo__  _n._  a meat portion, containing the thoracic cage        
+__gimbyo__  /gimbjo/ _n._  a meat portion, containing the thoracic cage        
 
 
 __gipiñ__ _v._  close (a hinged door) [_ant._  giko'] [_syn._ gitiñ]
