@@ -375,217 +375,217 @@ __heñsvr__	/hẽsǝr/ _adj._	not having any burden or impediment
 __heñtiñ__	/hẽtĩ/ _v._	trust; faith; confidence; belief		
 
 
-__heñtú__	_v._	miss someone; pine for; yearn for; long for		
+__heñtú__	/hẽtú/ _v._	miss someone; pine for; yearn for; long for		
 
 
-__hentvr__	_adv._	very; exeedingly; exceptionally; immensely	[_syn._	hempvr]
+__hentvr__	/hentǝr/ _adv._	very; exeedingly; exceptionally; immensely	[_syn._	hempvr]
 
 
-__heñtw__	_adj._	proud; haughty; boastful		
+__heñtw__	/hẽtɯ/ _adj._	proud; haughty; boastful		
 
 
-__henw__	_n._	a relative; loved one		
+__henw__	/henɯ/ _n._	a relative; loved one		
 
 
-__henw-myanw__	_n._	relatives; kindred; kith and kin		
+__henw-myanw__	/henɯ-mjanɯ / _n._	relatives; kindred; kith and kin		
 
 
-__heñxw__	_adj._	scarce; meagre; in short supply	[_syn._	heñxw-miliñ]
+__heñxw__	/hẽxɯ / _adj._	scarce; meagre; in short supply	[_syn._	heñxw-miliñ]
 
 
-__heñxw-miliñ__	_adj._	scarce; meagre; in short supply	[_syn._	heñxw]
+__heñxw-miliñ__	/hẽxɯ-milĩ/ _adj._	scarce; meagre; in short supply	[_syn._	heñxw]
 
 
-__heqa-heñxa__	_adj._	troublesome; worrisome; bagging; distressing		
+__heqa-heñxa__	/heŋa-hẽxa/ _adj._	troublesome; worrisome; bagging; distressing		
 
 
-__heqa'__	_v._	be worried about something		
+__heqa'__	/heŋaɁ/ _v._	be worried about something		
 
 
-__heqi'-hemo__	_n._	a short span of time; a moment		
+__heqi'-hemo__	/heŋiɁ-hemo/ _n._	a short span of time; a moment		
 
 
-__hequ-heñre__	_v._	treat differently; discriminate; be biased against		
+__hequ-heñre__	/heŋu-hẽre/ _v._	treat differently; discriminate; be biased against		
 
 
-__heru__	_adj._	sad; unhappy	[_Entym._	heñ + ru]
+__heru__	/heru/ _adj._	sad; unhappy	[_Entym._	heñ + ru]
 
 
-__hi'__	_vr._	feel; search with hand		
+__hi'__	/hiɁ/ _vr._	feel; search with hand		
 
 
-__hi'__	_vr._	whip; lash; flog		
+__hi'__	/hiɁ/ _vr._	whip; lash; flog		
 
 
-__hi'__	_vr._	paint; apply paint to; white-wash		
+__hi'__	/hiɁ/ _vr._	paint; apply paint to; white-wash		
 
 
-__hi'hw-hi'xe__	_v._	swivel around; wriggle; squirm		
+__hi'hw-hi'xe__	/hiɁhɯ-hiɁxe/ _v._	swivel around; wriggle; squirm		
 
 
-__hi'jañ__	_v._	wring; twist clothing to dry it.		
+__hi'jañ__	/hiɁɟã/ _v._	wring; twist clothing to dry it.		
 
 
-__hi'ka__	_v._	frisk		
+__hi'ka__	/hiɁka/ _v._	frisk		
 
 
-__hi'su-ho'su__	_adj._	nonplussed; disconcerted; stumped; at a loss		
+__hi'su-ho'su__	/hiɁsu-hoɁsu/ _adj._	nonplussed; disconcerted; stumped; at a loss		
 
 
-__hi'tiñ__	_v._	bash against something		
+__hi'tiñ__	/hiɁtĩ/ _v._	bash against something		
 
 
-__hi'xww__	_v._	wring; twist		
+__hi'xww__	/hiɁxɯɯ/ _v._	wring; twist		
 
 
-__hibu__	_n._	beak		
+__hibu__	/hibu/ _n._	beak		
 
 
-__híh'__	_n._	dried fermented bamboo shoot		
+__híh'__	/híɁ/ _n._	dried fermented bamboo shoot		
 
 
-__híi__	_vr._	chant; intone; incant		
+__híi__	/híi/ _vr._	chant; intone; incant		
 
 
-__hiicí__	_v._	grimace; make face (usually in pain)	[_syn._	hiizi']
+__hiicí__	/hiicí/ _v._	grimace; make face (usually in pain)	[_syn._	hiizi']
 
 
-__hiile__	_v._	smile smugly; simper;  smile coquettishly; grin		
+__hiile__	/hiile/ _v._	smile smugly; simper;  smile coquettishly; grin		
 
 
-__hiizi'__	_v._	grimace; make face (usually in pain)	[_syn._	hiicí]
+__hiizi'__ /hiiɲiɁ/	_v._	grimace; make face (usually in pain)	[_syn._	hiicí]
 
 
-__hije'__	_n._	portable bamboo vessel (esp. for carrying liquor)	[_syn._	dije']
+__hije'__	/hiɟeɁ/ _n._	portable bamboo vessel (esp. for carrying liquor)	[_syn._	dije']
 
 
-__hiliñ__	_n._	clotted blood		
+__hiliñ__	/hilĩ/ _n._	clotted blood		
 
 
-__hilu__	_n._	gum		
+__hilu__	/hilu/ _n._	gum		
 
 
-__hilu'__	_adj._	smooth; glossy; polished		
+__hilu'__	/hiluɁ/ _adj._	smooth; glossy; polished		
 
 
-__hime__	_n._	child; youngster		
+__hime__	/hime/ _n._	child; youngster		
 
 
-__hiñ__	_vr._	pinch		
+__hiñ__	/hĩ/ _vr._	pinch		
 
 
-__hiñxañ__	_num._	thirty		
+__hiñxañ__	/hĩxã/ _num._	thirty		
 
 
-__hipya__	_n._	front teetch; incisor		
+__hipya__	/hipja/ _n._	front teetch; incisor		
 
 
-__hiq__	_num._	three		
+__hiq__	/hiŋ/ _num._	three		
 
 
-__hirañ__	_n._	molar tooth		
+__hirañ__	/hirã/ _n._	molar tooth		
 
 
-__hiriñ__	_n._	strips of fermented bamboo shoot		
+__hiriñ__	/hirĩ/ _n._	strips of fermented bamboo shoot		
 
 
-__hiruñ__	_n._	tusk (of full grown wild pig)		
+__hiruñ__	/hirũ/ _n._	tusk (of full grown wild pig)		
 
 
-__hixu'__	_n._	wet fermented bamboo shoot		
+__hixu'__	/hixuɁ/ _n._	wet fermented bamboo shoot		
 
 
-__hixwñ__	_adj._	tingling sharp sensation in the teeth; feeling, in the teeth, after eating sour food		
+__hixwñ__	/hixɯ̃/ _adj._	tingling sharp sensation in the teeth; feeling, in the teeth, after eating sour food		
 
 
-__ho__	_prep._	in; at		
+__ho__	/ho/ _prep._	in; at		
 
 
-__ho__	_conj._	and		
+__ho__	/ho/ _conj._	and		
 
 
-__ho'__	_vr._	catch with a loop of rope; catch with a noose		
+__ho'__	/hoɁ/ _vr._	catch with a loop of rope; catch with a noose		
 
 
-__ho'gyo-ho'fo__	_adj._	mixed up; mingle; intermingle; amalgamate	[_syn._	ho'yo-ho'ci]
+__ho'gyo-ho'fo__	/hoɁgjo-hoɁʎo/ _adj._	mixed up; mingle; intermingle; amalgamate	[_syn._	ho'yo-ho'ci]
 
 
-__hoañ__	_n._	back (anatomy)	[_syn._	huañ]
+__hoañ__	/hoã/ _n._	back (anatomy)	[_syn._	huañ]
 
 
-__hoañ alló__	_n._	backbone		
+__hoañ alló__	/hoã alló/ _n._	backbone		
 
 
-__hokoda__	_adv._	in that case; that being so; then		
+__hokoda__	/hokoda/ _adv._	in that case; that being so; then		
 
 
-__ho'ko-ho'pe__	_adj._	tangled; knotty		
+__ho'ko-ho'pe__	/hoɁko-hoɁpe/ _adj._	tangled; knotty		
 
 
-__ho'yo-ho'ci__	_v._	mixed up; mingle; intermingle; amalgamate	[_syn._	ho'gyo-ho'fo]
+__ho'yo-ho'ci__	/hoɁjo-hoɁci/ _v._	mixed up; mingle; intermingle; amalgamate	[_syn._	ho'gyo-ho'fo]
 
 
-__hogya__	_n._	leopard		
+__hogya__	/hogja/ _n._	leopard		
 
 
-__hogya gyamu__	_n._	clouded leopard
+__hogya gyamu__	/hogja gjamu/ _n._	clouded leopard
 
 
-__hogya takvr__	_n._	spotted leopard		
+__hogya takvr__	/hogja takǝr/ _n._	spotted leopard		
 
 
-__hoi__	_v._	be; happen	[_or._	Assamese]
+__hoi__	/hoi/ _v._	be; happen	[_or._	Assamese]
 
 
-__hojalo__	_conj._	but; even then		
+__hojalo__	/hoɟalo/ _conj._	but; even then		
 
 
-__hokw__	_post._	from
+__hokw__	/hokɯ/ _post._	from
 
 
-__hoñ__	_vr._	burn (esp. in bulk)		
+__hoñ__	/hõ/ _vr._	burn (esp. in bulk)		
 
 
-__hoñki'__	_v._	bend; stoop	[_var._	huñki']
+__hoñki'__	/hõkiɁ/ _v._	bend; stoop	[_var._	huñki']
 
 
-__hoó__	_adj._	spacious; roomy; capacious
+__hoó__	/hoó/ _adj._	spacious; roomy; capacious
 
 
-__hóo__	_vr._	feed (_esp._ an animal)		
+__hóo__	/hóo/ _vr._	feed (_esp._ an animal)		
 
 
-__hoopa__	_post._	therefore; for		
+__hoopa__	/hoopa/ _post._	therefore; for		
 
 
-__hor__	_vr._	dry; harden (as of paddy in sun)		
+__hor__	/hor/ _vr._	dry; harden (as of paddy in sun)		
 
 
-__horci__	_adj._	smart; agile		
+__horci__	/horci/ _adj._	smart; agile		
 
 
-__hore__	_num._	one bundle (_esp._ of thread)		
+__hore__	/hore/ _num._	one bundle (_esp._ of thread)		
 
 
-__horfi'__	v.	look obliquely		
+__horfi'__	/horʎiɁ/ _v._	look obliquely		
 
 
-__horku__	_adj._	slanting; squinting		
+__horku__	/horku/ _adj._	slanting; squinting		
 
 
-__hú__	_vr._	pound; pummel		
+__hú__	/hú/ _vr._	pound; pummel		
 
 
-__hu'__	_vr._	shake; jiggle; agitate		
+__hu'__	/huɁ/ _vr._	shake; jiggle; agitate		
 
 
-__hu'biñ__	_n._	sweat	[_v._	sweat]
+__hu'biñ__	/huɁbĩ/ _n._	sweat	[_v._	sweat]
 
 
-__hu'hw-hu'xe__	_v._	shake to and fro		
+__hu'hw-hu'xe__	/huɁhɯ-huɁxe/ _v._	shake to and fro		
 
 
-__hu'pa'-hu'ya__	_adj._	lavish; extravagant		
+__hu'pa'-hu'ya__	/huɁpaɁ-huɁja/ _adj._	lavish; extravagant		
 
 
 __hu'po__	_n._	protective armour of animal skin to cover the body from armpit to the groin		
