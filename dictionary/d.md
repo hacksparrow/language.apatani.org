@@ -6,87 +6,87 @@ devanagari: द
 ipa: d
 ---
 
-__da'__ _v._  stand; be there       
+__da'__ /daɁ/ _v._  stand; be there       
 
 
-__da'fa__ _v._  wait (standing); halt; pause        
+__da'fa__ /daɁʎa/ _v._  wait (standing); halt; pause        
 
 
-__da'hi'-da'mo__  _v._  stand for a while; wait for a while   
+__da'hi'-da'mo__  /daɁhiɁ-daɁmo/ _v._  stand for a while; wait for a while   
 
-__da'mo__	_v._	rest; take a breather	[_syn._	hémò]
-
-
-__da're'ke__  _n._  lower rack over the fireplace [_syn._  daare' re'ke]    
+__da'mo__ /daɁmo/	_v._	rest; take a breather	[_syn._	hémò]
 
 
-__dáa__ _vr._  take step; pace; tread        
+__da're'ke__  /daɁreɁke/ _n._  lower rack over the fireplace [_syn._  daare' re'ke]    
 
 
-__daanw__ _n._  a gift item on the occasion of Mida, a part of Apatani marriage ceremony        
+__dáa__ /dáa/ _vr._  take step; pace; tread        
 
 
-__daapo__ _n._  a gift item on the occasion of Mida, a part of Apatani marriage ceremony        
+__daanw__ /daanɯ/ _n._  a gift item on the occasion of Mida, a part of Apatani marriage ceremony        
 
 
-__daara'__  _adj._  stiff (as of a cliff)        
+__daapo__ /daapo/ _n._  a gift item on the occasion of Mida, a part of Apatani marriage ceremony        
 
 
-__daare' re'ke__  _n._  lower rack over the fireplace [_syn._  da're'ke]    
+__daara'__  /daaraɁ/ _adj._  stiff (as of a cliff)        
 
 
-__daarò__ _adj._  big step  [_ant._  daazó]   
+__daare' re'ke__  /daareɁ reɁke/ _n._  lower rack over the fireplace [_syn._  da're'ke]    
 
 
-__daaze__ _n._  two steps       
+__daarò__ /daarò/ _adj._  big step  [_ant._  daazó]   
 
 
-__daazó__ _adj._  small step  [_ant._  daarò]   
+__daaze__ /daaɲe/ _n._  two steps       
 
 
-__dacañ__ _n._  iron; metal    
-
-__dacañ pwcañ__	_n._	metallic pot
+__daazó__ /daaɲó/ _adj._  small step  [_ant._  daarò]   
 
 
-__dacañ pwloo__ _n._  metallic crowbar 
+__dacañ__ /dacã/ _n._  iron; metal    
 
-__daci mida__	_n._	mida of lesser variety	[_ant._	datw mida]
-
-
-__dahw-daaxe__  _v._  go here and there   
-
-__dali__	_n._	dried pulse usually prepared as gravy and taken with rice	[_or._	Assamese]
+__dacañ pwcañ__	/dacã pɯcã/ _n._	metallic pot
 
 
-__daliñ__ _n._  path made by a hunter; hunting track  [_var._  dwliñ]   
+__dacañ pwloo__ /dacã pɯloo/ _n._  metallic crowbar 
+
+__daci mida__	/daci mida/ _n._	mida of lesser variety	[_ant._	datw mida]
 
 
-__damiñda__ _n._  a variety of Apatani traditional dance, accompanied by bwsí       
+__dahw-daaxe__  /dahɯ-daaxe/ _v._  go here and there   
+
+__dali__	/dali/ _n._	dried pulse usually prepared as gravy and taken with rice	[_or._	Assamese]
 
 
-__damu__  _n._  wooden digging stick used as an agricultural implement        
+__daliñ__ /dalĩ/ _n._  path made by a hunter; hunting track  [_var._  dwliñ]   
 
 
-__dañ__ _vr._  beat (with a stick)   
-
-__dañlò__	_v._	beat something down; cause to fall by beating	[_syn._	dañte']
+__damiñda__ /damĩda/ _n._  a variety of Apatani traditional dance, accompanied by bwsí       
 
 
-__dañsò__ _n._  spear with long handle   
-
-__dañte'__	_v._	beat something down; cause to fall by beating	[_syn._	dañlò]
-
-__dañtvr__	_v._	break something by beating
+__damu__  /damu/ _n._  wooden digging stick used as an agricultural implement        
 
 
-__danw__  _n._  heavy wooden hammer       
+__dañ__ /dã/ _vr._  beat (with a stick)   
+
+__dañlò__	/dãlò/ _v._	beat something down; cause to fall by beating	[_syn._	dañte']
 
 
-__dañxo__ _n._  long sharp stick        
+__dañsò__ /dãsò/ _n._  spear with long handle   
+
+__dañte'__	/dãteɁ/ _v._	beat something down; cause to fall by beating	[_syn._	dañlò]
+
+__dañtvr__	/dãtǝr/ _v._	break something by beating
 
 
-__dañxo-pa'zì__ _n._  weapon        
+__danw__  /danɯ/ _n._  heavy wooden hammer       
+
+
+__dañxo__ /dãxo/ _n._  long sharp stick        
+
+
+__dañxo-pa'zì__ /dãxo-paɁɲì/ _n._  weapon        
 
 
 __dañxw__ _v._  beat to death; kill by beating        
