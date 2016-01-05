@@ -6,29 +6,29 @@ devanagari: ल्य
 ipa: ʎ
 ---
 
-__fa'__ _vr._  burn; singe; smolder  
+__fa'__ /ʎaɁ/ _vr._  burn; singe; smolder  
 
-__fa'__ _vr._  lick
+__fa'__ /ʎaɁ/ _vr._  lick
 
-__fa'co__ _n._  tiny metal bell [_syn._  za'co]
+__fa'co__ /ʎaɁco/ _n._  tiny metal bell [_syn._  za'co]
 
-__fa'ge'__  _v._  catch (fire)
+__fa'ge'__ /ʎaɁgeɁ/  _v._  catch (fire)
 
-__fa'ka__ _v._  taste (by licking)    
+__fa'ka__ /ʎaɁka/ _v._  taste (by licking)    
 
-__fa'pyo__  _n._  dry cultivation area (esp. for millet)    
+__fa'pyo__  /ʎaɁpjo/ _n._  dry cultivation area (esp. for millet)    
 
-__fafu__  _n._  an elemenet of sacrificial altar     
+__fafu__ /ʎaʎu/  _n._  an elemenet of sacrificial altar     
 
-__fagya__ _adj._  usual; normal; habitual; customary   
+__fagya__ /ʎagja/ _adj._  usual; normal; habitual; customary   
 
-__fañ v.__  bless     
+__fañ__ /ʎã/ _v._  bless     
 
-__fañca__ _v._  flow up (of water); overflow 
+__fañca__ /ʎãca/ _v._  flow up (of water); overflow 
 
-__fañpiñ-cañtuñ__ _n._  protective deity in the household
+__fañpiñ-cañtuñ__ /ʎãpĩ-cãtũ/ _n._  protective deity in the household
 
-__fañso__ _n._  metallic skewer [_syn._  ufañ kuti] 
+__fañso__ /ʎãso/ _n._  metallic skewer [_syn._  ufañ kuti] 
 
 __fanw__  _n._  one who blesses; God
 
