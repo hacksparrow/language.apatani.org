@@ -102,82 +102,82 @@ __haaru__	/haaru/ _n._	mourning; grief
 __haaru heñ__	/haaru hẽ/ _v._	mourn; grieve		
 
 
-__haasiñ__	// _v._	dry (esp. over a fire)		
+__haasiñ__	/haasĩ/ _v._	dry (esp. over a fire)		
 
 
-__haaso__	_adj._	slow; sluggish	[_adv._	haaso haaso; haasopa]
+__haaso__	/haaso/ _adj._	slow; sluggish	[_adv._	haaso haaso; haasopa]
 
 
-__haaso haaso__	_adv._	slow; sluggish	[_syn._	haasopa]
+__haaso haaso__	/haaso haaso/ _adv._	slow; sluggish	[_syn._	haasopa]
 
 
-__haasvr__	_n._	the internodal part of a bamboo		
+__haasvr__	/haasǝr/ _n._	the internodal part of a bamboo		
 
 
-__haata'__	_n._	front; fore; foreground; anterior		
+__haata'__	/haataɁ/ _n._	front; fore; foreground; anterior		
 
 
-__haatiñ__	_n._	node (as of bamboo)		
+__haatiñ__	/haatĩ/ _n._	node (as of bamboo)		
 
 
-__haatiñ__	_adj._	significant; important; notable; remarkable		
+__haatiñ__	/haatĩ/ _adj._	significant; important; notable; remarkable		
 
 
-__haatiñ bwliñ__	_adv._	satisfactorily; confidently; convincingly		
+__haatiñ bwliñ__	/haatĩ bɯlĩ/ _adv._	satisfactorily; confidently; convincingly		
 
 
-__haatw__	_n._	west	[_syn._	dazi áago]
+__haatw__	/haatɯ/ _n._	west	[_syn._	dazi áago]
 
 
-__háatw__	_adj._	hopeful; confident; optimistic	[_adv._	háatw mwlw]
+__háatw__	/háatɯ/ _adj._	hopeful; confident; optimistic	[_adv._	háatw mwlw]
 
 
-__haaya__	_adj._	hungry; famished; starving		
+__haaya__	/haaja/ _adj._	hungry; famished; starving		
 
 
-__haaya pi'__	_v._	starve		
+__haaya pi'__	/haaja piɁ/ _v._	starve		
 
 
-__haaya-myoxa__	_n._	famine; scarcity of food	[_syn._	dwme]
+__haaya-myoxa__	/haaja mjoxa/ _n._	famine; scarcity of food	[_syn._	dwme]
 
 
-__haayañ__	_n._	pulp; core; inner postion		
+__haayañ__	/haajã/ _n._	pulp; core; inner postion		
 
 
-__haaza__	_adj._	small; young		
+__haaza__	/haaɲa/ _adj._	small; young		
 
 
-__habuñ__	_adj._	cool; cold in a pleasant way	[_syn._	hefi']
+__habuñ__	/habũ/ _adj._	cool; cold in a pleasant way	[_syn._	hefi']
 
 
-__hadw__	_v._	be angry	[_n._	anger]
+__hadw__	/hadɯ/ _v._	be angry	[_n._	anger]
 
 
-__hafañ__	_adj._	flat; plain	[_syn._	haapa]
+__hafañ__	/haʎã/ _adj._	flat; plain	[_syn._	haapa]
 
 
-__hafañ byayuñ__	_n._	tomato		
+__hafañ byayuñ__	/haʎã bjajũ/ _n._	tomato		
 
 
-__hafañ giyañ__	_n._	cabbage		
+__hafañ giyañ__	/haʎã gijã/ _n._	cabbage		
 
 
-__hafañ hamañ__	_n._	Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides_)	[_syn._	genda hamañ]
+__hafañ hamañ__	/haʎã hamã / _n._	Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides_)	[_syn._	genda hamañ]
 
 
-__hafañ sañxañ mefañ__	_n._	hibiscus (_Hibiscus rosasinensis_)
+__hafañ sañxañ mefañ__	/haʎã sãxã meʎã/ _n._	hibiscus (_Hibiscus rosasinensis_)
 
 
-__hágw__	_v._	escape; run away; flee	[_var._	hárgw]
+__hágw__	/hágɯ/ _v._	escape; run away; flee	[_var._	hárgw]
 
 
-__hai__	_n._	water	[_syn._	yasi]
+__hai__	/hai/ _n._	water	[_syn._	yasi]
 
 
-__hajvr__	_num._	thousand	[_or._	Assamese]
+__hajvr__	// _num._	thousand	[_or._	Assamese]
 
 
-__hamañ__	_n._	vegetable		
+__hamañ__	// _n._	vegetable		
 
 
 __hañ__	_vr._	investigate; make enquiries; probe; enquire		
