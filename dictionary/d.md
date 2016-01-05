@@ -293,284 +293,284 @@ __ditvr__	/ditǝr/ _n._	lumps of soil (esp. in paddy fields)
 __diyu'__	/diɁju/ _n._	marsh; swamp
 
 
-__do__  _v._  be; exist; lie  [_ant._  zima]    
+__do__  /do/ _v._  be; exist; lie  [_ant._  zima]    
 
 
-__dobw-takvr alo__  _n._  Thursday        
+__dobw-takvr alo__  /dobɯ-takǝr alo/ _n._  Thursday        
 
 
-__dodiñ-dolo__  _n._  world; realm  [_syn._  doha-dolo]   
+__dodiñ-dolo__  /dodĩ-dolo/ _n._  world; realm  [_syn._  doha-dolo]   
 
 
-__dogiñ__ _n._  genesis; origin; creation; migration        
+__dogiñ__ /dogĩ/ _n._  genesis; origin; creation; migration        
 
 
-__doha__  _n._  world; realm  [_syn._  doha-dolo]   
+__doha__  /doha/ _n._  world; realm  [_syn._  doha-dolo]   
 
 
-__doha-dolo__ _n._  world; realm  [_syn._  dodiñ-dolo]    
+__doha-dolo__ /doha-dolo/ _n._  world; realm  [_syn._  dodiñ-dolo]    
 
 
-__doji' ro'po__ _n._  Asian Fairy Bluebird (_Irena puella_)       
+__doji' ro'po__ /doɟiɁ roɁpo/ _n._  Asian Fairy Bluebird (_Irena puella_)       
 
 
-__domiñ__ _adj._  cloudy; rainy [_ant._  doqe']   
+__domiñ__ /domĩ/ _adj._  cloudy; rainy [_ant._  doqe']   
 
 
-__domiñ-doqe'__ _n._  fatique due to change in weather        
+__domiñ-doqe'__ /domĩ-doŋeɁ/ _n._  fatique due to change in weather        
 
 
-__dompo turla__ _n._  large bamboo glass        
+__dompo turla__ /dompo turla/ _n._  large bamboo glass        
 
 
-__doñ__ _vr._  stitch; seam        
+__doñ__ /dõ/ _vr._  stitch; seam        
 
 
-__doodu__ _n._  drop        
+__doodu__ /doodu/ _n._  drop        
 
 
-__doofa'__  _n._  lightening        
+__doofa'__  /dooʎaɁ/ _n._  lightening        
 
 
-__doolañ__  _adj._  brownish        
+__doolañ__  /doolã/ _adj._  brownish        
 
 
-__dooli__ _n._  sickness; fever       
+__dooli__ /dooli/ _n._  sickness; fever       
 
 
-__doomu__ _adj._  cloudy; overcast        
+__doomu__ /doomu/ _adj._  cloudy; overcast        
 
 
-__doopw'__  _v._  sleep together with head in same direction  [_ant._  doosi']
+__doopw'__ /doopɯɁ/  _v._  sleep together with head in same direction  [_ant._  doosi']
 
 
-__doorò__ _adj._  big (of an animal or vehicle) [_ant._  dorzó]   
+__doorò__ /doorò/ _adj._  big (of an animal or vehicle) [_ant._  dorzó]   
 
 
-__doosi'__  _v._  sleep together with head in opposite direction  [_ant._  doopw']    
+__doosi'__  /doosiɁ/ _v._  sleep together with head in opposite direction  [_ant._  doopw']    
 
 
-__dopaa__ _n._  a children's game played with pebbles       
+__dopaa__ /dopaa/ _n._  a children's game played with pebbles       
 
 
-__dopu mwdóo__  _n._  drizzle on a sunny day        
+__dopu mwdóo__  /dopu mɯdóo/ _n._  drizzle on a sunny day        
 
 
-__doqe'__ _adj._  sunny; cloudless  [_ant._  domiñ]   
+__doqe'__ /doŋeɁ/ _adj._  sunny; cloudless  [_ant._  domiñ]   
 
 
-__dor__ _vr._  become a captive or a prisoner        
+__dor__ /dor/ _vr._  become a captive or a prisoner        
 
 
-__dorgi__ _n._  earthworm       
+__dorgi__ /dorgi/ _n._  earthworm       
 
 
-__dormaa__  _n._  salary; wage        
+__dormaa__  /dormaa/ _n._  salary; wage        
 
 
-__dorw__  _n._  winter        
+__dorw__  /dorɯ/ _n._  winter        
 
 
-__dorzó__ _adj._  small (of an animal or a vehicle) [_ant._  doorò]   
+__dorzó__ /dorɲó/ _adj._  small (of an animal or a vehicle) [_ant._  doorò]   
 
 
-__dotw__  _n._  sky [_syn._  mwdóo; yapuñ]    
+__dotw__  /dotɯ/ _n._  sky [_syn._  mwdóo; yapuñ]    
 
 
-__doxo-acañ__ _n._  corner in the house reserved for ritual altars        
+__doxo-acañ__ /doxo-acã/ _n._  corner in the house reserved for ritual altars        
 
 
-__doza'__ _n._  sunny day; cloudless day        
+__doza'__ /doɲaɁ/ _n._  sunny day; cloudless day        
 
 
-__du__  _vr._  drip (of water)       
+__du__  /du/ _vr._  drip (of water)       
 
 
-__dù__  _vr._  dig; excavate       
+__dù__  /dù/ _vr._  dig; excavate       
 
 
-__du'__ _vr.  throb; beat (as of heart)        
+__du'__ /duɁ/ _vr.  throb; beat (as of heart)        
 
 
-__du'__ _vr._  offer something for sale; market     
+__du'__ /duɁ/ _vr._  offer something for sale; market     
 
-__du'ca__	_v._	get excited; be motivated; fired up	[_syn._	sa'ca]
+__du'ca__	/duɁca/ _v._	get excited; be motivated; fired up	[_syn._	sa'ca]
 
 
-__du'jo__ _n._  commission paid to a sale agent       
+__du'jo__ /duɁɟo/ _n._  commission paid to a sale agent       
 
-__dui__	_n._	tobacco	[_syn._	muku]
+__dui__	/dui/ _n._	tobacco	[_syn._	muku]
 
 
-__dukañ__ _n._  shop  [_or._ Assamese]    
+__dukañ__ /dukã/ _n._  shop  [_or._ Assamese]    
 
 
-__dula__  _n._  rope to tie dogs  [_syn._  akì dula]    
+__dula__  /dula/ _n._  rope to tie dogs  [_syn._  akì dula]    
 
 
-__dulu__  _n._  the system of giving another person the responsibility of looking after a cattle        
+__dulu__  /dulu/ _n._  the system of giving another person the responsibility of looking after a cattle        
 
 
-__dulu káanw__  _n._  a person who looks after somebody else's cattle       
+__dulu káanw__  /dulu káanɯ/ _n._  a person who looks after somebody else's cattle       
 
 
-__duñbiñ__  _adj._  bald; hairless  [_syn._  duñxó]   
+__duñbiñ__  /dũbĩ/ _adj._  bald; hairless  [_syn._  duñxó]   
 
 
-__dur__ _vr._  dig and push (for example with the snout of a pig)  [_var._  dór]   
+__dur__ /dur/ _vr._  dig and push (for example with the snout of a pig)  [_var._  dór]   
 
 
-__durgu__ _n._  wooden trough       
+__durgu__ /durgu/ _n._  wooden trough       
 
 
-__dutiñ__ _n._  wooden block for sitting on       
+__dutiñ__ /dutĩ/ _n._  wooden block for sitting on       
 
 
-__duu__ _n._  paddy for unhusking [_syn._  dwlo]    
+__duu__ /duu/ _n._  paddy for unhusking [_syn._  dwlo]    
 
 
-__dùu__ _v._  sit       
+__dùu__ /dùu/ _v._  sit       
 
 
-__dùuha__ _v._  sit down        
+__dùuha__ /dùuha/ _v._  sit down        
 
 
-__dùuhi__ _v._  vacate a sit        
+__dùuhi__ /dùuhi/ _v._  vacate a sit        
 
 
-__dùuko__ _n._  place of residence; sitting place       
+__dùuko__ /dùuko/ _n._  place of residence; sitting place       
 
 
-__dùuko-dako__  _n._  accomodation; address       
+__dùuko-dako__  /dùuko dako/ _n._  accomodation; address       
 
 
-__dùukuñ__  _n._  meeting; gathering; assembly; congregation  [_v._  sit together]    
+__dùukuñ__  /dùukũ/ _n._  meeting; gathering; assembly; congregation  [_v._  sit together]    
 
 
-__dùumo__ _v._  take rest       
+__dùumo__ /dùumo/ _v._  take rest       
 
 
-__dùusa__ _v._  sit at a distance       
+__dùusa__ /dùusa/ _v._  sit at a distance       
 
 
-__duxu-pafo__ _n._  luggage; household articles       
+__duxu-pafo__ /duxu-paʎo/ _n._  luggage; household articles       
 
 
-__dw__  _v._  eat; have a meal; dine        
+__dw__  /dɯ/ _v._  eat; have a meal; dine        
 
 
-__dw'__ _v._  have adverse or allergic reaction to something ingested        
+__dw'__ /dɯɁ/ _v._  have adverse or allergic reaction to something ingested        
 
 
-__dwbe__  _v._  eat to heart' content; eat so much one cannot eat any more        
+__dwbe__  /dɯbe/ _v._  eat to heart' content; eat so much one cannot eat any more        
 
 
-__dwbuñ__ _n._  greedy; gluttonous    
+__dwbuñ__ /dɯbũ/ _n._  greedy; gluttonous    
 
-__dwdw'__	_v._	poison (by eating)	[_adj._	poisonous]
+__dwdw'__	/dɯdɯɁ/ _v._	poison (by eating)	[_adj._	poisonous]
 
-__dwdw' tahiñ__	_n._	poisonous mushroom
+__dwdw' tahiñ__	/dɯdɯɁ tahĩ/ _n._	poisonous mushroom
 
 
-__dwgoo__ _n._  food; eatable       
+__dwgoo__ /dɯgoo/ _n._  food; eatable       
 
 
-__dwhi-dwmí__ _adj._  choosy about food       
+__dwhi-dwmí__ /dɯhi-dɯmi/ _adj._  choosy about food       
 
 
-__dwho-luho__ _adj._  offending       
+__dwho-luho__ /dɯho-luho/ _adj._  offending       
 
 
-__dwle'__ n._  remaining food after consumption        
+__dwle'__ /dɯleɁ/ _n._  remaining food after consumption        
 
 
-__dwli-dwlo__ _adj._  grandeur (of scenary); beautiful (of landscape)       
+__dwli-dwlo__ /dɯli-dɯlo/ _adj._  grandeur (of scenary); beautiful (of landscape)       
 
 
-__dwliñ__ _n._  path made by a hunter; hunting track  [_var._  daliñ]   
+__dwliñ__ /dɯlĩ/ _n._  path made by a hunter; hunting track  [_var._  daliñ]   
 
 
-__dwlo__  _n._  paddy for unhusking [_syn._  duu}   
+__dwlo__  /dɯlo/ _n._  paddy for unhusking [_syn._  duu}   
 
 
-__dwlw kwce__ _n._  bamboo glass for measuring rice       
+__dwlw kwce__ /dɯlɯ kɯce/ _n._  bamboo glass for measuring rice       
 
 
-__dwma-haama__  _n._  purification ritual       
+__dwma-haama__  /dɯma-haama/ _n._  purification ritual       
 
 
-__dwme__  _n._  famine; food shortage [_syn._  haaya-myoxa]   
+__dwme__  /dɯme/ _n._  famine; food shortage [_syn._  haaya-myoxa]   
 
-__dwmw nanw__	_n._	side dish
+__dwmw nanw__	/dɯmɯ nanɯ/ _n._	side dish
 
 
-__dwnw pafo__ _n._  an element of a ritual altar        
+__dwnw pafo__ /dɯnɯ paʎo/ _n._  an element of a ritual altar        
 
 
-__dwnw-barnw__  _n._  wives of brothers (term of reference)       
+__dwnw-barnw__  /dɯnɯ-barnɯ/ _n._  wives of brothers (term of reference)       
 
 
-__dwpyo__ _v._  steal; pirate; plagiarize       
+__dwpyo__ /dɯpjo/ _v._  steal; pirate; plagiarize       
 
 
-__dwpyó__ _v._  eat first       
+__dwpyó__ /dɯpjó/ _v._  eat first       
 
 
-__dwpyò__ _adj._  tasty, to eat [_ant._  dwrúu]   
+__dwpyò__ /dɯpjò/ _adj._  tasty, to eat [_ant._  dwrúu]   
 
 
-__dwpyo aíi__ _n._  canine tooth        
+__dwpyo aíi__ /dɯpjo aíi/ _n._  canine tooth        
 
 
-__dwpyo'__  _v._  eat something to add taste to a meal        
+__dwpyo'__  /dɯpjoɁ/ _v._  eat something to add taste to a meal        
 
 
-__dwpyo'-tañso'__ _v._  eat or drink something to break the monotony or to add taste to the food       
+__dwpyo'-tañso'__ /dɯpjoɁ-tãsoɁ/ _v._  eat or drink something to break the monotony or to add taste to the food       
 
 
-__dwpyonw__ _n._  thief; robber; bandit       
+__dwpyonw__ /dɯpjonɯ/ _n._  thief; robber; bandit       
 
 
-__dwqó__  _n._  left over food        
+__dwqó__  /dɯŋó/ _n._  left over food        
 
 
-__dwraa-lozañ__ _n._  in the coming years       
+__dwraa-lozañ__ /dɯraa-loɲã/ _n._  in the coming years       
 
 
-__dwraada__ _adv._  next year       
+__dwraada__ /dɯraada/ _adv._  next year       
 
 
-__dwrañ__ _n._  principal marriage gift to bride's parent; one who gets such marriage gift        
+__dwrañ__ /dɯrã/ _n._  principal marriage gift to bride's parent; one who gets such marriage gift        
 
 
-__dwrañ-sañxañ__  _n._  a variety of edible berries [_syn._  saanci]    
+__dwrañ-sañxañ__  /dɯrã-sãxã/ _n._  a variety of edible berries [_syn._  saanci]    
 
 
-__dwri__  _n._  purchase of food in times of scarcity or in anticipation of scarcity        
+__dwri__  /dɯri/ _n._  purchase of food in times of scarcity or in anticipation of scarcity        
 
 
-__dwri-hulo__ _n._  prosperity (in terms of number of children)       
+__dwri-hulo__ /dɯri-hulo/ _n._  prosperity (in terms of number of children)       
 
 
-__dwri'-paci'__ _n._  luggage; household articles       
+__dwri'-paci'__ /dɯriɁ-paciɁ/ _n._  luggage; household articles       
 
 
-__dwro'__ _n._  medicine; drug  [_or._ Assamese]    
+__dwro'__ /dɯroɁ/ _n._  medicine; drug  [_or._ Assamese]    
 
 
-__dwru__  _adj._  tasteless; unpleasant to eat  [_ant._  dwpyò]   
+__dwru__  /dɯru/ _adj._  tasteless; unpleasant to eat  [_ant._  dwpyò]   
 
 
-__dwrw__  _adj._  late; delayed       
+__dwrw__  /dɯrɯ/ _adj._  late; delayed       
 
 
-__dwsw__  _n._  edible; food        
+__dwsw__  /dɯsɯ/ _n._  edible; food        
 
 
-__dwxu'__ _n._  left over food        
+__dwxu'__ /dɯxuɁ/ _n._  left over food        
 
 
-__dwxu'-tañxu'__  _n._  left over eatables        
+__dwxu'-tañxu'__  /dɯxuɁ-tãxuɁ/ _n._  left over eatables        
 
 
-__dwzo-mwzo__ _v._  practice; rehearse  [_n._  rehearsal]   
+__dwzo-mwzo__ /dɯɲo-mɯɲo/ _v._  practice; rehearse  [_n._  rehearsal]   
