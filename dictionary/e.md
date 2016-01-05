@@ -6,98 +6,99 @@ devanagari: ए
 ipa: e
 ---
 
-__e'__  _vr._  shoot       
+__e'__  /eɁ/ _vr._  shoot       
 
 
-__e'ciñ__ _adv._  skilled in shooting       
+__e'ciñ__ /eɁcĩ/ _adv._  skilled in shooting       
 
 
-__e'da'__ _v._  shoot at target [_ant._  e'xa']   
+__e'da'__ /eɁdaɁ/ _v._  shoot at target [_ant._  e'xa']   
 
 
-__e'la'__ _adj._  good in shooting        
+__e'la'__ /eɁlaɁ/ _adj._  good in shooting        
 
 
-__e'pe__  _n._  pumpkin [_syn._  tápè; ayó twpè]    
+__e'pe__  /eɁpe/ _n._  pumpkin [_syn._  tápè; ayó twpè]    
 
 
-__e'xa'__ _v._  miss a target by shooting [_ant._  e'da']   
+__e'xa'__ /eɁxaɁ/ _v._  miss a target by shooting [_ant._  e'da']   
 
 
-__e'xw__  _v._  kill by shooting    
-
-__ebyosa__	_int._	interjectiont to express agreement
+__e'xw__  /eɁxɯ/ _v._  kill by shooting    
 
 
-__eem__	_int._	yes
+__ebyosa__ /ebjosa/	_int._	interjectiont to express agreement
 
 
-__efañ__  _n._  ear of grain        
+__eem__	/eem/ _int._	yes
 
 
-__eha__ _v._  make ritual offerings to nature including forests and agricultural fields
+__efañ__  /eʎã/ _n._  ear of grain        
 
 
-__ektor__ _n._ actor [_or._ English]
+__eha__ /eha/ _v._  make ritual offerings to nature including forests and agricultural fields
 
 
-__elañ__  _n._  a variety of red rice, usually late ripening        
+__ektor__ /ektor/ _n._ actor [_or._ English]
 
 
-__elì__ _n._  paddy seed; paddy preserved for next season's sowing        
+__elañ__  /elã/ _n._  a variety of red rice, usually late ripening        
 
 
-__elù__ _n._  reed flute        
+__elì__ /elì/ _n._  paddy seed; paddy preserved for next season's sowing        
 
 
-__ema__ _n._  dream; reverie  [_var._  imáa]    
+__elù__ /elù/ _n._  reed flute        
 
 
-__ema tupe__  _n._  dreamy (of a person); confused person       
+__ema__ /ema/ _n._  dream; reverie  [_var._  imáa]    
 
 
-__embiñ__ _n._  uncooked, husked rice       
+__ema tupe__  /ema tupe/ _n._  dreamy (of a person); confused person       
 
 
-__embiñ xañcu__ _n._  cane or bamboo basket used as rice container        
+__embiñ__ /embĩ/ _n._  uncooked, husked rice       
 
 
-__emo__ _n._  paddy; unhusked rice  [_var._  imo]   
+__embiñ xañcu__ /embĩ xãcu/ _n._  cane or bamboo basket used as rice container        
 
 
-__empu__  _n._  a variety of white rice, usually late ripening        
+__emo__ /emo/ _n._  paddy; unhusked rice  [_var._  imo]   
 
 
-__empw__  _n._  paddy husk  [_syn._  pwnañ]   
+__empu__  /empu/ _n._  a variety of white rice, usually late ripening        
 
 
-__empya'__  _n._  cotton; wool  [_var._  impya']    
+__empw__  /empɯ/ _n._  paddy husk  [_syn._  pwnañ]   
 
 
-__empya' tiyo'__  _n._  silkworm pupae        
+__empya'__  /empjaɁ/ _n._  cotton; wool  [_var._  impya']    
 
 
-__empyañ__  _n._  grain for poultry       
+__empya' tiyo'__  /empjaɁ tijoɁ/ _n._  silkworm pupae        
 
 
-__empyañ sudu__ _n._  bamboo container to store grains for poultry        
+__empyañ__ /empjã/  _n._  grain for poultry       
 
 
-__emvr__  _n._  dew       
+__empyañ sudu__ /empjã sudu/ _n._  bamboo container to store grains for poultry        
 
 
-__eñbiñ__ _n._  husked rice       
+__emvr__  /emǝr/ _n._  dew       
 
 
-__enda__  _n._  fifth lunar moon; May       
+__eñbiñ__ /ẽbĩ/ _n._  husked rice       
 
 
-__endi__  _n._  rice plant; rice seedling       
+__enda__  /enda/ _n._  fifth lunar moon; May       
 
 
-__ene'__  _adv._  without reason; without purpose; without work [_or._ Assamese]   
+__endi__  /endi/ _n._  rice plant; rice seedling       
 
-__eñjañ__	_n._	rainy season	[_Ent._	eñdi + ajañ]
+
+__ene'__  /eneɁ/ _adv._  without reason; without purpose; without work [_or._ Assamese]   
+
+__eñjañ__	/ẽɟã/ _n._	rainy season	[_Ent._	eñdi + ajañ]
 
 
 __eñku__	_n._	paddy of previous harvest		
