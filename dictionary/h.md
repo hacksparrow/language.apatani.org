@@ -6,103 +6,103 @@ devanagari: ह
 ipa: h
 ---
 
-__ha__	_vr._	come; arrive; enter	[_syn._	áa]
+__ha__ /ha/	_vr._	come; arrive; enter	[_syn._	áa]
 
 
-__ha'__	_vr._	bite off		
+__ha'__	/haɁ/ _vr._	bite off		
 
 
-__ha'__	_vr._	collect or catch (for example, fish from water)		
+__ha'__	/haɁ/ _vr._	collect or catch (for example, fish from water)		
 
 
-__ha'ló__	_n._	branch (of tree)		
+__ha'ló__	/haɁló/ _n._	branch (of tree)		
 
 
-__ha'tú__	_v._	obstruct; block; clog		
+__ha'tú__	/haɁtú/ _v._	obstruct; block; clog		
 
 
-__háa__	_vr._	smoke dry		
+__háa__	/háa/ _vr._	smoke dry		
 
 
-__haabyañ__	_n._	chest		
+__haabyañ__ /haabjã/	_n._	chest		
 
 
-__haace__	_adj._	sad; heart breaking		
+__haace__	/haace/ _adj._	sad; heart breaking		
 
 
-__haace'__	_n._	difficult time; crisis; emergency	[_syn._	haace' swre]
+__haace'__	/haaceɁ/ _n._	difficult time; crisis; emergency	[_syn._	haace' swre]
 
 
-__haaci__	_n._	east	[_syn._	dazi cago]
+__haaci__	/haaci/ _n._	east	[_syn._	dazi cago]
 
 
-__haadw__	_v._	get angry; annoyed; enraged	[_n._	anger]
+__haadw__	/haadɯ/ _v._	get angry; annoyed; enraged	[_n._	anger]
 
 
-__haafiñ__	_n._	fourth lunar month of the year; April		
+__haafiñ__	/haaʎĩ/ _n._	fourth lunar month of the year; April		
 
 
-__haafiñ__	_adj._	beautiful; handsome; pretty		
+__haafiñ__	/haaʎĩ/ _adj._	beautiful; handsome; pretty		
 
 
-__haafiñ patañ__	_n._	labour gang engaged in transplanting of paddy		
+__haafiñ patañ__	/haaʎĩ patã/ _n._	labour gang engaged in transplanting of paddy		
 
 
-__haafiñ popvr__	_n._	a variety of moth		
+__haafiñ popvr__	/haaʎĩ popǝr/ _n._	a variety of moth		
 
 
-__haago__	_adj._	vain; haughty; vainglorious		
+__haago__	/haago/ _adj._	vain; haughty; vainglorious		
 
 
-__hago__	_n._	matter; subject; affair	[_syn._	pwgo]
+__hago__ /hago/	_n._	matter; subject; affair	[_syn._	pwgo]
 
 
-__haagya__	_n._	entrance	[_syn._	áagyá]
+__haagya__ /haagja/	_n._	entrance	[_syn._	áagyá]
 
 
-__haaja'__	_adv._	excessive; exhorbitant; too much		
+__haaja'__	/haaɟaɁ/ _adv._	excessive; exhorbitant; too much		
 
 
-__haaju'__	_adj._	light; not heavy	[_ant._	aì]
+__haaju'__	/haaɟuɁ/ _adj._	light; not heavy	[_ant._	aì]
 
 
-__háako__	_n._	entrance	[_syn._	áako]
+__háako__	/háako/ _n._	entrance	[_syn._	áako]
 
 
-__haalo__	_n._	August-September; ninth month of lunar year		
+__haalo__ /haalo/	_n._	August-September; ninth month of lunar year		
 
 
-__haame__	_adj._	coward; timid	[_ant._	haaro]
+__haame__	/haame/ _adj._	coward; timid	[_ant._	haaro]
 
 
-__haapa__	_adj._	flat; plain	[_syn._	haafañ, zipa]
+__haapa__	/haapa/ _adj._	flat; plain	[_syn._	haafañ, zipa]
 
 
-__haapahe__	_adv._	to a large part; a big quantum; big amount		
+__haapahe__	/haapahe/ _adv._	to a large part; a big quantum; big amount		
 
 
-__haapiñ__	_n._	fog; mist	[_syn._	haapiñ tagyañ]
+__haapiñ__	/haapĩ/ _n._	fog; mist	[_syn._	haapiñ tagyañ]
 
 
-__haapiñ tagyañ__	_n._	fog; mist	[_syn._	haapiñ]
+__haapiñ tagyañ__	/haapĩ tagjã/ _n._	fog; mist	[_syn._	haapiñ]
 
 
-__haapu'__	_n._	diaphragm		
+__haapu'__	/haapuɁ/ _n._	diaphragm		
 
 
-__haapuñ__	_n._	gap (in space or time)		
+__haapuñ__	/haapũ/ _n._	gap (in space or time)		
 
 
-__haaro__	_adj._	brave; courageous	[_ant._	haame]
+__haaro__	/haaro/ _adj._	brave; courageous	[_ant._	haame]
 
 
-__haaru__	_n._	mourning; grief		
+__haaru__	/haaru/ _n._	mourning; grief		
 
 
-__haaru heñ__	_v._	mourn; grieve		
+__haaru heñ__	/haaru hẽ/ _v._	mourn; grieve		
 
 
-__haasiñ__	_v._	dry (esp. over a fire)		
+__haasiñ__	// _v._	dry (esp. over a fire)		
 
 
 __haaso__	_adj._	slow; sluggish	[_adv._	haaso haaso; haasopa]
