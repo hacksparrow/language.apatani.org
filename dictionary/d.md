@@ -194,103 +194,103 @@ __deñki__ /dẽki/ _adj._  sincere; obedient [_ant._  dema]
 __deqe__  /deŋe/ _n._  hair (of a child)        
 
 
-__dibur__ _n._  mole cricket (_Gryllotalpidae_)       
+__dibur__ /dibur/ _n._  mole cricket (_Gryllotalpidae_)       
 
 
-__didu__  _n._  liquid container of bamboo  [_syn._  dije]    
+__didu__  /didu/ _n._  liquid container of bamboo  [_syn._  dije]    
 
 
-__didvr__ _adj._  fluent, as in speech; articulate        
+__didvr__ /didǝr/ _adj._  fluent, as in speech; articulate        
 
 
-__diì__ _vr._  detach; peel        
+__diì__ /diì/ _vr._  detach; peel        
 
 
-__díi__ _vr._  plant; transplant; implant        
+__díi__ /díi/ _vr._  plant; transplant; implant        
 
 
-__diifañ__  _n._  areas of human activity between the forests and the villages        
+__diifañ__  /diiʎã/ _n._  areas of human activity between the forests and the villages        
 
 
-__diifañ pákù__ _n._  Mountain Imperial Pigeon (_Ducula badia_)       
+__diifañ pákù__ /diiʎã pákù/ _n._  Mountain Imperial Pigeon (_Ducula badia_)       
 
 
-__diigò__ _n._  matter; issue; work       
+__diigò__ /diigò/ _n._  matter; issue; work       
 
 
-__diiha__ _n._  clay soil       
+__diiha__ /diiha/ _n._  clay soil       
 
 
-__diiko'__  _n._  hard soil; lumps of soil        
+__diiko'__  /diikoɁ/ _n._  hard soil; lumps of soil        
 
 
-__díiñ__  _vr._  curse       
+__díiñ__  /díĩ/ _vr._  curse       
 
 
-__diipa'__  _v._  peel off; detach        
+__diipa'__  /diipaɁ/ _v._  peel off; detach        
 
 
-__diipe__ _n._  spade       
+__diipe__ /diipe/ _n._  spade       
 
 
-__diixw__ _n._  coarse sand _syn._  swxw; súrù    
+__diixw__ /diixɯ/ _n._  coarse sand [_syn._  swxw; súrù]    
 
 
-__dije'__ _n._  portable bamboo vessel (esp. for carrying liquor)  [_syn._  didu]    
+__dije'__ /diɟeɁ/ _n._  portable bamboo vessel (esp. for carrying liquor)  [_syn._  didu]    
 
 
-__diliñ__ _n._  hair bun; tresses of bundled hair       
+__diliñ__ /dilĩ/ _n._  hair bun; tresses of bundled hair       
 
 
-__dimpu__ _n._  white hair        
+__dimpu__ /dimpu/ _n._  white hair        
 
 
-__dimu__  n.  hair (of head)        
+__dimu__  /dimu/ _n._  hair (of head)        
 
 
-__dimvr__ _n._  dust  [_syn._  pwmvr]   
+__dimvr__ /dimǝr/ _n._  dust  [_syn._  pwmvr]   
 
 
-__diñ__ _vr._  pound with something        
+__diñ__ /dĩ/ _vr._  pound with something        
 
 
-__diñ nanw__  _n._  pillow; headrest  [_syn._  garu]    
+__diñ nanw__  /dĩ nanɯ/ _n._  pillow; headrest  [_syn._  garu]    
 
 
-__diñgyañ__ _n._  fencepost       
+__diñgyañ__ /dĩgjã/ _n._  fencepost       
 
 
-__diñko__ _n._  metal skewer inserted horizontally through the male hair knot [_syn._  pwdiñ xootu]   
+__diñko__ /dĩko/ _n._  metal skewer inserted horizontally through the male hair knot [_syn._  pwdiñ xootu]   
 
 
-__diñta'__  _n._  scalp; top portion of head    
+__diñta'__  /dĩtaɁ/ _n._  scalp; top portion of head    
 
-__diñtu__	_v._	nod
-
-
-__diñtu'__  _v._  comb        
+__diñtu__	/dĩtu/ _v._	nod
 
 
-__diñxo__ _adj._  bald-headed; hairless [_syn._  duñxó]   
+__diñtu'__  /dĩtuɁ/ _v._  comb        
 
 
-__diñxu'__  _n._  skull       
+__diñxo__ /dĩxo/ _adj._  bald-headed; hairless [_syn._  duñxó]   
 
 
-__ditiñ__ _n._  cliff; ravine       
+__diñxu'__  /dĩxuɁ/ _n._  skull       
 
 
-__ditiñ ya'ì__  _v._  landslide; mudslide       
+__ditiñ__ /ditĩ/ _n._  cliff; ravine       
 
 
-__dituñ__ _n._  social event; occasion  [_syn._  dituñ-potuñ]   
+__ditiñ ya'ì__  /ditĩ jaɁì/ _v._  landslide; mudslide       
 
 
-__dituñ-potuñ__ _n._  ceremony; social event; occasion  [_syn._ dituñ]  
+__dituñ__ /ditũ/ _n._  social event; occasion  [_syn._  dituñ-potuñ]   
 
-__ditvr__	_n._	lumps of soil (esp. in paddy fields)
 
-__diyu'__	_n._	marsh; swamp
+__dituñ-potuñ__ /ditũ-potũ/ _n._  ceremony; social event; occasion  [_syn._ dituñ]  
+
+__ditvr__	/ditǝr/ _n._	lumps of soil (esp. in paddy fields)
+
+__diyu'__	/diɁju/ _n._	marsh; swamp
 
 
 __do__  _v._  be; exist; lie  [_ant._  zima]    
