@@ -174,205 +174,205 @@ __hágw__	/hágɯ/ _v._	escape; run away; flee	[_var._	hárgw]
 __hai__	/hai/ _n._	water	[_syn._	yasi]
 
 
-__hajvr__	// _num._	thousand	[_or._	Assamese]
+__hajvr__	/haɟǝr/ _num._	thousand	[_or._	Assamese]
 
 
-__hamañ__	// _n._	vegetable		
+__hamañ__	/hamã/ _n._	vegetable		
 
 
-__hañ__	_vr._	investigate; make enquiries; probe; enquire		
+__hañ__	/hã/ _vr._	investigate; make enquiries; probe; enquire		
 
 
-__haho__	_prep._	up; top; high; upper		
+__haho__	/haho/ _prep._	up; top; high; upper		
 
 
-__haqw__	_pron._	something; a thing that is unknown or unspecified		
+__haqw__	/haŋɯ/ _pron._	something; a thing that is unknown or unspecified		
 
 
-__har__	_vr._	wash; bathe		
+__har__	/har/ _vr._	wash; bathe		
 
 
-__har__	_vr._	cut (esp. meat); dismember		
+__har__	/har/ _vr._	cut (esp. meat); dismember		
 
 
-__hár__	_vr._	run; drive (a vehicle)		
+__hár__	/hár/ _vr._	run; drive (a vehicle)		
 
 
-__harañ piyo__	_n._	a variety of children's traditional game		
+__harañ piyo__	/harã pijo/ _n._	a variety of children's traditional game		
 
 
-__harba'__	_v._	hug; embrace		
+__harba'__	/harbaɁ/ _v._	hug; embrace		
 
 
-__harbyañ__	_adj._	full (as of moon)		
+__harbyañ__	/harbjã/ _adj._	full (as of moon)		
 
 
-__harce'__	_n._	fold of the groin		
+__harce'__	/harceɁ/ _n._	fold of the groin		
 
 
-__hargó__	_v._	overtake (esp. by running or driving)		
+__hargó__	/hargó/ _v._	overtake (esp. by running or driving)		
 
 
-__hárgw__	_v._	run away; escape; flee	[_syn._	hágw]
+__hárgw__	/hárgɯ/ _v._	run away; escape; flee	[_syn._	hágw]
 
 
-__harje'__	_v._	run over (esp. by a vehicle)		
+__harje'__	/harɟeɁ/ _v._	run over (esp. by a vehicle)		
 
 
-__harkó__	_v._	bore a hole		
+__harkó__	/harkó/ _v._	bore a hole		
 
 
-__harlañ__	n.	thigh		
+__harlañ__	/harlã/ _n._	thigh		
 
 
-__harpó__	_n._	bucket		
+__harpó__	/harpó/ _n._	bucket		
 
 
-__harpuñ__	_n._	inner thigh		
+__harpuñ__	/harpũ/ _n._	inner thigh		
 
 
-__harti__	_n._	rust	[_syn._	marlañ]
+__harti__	/harti/ _n._	rust	[_syn._	marlañ]
 
 
-__harú__	_adj._	popular (as of one's personality)		
+__harú__	/harú/ _adj._	popular (as of one's personality)		
 
 
-__harù__	n.	lung		
+__harù__	/harù/ _n._	lung		
 
 
-__harw__	_v._	twist; turn		
+__harw__	/harɯ/ _v._	twist; turn		
 
 
-__haspatvr__	_n._	hospital	[_or._	English]
+__haspatvr__	/haspatǝr/ _n._	hospital	[_or._	English]
 
 
-__he'__	_vr._	knit		
+__he'__	/heɁ/ _vr._	knit		
 
 
-__he'__	_vr._	blow (as wind)		
+__he'__	/heɁ/ _vr._	blow (as wind)		
 
 
-__he'__	_vr._	dig (esp. with a tool)		
+__he'__	/heɁ/ _vr._	dig (esp. with a tool)		
 
 
-__he'__	_vr._	cut with a knife with the sharp edge away from the user, as in smoothening something		
+__he'__	/heɁ/ _vr._	cut with a knife with the sharp edge away from the user, as in smoothening something		
 
 
-__he'dú__	_n._	pork intestine along with attached fat; such meat of sacrificed animals traditionally offered to the eldest living sister by the younger ones.	[_syn._	pidú]
+__he'dú__	/heɁdú/ _n._	pork intestine along with attached fat; such meat of sacrificed animals traditionally offered to the eldest living sister by the younger ones.	[_syn._	pidú]
 
 
-__he'i__	_n._	a portion of meat		
+__he'i__	/heɁi/ _n._	a portion of meat		
 
 
-__he'ta'__	_n._	wooden agricultural implement (esp. used during construction of bundhs)		
+__he'ta'__	/heɁtaɁ/ _n._	wooden agricultural implement (esp. used during construction of bundhs)		
 
 
-__he'te'__	_n._	narrow channel in the wet rice cultivation fields		
+__he'te'__	/heɁteɁ/ _n._	narrow channel in the wet rice cultivation fields		
 
 
-__heefi'__	_adj._	cool, in a pleasant way	[_syn._	habuñ]
+__heefi'__	/heeʎiɁ/ _adj._	cool, in a pleasant way	[_syn._	habuñ]
 
 
-__hefa__	_v._	have patience; have endurance		
+__hefa__	/heʎa/ _v._	have patience; have endurance		
 
 
-__hefu__	_v._	forget	[_syn._	aháa ahw']
+__hefu__	/heʎu/ _v._	forget	[_syn._	aháa ahw']
 
 
-__helo__	_v._	pardon; forgive		
+__helo__	/helo/ _v._	pardon; forgive		
 
 
-__heló__	_v._	let down; be disappointed		
+__heló__	/heló/ _v._	let down; be disappointed		
 
 
-__heme__	_v._	promise; vow; pledge	[_n._	oath; promise]
+__heme__	/heme/ _v._	promise; vow; pledge	[_n._	oath; promise]
 
 
-__hemiñ-heñja__	_adj._	intimate; open (of relationship) 		
+__hemiñ-heñja__	/hemĩ-hẽɟa/ _adj._	intimate; open (of relationship) 		
 
 
-__hemó__	_v._	suspect; doubt; distrust		
+__hemó__	/hemó/ _v._	suspect; doubt; distrust		
 
 
-__hémò__	_v._	rest; take a breather				
+__hémò__	/hémò/ _v._	rest; take a breather				
 
 
-__heñpvr__	_adv._	very; exeedingly; exceptionally; immensely	[_syn._	hentvr]
+__heñpvr__	/hẽpǝr/ _adv._	very; exeedingly; exceptionally; immensely	[_syn._	hentvr]
 
 
-__hemyó__	_v._	plan in advance; plan				
+__hemyó__	/hemjó/ _v._	plan in advance; plan				
 
 
-__heñ__	_vr._	think; love				
+__heñ__	/hẽ/ _vr._	think; love				
 
 
-__heñbyañ__	_adv._	ample; sufficient; adequate				
+__heñbyañ__	/hẽbjã/ _adv._	ample; sufficient; adequate				
 
 
-__heñbyo__	_v._	crave; desire; yearn; pine for				
+__heñbyo__	/hẽbjo/ _v._	crave; desire; yearn; pine for				
 
 
-__henci__	_n._	a variety of edible berry				
+__henci__	/henci/ _n._	a variety of edible berry				
 
 
-__heñco__	_n._	titillation	[_v._	tickle]
+__heñco__	/hẽco/ _n._	titillation	[_v._	tickle]
 
 
-__heñdi__	_n._	thoughtful man; a gentleman; a good person	[_adj._	thoughtful]
+__heñdi__	/hẽdi/ _n._	thoughtful man; a gentleman; a good person	[_adj._	thoughtful]
 
 
-__heñdvr__	_v._	conscious; understand; figure out				
+__heñdvr__	/hẽdǝr/ _v._	conscious; understand; figure out				
 
 
-__heñje__	_v._	trust; faith; confidence; belief				
+__heñje__	/hẽbje/ _v._	trust; faith; confidence; belief				
 
 
-__heñji'__	_adj._	happy; joyful; exultant				
+__heñji'__	/hẽɟiɁ/ _adj._	happy; joyful; exultant				
 
 
-__heñju__	_n._	attitude; way of thinking				
+__heñju__	/hẽɟu/ _n._	attitude; way of thinking				
 
 
-__heñju-hemyo__	_n._	character; disposition; temperament				
+__heñju-hemyo__	/hẽɟu-hemjo/ _n._	character; disposition; temperament				
 
 
-__heñju-mwju__	_n._	behaviour; conduct; deportment				
+__heñju-mwju__	/hẽɟu-mɯɟu/ _n._	behaviour; conduct; deportment				
 
 
-__heñjuñ__	_n._	comfort; ease; luxury; opulence	[_adj._	comfortable]	[_adv._	heñjuñpa]
+__heñjuñ__	/hẽɟũ/ _n._	comfort; ease; luxury; opulence	[_adj._	comfortable]	[_adv._	heñjuñpa]
 
 
-__heñjvr__	_v._	save up; save for the future		
+__heñjvr__	/hẽɟǝr/ _v._	save up; save for the future		
 
 
-__heñki__	_adj._	sincere; honest; unfeigned		
+__heñki__	/hẽki/ _adj._	sincere; honest; unfeigned		
 
 
-__heñko-heñpe__	_adj._	confused; perplexed; baffled		
+__heñko-heñpe__	/hẽko-hẽpe/ _adj._	confused; perplexed; baffled		
 
 
-__heñkur__	_v._	regret; feel remorse for; be sorry about		
+__heñkur__	/hẽkur/ _v._	regret; feel remorse for; be sorry about		
 
 
-__heñpa__	_v._	recall; remember		
+__heñpa__	/hẽpa/ _v._	recall; remember		
 
 
-__heñpa'__	_v._	ignore; pay no heed to		
+__heñpa'__	/hẽpaɁ/ _v._	ignore; pay no heed to		
 
 
-__heñpuñ-heñka__	_adj._	confusing; perplexing; complicated	[_v._	be confused]
+__heñpuñ-heñka__	/hẽpũ-hẽka/ _adj._	confusing; perplexing; complicated	[_v._	be confused]
 
 
-__heñpyo__	_adj._	happy, delighted		
+__heñpyo__	/hẽpjo/ _adj._	happy, delighted		
 
 
-__heñpyo'__	_v._	guilt ridden; feel guilty; conscience stricken		
+__heñpyo'__	/hẽpjoɁ/ _v._	guilt ridden; feel guilty; conscience stricken		
 
 
-__heñsvr__	_adj._	not having any burden or impediment		
+__heñsvr__	/hẽsǝr/ _adj._	not having any burden or impediment		
 
 
-__heñtiñ__	_v._	trust; faith; confidence; belief		
+__heñtiñ__	/hẽtĩ/ _v._	trust; faith; confidence; belief		
 
 
 __heñtú__	_v._	miss someone; pine for; yearn for; long for		
