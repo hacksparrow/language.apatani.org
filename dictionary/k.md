@@ -270,65 +270,65 @@ __ko__	/ko/ _prep._	in; at
 
 __ko__	/ko/ _vr._	throw out (from the mouth); throw up		
 
-__ko'__	_vr._	pry; move or open something or to separate something from something else with force		
+__ko'__	/koɁ/ _vr._	pry; move or open something or to separate something from something else with force		
 
-__ko'__	_vr._	to divine an omen by examining a chicken liver		
+__ko'__	/koɁ/ _vr._	to divine an omen by examining a chicken liver		
 
-__ko'bu__	_n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bw]
+__ko'bu__	/koɁbu/ _n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bw]
 
-__ko'bw__	_n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bu]
+__ko'bw__	/koɁbɯ/ _n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bu]
 
-__ko'kw__	_prep._	from		
+__ko'kw__	/koɁkɯ/ _prep._	from		
 
-__ko'rò__	_adj._	big, of a bangle	[_ant._	ko'zó]
+__ko'rò__	/koɁrò/ _adj._	big, of a bangle	[_ant._	ko'zó]
 
-__ko'ro'__	_n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered		
+__ko'ro'__	/koɁroɁ/ _n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered		
 
-__kobiñ__	_n._	a variety of oak tree	[_var._	korbiñ]
+__kobiñ__	/kobĩ/ _n._	a variety of oak tree	[_var._	korbiñ]
 
-__kobya__	_adj._	generous; altruistic; forthcoming; quick in giving		
+__kobya__	/kobja/ _adj._	generous; altruistic; forthcoming; quick in giving		
 
-__kobyáñ__	_n._	bracelet; bangle		
+__kobyáñ__	/kobjã́/ _n._	bracelet; bangle		
 
-__koci'__	_adj._	bitter		
+__koci'__	/kociɁ/ _adj._	bitter		
 
-__koci' hamañ__	_n._	dandlion (_Taraxacum_ sp.); [_Lit._ bitter vegetable]		
+__koci' hamañ__	/kociɁ hamã/ _n._	dandlion (_Taraxacum_ sp.); [_Lit._ bitter vegetable]		
 
-__kofañ__	_adj._	round		
+__kofañ__	/koʎã/ _adj._	round		
 
-__kofo'__	_adj._	bent; not round; irregular	[_syn._	kofo'-koco]
+__kofo'__	/koʎoɁ/ _adj._	bent; not round; irregular	[_syn._	kofo'-koco]
 
-__kofo'-koco__	_adj._	bent; not round; irregular	[_syn._	kofo']
+__kofo'-koco__	/koʎoɁ-koco/ _adj._	bent; not round; irregular	[_syn._	kofo']
 
-__kofuñ__	_n._	primordial time	[_syn._	kofuñ kolo]
+__kofuñ__ /koʎũ/	_n._	primordial time	[_syn._	kofuñ kolo]
 
-__kofuñ kolo__	_n._	primordial time	[_syn._	kofuñ]
+__kofuñ kolo__	/koʎũ-kolo/ _n._	primordial time	[_syn._	kofuñ]
 
-__kofuñ-kocuñ__	_adj._	imbalanced; fall down due to imbalance		
+__kofuñ-kocuñ__	/koʎũ-kocũ/ _adj._	imbalanced; fall down due to imbalance		
 
-__koha__	_num._	nine		
+__koha__	/koha/ _num._	nine		
 
-__koha xage__	_num._	ninety		
+__koha xaqe__	/koha xaŋe/ _num._	ninety		
 
-__koha'__	_n._	cricket		
+__koha'__	/kohaɁ/ _n._	cricket		
 
-__koi'__	_v._	a way of putting on a cloth on the body, esp. by the males		
+__koi'__	/koiɁ/ _v._	a way of putting on a cloth on the body, esp. by the males		
 
-__kokañ__	_adj._	late; lower	[_syn._	kami]
+__kokañ__	/kokã/ _adj._	late; lower	[_syn._	kami]
 
-__koku dwru__	_adj._	bulky; oversized; massive; cumbersome		
+__koku dwru__	/koku dɯru/ _adj._	bulky; oversized; massive; cumbersome		
 
-__kokvr__	_v._	arrange a string (like a cane) into a circular form		
+__kokvr__	/kokǝr/ _v._	arrange a string (like a cane) into a circular form		
 
-__kolañ__	_n._	pencil	[_or._	Assamese]
+__kolañ__	/kolã/ _n._	pencil	[_or._	Assamese]
 
-__koliñ__	_v._	throw out (from the mouth)		
+__koliñ__	/kolĩ/ _v._	throw out (from the mouth)		
 
-__koló__	_n._	in the olden days		
+__koló__	/koló/ _n._	in the olden days		
 
-__kolò__	_n._	the day before yesterday		
+__kolò__	/kolò/ _n._	the day before yesterday		
 
-__kolò lohe__	_n._	two days back		
+__kolò lohe__ /kolò lohe/	_n._	two days back		
 
 __komañ__	_adj._	dark (esp. to describe shades of color)		
 
