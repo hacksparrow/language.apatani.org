@@ -183,45 +183,45 @@ __joko'__	/ɟokoɁ/ _v._	opening something by lifting up the lid		jopyañ
 __jo'ko__	/ɟoɁko / _v._	open by cutting		
 
 
-__jojo ro'po__	// _n._	a kind of a small bird		
+__jojo ro'po__	/ɟoɟo roɁpo/ _n._	a kind of a small bird		
 
 
-__jojuru__	_n._	a fruit bearing creeper (Silene sp.)		
+__jojuru__ /ɟoɟuru/	_n._	a fruit bearing creeper (Silene sp.)		
 
 
-__jojvr__	_n._	green june beetle		
+__jojvr__	/ɟoɟǝr/ _n._	green june beetle		
 
 
-__jola__	_n._	bag		
+__jola__	/ɟola/ _n._	bag		
 
 
-__jompu__	_n._	bamboo shaving used as a ritual element or a decorative item	[_syn._	some]
+__jompu__	/ɟompu/ _n._	bamboo shaving used as a ritual element or a decorative item	[_syn._	some]
 
 
-__jomw'__	_n._	cloud				
+__jomw'__	/ɟomɯɁ/ _n._	cloud				
 
 
-__joo__	_vr._	pay as wage				
+__joo__	/ɟoo/ _vr._	pay as wage				
 
 
-__joojo__	_adj._	refreshing; fresh				
+__joojo__	/ɟooɟo/ _adj._	refreshing; fresh				
 
 
-__ju__	_vr._	winnow				
+__ju__	/ɟu/ _vr._	winnow				
 
 
-__jú__	_vr._	weigh; measure				
+__jú__	/ɟú/ _vr._	weigh; measure				
 
 
-__juja__	_adj._	wet	[_ant._	pitañ]	[_syn._	juza]
+__juja__	/ɟuɟa/ _adj._	wet	[_ant._	pitañ]	[_syn._	juza]
 
 
-__juju__	_n._	winnowing				
+__juju__	/ɟuɟu/ _n._	winnowing				
 
 
-__juka__	_v._	measure [_esp._ weight]
+__juka__	/ɟuka/ _v._	measure [_esp._ weight]
 
 
-__juza__	_adj._	wet	[_ant._	pitañ]	[_syn._	juja]
+__juza__	/ɟuɲa/ _adj._	wet	[_ant._	pitañ]	[_syn._	juja]
 
 
