@@ -117,73 +117,73 @@ __jihiñ__	/ɟihĩ/ _n._	rag; scrap of cloth; dirty linen
 __jihw-jixe__	/ɟihɯ-ɟixe/ _v._	roll to and fro				
 
 
-__jiimu__	_v._	giddy; dizzy; vertiginous	[_n._	giddiness]	[_syn._	sumu]
+__jiimu__	/ɟiimu/ _v._	giddy; dizzy; vertiginous	[_n._	giddiness]	[_syn._	sumu]
 
 
-__jije__	_n._	truth	[_adj._	true]
+__jije__	/ɟije/ _n._	truth	[_adj._	true]
 
 
-__jijepa__	_adv._	really; genuinely; honestly				
+__jijepa__ /ɟijepa/	_adv._	really; genuinely; honestly				
 
 
-__jiji__	_adj._	blue				
+__jiji__	/ɟiɟi/ _adj._	blue				
 
 
-__jiji jixo__	_adj._	dark blue				
+__jiji jixo__	/ɟiɟi ɟixo/ _adj._	dark blue				
 
 
-__jiji kwna__	_adj._	bluish				
+__jiji kwna__	/ɟiɟi kɯna/ _adj._	bluish				
 
 
-__jijiñ tayiñ__	_n._	a kind of dragonfly				
+__jijiñ tayiñ__	/ɟiɟĩ tajĩ/ _n._	a kind of dragonfly				
 
 
-__jilañ__	_n._	a kind of traditional shawl (esp.used by the priests)
+__jilañ__ /ɟilã/	_n._	a kind of traditional shawl (esp.used by the priests)
 
 
-__jimi-jaama__	_adj._	hazy; smoggy				
+__jimi-jaama__	/ɟimi ɟaama/ _adj._	hazy; smoggy				
 
 
-__jimvr__	_pron._	all; whole	[_syn._	mwlañ]
+__jimvr__	/ɟimǝr/ _pron._	all; whole	[_syn._	mwlañ]
 
 
-__jiñ__	_vr._	tie				
+__jiñ__	/ɟĩ/ _vr._	tie				
 
 
-__jiñko jiñko__	_adj._	lanky; tall and thin		
+__jiñko jiñko__	/ɟĩko ɟĩko / _adj._	lanky; tall and thin		
 
 
-__jirw__	_v._	spin; rotate		
+__jirw__	/ɟirɯ/ _v._	spin; rotate		
 
 
-__jirw-jixe__	_v._	rotate to and fro		
+__jirw-jixe__	/ɟirɯ-ɟixe/ _v._	rotate to and fro		
 
 
-__jixe tarw__	_n._	a kind of shirt (esp. for males)		
+__jixe tarw__	/ɟixe tarɯ/ _n._	a kind of shirt (esp. for males)		
 
 
-__jo__	_vr._	lift; carry		
+__jo__	/ɟo/ _vr._	lift; carry		
 
 
-__jo'__	_vr._	cut, lengthwise with a blade		
+__jo'__	/ɟoɁ/ _vr._	cut, lengthwise with a blade		
 
 
-__joca__	_v._	lift or carry up	[_ant._	jolo]
+__joca__	/ɟoca/ _v._	lift or carry up	[_ant._	jolo]
 
 
-__jolo__	_v._	lift or carry down	[_ant._	joca]
+__jolo__	/ɟolo/ _v._	lift or carry down	[_ant._	joca]
 
 
-__jopyañ__	_v._	close something by placing something in the opening	[_ant._	joko']
+__jopyañ__	/ɟopjã/ _v._	close something by placing something in the opening	[_ant._	joko']
 
 
-__joko'__	_v._	opening something by lifting up the lid		jopyañ
+__joko'__	/ɟokoɁ/ _v._	opening something by lifting up the lid		jopyañ
 
 
-__jo'ko__	_v._	open by cutting		
+__jo'ko__	/ɟoɁko / _v._	open by cutting		
 
 
-__jojo ro'po__	_n._	a kind of a small bird		
+__jojo ro'po__	// _n._	a kind of a small bird		
 
 
 __jojuru__	_n._	a fruit bearing creeper (Silene sp.)		
