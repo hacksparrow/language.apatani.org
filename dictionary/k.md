@@ -230,45 +230,45 @@ __keemw'__	/keemɯɁ/ _v._	rub into powder
 
 __keemw'__	/keemɯɁ/ _v._	crush by rubbing		
 
-__keená__	// _n._	black necked crane (_Grus nigricollis_)	[_var._	kenda]
+__keená__	/keená/ _n._	black necked crane (_Grus nigricollis_)	[_var._	kenda]
 
-__kekuru__	_n._	bulbul; nightingale		
+__kekuru__	/kekuru/ _n._	bulbul; nightingale		
 
-__kela'__	_n._	good writer; one who writes well	[_adv._	good in writing; skilled in writing]
+__kela'__	/kelaɁ / _n._	good writer; one who writes well	[_adv._	good in writing; skilled in writing]
 
-__kempa__	_int._	interjection expressing sympathy		
+__kempa__	/kempa/ _int._	interjection expressing sympathy		
 
-__keñ__	_vr._	injure; cause pain or discomfort		
+__keñ__	/kẽ/ _vr._	injure; cause pain or discomfort		
 
-__kena kuru__	_n._	a variety of bird		
+__kena kuru__	/kena kuru/ _n._	a variety of bird		
 
-__kenda__	_n._	black necked crane (_Grus nigricollis_)	[_var._	keená]
+__kenda__	/kenda/ _n._	black necked crane (_Grus nigricollis_)	[_var._	keená]
 
-__kenna__	_n._	a person who castrates pigs	[_syn._	kwmvr]
+__kenna__	/kenna/ _n._	a person who castrates pigs	[_syn._	kwmvr]
 
-__keñte__	_n._	quilt (traditionally made of several pieces of sewn-together fabric)		
+__keñte__	/kẽte/ _n._	quilt (traditionally made of several pieces of sewn-together fabric)		
 
-__keñte bíi__	_n._	a variety of skirt of black and white color		
+__keñte abíi__	/kẽte abíi/ _n._	a variety of skirt of black and white color		
 
-__keñte pufe__	_n._	a variety of shawl usually made by stitching togethe discarded clothes
+__keñte pufe__	/kẽte puʎe/ _n._	a variety of shawl usually made by stitching togethe discarded clothes
 
-__kera pwcañ__	_n._	cauldron	[_or._	Assamese]
+__kera pwcañ__	/kera pɯcã/ _n._	cauldron	[_or._	Assamese]
 
-__keyiñ__	_adj._	good; serene		
+__keyiñ__	/kejĩ/ _adj._	good; serene		
 
-__kibo__	_n._	male dog		
+__kibo__	/kibo/ _n._	male dog		
 
-__kiku'__	_n._	outer covering of bamboo shoot that falls off when it grows into young bamboo		
+__kiku'__	/kikuɁ/ _n._	outer covering of bamboo shoot that falls off when it grows into young bamboo		
 
-__kilu'__	_n._	a small compartment in the granary usually for storng millet or agricultural implements		
+__kilu'__	/kiluɁ/ _n._	a small compartment in the granary usually for storng millet or agricultural implements		
 
-__kinw__	_n._	bitch		
+__kinw__	/kinɯ/ _n._	bitch		
 
-__kiru'__	_n._	hunting party		
+__kiru'__	/kiruɁ/ _n._	hunting party		
 
-__ko__	_prep._	in; at		
+__ko__	/ko/ _prep._	in; at		
 
-__ko__	_vr._	throw out (from the mouth); throw up		
+__ko__	/ko/ _vr._	throw out (from the mouth); throw up		
 
 __ko'__	_vr._	pry; move or open something or to separate something from something else with force		
 
