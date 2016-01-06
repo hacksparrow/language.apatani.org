@@ -6,153 +6,153 @@ devanagari: क
 ipa: k
 ---
 
-__ka__	_vr._	see; look at		
+__ka__ /ka/	_vr._	see; look at		
 
-__ka'__	_vr._	solidify; freeze; coagulate		
+__ka'__	/kaɁ/ _vr._	solidify; freeze; coagulate		
 
-__kabyo__	_v._	yearn; wish to possess something or someone		
+__kabyo__	/kabjo/ _v._	yearn; wish to possess something or someone		
 
-__kaciñ__	_v._	recognize; know	[_syn._	kala']
+__kaciñ__	/kacĩ/ _v._	recognize; know	[_syn._	kala']
 
-__kaco__	_adj._	dirty; soiled; smeared; filthy		
+__kaco__	/kaco/ _adj._	dirty; soiled; smeared; filthy		
 
-__kaco kapaá__	_adv._	dirty; soiled; smeared; filthy	
+__kaco kapaá__	/kaco kapaá/ _adv._	dirty; soiled; smeared; filthy	
 
-__kaco-tanw'__	_n._	dirty; soiled; smeared; filthy		
+__kaco-tanw'__	/kaco-tanɯɁ/ _n._	dirty; soiled; smeared; filthy		
 
-__kacvr__	_v._	see meticulously		
+__kacvr__	/kacǝr/ _v._	see meticulously		
 
-__kadi__	_v._	stare; gaze; ogle		
+__kadi__ /kadi/	_v._	stare; gaze; ogle		
 
-__kado-lili__	_adv._	publicly; in everybody's full view	
+__kado-lili__	/kado-lili/ _adv._	publicly; in everybody's full view	
 
-__kadú__	_v._	look upwards		
+__kadú__ /kadú/	_v._	look upwards		
 
-__kadvr__	_v._	recognize properly; look properly; identify	
+__kadvr__	/kadǝr/ _v._	recognize properly; look properly; identify	
 
-__kafa__	_v._	wait; watch		
+__kafa__	/kaʎa/ _v._	wait; watch		
 
-__kafañ__	_v._	look after; help	[_syn._	kafañ kada]
+__kafañ__	/kaʎã/ _v._	look after; help	[_syn._	kafañ kada]
 
-__kafáñ__	_adj._	equal; same		
+__kafáñ__	/kaʎã́/ _adj._	equal; same		
 
-__kafañ kada__	_v._	look after; help	[_syn._	kafañ]
+__kafañ kada__	/kaʎã kada/ _v._	look after; help	[_syn._	kafañ]
 
-__kafu-kaca__	_adj._	unrecognisable	[_v._	fail to recognize]
+__kafu-kaca__	/kaʎu-kaca/ _adj._	unrecognisable	[_v._	fail to recognize]
 
-__kage'__	_v._	look at		
+__kage'__	/kageɁ/ _v._	look at		
 
-__kago-tago__	_adj._	showy; pretentious; ostentatious 	
+__kago-tago__	/kago-tago/ _adj._	showy; pretentious; ostentatious 	
 
-__kago'__	_v._	overlook; disregard; ignore		
+__kago'__	/kagoɁ/ _v._	overlook; disregard; ignore		
 
-__kagw__	_v._	learn (by seeing)		
+__kagw__	/kagɯ/ _v._	learn (by seeing)		
 
-__kagya'__	_v._	see wrongly		
+__kagya'__	/kagjaɁ/ _v._	see wrongly		
 
-__káhè__	_adj._	big; large	[_ant._	atúu]
+__káhè__	/káhè/ _adj._	big; large	[_ant._	atúu]
 
-__kahi'-kaso__	_v._	look after; take care		
+__kahi'-kaso__	/kahiɁ-kaso / _v._	look after; take care		
 
-__kahó__	_v._	get punishment for a sin; retribution	
+__kahó__	/kahó/ _v._	get punishment for a sin; retribution	
 
-__kahò__	_v._	take note of; mark something		
+__kahò__	/kahò/ _v._	take note of; mark something		
 
-__kahó-tamo__	_adv._	in an offending manner	
+__kahó-tamo__	/kahó-tamo/ _adv._	in an offending manner	
 
-__kahw-kaxe'__	_v._	look around; be watchful	
+__kahw-kaxe'__	/kahɯ-kaxeɁ/ _v._	look around; be watchful	
 
-__kaji__	_n._	a variety of traditional dish	
+__kaji__	/kaɟi/ _n._	a variety of traditional dish	
 
-__kaji tiñ__	_v._	sneeze		
+__kaji tiñ__ /kaɟi tĩ/	_v._	sneeze		
 
-__kaji'__	_adj._	good to look at; good		
+__kaji'__	/kaɟiɁ/ _adj._	good to look at; good		
 
-__kaju__	_int._	yes; okay	[_syn._	aju]
+__kaju__	/kaɟu/ _int._	yes; okay	[_syn._	aju]
 
-__kaka__	_v._	have a look at; examine; inspect; scrutinize	
+__kaka__	/kaka/ _v._	have a look at; examine; inspect; scrutinize	
 
-__kaka-taka__	_v._	take stock of; make enquiries		
+__kaka-taka__ /kaka-taka/	_v._	take stock of; make enquiries		
 
-__kakiñ__	_v._	show; display; exhibit		
+__kakiñ__ /kakĩ/	_v._	show; display; exhibit		
 
-__kakiñ-tayiñ__	_v._	show off; put on airs	[_adv._	showy]
+__kakiñ-tayiñ__	/kakĩ-tajĩ/ _v._	show off; put on airs	[_adv._	showy]
 
-__kako talo__	_n._	mirror	[_syn._	kvrv talo; kako yalo; kvlo yalo, kwrv talo]
+__kako talo__	/kako talo/ _n._	mirror	[_syn._	kvrv talo; kako yalo; kvlo yalo, kwrv talo]
 
-__kako yalo__	_n._	mirror	[_syn._	kvrv talo; kako talo; kvlo talo, kwrv talo]
+__kako yalo__	/kako jalo/ _n._	mirror	[_syn._	kvrv talo; kako talo; kvlo talo, kwrv talo]
 
-__kakur__	_v._	look back		
+__kakur__	/kakur/ _v._	look back		
 
-__kala'__	_v._	recognize; know	[_syn._	kaciñ]
+__kala'__	/kalaɁ/ _v._	recognize; know	[_syn._	kaciñ]
 
-__kala'-kapa__	_adj._	acquaintant		
+__kala'-kapa__	/kalaɁ-kapa/ _adj._	acquaintant		
 
-__kala'-tala'__	_adj._	knowledgeable; learned	
+__kala'-tala'__	/kalaɁ-talaɁ/ _adj._	knowledgeable; learned	
 
-__kalo__	_v._	look downwards		
+__kalo__	/kalo/ _v._	look downwards		
 
-__kalw-kaha__	_v._	estimate; appear		
+__kalw-kaha__ /kalɯ-kaha/	_v._	estimate; appear		
 
-__kamè__	_v._	finish; destroy		
+__kamè__	/kamè/ _v._	finish; destroy		
 
-__kami__	_prep._	at the back; after; rear of	[_syn._	kokañ]
+__kami__	/kami/ _prep._	at the back; after; rear of	[_syn._	kokañ]
 
-__kami-kami__	_adv._	in front of one's eye		
+__kami-kami__	/kami-kami/ _adv._	in front of one's eye		
 
-__kamija__	_adv._	last		
+__kamija__	/kamiɟa/ _adv._	last		
 
-__kamo__	_adj._	dark	[_n._	darkness]		
+__kamo__	/kamo/ _adj._	dark	[_n._	darkness]		
 
-__kamó__	_n._	bribe; kickback; inducement		
+__kamó__	/kamó/ _n._	bribe; kickback; inducement		
 
-__kamra__	_n._	room				
+__kamra__	/kamra/ _n._	room				
 
-__kamw__	_n._	work; task; job; occupation	[_or._	Assamese]		
+__kamw__	/kamɯ/ _n._	work; task; job; occupation	[_or._	Assamese]		
 
-__kanu__	_num._	seven				
+__kanu__	/karu/ _num._	seven				
 
-__kanuda__	_n._	in five days; five days hence		
+__kanuda__	/kanuda/ _n._	in five days; five days hence		
 
-__kanulo__	_n._	weekdays				
+__kanulo__	/kanulo/ _n._	weekdays				
 
-__kanw__	_n._	one who sees			
+__kanw__ /kanɯ/	_n._	one who sees			
 
-__kapa__	_v._	find; discover; see			
+__kapa__	/kapa/ _v._	find; discover; see			
 
-__kapa'__	_v._	ignore; disregard; pay no heed to			
+__kapa'__	/kapaɁ/ _v._	ignore; disregard; pay no heed to			
 
-__kapako he__	_adv._	everywhere			
+__kapako he__ /kapako he/	_adv._	everywhere			
 
-__kapanw__	_n._	witness				
+__kapanw__	/kapanɯ/ _n._	witness				
 
-__kapanw he__	_adv._	everything	[_syn._	amánw he]		
+__kapanw he__	/kapanɯ he/ _adv._	everything	[_syn._	amánw he]		
 
-__kape'__	_adj._	transparent; translucent; obvious; evident	[_syn._	kape'-kase']	[_v._	see through]
+__kape'__	/kapeɁ/ _adj._	transparent; translucent; obvious; evident	[_syn._	kape'-kase']	[_v._	see through]
 
-__kapi__	_v._	eat up; finish eating			
+__kapi__	/kapi/ _v._	eat up; finish eating			
 
-__kapu__	_adj._	similar; identical	[_syn._	kapu-kalu]		
+__kapu__	/kapu/ _adj._	similar; identical	[_syn._	kapu-kalu]		
 
-__kapuñ__	_adj._	strange; bizzare				
+__kapuñ__	/kapũ/ _adj._	strange; bizzare				
 
-__kapyo__	_adj._	good looking; beautiful	[_ant._	karu]		
+__kapyo__	/kapjo/ _adj._	good looking; beautiful	[_ant._	karu]		
 
-__kapyó__	_adj._	first				
+__kapyó__	/kapjó/ _adj._	first				
 
-__kapyója'pa__	_adv._	firstly				
+__kapyója'pa__	/kapjóɟaɁpa/ _adv._	firstly				
 
-__kaqu__	_v._	differentiate; distinguish; tell apart			
+__kaqu__	/kaŋu/ _v._	differentiate; distinguish; tell apart			
 
-__kaqu-kare__	_v._	discriminate; be biased against; be prejudiced against		
+__kaqu-kare__	/kaŋu-kare/ _v._	discriminate; be biased against; be prejudiced against		
 
-__kar__	_vr._	emerge (of the moon)			
+__kar__	/kar/ _vr._	emerge (of the moon)			
 
-__kàr__	_vr._	roll (esp. a mat)				
+__kàr__	/kàr/ _vr._	roll (esp. a mat)				
 
-__karbyañ__	_adj._	full (of the moon)	[_syn._	harbyañ]		
+__karbyañ__	/karbjã/ _adj._	full (of the moon)	[_syn._	harbyañ]		
 
-__karda-byazi alo__	_n._	Friday			
+__karda-byazi alo__	/karda-bjaɲi alo/ _n._	Friday			
 
 __kariñ__	_v._	envy; be jealous				
 
