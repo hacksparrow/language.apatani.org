@@ -330,131 +330,131 @@ __kolò__	/kolò/ _n._	the day before yesterday
 
 __kolò lohe__ /kolò lohe/	_n._	two days back		
 
-__komañ__	_adj._	dark (esp. to describe shades of color)		
+__komañ__	/komã/ _adj._	dark (esp. to describe shades of color)		
 
-__komla twqá__	_n._	orange	[_or._	Assamese]
+__komla twqá__	/komla tɯŋá/ _n._	orange	[_or._	Assamese]
 
-__kompyutar__	_n._	computer	[_or._	English]
+__kompyutar__	/kompjutar/ _n._	computer	[_or._	English]
 
-__koñci__	_n._	dawn		
+__koñci__	/kõci/ _n._	dawn		
 
-__koñcì__	_n._	dragonfly	[_syn._	goñcì]
+__koñcì__	/kõcì/ _n._	dragonfly	[_syn._	goñcì]
 
-__koñci patañ__	_n._	labour gang that works early in the morning		
+__koñci patañ__	/kõci patã/ _n._	labour gang that works early in the morning		
 
-__koñda__	_n._	tommorow morning		
+__koñda__	/kõda/ _n._	tommorow morning		
 
-__koñdi appú__	_n._	peach flower		
+__koñdi appú__	/kõdi appú/ _n._	peach flower		
 
-__kone__	_num._	one		
+__kone__	/kone/ _num._	one		
 
-__kone abi'__	_pron._	everyone		
+__kone abi'__	/kone abiɁ/ _pron._	everyone		
 
-__kone kone__	_n._	one by one		
+__kone kone__	/kone kone/ _n._	one by one		
 
-__kone koñtw__	_adv._	only one; lonely	[_syn._	akó koñtw]
+__kone koñtw__	/kone kõtɯ/ _adv._	only one; lonely	[_syn._	akó koñtw]
 
-__koñtw__	_part._	only		
+__koñtw__	/kõtɯ/ _part._	only		
 
-__kóo__	_vr._	move the hips, as when closing a door with the hands full or bumping against someone	
+__kóo__	/kóo/ _vr._	move the hips, as when closing a door with the hands full or bumping against someone	
 
-__kóò__	_n._	son				
+__kóò__	/kóò/ _n._	son				
 
-__kóò bo__	_n._	nephew				
+__kóò bo__	/kóò bo/ _n._	nephew				
 
-__koode koode__	_adv._	waddling, of gait				
+__koode koode__	/koode koode/ _adv._	waddling, of gait				
 
-__koofa__	_v._	limp				
+__koofa__	/kooʎa/ _v._	limp				
 
-__koofañ__	_adj._	round	[_ant._	koofo']		
+__koofañ__	/kooʎã/ _adj._	round	[_ant._	koofo']		
 
-__koofiñ__	_n._	the evening before the last				
+__koofiñ__	/kooʎĩ/ _n._	the evening before the last				
 
-__koofo'__	_adj._	not rounded; uneven	[_ant._ 	koofañ]		
+__koofo'__	/kooʎoɁ/ _adj._	not rounded; uneven	[_ant._ 	koofañ]		
 
-__koogá__	_v._	spread one's legs	[_syn._	pagá]	[_ant._	kooju']
+__koogá__	/koogá/ _v._	spread one's legs	[_syn._	pagá]	[_ant._	kooju']
 
-__kooga'__	_n._	occiput; back of the head				
+__kooga'__	/koogaɁ/ _n._	occiput; back of the head				
 
-__kooju'__	_v._	hold one's legs together	[_ant._	kooga']	
+__kooju'__	/kooɟuɁ/ _v._	hold one's legs together	[_ant._	kooga']	
 
-__kooló__	_n._	iliac crest				
+__kooló__	/kooló/ _n._	iliac crest				
 
-__koopu'__	_v._	sprain	[_var._	kopw']		
+__koopu'__	/koopuɁ/ _v._	sprain	[_var._	kopw']		
 
-__koopw'__	_v._	sprain	[_var._	koopu']		
+__koopw'__	/koopɯɁ/ _v._	sprain	[_var._	koopu']		
 
-__koopya__	_n._	lower back				
+__koopya__	/kopja/ _n._	lower back				
 
-__kooro'__	_n._	a traditional relationship on the maternal side whom a portion of meat from sacrificial animal is offered				
+__kooro'__	/kooroɁ/ _n._	a traditional relationship on the maternal side whom a portion of meat from sacrificial animal is offered				
 
-__koota'__	_n._	buttock				
+__koota'__	/kootaɁ/ _n._	buttock				
 
-__kootú__	_v._	stand in a stooping posture		
+__kootú__	/kootú/ _v._	stand in a stooping posture		
 
-__kooxe' alló__	_n._	ilium bone		
+__kooxe' alló__	/kooxeɁ alló/ _n._	ilium bone		
 
-__kooyo__	_n._	the night before the last		
+__kooyo__	/koojo/ _n._	the night before the last		
 
-__kopa'__	_v._	throw away (from the mouth)		
+__kopa'__	/kopaɁ/ _v._	throw away (from the mouth)		
 
-__kopw__	_adj._	place or lie breadthwise; breadthwise position	[_ant._	koso]
+__kopw__	/kopɯ/ _adj._	place or lie breadthwise; breadthwise position	[_ant._	koso]
 
-__koq__	_num._	one		
+__koq__	/koŋ/ _num._	one		
 
-__koq kolò__	_n._	four days back		
+__koq kolò__	/koŋ kolò/ _n._	four days back		
 
-__koq kozañ__	_n._	four years back		
+__koq kozañ__	/koŋ koɲã/ _n._	four years back		
 
-__kordu__	_n._	way of wearing a cloth		
+__kordu__	/kordu/ _n._	way of wearing a cloth		
 
-__kore-kore__	_adv._	with short quick steps		
+__kore-kore__	/kore-kore/ _adv._	with short quick steps		
 
-__korlañ__	_n._	thunderbolt; ritual performed to prevent thunderbolt	
+__korlañ__	/korlã/ _n._	thunderbolt; ritual performed to prevent thunderbolt	
 
-__kormo__	_n._	seed		
+__kormo__	/kormo/ _n._	seed		
 
-__kormu__	_n._	grasshopper	[_var._	kurmu]
+__kormu__	/kormu/ _n._	grasshopper	[_var._	kurmu]
 
-__koro__	_n._	saw	[_syn._	aarí]
+__koro__	/koro/ _n._	saw	[_syn._	aarí]
 
-__korò__	_n._	the morning before the last		
+__korò__	/korò/ _n._	the morning before the last		
 
-__kortú__	_n._	metal capping at the end of the handle of a ceremonial sword (ci'rì)		
+__kortú__	/kortú/ _n._	metal capping at the end of the handle of a ceremonial sword (ci'rì)		
 
-__korw'__	_v._	carry a baby on the chest		
+__korw'__	/korɯɁ/ _v._	carry a baby on the chest		
 
-__kosi' kofi__	_adv._	wriggle restlessly		
+__kosi' kofi__	/kosiɁ koʎi/ _adv._	wriggle restlessly		
 
-__kosi' kosi'__	_pron._	one after the other		
+__kosi' kosi'__	/kosiɁ kosiɁ/ _pron._	one after the other		
 
-__koso__	_adj._	lengthwise; placed lengthwise	[_ant._	kopw]
+__koso__	/koso/ _adj._	lengthwise; placed lengthwise	[_ant._	kopw]
 
-__kotvr__	_n._	bamboo sticks used as counters		
+__kotvr__	/kotǝr/ _n._	bamboo sticks used as counters		
 
-__koyu__	_n._	anus	[_syn._	iyu]
+__koyu__	/koju/ _n._	anus	[_syn._	iyu]
 
-__koyu tapyo__	_n._	coccyx; tail bone		
+__koyu tapyo__	/koju papjo/ _n._	coccyx; tail bone		
 
-__koyuñ__	_adv._	thrusting movement of hips		
+__koyuñ__	/kojũ/ _adv._	thrusting movement of hips		
 
-__kozañ__	_n._	the year before last; two years ago		
+__kozañ__	/koɲã/ _n._	the year before last; two years ago		
 
-__kozañ zaqe__	_n._	three years back		
+__kozañ zaqe__	/koɲã ɲaŋe/ _n._	three years back		
 
-__ku__	_vr._	ask for; beg; seek; request; solicit		
+__ku__	/ku/ _vr._	ask for; beg; seek; request; solicit		
 
-__ku'bañ__	_v._	keep something, esp. a container, upside down		
+__ku'bañ__	/kuɁbã/ _v._	keep something, esp. a container, upside down		
 
-__kubu__	_n._	rat; mouse		
+__kubu__	/kubu/ _n._	rat; mouse		
 
-__kucì__	_adj._	near	[_syn._	pwtì]
+__kucì__	/kuci/ _adj._	near	[_syn._	pwtì]
 
-__kukufu hamañ__	_n._	a variety of wild vegetable (_Artemisia indica_)		
+__kukufu hamañ__	/kukuʎu hamã/ _n._	a variety of wild vegetable (_Artemisia indica_)		
 
-__kulu__	_n._	banana tree	[_syn._	kulu sanw]
+__kulu__	/kulu/ _n._	banana tree	[_syn._	kulu sanw]
 
-__kumpa'__	_v._	throw away (esp. from a container)		
+__kumpa'__	/kumpaɁ/ _v._	throw away (esp. from a container)		
 
 __kumur__	_n._	grasshopper	[_var._	kurmu]
 
