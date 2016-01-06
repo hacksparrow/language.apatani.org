@@ -154,83 +154,83 @@ __karbyañ__	/karbjã/ _adj._	full (of the moon)	[_syn._	harbyañ]
 
 __karda-byazi alo__	/karda-bjaɲi alo/ _n._	Friday			
 
-__kariñ__	_v._	envy; be jealous				
+__kariñ__	/karĩ/ _v._	envy; be jealous				
 
-__karmú__	_v._	look with anger or disapproval		
+__karmú__	/karmú/ _v._	look with anger or disapproval		
 
-__karo__	_v._	spy; peep				
+__karo__ /karo/	_v._	spy; peep				
 
-__karpa' pwlò__	_n._	second lunar month of the year; February	[_syn._	pagvr pwlò]	
+__karpa' pwlò__	/karpaɁ pɯlò/ _n._	second lunar month of the year; February	[_syn._	pagvr pwlò]	
 
-__karpo-popi alo__	_n._	Saturday
+__karpo-popi alo__ /karpo-popi alo/	_n._	Saturday
 
-__karpya'__	_v._	unroll				
+__karpya'__ /karpjaɁ/	_v._	unroll				
 
-__karsiñ__	_n._	kerosene	[_or._	Assamese]		
+__karsiñ__ /karsĩ/	_n._	kerosene	[_or._	Assamese]		
 
-__karu__	_adj._	ugly; unappealing; unsightly	[_ant._	kapyo]		
+__karu__	/karu/ _adj._	ugly; unappealing; unsightly	[_ant._	kapyo]		
 
-__karw__	_adj._	transparent; see through; translucent	[_syn._	karw-kasi]	
+__karv__	/karǝ/ _adj._	transparent; see through; translucent	[_syn._	karw-kasi]	
 
-__karw'__	_v._	meet; greet				
+__karw'__	/karɯɁ/ _v._	meet; greet				
 
-__kasi-kaha'__	_adj._	disagreeable; repulsive; unpleasant to see		
+__kasi-kaha'__	/kasi-kahaɁ/ _adj._	disagreeable; repulsive; unpleasant to see		
 
-__kasw-kape__	_v._	ignore; pay attention to				
+__kasw-kape__	/kasɯ-kape/ _v._	ignore; pay attention to				
 
-__katè__	_v._	visit; go to see; look around			
+__katè__	/katè/ _v._	visit; go to see; look around			
 
-__katì__	_v._	review; re-examine; re-evaluate		
+__katì__	/katì/ _v._	review; re-examine; re-evaluate		
 
-__katiñ__	_v._	compare; analogize to; equate to	
+__katiñ__	/katĩ/ _v._	compare; analogize to; equate to	
 
-__katu__	_v._	kick (as a cow does)				
+__katu__	/katu/ _v._	kick (as a cow does)				
 
-__katú__	_v._	watch from a distance			
+__katú__	/katú/ _v._	watch from a distance			
 
-__kaù__	_v._	envy; begrudge				
+__kaù__	/kaù/ _v._	envy; begrudge				
 
-__kaxa'__	_v._	disapprove something; dislike; reject			
+__kaxa'__	/kaxaɁ/ _v._	disapprove something; dislike; reject			
 
-__kaxa'-karì__	_v._	examine thoroughly; see in detail; finalize		
+__kaxa'-karì__	/kaxaɁ-karì/ _v._	examine thoroughly; see in detail; finalize		
 
-__kaxè__	_v._	look in anger				
+__kaxè__	/kaxè/ _v._	look in anger				
 
-__kaxwñ-kamwñ__	_adv._	look with confusion; unsatisfactory; disagreeable		
+__kaxwñ-kamwñ__	/kaxɯ̃-kamɯ̃/ _adv._	look with confusion; unsatisfactory; disagreeable		
 
-__ke__	_vr._	write		
+__ke__	/ke/ _vr._	write		
 
-__ke'__	_vr._	put on cloth (esp. blankets, quilts or shawls); cover; overspread; overlay	
+__ke'__	/keɁ/ _vr._	put on cloth (esp. blankets, quilts or shawls); cover; overspread; overlay	
 
-__ke'ba__	_v._	put cloth on somebody		
+__ke'ba__	/keɁba/ _v._	put cloth on somebody		
 
-__ke'ke__	_adj._	saturated; strong, of taste; thick		
+__ke'ke__	/keɁke/ _adj._	saturated; strong, of taste; thick		
 
-__ke'sí__	_n._	scissor	Or. 	Assamese
+__ke'sí__	/keɁsí/ _n._	scissor	Or. 	Assamese
 
-__ke'tiñ__	_n._	thatch		
+__ke'tiñ__	/keɁtĩ/ _n._	thatch		
 
-__keba'-kela__	_v._	hug or embrace in an intimate way; hug in a playful way		
+__keba'-kela__	/kebaɁ-kela / _v._	hug or embrace in an intimate way; hug in a playful way		
 
-__keciñ__	_v._	to know how to write		
+__keciñ__	/kecĩ/ _v._	to know how to write		
 
-__kedu__	_n._	an agricultural implement of short wooden digging stick used to make holes for planting paddy or millet		
+__kedu__	/kedu/ _n._	an agricultural implement of short wooden digging stick used to make holes for planting paddy or millet		
 
-__kee__	_vr._	rub (like a tobacco in the hand)		
+__kee__	/kee/ _vr._	rub (like a tobacco in the hand)		
 
-__kée__	_vr._	pole vault; jump with a pole		
+__kée__	/kée/ _vr._	pole vault; jump with a pole		
 
-__keele__	_n._	an agricultural implement of short pointed bamboo chisel used for weeding		
+__keele__	/keele/ _n._	an agricultural implement of short pointed bamboo chisel used for weeding		
 
-__keembe'__	_adj._	taste, as of spoilt fat; rancid	[_syn._	keeme']
+__keembe'__	/keembeɁ/ _adj._	taste, as of spoilt fat; rancid	[_syn._	keeme']
 
-__keeme'__	_adj._	taste, as of spoilt fat; rancid	[_syn._	keembe']
+__keeme'__	/keemeɁ/ _adj._	taste, as of spoilt fat; rancid	[_syn._	keembe']
 
-__keemw'__	_v._	rub into powder		
+__keemw'__	/keemɯɁ/ _v._	rub into powder		
 
-__keemw'__	_v._	crush by rubbing		
+__keemw'__	/keemɯɁ/ _v._	crush by rubbing		
 
-__keená__	_n._	black necked crane (_Grus nigricollis_)	[_var._	kenda]
+__keená__	// _n._	black necked crane (_Grus nigricollis_)	[_var._	kenda]
 
 __kekuru__	_n._	bulbul; nightingale		
 
