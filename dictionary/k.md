@@ -456,37 +456,37 @@ __kulu__	/kulu/ _n._	banana tree	[_syn._	kulu sanw]
 
 __kumpa'__	/kumpaɁ/ _v._	throw away (esp. from a container)		
 
-__kumur__	_n._	grasshopper	[_var._	kurmu]
+__kumur__	/kumur/ _n._	grasshopper	[_var._	kurmu]
 
-__kuñ__	_vr._	pour, esp. grains from one container to other		
+__kuñ__	/kũ/ _vr._	pour, esp. grains from one container to other		
 
-__kupyu'__	_v._	rinse (esp. a container like a pot)	[_syn._	kupyu' kusvr]
+__kupyu'__	/kupjuɁ/ _v._	rinse (esp. a container like a pot)	[_syn._	kupyu' kusvr]
 
-__kupyu' kusvr__	_v._	rinse, esp. a container like a pot	[_syn._	kupyu']
+__kupyu' kusvr__	/kupjuɁ kusǝr/ _v._	rinse, esp. a container like a pot	[_syn._	kupyu']
 
-__kurmu__	_n._	grasshopper	[_var._	kormu]
+__kurmu__	/kurmu/ _n._	grasshopper	[_var._	kormu]
 
-__kursi__	_n._	chair	or.	Assamese
+__kursi__	/kursi/ _n._	chair	or.	Assamese
 
-__kusu'__	_n._	hay; straw	[_syn._	lwsi']
+__kusu'__	/kusuɁ/ _n._	hay; straw	[_syn._	lwsi']
 
-__kut tarw__	_n._	coat	[_or._	English]
+__kut tarw__	/kut tarɯ/ _n._	coat	[_or._	English]
 
-__kuti__	_n._	poker of wood or bamboo		
+__kuti__	/kuti/ _n._	poker of wood or bamboo		
 
-__kutiñ__	_n._	traditional relationship 		
+__kutiñ__	/kutĩ/ _n._	traditional relationship 		
 
-__kutu__	_n._	oil; pig fat used as hair oil		
+__kutu__	/kutu/ _n._	oil; pig fat used as hair oil		
 
-__kuu__	_vr._	throw; hurl		
+__kuu__	/kuu/ _vr._	throw; hurl		
 
-__kuupa'__	_v._	throw away		
+__kuupa'__	/kuupaɁ/ _v._	throw away		
 
-__kv__	_int._	okay; yes; affirmative interjection	
+__kv__	/kǝ/ _int._	okay; yes; affirmative interjection	
 
-__kv__	_int._	interjection to draw attention		
+__kv__	/kǝ/ _int._	interjection to draw attention		
 
-__kvrv talo__	_n._	mirror	[_syn._	karo talo; kako yalo; kvlo yalo, kwrv talo]
+__kvrv talo__	/kǝrǝ  talo/ _n._	mirror	[_syn._	karo talo; kako yalo; kvlo yalo, kwrv talo]
 
 __kw__	_v._	punch; jab		
 
