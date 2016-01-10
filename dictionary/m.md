@@ -6,70 +6,70 @@ devanagari: म
 ipa: m
 ---
 
-__ma__	_int._	no; exclamation for negative response (esp. to a request or order)
+__ma__	/ma/ _int._	no; exclamation for negative response (esp. to a request or order)
 
 
-__ma'bo__	_n._	son in law (term of reference)				
+__ma'bo__	/maɁbo/ _n._	son in law (term of reference)				
 
 
-__ma'lañ__	_n._	many; numerous; abundant				
+__ma'lañ__	/maɁlã/ _n._	many; numerous; abundant				
 
 
-__ma'lo__	_conj._	either; or				
+__ma'lo__	/maɁlo/ _conj._	either; or				
 
 
-__maañ__	_vr._	creep;  grow along the ground or other surface by means of extending stems or branches (as creepers do)				
+__maañ__	/maã/ _vr._	creep;  grow along the ground or other surface by means of extending stems or branches (as creepers do)				
 
 
-__magù__	_v._	bellow as an expression of distress				
+__magù__	/magù/ _v._	bellow as an expression of distress				
 
 
-__mah__	_int._	no; exclamation for negative response to a question				
+__mah__	/mah/ _int._	no; exclamation for negative response to a question				
 
 
-__maji__	_n._	Tibetan bell without clapper used as a barter item				
+__maji__	/maji/ _n._	Tibetan bell without clapper used as a barter item				
 
 
-__male__	_n._	luggage; load; baggage				
+__male__	/male/ _n._	luggage; load; baggage				
 
 
-__male ba'nw__	_n._	porter; carrier				
+__male ba'nw__	/male baɁnɯ/ _n._	porter; carrier				
 
 
-__malo__	_n._	roof of a house				
+__malo__	/malo/ _n._	roof of a house				
 
 
-__malo-kalo__	_adv._	please; pray				
+__malo-kalo__	/malo-kalo/ _adv._	please; pray				
 
 
-__maló__	_adj._	big; huge; renowned				
+__maló__	/maló/ _adj._	big; huge; renowned				
 
 
-__mañ__	_vr._	finish a building; put roof on a building				
+__mañ__	/mã/ _vr._	finish a building; put roof on a building				
 
 
-__mañpo__	_n._	roof covering				
+__mañpo__ /mãpo/	_n._	roof covering				
 
 
-__manw peruñ__	_n._	a variety of bean; French bean				
+__manw peruñ__ /manɯ perũ/	_n._	a variety of bean; French bean				
 
 
-__marbolu__	_n._	marble	[_or._	English]
+__marbolu__	/marbolu/ _n._	marble	[_or._	English]
 
 
-__marlañ__	_n._	rust	[_syn._	harti]
+__marlañ__	/marlã/ _n._	rust	[_syn._	harti]
 
 
-__marpu__	_n._	cornsilk		
+__marpu__	/marpu/ _n._	cornsilk		
 
 
-__martul__	_n._	hammer	[_or._	Assamese]
+__martul__	/martul/ _n._	hammer	[_or._	Assamese]
 
 
-__mata'__	_adj._	flat	[_syn._	me'ta']
+__mata'__	/mataɁ/ _adj._	flat	[_syn._	me'ta']
 
 
-__mata' peruñ__	_n._	a variety of bean		
+__mata' peruñ__	/mataɁ perũ/ _n._	a variety of bean		
 
 
 __mazañ__	_n._	traditional friend from other tribe		
