@@ -488,65 +488,65 @@ __kv__	/kǝ/ _int._	interjection to draw attention
 
 __kvrv talo__	/kǝrǝ  talo/ _n._	mirror	[_syn._	karo talo; kako yalo; kvlo yalo, kwrv talo]
 
-__kw__	_v._	punch; jab		
+__kw__	/kɯ/ _v._	punch; jab		
 
-__kwbyo'__	_v._	flash; sparkle		
+__kwbyo'__ /kɯbjoɁ/	_v._	flash; sparkle		
 
-__kwce__	_v._	break by hitting or punching		
+__kwce__	/kɯce/ _v._	break by hitting or punching		
 
-__kwcè__	_n._	small bamboo cup used for measuring rice or millet	
+__kwcè__	/kɯcè/ _n._	small bamboo cup used for measuring rice or millet	
 
-__kwci'__	_v._	hiccup		
+__kwci'__	/kɯciɁ/ _v._	hiccup		
 
-__kwdi__	_n._	soil		
+__kwdi__	/kɯdi/ _n._	soil		
 
-__kwdi payu__	_n._	glue obtained from a variety of tuber	
+__kwdi payu__	/kɯdi paju/ _n._	glue obtained from a variety of tuber	
 
-__kwdi swbi__	_n._	serrow		
+__kwdi swbi__	/kɯdi swbi/ _n._	serrow		
 
-__kwdiñ__	_v._	knock; bang; thump		
+__kwdiñ__	/kɯdĩ/ _v._	knock; bang; thump		
 
-__kwfañ kwlo'__	_adj._	shining; sparkling; glittering	
+__kwfañ kwlo'__	/kɯʎĩ kɯloɁ/ _adj._	shining; sparkling; glittering	
 
-__kwjiñ__	_v._	stretch on tiptoe		
+__kwjiñ__	/kɯɟĩ/ _v._	stretch on tiptoe		
 
-__kwjv__	_int._	interjection of calling "lets go"	
+__kwjv__	/kɯɟǝ/ _int._	interjection of calling "lets go"	
 
-__kwjvr__	_v._	brandish; weild; flaunt		
+__kwjvr__	/kɯɟǝr/ _v._	brandish; weild; flaunt		
 
-__kwla kwla__	_adj._	eyes wide open		
+__kwla kwla__	/kɯla kɯla/ _adj._	eyes wide open		
 
-__kwle__	_n._	river		
+__kwle__	/kɯle/ _n._	river		
 
-__kwlè__	_n._	tobacco leaves, esp. fresh ones	[_syn._	muku]
+__kwlè__	/kɯlè/ _n._	tobacco leaves, esp. fresh ones	[_syn._	muku]
 
-__kwle pemu__	_n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle peñbu]
+__kwle pemu__	/kɯle pemu/ _n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle peñbu]
 
-__kwle peñbu__	_n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle pemu]
+__kwle peñbu__	/kɯle pẽbu/ _n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle pemu]
 
-__kwle tofo'__	_n._	sweet flag; a variety of flowering plants that grow along river banks and marshy places (_Acorus calamus_)		
+__kwle tofo'__	/kɯle toʎoɁ/ _n._	sweet flag; a variety of flowering plants that grow along river banks and marshy places (_Acorus calamus_)		
 
-__kwliñ__	_n._	back; rear		
+__kwliñ__	/kɯlĩ/ _n._	back; rear		
 
-__kwliñ__	_pron._	whatever		
+__kwliñ__ /kɯlĩ/	_pron._	whatever		
 
-__kwlo' kwlo'__	_adj._	glossy		
+__kwlo' kwlo'__ /kɯloɁ kɯloɁ/	_adj._	glossy		
 
-__kwmè__	_n._	poison (esp. of snake); snake venom	[_var._	kwmì]
+__kwmè__	/kɯmè/ _n._	poison (esp. of snake); snake venom	[_var._	kwmì]
 
-__kwmì__	_n._	poison (esp. of snake); snake venom	[_var._	kwmè]
+__kwmì__ /kɯmi/	_n._	poison (esp. of snake); snake venom	[_var._	kwmè]
 
-__kwmiñ talo__	_n._	a variety of brass plate		
+__kwmiñ talo__ /kɯmĩ talo/	_n._	a variety of brass plate		
 
-__kwmvr__	_n._	a person who castrates pigs	[_syn._	kenná]
+__kwmvr__	/kɯmǝr/ _n._	a person who castrates pigs	[_syn._	kenná]
 
-__kwpa'__	_n._	banana	[_syn._	kwpa' ahì]
+__kwpa'__	/kɯpaɁ/ _n._	banana	[_syn._	kwpa' ahì]
 
-__kwpa' ahì__	_n._	banana	[_syn._	kwpa']
+__kwpa' ahì__	/kɯpaɁ ahì/ _n._	banana	[_syn._	kwpa']
 
-__kwra__	_n._	a variety of tree; oak tree (_Lithocarpus dealbata_)	
+__kwra__	/kɯra/ _n._	a variety of tree; oak tree (_Lithocarpus dealbata_)	
 
-__kwra raadu__	_n._	chestnut		
+__kwra raadu__ /kɯra raadu/	_n._	chestnut		
 
 __kwrañ__	_adj._	hardworking; often		
 
