@@ -548,22 +548,22 @@ __kwra__	/kɯra/ _n._	a variety of tree; oak tree (_Lithocarpus dealbata_)
 
 __kwra raadu__ /kɯra raadu/	_n._	chestnut		
 
-__kwrañ__	_adj._	hardworking; often		
+__kwrañ__	/kɯrã/ _adj._	hardworking; often		
 
-__kwri__	_n._	business; trade; merchandising; transaction		
+__kwri__	/kɯri/ _n._	business; trade; merchandising; transaction		
 
-__kwri du'__	_v._	broker; market		
+__kwri du'__ /kɯri duɁ/	_v._	broker; market		
 
-__kwri du'nw__	_n._	businessman;  broker; agent; middleman	[_syn._	kwrí inw; kwri harnw]
+__kwri du'nw__ /kɯri duɁnɯ/	_n._	businessman;  broker; agent; middleman	[_syn._	kwrí inw; kwri harnw]
 
-__kwri harnw__	_n._	businessman;  broker; agent; middleman	[_syn._	kwri du'nw]
+__kwri harnw__	/kɯri harnɯ/ _n._	businessman;  broker; agent; middleman	[_syn._	kwri du'nw]
 
-__kwri pamyo__	_n._	business management		
+__kwri pamyo__	/kɯri pamjo/ _n._	business management		
 
-__kwsañ-kwsò__	_n._	a variety of semi-aquatic mammal		
+__kwsañ-kwsò__	/kɯsã-kɯsò/ _n._	a variety of semi-aquatic mammal		
 
-__kwta'__	_v._	suffice; be adequate; be enough; meet requirements		
+__kwta'__	/kɯtaɁ/ _v._	suffice; be adequate; be enough; meet requirements		
 
-__kwte'__	_v._	knock down by punching		
+__kwte'__	/kɯteɁ/ _v._	knock down by punching		
 
-__kwzi'__	_adj._	cruel; brutal; fiendish; ruthless		
+__kwzi'__	/kɯɲiɁ/ _adj._	cruel; brutal; fiendish; ruthless		
