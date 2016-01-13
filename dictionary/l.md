@@ -88,49 +88,49 @@ __la'ta__	/laɁta/ _v._	open the hand; unclench the fist
 
 __la'ta'__	/laɁtaɁ/ _n._	short stick usually used as a weapon for beating or throwing		
 
-__la'tiñ__	// _adv._	forcefully; with strength		
+__la'tiñ__	/laɁtĩ/ _adv._	forcefully; with strength		
 
-__la'xwñ__	_n._	dirt on the hands		
+__la'xwñ__	/laɁxɯ̃ / _n._	dirt on the hands		
 
-__laa__	_vr._	take; grasp; cluth		
+__laa__	/laa/ _vr._	take; grasp; cluth		
 
-__laako__	_n._	a crossed stick in front of the entrance to signify the performance of a ritual in the household	
+__laako__ /laako/	_n._	a crossed stick in front of the entrance to signify the performance of a ritual in the household	
 
-__laako'__	_v._	open	[_ant._	laapiñ]
+__laako'__	/laakoɁ̃/ _v._	open	[_ant._	laapiñ]
 
-__laakur__	_v._	take back		
+__laakur__	/laakur/ _v._	take back		
 
-__laaliñ__	_v._	take out	
+__laaliñ__	/laalĩ/ _v._	take out	
 
-__laama__	_adj._	few; not many	[_syn._	ice]
+__laama__	/laama/ _adj._	few; not many	[_syn._	ice]
 
-__laapiñ__	_v._	close with a lid	[_ant._	laako']
+__laapiñ__	/laapĩ/ _v._	close with a lid	[_ant._	laako']
 
-__laapyó__	_v._	steal (by taking with hands)		
+__laapyó__	/laapjó/ _v._	steal (by taking with hands)		
 
-__laatu__	_v._	catch; seize; intercept		
+__laatu__	/laatu/ _v._	catch; seize; intercept		
 
-__laaxe'__	_v._	keep something upside down		
+__laaxe'__ /laaxeɁ/	_v._	keep something upside down		
 
-__lace__	_n._	a part of bride price which a close relative of the bride is entitled to		
+__lace__	/lace/ _n._	a part of bride price which a close relative of the bride is entitled to		
 
-__lai__	_n._	torch	_Or._ 	English (light)
+__lai__	/lai/ _n._	torch	_Or._ 	English (light)
 
-__lake__	_v._	to cross legs		
+__lake__	/lake/ _v._	to cross legs		
 
-__lako-lape__	_v._	exchange; interchange; keep something in disorderly fashion		
+__lako-lape__	/lako-lape/ _v._	exchange; interchange; keep something in disorderly fashion		
 
-__lalala__	_conj._	then; and then		
+__lalala__	/lalala/ _conj._	then; and then		
 
-__laliñ__	_n._	footprint		
+__laliñ__	/lalĩ/_n._	footprint		
 
-__lama__	_adj._	few; some; scant; meagre	[_syn._	icu;] ice
+__lama__	/lama/ _adj._	few; some; scant; meagre	[_syn._	icu;] ice
 
-__lamu'-layu__	_adj._	pinkish (color)		
+__lamu'-layu__	/lamuɁ-laju/ _adj._	pinkish (color)		
 
-__lañ__	_vr._	move (esp. of head)		
+__lañ__	/lã/ _vr._	move (esp. of head)		
 
-__lañcañ__	_adj._	red		
+__lañcañ__ /lãcã/	_adj._	red		
 
 __lañcu__	_n._	goiter; hump		
 
