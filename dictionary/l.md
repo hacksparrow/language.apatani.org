@@ -6,27 +6,27 @@ devanagari: ल
 ipa: l
 ---
 
-__la__	_conj._	and		
+__la__ /la/	_conj._	and		
 
-__la'bi'__	_n._	dextral; right (side)	[_ant._	la'ci]
+__la'bi'__	/laɁbiɁ/ _n._	dextral; right (side)	[_ant._	la'ci]
 
-__la'bú__	_n._	sleeve; part of a garment that covers the arms	
+__la'bú__	/laɁbú/ _n._	sleeve; part of a garment that covers the arms	
 
-__la'bu__	_v._	quickly wash one's hand		
+__la'bu__	/laɁbu/ _v._	quickly wash one's hand		
 
-__la'ca__	_n._	handicap of the hand; disability of the hand	
+__la'ca__	/laɁca/ _n._	handicap of the hand; disability of the hand	
 
-__la'cañ__	_n._	ring				
+__la'cañ__	/laɁcã/ _n._	ring				
 
-__la'ci__	_n._	sinistral; left (side)	[_syn._	la'ku]	[ant.	la'bi]'
+__la'ci__	/laɁci/ _n._	sinistral; left (side)	[_syn._	la'ku]	[ant.	la'bi]'
 
-__la'ci ala'__	_n._	left hand				
+__la'ci ala'__	/laɁci alaɁ/ _n._	left hand				
 
-__la'ci'__	_n._	finger				
+__la'ci'__	/laɁciɁ/ _n._	finger				
 
-__la'ci' haza__	_n._	small finger			
+__la'ci' haza__	// _n._	small finger			
 
-__la'ci' lwpa__	_n._	middle finger			
+__la'ci' lwpa__	// _n._	middle finger			
 
 __la'du__	_n._	a forearm apan; a unit of measurement equivalent to the length of a forearm	
 
