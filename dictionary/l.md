@@ -132,88 +132,88 @@ __lañ__	/lã/ _vr._	move (esp. of head)
 
 __lañcañ__ /lãcã/	_adj._	red		
 
-__lañcu__	_n._	goiter; hump		
+__lañcu__	/lãcu/ _n._	goiter; hump		
 
-__lañgya__	_adj._	(dog) with a white neck		
+__lañgya__	/lãgja/ _adj._	(dog) with a white neck		
 
-__lañhiñ__	_num._	three hundred		
+__lañhiñ__	/lãhĩ/ _num._	three hundred		
 
-__lañjañ__	_n._	base of the head; nape of the neck	
+__lañjañ__	/lãɟã/ _n._	base of the head; nape of the neck	
 
-__lañku__	_adj._	tilted, esp. the head	[_Or._	láañ (from láaqú) + kù]
+__lañku__	/lãku/ _adj._	tilted, esp. the head	[_Or._	láañ (from láaqú) + kù]
 
-__lañpa'__	_v._	ostracise; vanish; drive out		
+__lañpa'__	/lãpaɁ/ _v._	ostracise; vanish; drive out		
 
-__lañpiñ__	_n._	nape of the neck		
+__lañpiñ__	/lãpĩ/ _n._	nape of the neck		
 
-__lañpru__	_n._	a protective armor, usually of cloth covering the neck	
+__lañpru__	/lãpru/ _n._	a protective armor, usually of cloth covering the neck	
 
-__lañpw'__	_n._	shelter; camp (esp. in the jungles)		
+__lañpw'__	/lãpɯɁ/ _n._	shelter; camp (esp. in the jungles)		
 
-__lañxa__	_n._	coop, as for poultry; shelter, as of a hunter in the tree		
+__lañxa__	/lãxa/ _n._	coop, as for poultry; shelter, as of a hunter in the tree		
 
-__laqe__	_num._	hundred		
+__laqe__	/laŋe/ _num._	hundred		
 
-__laqu__	_n._	neck
+__laqu__	/laŋu/ _n._	neck
 
-__lar__	_vr._	challenge; bet		
+__lar__	/lar/ _vr._	challenge; bet		
 
-__laxw'__	_adj._	cold	[_Ant._	gubu']
+__laxw'__	/laxɯɁ/ _adj._	cold	[_Ant._	gubu']
 
-__le'__	_vr._	flap (of wing)		
+__le'__	/leɁ/ _vr._	flap (of wing)		
 
-__le'__	_vr._	lop off		
+__le'__	/leɁ/ _vr._	lop off		
 
-__le'be'__	_v._	flap (wings) with helplessness		
+__le'be'__ /leɁbeɁ/	_v._	flap (wings) with helplessness		
 
-__le'ca__	_n._	cane havershack covered with fibres from the bark of a particular tree worn during jungle expeditions or during war-related rituals		
+__le'ca__	/leɁca/ _n._	cane havershack covered with fibres from the bark of a particular tree worn during jungle expeditions or during war-related rituals		
 
-__le'pì__	_n._	Chinese green onion (Allium fistulosum)	[_syn._	tale'; twle']
+__le'pì__	/leɁpi/ _n._	Chinese green onion (Allium fistulosum)	[_syn._	tale'; twle']
 
 
-__le'ra__	_n._	cane havershack 		
+__le'ra__	/leɁra/ _n._	cane havershack 		
 
-__le'ta__	_v._	spread, as wing	[_syn._	le'tvr]
+__le'ta__	/leɁta/ _v._	spread, as wing	[_syn._	le'tvr]
 
-__le'ta'__	_n._	animal skin rug used as a mat		
+__le'ta'__	/leɁtaɁ/ _n._	animal skin rug used as a mat		
 
-__lebe__	_v._	be fed up of eating too much or too frequently of the same item		
+__lebe__	/lebe/ _v._	be fed up of eating too much or too frequently of the same item		
 
-__lebu__	_n._	agate bead		
+__lebu__	/lebu/ _n._	agate bead		
 
-__leko__	_v._	cross		
+__leko__	/leko/ _v._	cross		
 
-__lela'__	_adj._	fresh; new		
+__lela'__	/lelaɁ/ _adj._	fresh; new		
 
-__lemba__	_n._	village		
+__lemba__	/lemba/ _n._	village		
 
-__lembo__	_n._	road	[_var._	leñbo]
+__lembo__	/lembo/ _n._	road	[_var._	leñbo]
 
-__lembyañ-lerañ__	_n._	crossroad; an intersection of two or more roads		
+__lembyañ-lerañ__	/lembjã-lerã/ _n._	crossroad; an intersection of two or more roads		
 
-__leñ__	_vr._	filter; sieve; sift		
+__leñ__	/lẽ/ _vr._	filter; sieve; sift		
 
-__leñ__	_vr._	perish en masse, as do the wild bamboo after flowering	
+__leñ__	/lẽ/ _vr._	perish en masse, as do the wild bamboo after flowering	
 
-__leñ__	_vr._	collect, as honey		
+__leñ__	/lẽ/ _vr._	collect, as honey		
 
-__leñ__	_vr._	build ladder on a tree to climb it	
+__leñ__	/lẽ/ _vr._	build ladder on a tree to climb it	
 
-__leñbo__	_n._	road	[_var._	lembo]
+__leñbo__	/lẽbo/ _n._	road	[_var._	lembo]
 
-__leñda__	_n._	path		
+__leñda__	/lẽda/ _n._	path		
 
-__leqò__	_n._	lawn; front yard; space in the village		
+__leqò__	/leŋò/ _n._	lawn; front yard; space in the village		
 
-__leqò aji__	_n._	rice field near the village	[_ant._	jabyò aji]
+__leqò aji__	/leŋò aji/ _n._	rice field near the village	[_ant._	jabyò aji]
 
-__leyu__	_n._	a small path leading to a village		
+__leyu__	/leyu/ _n._	a small path leading to a village		
 
-__li__	_vr._	sow; seed; broadcast		
+__li__	// _vr._	sow; seed; broadcast		
 
-__li lilañ__	_n._	cicada (Cicadidae)		
+__li lilañ__	// _n._	cicada (Cicadidae)		
 
-__li'ki'-li'ko__	_adv._	showy; flirty		
+__li'ki'-li'ko__ //	_adv._	showy; flirty		
 
 __lii__	_vr._	challenge, as in potlatch		
 
