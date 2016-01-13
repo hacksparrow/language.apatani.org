@@ -24,73 +24,71 @@ __la'ci ala'__	/laɁci alaɁ/ _n._	left hand
 
 __la'ci'__	/laɁciɁ/ _n._	finger				
 
-__la'ci' haza__	// _n._	small finger			
+__la'ci' haza__	/laɁciɁ haɲa/ _n._	small finger			
 
-__la'ci' lwpa__	// _n._	middle finger			
+__la'ci' lwpa__	/laɁciɁ lɯpa/ _n._	middle finger			
 
-__la'du__	_n._	a forearm apan; a unit of measurement equivalent to the length of a forearm	
+__la'du__	/laɁdu/ _n._	a forearm apan; a unit of measurement equivalent to the length of a forearm	
 
-__la'du midiñ__	_n._	elbow	[_var._	la'du mwriñ]		
+__la'du midiñ__	/laɁdu midĩ/ _n._	elbow	[_var._	la'du mwriñ]		
 
-__la'du mwriñ__	_n._	elbow	[_var._	la'du midiñ]		
+__la'du mwriñ__	/laɁdu mɯrĩ/ _n._	elbow	[_var._	la'du midiñ]		
 
-__la'dw__	_n._	forefinger; a unit of measurement equivalent to the length of the outstretched thumb and forefinger	
+__la'dw__	/laɁdɯ/ _n._	forefinger; a unit of measurement equivalent to the length of the outstretched thumb and forefinger	
 
-__la'dw go'he__	_n._	one unit of la'dw, equivalent to the distance between outstretched thumb and forefinger		
+__la'dw go'he__ /laɁdɯ goɁhe/	_n._	one unit of la'dw, equivalent to the distance between outstretched thumb and forefinger		
 
-__la'ge'__	_n._	anticubital space		
+__la'ge'__	/laɁgeɁ/ _n._	anticubital space		
 
-__la'he__	_v._	beckon by waving the hand		
+__la'he__	/laɁhe/ _v._	beckon by waving the hand		
 
-__la'hiñ__	_n._	finger nail		
+__la'hiñ__	/laɁhĩ/ _n._	finger nail		
 
-__la'hw__	_n._	archer's wristband traditionally of human hair worn to protect the hand from injury by bow string		
+__la'hw__	/laɁhɯ/ _n._	archer's wristband traditionally of human hair worn to protect the hand from injury by bow string		
 
-__la'ke__	_v._	cross or fold one's arms		
+__la'ke__	/laɁke/ _v._	cross or fold one's arms		
 
-__la'ko__	_n._	button; an element of babo which is a horizontal stick on the body	
+__la'ko__	/laɁko/ _n._	button; an element of babo which is a horizontal stick on the body	
 
-__la'ku__	_adj._	sinistral; left (side)	[_syn._	la'ci]
+__la'ku__ /laɁku/	_adj._	sinistral; left (side)	[_syn._	la'ci]
 
-__la'ku' kvrv__	_n._	mole; a small burrowing insectivorous mammal 		
+__la'ku' kvrv__ /laɁkuɁ kǝrǝ/	_n._	mole; a small burrowing insectivorous mammal 		
 
-__la'nw__	_n._	thumb		
+__la'nw__	/laɁnɯ/ _n._	thumb		
 
-__la'pañ__	_n._	wooden community platform usually belonging to a clan		
+__la'pañ__	/laɁpã/ _n._	wooden community platform usually belonging to a clan		
 
-__la'pañ tuli__	_n._	post of là'pañ		
+__la'pañ tuli__	/laɁpã tuli/ _n._	post of là'pañ		
 
-__la'pi__	_v._	tap on the hand usually by a child to solicit a present		
+__la'pi__	/laɁpi/ _v._	tap on the hand usually by a child to solicit a present		
 
-__la'piñ__	_n._	back of the hand		
+__la'piñ__	// _n._	back of the hand		
 
-__la'pó__	_n._	upper arm		
+__la'pó__	// _n._	upper arm		
 
-__la'pó kupù__	_n._	biceps; muscle on the arm	
+__la'pó kupù__	// _n._	biceps; muscle on the arm	
 
-__la'pù__	_v._	close the hand to make a fist	_n._	closed fisted hand
+__la'pù__	// _v._	close the hand to make a fist	_n._	closed fisted hand
 
-__la'pyo__	_n._	palm		
+__la'pyo__	// _n._	palm		
 
-__la'qvr__	_n._	wrist		
+__la'qvr__	// _n._	wrist		
 
-__la'rañ__	_n._	a hoop earing worn by priests on ceremonial occasions		
+__la'rañ__	// _n._	a hoop earing worn by priests on ceremonial occasions		
 
-__la'riñ__	_n._	a hoop earring worn by women		
+__la'riñ__ //	_n._	a hoop earring worn by women		
 
-__la'siñ__	_n._	forearm		
+__la'siñ__	/laɁpĩ/ _n._	forearm		
 
-__la'so__	_n._	middle finger; a unit of measurement equivalent to the length of the outstretched thumb and middle
+__la'so__	/laɁso/ _n._	middle finger; a unit of measurement equivalent to the length of the outstretched thumb and middle finger	[_syn._	la'ci' lwpá]
 
-__finger__	syn.	la'ci' lwpá
+__la'so go'he__	/laɁso goɁhe/ _n._	one unit of la'so, equivalent to the distance between outstretched thumb and middle finger	
 
-__la'so go'he__	_n._	one unit of la'so, equivalent to the distance between outstretched thumb and middle finger	
+__la'ta__	/laɁta/ _v._	open the hand; unclench the fist		
 
-__la'ta__	_v._	open the hand; unclench the fist		
+__la'ta'__	/laɁtaɁ/ _n._	short stick usually used as a weapon for beating or throwing		
 
-__la'ta'__	_n._	short stick usually used as a weapon for beating or throwing		
-
-__la'tiñ__	_adv._	forcefully; with strength		
+__la'tiñ__	// _adv._	forcefully; with strength		
 
 __la'xwñ__	_n._	dirt on the hands		
 
