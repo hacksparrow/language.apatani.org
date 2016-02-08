@@ -32,7 +32,7 @@ __áamì__  /áamì/ _n._  cat
 
 __áamì atúu__	/áamì atúu/ _n._	kitten
     
-__aamw__  /aamɯ/ _n._  mango [_or._ Assamese]    
+__aamw__  /aamɨ/ _n._  mango [_or._ Assamese]    
   
 __aapu kai__  /aapu kai/ _n._  showy; ostentatious (person)      
   
@@ -88,9 +88,9 @@ __abù__ /abù/ _adj._  many; numerous; a lot of; plenty of
   
 __abu-ake'__ /abu-akeɁ/ _n._  manure; fertilizer        
   
-__abu'__  /abuɁ/ _v._  coddled; pampered [_adv._  abu'swla]    
+__abu'__  /abuɁ/ _v._  coddled; pampered [_adv._  abu'sɨla]    
   
-__abu'swla__ /abuɁsɯla/ _adv._  indulgently       
+__abu'swla__ /abuɁsɨla/ _adv._  indulgently       
   
 __abúr__  /abúr/ _adj._  unlucky; unfortunate; jinxed; ill-fated [_var._  abú; arbú] [_Ant._  aro']
   
@@ -156,7 +156,7 @@ __adiñ__  /adĩ/ _n._  head (anatomical) _Sww adiñ mi abañja' mi bidu._ [The 
 
 __adiñ ácì__ /adĩ ácì/	_n._	headache
 
-__adiñ ce'nw__	/adĩ ceɁnɯ/ _n._	barber
+__adiñ ce'nw__	/adĩ ceɁnɨ/ _n._	barber
 
 __adiñ dilañ__	/adĩ dilã/ _n._	grey or red hair
 
@@ -178,7 +178,7 @@ __afa'__  /aʎaɁ/ _v._  lick; lap
    
 __afañ__ /aʎã/ _num._  ten   
 
-__afañ pwfi__ /aʎã pɯʎi/	_num._	forty
+__afañ pwfi__ /aʎã pɨʎi/	_num._	forty
 
 __afañ xw__	/aʎã xɯ/ _num._	sixty
 
@@ -262,7 +262,7 @@ __aháa__  /aháa/ _n._  string; cord  [_syn._  agyú]
     
 __aháa__  /aháa/ _n._  heart       
     
-__aháa ahw'__ /aháa ahɯɁ/ _v._  forget; fail to remember   
+__aháa ahɨ'__ /aháa ahɯɁ/ _v._  forget; fail to remember   
     
 __aháa ba'__  /aháa baɁ/ _v._  hate; loathe; abhor    
 
@@ -312,13 +312,13 @@ __aíi hiipiñ__  /aíi hiipĩ/ _n._  feline jaw used to decorate a machete shea
    
 __ajań__  /aɟã/ _adj._  young; immature       
    
-__ajañ-bwzv__ /aɟã-bɯɲǝ/ _adj._  fragile; soft; tender       
+__ajañ-bɨzv__ /aɟã-bɯɲǝ/ _adj._  fragile; soft; tender       
    
 __ají__ /ají/ _n._  farm; wet agricultural field  
 
-__ají mwmw__ /aɟí mɯnɯ/	_n._	farmer
+__ají mɨmɨ__ /aɟí mɯnɯ/	_n._	farmer
 
-__ají pwhá__  /aɟí pɯhá/ _n._  small cane basket       
+__ají pɨhá__  /aɟí pɯhá/ _n._  small cane basket       
    
 __ají sampyá__ /aɟí sampjá/  _n._  tray, usually of wood, used to move soil from one part of the paddy field to the other   
    
@@ -328,7 +328,7 @@ __ajiñ__ /aɟĩ/  _n._  friend; company; mate [_v._  befriend]
    
 __ajiñ arañ__ /aɟĩ arã/ _n._  bossom friend; confidante; alter ego     
    
-__ajiñ-apw__  /aɟĩ-apɯ/ _n._  company; friendship       
+__ajiñ-apɨ__  /aɟĩ-apɯ/ _n._  company; friendship       
    
 __ajiñbò__  /aɟĩbò/ _n._  friend (used as both term of reference and address)       
    
@@ -368,7 +368,7 @@ __akì kíibò__ /akì kíiboò/ _n._  male dog
     
 __akì kíicú__ /akì kíicú/ _n._  puppy       
    
-__akì kíinw__ /akì kíinɯ/ _n._  bitch       
+__akì kíinw__ /akì kíinɨ/ _n._  bitch       
     
 __akì tadvr__ /akì tadǝr/ _n._  tape worm   
 
@@ -378,9 +378,9 @@ __akì talañ__	/akì talã/ _n._	dog of brownish color
 __akì tapúu__	/akì tapúu/ _n._	dog of white color
     
     
-__akì taxw__  /akì taxɯ/ _n._  flea  [_var._  akì twxè]    
+__akì taxw__  /akì taxɨ/ _n._  flea  [_var._  akì twxè]    
    
-__akì twxè__  /akì tɯxè/ _n._  flea  [_var._  akì taxw]    
+__akì twxè__  /akì tɨxè/ _n._  flea  [_var._  akì taxw]    
    
 __akì-paro'__ /akì-paroɁ/ _n._  domestic animals        
    
@@ -388,7 +388,7 @@ __akó__ /akó/ _num._  one; single
    
 __ákò__ /ákò/ _adj._  low; short        
    
-__akó koñtw'__  /akó kõtɯɁ/ _adj._  only one; alone [_adv._  akó koñtw']    
+__akó koñtw'__  /akó kõtɨɁ/ _adj._  only one; alone [_adv._  akó koñtw']    
    
 __akó-abi'__  /akó abiɁ/ _pron._ everyone; everybody; every person       
    
@@ -400,7 +400,7 @@ __ákoyá__ /akojá/ _pron._ something else
 
 __aku__ /aku/ _n._  uncle (esp. maternal) (Term of address) [_syn._  nakú]  
 
-__akw__	/akɯ/ _int._	interjection to express pain
+__akw__	/akɨ/ _int._	interjection to express pain
    
 __ala'__  /alaɁ/ _n._  hand        
     
@@ -420,14 +420,14 @@ __álì__ /alì/ _v._  plant
    
 __alì arañ__  /alì arã/ _n._  bottom; base; lower part        
    
-__alì innánw__ /alì innánɯ/ _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
+__alì innánw__ /alì innánɨ/ _n._  stilt; pair of pole equipped with footrest to enable a person to walk at a height from the ground          
 
 
 __ali lembo__ /ali lembo/ _n._  paved road  [_or._ Assamese]  
 
-__alì lwpiñ__	/alì lɯpĩ/ _n._	instep
+__alì lwpiñ__	/alì lɨpĩ/ _n._	instep
 
-__alì lwpyo__	/alì lɯpjo/ _n._	sole
+__alì lwpyo__	/alì lɨpjo/ _n._	sole
    
 __alíi__  /alíi/ _v._  bury        
    
@@ -449,7 +449,7 @@ __alo apiñ__	/alo apĩ/ _n._	lunch
    
 __alo kamyañ__  /alo kamjã/ _adj._  everyday; daily; commonplace        
    
-__alo lwpá__  /alo lɯpá/ _n._  noon        
+__alo lwpá__  /alo lɨpá/ _n._  noon        
    
 __alóo__  /alóo/ _n._  bamboo flooring support       
    
@@ -461,12 +461,12 @@ __aluñ__ /alũ/  _v._  surprise, shock
    
 __alvr__  /alǝr/ _adj._  hard; firm; rigid; strong [_syn._  arlv]    
    
-__alẃ__ /alɯ́/ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
+__alẃ__ /alɨ/ _n._  a part of upper arm of an animal; lineage to whom a part of upper arm of sacrificed animal is offered       
 
 
-__alw'__  /alɯɁ/ _v._  insert; put       
+__alw'__  /alɨɁ/ _v._  insert; put       
    
-__alw'__  /alɯɁ/ _v._  exchange; interchange; swap       
+__alw'__  /alɨɁ/ _v._  exchange; interchange; swap       
    
 __ama__ /ama/ _n._  mother (term of address)  [_syn._  ane]  
 
@@ -474,7 +474,7 @@ __ama'__	/amaɁ/ _v._	feed (esp. the hired laborers)
    
 __amañ__  /amã/ _n._  roof        
    
-__amánw__ /amánɯ/ _pron._ everything; each item       
+__amánw__ /amánɨ/ _pron._ everything; each item       
    
 __ámè__ /ámè/ _v._  mate        
    
@@ -522,11 +522,11 @@ __amú__ /amú/ _n._  lie; untruth; falsehood [_v._  to tell a lie]
    
 __amu pèeruñ__  /amu pèerũ/ _n._  a variety of bean [_syn._  po'tuñ pèeruñ]   
    
-__amẁ__ /amɯ̀/  _n._  daughter-in-law (term of address)       
+__amẁ__ /amɨ/  _n._  daughter-in-law (term of address)       
    
-__amw arwlò__  /amɯ arɯlò/ _int._  interjection to express hopelessness  [_syn._  lorw'lo]   
+__amw arwlò__  /amɨ arɨlò/ _int._  interjection to express hopelessness  [_syn._  lorw'lo]   
    
-__amw'__  /amɯɁ/ _adj._  small; tiny; fine [_ant._  árù]   
+__amw'__  /amɨɁ/ _adj._  small; tiny; fine [_ant._  árù]   
    
 __amya'__ /amjaɁ/ _n._  penis       
    
@@ -548,17 +548,17 @@ __anu__ /anu/ _n._  younger brother
    
 __anu-abañ__  /anu-abã/ _n._  brothers; sibling       
 
-__anw__ /anɯ/ _n._  leaf  [_syn._  yanw]
+__anw__ /anɨ/ _n._  leaf  [_syn._  yanw]
 
-__anẁ__ /anɯ̀/ _n._  mother (term of reference)        
+__anẁ__ /anɨ/ _n._  mother (term of reference)        
     
-__anẁ-aba__  /anɯ̀-aba  /  _n._  parent        
+__anẁ-aba__  /anɨ̀-aba  /  _n._  parent        
    
-__anẁ-ci__  /anɯ̀-ci  /  _n._  step mother       
+__anẁ-ci__  /anɨ̀-ci  /  _n._  step mother       
    
-__anw'__  /anɯɁ/ _v._  swallow; gulp down; ingest  [_var._  arnw']   
+__anw'__  /anɨɁ/ _v._  swallow; gulp down; ingest  [_var._  arnw']   
    
-__anw'__  /anɯɁ/ _adv._  hurry; haste; urgent        
+__anw'__  /anɨɁ/ _adv._  hurry; haste; urgent        
    
 __apa-ama__ /apa-ama/ _adj._  simple; artless; guileless; innocent        
    
@@ -586,7 +586,7 @@ __apiñ__  /apĩ/ _n._  cooked rice
 
 __apiñ ga'hiñ__	/apĩ gaɁhĩ/ _n._	ball of cooked rice
    
-__apiñ pwcañ__  /apĩ pɯcã/ _n._  pot for cooking rice        
+__apiñ pwcañ__  /apĩ pɨcã/ _n._  pot for cooking rice        
    
 __apó__ /apó/ _n._  body        
    
@@ -610,9 +610,9 @@ __apúu__  /apúu/ _n._  arrow
    
 __apvr__  /apǝr/ _n._  gallbladder       
    
-__apw__ /apɯ/ _n._  breadth       
+__apw__ /apɨ/ _n._  breadth       
    
-__apw-asó__ /apɯ-asó/ _n._  area; dimension       
+__apw-asó__ /apɨ-asó/ _n._  area; dimension       
    
 __apyáa__ /apjáa/ _n._  tracks made by small animals        
    
@@ -624,9 +624,9 @@ __apyuñ__ /apjũ/ _n._  bunch; cluster
    
 __aqa'__  /aŋaɁ/ _v._  tie into a bundle  
 
-__aqw__	/aŋɯ/ _int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
+__aqw__	/aŋɨ/ _int._	interjection to express indifference; let it be	[_syn._	aqw swco; aga swco]
 
-__aqw swco__ /aŋɯ sɯco/	_int._	interjection to express indifference; let it be	[_syn._	aqw; aga swco]
+__aqw swco__ /aŋɨ sɨco/	_int._	interjection to express indifference; let it be	[_syn._	aqw; aga swco]
    
 __ará__ /ará/ _adj._  empty; vacant; void       
    
@@ -638,7 +638,7 @@ __arañ__  /arã/ _n._  bottom (of a tree or a bamboo)
    
 __arañ__  /arã/ _adj._  close, of relation        
    
-__arañ nanw__ /arã nanɯ/ _n._  cork; bottle stopper; an object to seal a container       
+__arañ nanw__ /arã nanɨ/ _n._  cork; bottle stopper; an object to seal a container       
    
 __árbì__  /árbì/ _n._  portion of pork offered to wife's eldest living sister        
    
@@ -660,7 +660,7 @@ __arí__ /arí/ _n._  price; cost; charge
    
 __arì__ /arì/ _v._  demarcate; delimit; delineate       
    
-__arí-apw__ /arí-apɯ/ _n._  neighbourhood; locality       
+__arí-apw__ /arí-apɨ/ _n._  neighbourhood; locality       
 
 __ari'__  /ariɁ/ _v._  choke; retch        
    
@@ -684,7 +684,7 @@ __armyuñ__  /armjũ/ _v._  grow (as an offshoot) [_var._  amyuñ]
    
 __arná__  /arná/ _v._  choke       
    
-__arnw'__ /arnɯɁ/ _v._  swallow; gulp down; ingest  [_syn._  anw']    
+__arnw'__ /arnɨɁ/ _v._  swallow; gulp down; ingest  [_syn._  anw']    
    
 __arò__ /arò/ _n._  morning; daybreak  
 
@@ -700,7 +700,7 @@ __aro' paco__	/aroɁ paco/ _int._	expression of happiness; thank you
        
 __aróo__  /aróo/ _adj._  poor; destitute       
    
-__arpw__  /arpɯ/ _n._  bamboo crossbeam of a fence       
+__arpw__  /arpɨ/ _n._  bamboo crossbeam of a fence       
    
 __arrò__  /arrò/ _n._  vein, artery, nerve, tendon [_var._  argò]    
    
@@ -708,7 +708,7 @@ __arta'__ /artaɁ/ _n._  portion; segment; section
    
 __artiñ__ /artĩ/ _n._  scrotum       
    
-__artiñ bwliñ__ /artĩ bɯlĩ/ _n._  testicle  
+__artiñ bwliñ__ /artĩ bɨlĩ/ _n._  testicle  
    
 __artiñ ku__	/artĩ ku/ _v._	castrate
       
@@ -724,9 +724,9 @@ __aruñ__  /arũ/ _adv._  near; close by
    
 __aruñ__  /arũ/ _v._  be possessed  (esp. by evil spirits)        
    
-__arww__  /arɯɯ/ _n._  horn (anatomical)       
+__arww__  /arɨɨ/ _n._  horn (anatomical)       
    
-__arww__  /arɯɯ/ _n._  bundle (esp. of bamboo)       
+__arww__  /arɨɨ/ _n._  bundle (esp. of bamboo)       
    
 __asañ__  /asã/ _v._  laud; praise; extol       
    
@@ -756,9 +756,9 @@ __asu'-asa'__ /asuɁ-asaɁ/ _n._  disgrace; shame
    
 __asvr__  /asǝr/ _n._  splinter (of wood)        
    
-__asw__ /asɯ/ _n._  line; long narrow mark        
+__asw__ /asɨ/ _n._  line; long narrow mark        
    
-__asw'__  /asɯɁ/ _v._  bite        
+__asw'__  /asɨɁ/ _v._  bite        
    
 __ata__ /ata/ _n._  aunt (term of address)        
    
@@ -780,7 +780,7 @@ __áttò__  /áttò/ _n._  owner [_ant._  mii]
    
 __attu'__ /attuɁ/ _v._  close  or block (esp. a hollow container)   
    
-__attu' nanw__	/attuɁ nanɯ/ _n._	lid used for closing a container
+__attu' nanw__	/attuɁ nanɨ/ _n._	lid used for closing a container
    
 __atú-kahè__  /atú-kahè/ _n._  size        
    
@@ -788,21 +788,21 @@ __atúu__  /atúu/ _adj._  small; tiny; little; miniature  [_n._  baby animal] [
    
 __atúu__  /atúu/ _n._  progeny; young; offspring       
    
-__atw'__  /atɯɁ/ _v._  keep; store; retain; hold on to       
+__atw'__  /atɨɁ/ _v._  keep; store; retain; hold on to       
     
 __au'__ /auɁ/ _n._  traditional red cane belt       
     
-__au' gwgyá__ /auɁ gɯgjá/ _n._  waist       
+__au' gwgyá__ /auɁ gɨgjá/ _n._  waist       
    
 __aúu__ /aúu/ _n._  son-in-law (term of address)        
    
-__aw'__ /aɯɁ/ _v._  forget        
+__aw'__ /aɨɁ/ _v._  forget        
     
 __axa-ayá__ /axa-ajá/ _v._ burning sensation       
    
 __axáa__  /axáa/ _adj._  old; aged; elderly        
    
-__axáa tayú__ axáa tayú/ _adj._  mature; elderly       
+__axáa tayú__ /axáa tayú/ _adj._  mature; elderly       
    
 __axe'__  /axeɁ/ _n._  kidney  [_var._  arxe']   
     
@@ -818,23 +818,23 @@ __axor__	/axor/ _n._	letter	[_or._	Assamese]
 
 __axu'__  /axuɁ/ _v._  regurgitate       
     
-__axw__ /axɯ/ _n._  guts; entrails; viscera       
+__axw__ /axɨ/ _n._  guts; entrails; viscera       
   
-__axw__ /axɯ/ _n._  comb       
+__axw__ /axɨ/ _n._  comb       
    
-__axw ácì__	/axɯ ácì/ _n._	stomach pain
+__axw ácì__	/axɨ ácì/ _n._	stomach pain
       
-__axw har__ /axɯ har/ _v._  have loose motion [_syn._  axw sáa]   
+__axw har__ /axɨ har/ _v._  have loose motion [_syn._  axw sáa]   
    
-__axw harnwñ__  /axɯ harnɯ̃/ _n._  diarrhea        
+__axw harnwñ__  /axɨ harnɨ̃/ _n._  diarrhea        
    
-__axw sáa__ /axɯ sa/ _v._  have loose motion [_syn._  axw har]   
+__axw sáa__ /axɨ sa/ _v._  have loose motion [_syn._  axw har]   
    
-__axw-ere'__  /axɯ-ereɁ/ _n._  entrails; viscera       
+__axw-ere'__  /axɨ-ereɁ/ _n._  entrails; viscera       
    
-__axw'-pata'__  /axɯɁ-pataɁ/ _n._  ribs, rib cage        
+__axw'-pata'__  /axɨɁ-pataɁ/ _n._  ribs, rib cage        
    
-__axwñ-amw__  /axɯ̃-amɯ/ _adv._  confused; disconcerted; befuddled; dumbfounded        
+__axwñ-amw__  /axɨ̃-amɨ/ _adv._  confused; disconcerted; befuddled; dumbfounded        
    
 __aya__ /aja/ _adj._  good; beautiful; virtuous; righteous; suitable; appropriate       
    
@@ -848,11 +848,11 @@ __ayo__ /ajo/ _n._  grandmother or mother-in-law (term of address)
    
 __ayò__ /ajò/ _n._  night       
    
-__ayò lwpá__  /ajò lɯpá/ _n._  midnight        
+__ayò lwpá__  /ajò lɨpá/ _n._  midnight        
    
 __áyò yoofañ__  /ájò jooʎã/ _n._  late night        
    
-__áyò yoofañ lwpa__ /ájò jooʎã lɯpa/ _n._  midnight        
+__áyò yoofañ lwpa__ /ájò jooʎã lɨpa/ _n._  midnight        
    
 __ayo-asi'__  /ajo-asiɁ/ _n._  ancestors; progenitors 
 
@@ -862,7 +862,7 @@ __ayobo__ /ajobo/ _n._  mother-in-law (term of reference)
    
 __ayóo__  /ajóo/ _n._  up; upper       
    
-__ayóo twpè__ /ajóo tɯpè/ _n._  pumpkin [_syn._  e'pè, tápè]
+__ayóo twpè__ /ajóo tɨpè/ _n._  pumpkin [_syn._  e'pè, tápè]
    
 __ayóo zacù__ /ajóo ɲacù/ _n._  upper lip       
    
@@ -882,6 +882,6 @@ __aziñ__  /aɲĩ/ _n._  breast; milk
    
 __aziñ ziñpvr__ /aɲĩ ɲĩpǝr/ _n._  nipple   
    
-__azìnw__	/aɲìnɯ/ _n._	second
+__azìnw__	/aɲìnɨ/ _n._	second
       
 __azóo__  /aɲóo/ _v._  be subject to a behavioral restriction due to a taboo.        
