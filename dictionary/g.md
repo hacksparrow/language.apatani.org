@@ -12,7 +12,7 @@ __ga__  /ga/ _vr._  scold; rebuke; reprimand;chide
 __ga'__ /gaɁ/ _vr._  grasp; clutch; grip; grab       
 
 
-__ga'bw__ /gaɁbɯ/ _v._  hold on to something (as someone's hand, a stick or a knife)   
+__ga'bw__ /gaɁbɨ/ _v._  hold on to something (as someone's hand, a stick or a knife)   
 
 __ga'ce__	/gaɁce/ _v._	break by clutching something		
 
@@ -38,7 +38,7 @@ __ga'tiñ__  /gaɁtĩ/ _v._  block by holding
 __ga'tú__ /gaɁtú/ _v._  catch; hold       
 
 
-__gaambw__  /gaambɯ/ _n._  border; brim; boundary        
+__gaambw__  /gaambɨ/ _n._  border; brim; boundary        
 
 
 __gaarò__ /gaarò/ _adj._  large, as a field [_ant._  gartú]   
@@ -65,7 +65,7 @@ __ganda-neñcañ__  /ganda-nẽcã/ _n._  landed properties
 __gaqu__  /gaŋu/ _n._  mouth harp        
 
 
-__garpw'__  /garpɯɁ/ _n._  paddy field in the lower portion  [_ant._  garta']    
+__garpw'__  /garpɨɁ/ _n._  paddy field in the lower portion  [_ant._  garta']    
 
 
 __garta'__  /gartaɁ/ _n._  paddy field in the upper portion  [_ant._  garpw']    
@@ -77,7 +77,7 @@ __gartú__ /gartú/ _adj._  small (as a field) [_ant._  gaarò]
 __garu__  /garu/ _n._  pillow  [_syn._  diñ nanw]    
 
 
-__garw__ /garɯ/  _n._  vehicle       
+__garw__ /garɨ/  _n._  vehicle       
 
 
 __gasu__  /gasu/ _v._  have verbal quarrel       
@@ -95,7 +95,7 @@ __gehe__  /gehe/ _v._  yawn
 __genda hamañ__ /genda hamã/ _n._  Redflower Ragleaf; Fireweed (_Crassocephalum crepidioides_) [_syn._  hafañ hamañ]   
 
 
-__genw nañ__  /genɯ nã/ _v._  blame someone else for one' own mistake       
+__genw nañ__  /genɨ nã/ _v._  blame someone else for one' own mistake       
 
 
 __gi__  /gi/ _vr._  operate a hinged door       
@@ -179,7 +179,7 @@ __goñpi'__ /gõpiɁ/  _v._  rinse mouth
 __goñpiñ__  /gõpĩ/ _v._  close mouth [_ant._  goñko']  [_syn._  goñpyañ]
 
 
-__goñpw__ /gõpɯ/ _n._  chin        
+__goñpw__ /gõpɨ/ _n._  chin        
 
 
 __goñpyañ__ /gõpjã/ _v._  close mouth [_ant._  goñko']  [_syn._  goñpiñ]
@@ -197,7 +197,7 @@ __gòo__ /gòo/ _vr._  swell (as a wound); bloat; bulge [_syn._  pyañ]
 __gòobu__ /gòobu/ _v._  swell (as a wound); bloat; bulge [_syn._  pyañ]  [_var._  gòrbú; gòbúr]
 
 
-__goobw-cibw__  /goobɯ-cibɯ/ _v._  preserve; protect; safeguard        
+__goobw-cibw__  /goobɨ-cibɨ/ _v._  preserve; protect; safeguard        
 
 
 __goqe__  /goŋe/ _n._  one mouthful; one word        
@@ -218,7 +218,7 @@ __gordu__ /gordu/ _n._  worth; merit; caliber
 __goro__  /goro/ _adj._  big (of a mouth); loud voice  [_ant._  gozó]    
 
 
-__gorw__  /gorɯ/ _n._  watch; clock  [_or._ Assamese]    
+__gorw__  /gorɨ/ _n._  watch; clock  [_or._ Assamese]    
 
 
 __gorxañ__ /gorxã/  _n._  armpit; underarm        
@@ -245,7 +245,7 @@ __gubu'__ /gubuɁ/ _adj._  hot; warm [_ant._  laxw']
 __guli__  /guli/ _n._  bullet  [_or._ Assamese]    
 
 
-__guluñ-gwle__  /gulũ-gɯle/ _adj._  lukewarm; tepid       
+__guluñ-gwle__  /gulũ-gɨle/ _adj._  lukewarm; tepid       
 
 
 __guñki'__  /gũkiɁ/ _v._  bend; stoop       
@@ -257,58 +257,58 @@ __guqa__  /guŋa/ _v._  lie down (esp. of quadruplets)
 __guri'__ /guriɁ/ _v._  get up; stand up  [_syn._  bari']   
 
 
-__gw__  /gɯ/ _vr._  wear clothing; pregnant; bear (fruit or leaves, of a tree)        
+__gw__  /gɨ/ _vr._  wear clothing; pregnant; bear (fruit or leaves, of a tree)        
 
 
-__gw'__ /gɯɁ/ _vr._  lie down        
+__gw'__ /gɨɁ/ _vr._  lie down        
 
 
-__gw'ha__ /gɯɁha/ _v._  lie down        
+__gw'ha__ /gɨɁha/ _v._  lie down        
 
 
-__gw'i__  /gɯɁi/ _v._  fall down (from standing position)        
+__gw'i__  /gɨɁi/ _v._  fall down (from standing position)        
 
 
-__gwda-pata__ /gɯda-pata/ _n._  large cane basket       
+__gwda-pata__ /gɨda-pata/ _n._  large cane basket       
 
 
-__gwju__  /gɯɟu/ _n._  dress; dressing style [_syn._  gwju gwmyo]    
+__gwju__  /gɨɟu/ _n._  dress; dressing style [_syn._  gwju gwmyo]    
 
 
-__gwju-gwmyo__  /gɯɟu-gɯmjo/ _n._  dress; dressing style [_syn._  gwju]    
+__gwju-gwmyo__  /gɨɟu-gɨmjo/ _n._  dress; dressing style [_syn._  gwju]    
 
 
-__gwmya__ /gɯmja/ _n._  a variety of spring action trap       
+__gwmya__ /gɨmja/ _n._  a variety of spring action trap       
 
 
-__gwne'-gwse__  /gɯneɁ-gɯse/ _v._  lightly touch with any part of the body; flirt       
+__gwne'-gwse__  /gɨneɁ-gɨse/ _v._  lightly touch with any part of the body; flirt       
 
 
-__gwre__  /gɯre/ _adj._  crispy; crunchy       
+__gwre__  /gɨre/ _adj._  crispy; crunchy       
 
 
-__gwri__  /gɯri/ _n._  pigsty        
+__gwri__  /gɨri/ _n._  pigsty        
 
 
-__gwrw__  /gɯrɯ/ _n._  spring action noose trap        
+__gwrw__  /gɨrɨ/ _n._  spring action noose trap        
 
 
-__gwtu-gwra__ /gɯtu-gɯra/ _n._  traditional relations and ways of life        
+__gwtu-gwra__ /gɨtu-gɨra/ _n._  traditional relations and ways of life        
 
 
-__gww__ /gɯɯ/ _vr._  move by manouvering       
+__gww__ /gɨɨ/ _vr._  move by manouvering       
 
 
-__gwwpw__ /gɯɯpɯ/ _n._  goiter        
+__gwwpw__ /gɨɨpɨ/ _n._  goiter        
 
 
-__gwwrò__ /gɯɯrò/ _adj._  big (of a basket)  [_ant._  gwwzó]   
+__gwwrò__ /gɨɨrò/ _adj._  big (of a basket)  [_ant._  gwwzó]   
 
 
-__gwwzó__ /gɯɯɲó/ _adj._  small (of a basket)  [_ant._  gwwrò]   
+__gwwzó__ /gɨɨɲó/ _adj._  small (of a basket)  [_ant._  gwwrò]   
 
 
-__gwxu'__ /gɯxuɁ/ _n._  worn out dress        
+__gwxu'__ /gɨxuɁ/ _n._  worn out dress        
 
 
 __gya__ /gja/ _vr._  dry (as of liquid)       
