@@ -54,7 +54,7 @@ __cañcañ__  /cãcã/ _adj._  cold (to the touch); chilly; gelid
 __cañci'-doci__ /cãciɁ-doci/ _adj._  nagging; vexatiuos; troublesome (of a person)        
 
 
-__cañdw metw__  /cãdɯ metɯ/ _n._  an agricultural ritual of the Apatanis        
+__cañdw metw__  /cãdɨ metɨ/ _n._  an agricultural ritual of the Apatanis        
 
 
 __cañta__ /cãta/ _n._  rice flake (esp. of newly harvested paddy)       
@@ -63,16 +63,16 @@ __cañta__ /cãta/ _n._  rice flake (esp. of newly harvested paddy)
 __Cañtuñ__  /cãtũ/ _n._  primordian protective deity of the Apatanis       
 
 
-__cañtw__ /cãtɯ/ _n._  earth       
+__cañtw__ /cãtɨ/ _n._  earth       
 
 
-__cañtw-dotw__ /cãtɯ-dotɯ/ _n._  universe; cosmos        
+__cañtw-dotw__ /cãtɨ-dotɨ/ _n._  universe; cosmos        
 
 
 __car__ /car/ _vr._  boil        
 
 
-__carxw__ /carxɯ/ _v._  boil properly; boil fully       
+__carxw__ /carxɨ/ _v._  boil properly; boil fully       
 
 
 __cayiñ-doyiñ__ /cajĩ-dojĩ/ _n._  autumn        
@@ -129,7 +129,7 @@ __ci'__ /ciɁ/ _vr._  move fast (as a fish do)
 __ci'__ /ciɁ/ _vr._  hold (with both arms)        
 
 
-__ci'pw__ /ciɁpɯ/ _n._  frame of the bamboo sliding door        
+__ci'pw__ /ciɁpɨ/ _n._  frame of the bamboo sliding door        
 
 
 __ci'ri__ /ciɁri/ _n._  ceremonial antique sword        
@@ -138,7 +138,7 @@ __ci'ri__ /ciɁri/ _n._  ceremonial antique sword
 __ciba__  /ciba/ _n._  small cane bag usually used for carrying tiffin       
 
 
-__cibyw__ /cibjɯ/ _adj._  smart; quick; agile [_syn._  byací]   
+__cibyw__ /cibjɨ/ _adj._  smart; quick; agile [_syn._  byací]   
 
 
 __ciciñ__ /cicĩ/ _n._  loin loom       
@@ -159,7 +159,7 @@ __cíi__ /cíigu/ _vr._  be extinct
 __ciiñ__  /ciĩ/ _v._  weave       
 
 
-__ciirw__ /ciirɯ/ _n._  edge; brim  [_syn._  lwwrw]   
+__ciirw__ /ciirɨ/ _n._  edge; brim  [_syn._  lwwrw]   
 
 
 __cikañ__ /cikã/ _part._ like; similar    
@@ -180,7 +180,7 @@ __ciru'__ /ciruɁ/ _n._  pocket; pouch [_syn._  cíkù]
 __cixo__  /cixo/ _adj._  clever; smart; successful person        
 
 
-__cixw-cixo__ /cixɯ-cixo/ _n._  a variety of bird; black drongo (_Dicrurus macrocercus_)        
+__cixw-cixo__ /cixɨ-cixo/ _n._  a variety of bird; black drongo (_Dicrurus macrocercus_)        
 
 
 __cizu'__ /ciɲuɁ/ _n._  soot; impure carbon particles resulting from the incomplete combustion of wood        
@@ -216,7 +216,7 @@ __corjiñ__  /corɟĩ/ _adj._  straight
 __corkè__ /corkè/ _adj._  strong (as of taste)       
 
 
-__corkw__ /corkɯ/ _adj._  smart; strong; rigid        
+__corkw__ /corkɨ/ _adj._  smart; strong; rigid        
 
 
 __cortiñ__  /cortĩ/ _n._  waterfall       
@@ -243,7 +243,7 @@ __culu__  /culu/ _n._  a variety of children's game
 __cuu__ /cuu/ _vr._  move with head forward        
 
 
-__cuuki__ cuuki// _v._  stoop [_syn._  cuukw]   
+__cuuki__ /cuuki/ _v._  stoop [_syn._  cuukw]   
 
 
 __cuuki'__  /cuukiɁ/ _n._  metallic poker; safety pin  [_syn._  ufañ kuti]   
