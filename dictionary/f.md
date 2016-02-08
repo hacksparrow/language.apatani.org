@@ -30,7 +30,7 @@ __fañpiñ-cañtuñ__ /ʎãpĩ-cãtũ/ _n._  protective deity in the household
 
 __fañso__ /ʎãso/ _n._  metallic skewer [_syn._  ufañ kuti] 
 
-__fanw__  /ʎanɯ/ _n._  one who blesses; God
+__fanw__  /ʎanɨ/ _n._  one who blesses; God
 
 __fapu pufe__ /ʎapu puʎe/ _n._  an ordinary customary white shawl
 
@@ -54,7 +54,7 @@ __feñ__ /ʎẽ/ _vr._  measure with outstretched hands
 
 __fì__  /ʎì/ _v._  become
 
-__fi'cu pwzañ__ /ʎiɁcu pɯɲã/ _n._  ceremonial friend who exchange the heads of sacrificed pigs 
+__fi'cu pwzañ__ /ʎiɁcu pɨɲã/ _n._  ceremonial friend who exchange the heads of sacrificed pigs 
 
 __fi'do__ /ʎiɁdo/ _n._  food for pigs
 
