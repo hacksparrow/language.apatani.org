@@ -46,7 +46,7 @@ __kago-tago__	/kago-tago/ _adj._	showy; pretentious; ostentatious
 
 __kago'__	/kagoɁ/ _v._	overlook; disregard; ignore		
 
-__kagw__	/kagɯ/ _v._	learn (by seeing)		
+__kagw__	/kagɨ/ _v._	learn (by seeing)		
 
 __kagya'__	/kagjaɁ/ _v._	see wrongly		
 
@@ -60,7 +60,7 @@ __kahò__	/kahò/ _v._	take note of; mark something
 
 __kahó-tamo__	/kahó-tamo/ _adv._	in an offending manner	
 
-__kahw-kaxe'__	/kahɯ-kaxeɁ/ _v._	look around; be watchful	
+__kahw-kaxe'__	/kahɨ-kaxeɁ/ _v._	look around; be watchful	
 
 __kaji__	/kaɟi/ _n._	a variety of traditional dish	
 
@@ -92,7 +92,7 @@ __kala'-tala'__	/kalaɁ-talaɁ/ _adj._	knowledgeable; learned
 
 __kalo__	/kalo/ _v._	look downwards		
 
-__kalw-kaha__ /kalɯ-kaha/	_v._	estimate; appear		
+__kalw-kaha__ /kalɨ-kaha/	_v._	estimate; appear		
 
 __kamè__	/kamè/ _v._	finish; destroy		
 
@@ -108,7 +108,7 @@ __kamó__	/kamó/ _n._	bribe; kickback; inducement
 
 __kamra__	/kamra/ _n._	room				
 
-__kamw__	/kamɯ/ _n._	work; task; job; occupation	[_or._	Assamese]		
+__kamw__	/kamɨ/ _n._	work; task; job; occupation	[_or._	Assamese]		
 
 __kanu__	/karu/ _num._	seven				
 
@@ -116,7 +116,7 @@ __kanuda__	/kanuda/ _n._	in five days; five days hence
 
 __kanulo__	/kanulo/ _n._	weekdays				
 
-__kanw__ /kanɯ/	_n._	one who sees			
+__kanw__ /kanɨ/	_n._	one who sees			
 
 __kapa__	/kapa/ _v._	find; discover; see			
 
@@ -124,9 +124,9 @@ __kapa'__	/kapaɁ/ _v._	ignore; disregard; pay no heed to
 
 __kapako he__ /kapako he/	_adv._	everywhere			
 
-__kapanw__	/kapanɯ/ _n._	witness				
+__kapanw__	/kapanɨ/ _n._	witness				
 
-__kapanw he__	/kapanɯ he/ _adv._	everything	[_syn._	amánw he]		
+__kapanw he__	/kapanɨ he/ _adv._	everything	[_syn._	amánw he]		
 
 __kape'__	/kapeɁ/ _adj._	transparent; translucent; obvious; evident	[_syn._	kape'-kase']	[_v._	see through]
 
@@ -172,11 +172,11 @@ __karu__	/karu/ _adj._	ugly; unappealing; unsightly	[_ant._	kapyo]
 
 __karv__	/karǝ/ _adj._	transparent; see through; translucent	[_syn._	karw-kasi]	
 
-__karw'__	/karɯɁ/ _v._	meet; greet				
+__karw'__	/karɨɁ/ _v._	meet; greet				
 
 __kasi-kaha'__	/kasi-kahaɁ/ _adj._	disagreeable; repulsive; unpleasant to see		
 
-__kasw-kape__	/kasɯ-kape/ _v._	ignore; pay attention to				
+__kasw-kape__	/kasɨ-kape/ _v._	ignore; pay attention to				
 
 __katè__	/katè/ _v._	visit; go to see; look around			
 
@@ -196,7 +196,7 @@ __kaxa'-karì__	/kaxaɁ-karì/ _v._	examine thoroughly; see in detail; finalize
 
 __kaxè__	/kaxè/ _v._	look in anger				
 
-__kaxwñ-kamwñ__	/kaxɯ̃-kamɯ̃/ _adv._	look with confusion; unsatisfactory; disagreeable		
+__kaxwñ-kamwñ__	/kaxɨ̃-kamɯ̃/ _adv._	look with confusion; unsatisfactory; disagreeable		
 
 __ke__	/ke/ _vr._	write		
 
@@ -226,9 +226,9 @@ __keembe'__	/keembeɁ/ _adj._	taste, as of spoilt fat; rancid	[_syn._	keeme']
 
 __keeme'__	/keemeɁ/ _adj._	taste, as of spoilt fat; rancid	[_syn._	keembe']
 
-__keemw'__	/keemɯɁ/ _v._	rub into powder		
+__keemw'__	/keemɨɁ/ _v._	rub into powder		
 
-__keemw'__	/keemɯɁ/ _v._	crush by rubbing		
+__keemw'__	/keemɨɁ/ _v._	crush by rubbing		
 
 __keená__	/keená/ _n._	black necked crane (_Grus nigricollis_)	[_var._	kenda]
 
@@ -252,7 +252,7 @@ __keñte abíi__	/kẽte abíi/ _n._	a variety of skirt of black and white color
 
 __keñte pufe__	/kẽte puʎe/ _n._	a variety of shawl usually made by stitching togethe discarded clothes
 
-__kera pwcañ__	/kera pɯcã/ _n._	cauldron	[_or._	Assamese]
+__kera pwcañ__	/kera pɨcã/ _n._	cauldron	[_or._	Assamese]
 
 __keyiñ__	/kejĩ/ _adj._	good; serene		
 
@@ -262,7 +262,7 @@ __kiku'__	/kikuɁ/ _n._	outer covering of bamboo shoot that falls off when it gr
 
 __kilu'__	/kiluɁ/ _n._	a small compartment in the granary usually for storng millet or agricultural implements		
 
-__kinw__	/kinɯ/ _n._	bitch		
+__kinw__	/kinɨ/ _n._	bitch		
 
 __kiru'__	/kiruɁ/ _n._	hunting party		
 
@@ -276,9 +276,9 @@ __ko'__	/koɁ/ _vr._	to divine an omen by examining a chicken liver
 
 __ko'bu__	/koɁbu/ _n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bw]
 
-__ko'bw__	/koɁbɯ/ _n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bu]
+__ko'bw__	/koɁbɨ/ _n._	traditional relationship usually the maternal uncle to whom a portion of the sacrificial animal is offered	[_syn._	ko'bu]
 
-__ko'kw__	/koɁkɯ/ _prep._	from		
+__ko'kw__	/koɁkɨ/ _prep._	from		
 
 __ko'rò__	/koɁrò/ _adj._	big, of a bangle	[_ant._	ko'zó]
 
@@ -316,7 +316,7 @@ __koi'__	/koiɁ/ _v._	a way of putting on a cloth on the body, esp. by the males
 
 __kokañ__	/kokã/ _adj._	late; lower	[_syn._	kami]
 
-__koku dwru__	/koku dɯru/ _adj._	bulky; oversized; massive; cumbersome		
+__koku dwru__	/koku dɨru/ _adj._	bulky; oversized; massive; cumbersome		
 
 __kokvr__	/kokǝr/ _v._	arrange a string (like a cane) into a circular form		
 
@@ -332,7 +332,7 @@ __kolò lohe__ /kolò lohe/	_n._	two days back
 
 __komañ__	/komã/ _adj._	dark (esp. to describe shades of color)		
 
-__komla twqá__	/komla tɯŋá/ _n._	orange	[_or._	Assamese]
+__komla twqá__	/komla tɨŋá/ _n._	orange	[_or._	Assamese]
 
 __kompyutar__	/kompjutar/ _n._	computer	[_or._	English]
 
@@ -352,9 +352,9 @@ __kone abi'__	/kone abiɁ/ _pron._	everyone
 
 __kone kone__	/kone kone/ _n._	one by one		
 
-__kone koñtw__	/kone kõtɯ/ _adv._	only one; lonely	[_syn._	akó koñtw]
+__kone koñtw__	/kone kõtɨ/ _adv._	only one; lonely	[_syn._	akó koñtw]
 
-__koñtw__	/kõtɯ/ _part._	only		
+__koñtw__	/kõtɨ/ _part._	only		
 
 __kóo__	/kóo/ _vr._	move the hips, as when closing a door with the hands full or bumping against someone	
 
@@ -382,7 +382,7 @@ __kooló__	/kooló/ _n._	iliac crest
 
 __koopu'__	/koopuɁ/ _v._	sprain	[_var._	kopw']		
 
-__koopw'__	/koopɯɁ/ _v._	sprain	[_var._	koopu']		
+__koopw'__	/koopɨɁ/ _v._	sprain	[_var._	koopu']		
 
 __koopya__	/kopja/ _n._	lower back				
 
@@ -398,7 +398,7 @@ __kooyo__	/koojo/ _n._	the night before the last
 
 __kopa'__	/kopaɁ/ _v._	throw away (from the mouth)		
 
-__kopw__	/kopɯ/ _adj._	place or lie breadthwise; breadthwise position	[_ant._	koso]
+__kopw__	/kopɨ/ _adj._	place or lie breadthwise; breadthwise position	[_ant._	koso]
 
 __koq__	/koŋ/ _num._	one		
 
@@ -422,7 +422,7 @@ __korò__	/korò/ _n._	the morning before the last
 
 __kortú__	/kortú/ _n._	metal capping at the end of the handle of a ceremonial sword (ci'rì)		
 
-__korw'__	/korɯɁ/ _v._	carry a baby on the chest		
+__korw'__	/korɨɁ/ _v._	carry a baby on the chest		
 
 __kosi' kofi__	/kosiɁ koʎi/ _adv._	wriggle restlessly		
 
@@ -470,7 +470,7 @@ __kursi__	/kursi/ _n._	chair	or.	Assamese
 
 __kusu'__	/kusuɁ/ _n._	hay; straw	[_syn._	lwsi']
 
-__kut tarw__	/kut tarɯ/ _n._	coat	[_or._	English]
+__kut tarw__	/kut tarɨ/ _n._	coat	[_or._	English]
 
 __kuti__	/kuti/ _n._	poker of wood or bamboo		
 
@@ -488,82 +488,82 @@ __kv__	/kǝ/ _int._	interjection to draw attention
 
 __kvrv talo__	/kǝrǝ  talo/ _n._	mirror	[_syn._	karo talo; kako yalo; kvlo yalo, kwrv talo]
 
-__kw__	/kɯ/ _v._	punch; jab		
+__kw__	/kɨ/ _v._	punch; jab		
 
-__kwbyo'__ /kɯbjoɁ/	_v._	flash; sparkle		
+__kwbyo'__ /kɨbjoɁ/	_v._	flash; sparkle		
 
-__kwce__	/kɯce/ _v._	break by hitting or punching		
+__kwce__	/kɨce/ _v._	break by hitting or punching		
 
-__kwcè__	/kɯcè/ _n._	small bamboo cup used for measuring rice or millet	
+__kwcè__	/kɨcè/ _n._	small bamboo cup used for measuring rice or millet	
 
-__kwci'__	/kɯciɁ/ _v._	hiccup		
+__kwci'__	/kɨciɁ/ _v._	hiccup		
 
-__kwdi__	/kɯdi/ _n._	soil		
+__kwdi__	/kɨdi/ _n._	soil		
 
-__kwdi payu__	/kɯdi paju/ _n._	glue obtained from a variety of tuber	
+__kwdi payu__	/kɨdi paju/ _n._	glue obtained from a variety of tuber	
 
-__kwdi swbi__	/kɯdi swbi/ _n._	serrow		
+__kwdi swbi__	/kɨdi sɨbi/ _n._	serrow		
 
-__kwdiñ__	/kɯdĩ/ _v._	knock; bang; thump		
+__kwdiñ__	/kɨdĩ/ _v._	knock; bang; thump		
 
-__kwfañ kwlo'__	/kɯʎĩ kɯloɁ/ _adj._	shining; sparkling; glittering	
+__kwfañ kwlo'__	/kɨʎĩ kɨloɁ/ _adj._	shining; sparkling; glittering	
 
-__kwjiñ__	/kɯɟĩ/ _v._	stretch on tiptoe		
+__kwjiñ__	/kɨɟĩ/ _v._	stretch on tiptoe		
 
-__kwjv__	/kɯɟǝ/ _int._	interjection of calling "lets go"	
+__kwjv__	/kɨɟǝ/ _int._	interjection of calling "lets go"	
 
-__kwjvr__	/kɯɟǝr/ _v._	brandish; weild; flaunt		
+__kwjvr__	/kɨɟǝr/ _v._	brandish; weild; flaunt		
 
-__kwla kwla__	/kɯla kɯla/ _adj._	eyes wide open		
+__kwla kwla__	/kɨla kɨla/ _adj._	eyes wide open		
 
-__kwle__	/kɯle/ _n._	river		
+__kwle__	/kɨle/ _n._	river		
 
-__kwlè__	/kɯlè/ _n._	tobacco leaves, esp. fresh ones	[_syn._	muku]
+__kwlè__	/kɨlè/ _n._	tobacco leaves, esp. fresh ones	[_syn._	muku]
 
-__kwle pemu__	/kɯle pemu/ _n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle peñbu]
+__kwle pemu__	/kɨle pemu/ _n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle peñbu]
 
-__kwle peñbu__	/kɯle pẽbu/ _n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle pemu]
+__kwle peñbu__	/kɨle pẽbu/ _n._	a variety of flowering plant that grows on the banks of the river	[_syn._ 	kwle pemu]
 
-__kwle tofo'__	/kɯle toʎoɁ/ _n._	sweet flag; a variety of flowering plants that grow along river banks and marshy places (_Acorus calamus_)		
+__kwle tofo'__	/kɨle toʎoɁ/ _n._	sweet flag; a variety of flowering plants that grow along river banks and marshy places (_Acorus calamus_)		
 
-__kwliñ__	/kɯlĩ/ _n._	back; rear		
+__kwliñ__	/kɨlĩ/ _n._	back; rear		
 
-__kwliñ__ /kɯlĩ/	_pron._	whatever		
+__kwliñ__ /kɨlĩ/	_pron._	whatever		
 
-__kwlo' kwlo'__ /kɯloɁ kɯloɁ/	_adj._	glossy		
+__kwlo' kwlo'__ /kɨloɁ kɨloɁ/	_adj._	glossy		
 
-__kwmè__	/kɯmè/ _n._	poison (esp. of snake); snake venom	[_var._	kwmì]
+__kwmè__	/kɨmè/ _n._	poison (esp. of snake); snake venom	[_var._	kwmì]
 
-__kwmì__ /kɯmi/	_n._	poison (esp. of snake); snake venom	[_var._	kwmè]
+__kwmì__ /kɨmi/	_n._	poison (esp. of snake); snake venom	[_var._	kwmè]
 
-__kwmiñ talo__ /kɯmĩ talo/	_n._	a variety of brass plate		
+__kwmiñ talo__ /kɨmĩ talo/	_n._	a variety of brass plate		
 
-__kwmvr__	/kɯmǝr/ _n._	a person who castrates pigs	[_syn._	kenná]
+__kwmvr__	/kɨmǝr/ _n._	a person who castrates pigs	[_syn._	kenná]
 
-__kwpa'__	/kɯpaɁ/ _n._	banana	[_syn._	kwpa' ahì]
+__kwpa'__	/kɨpaɁ/ _n._	banana	[_syn._	kwpa' ahì]
 
-__kwpa' ahì__	/kɯpaɁ ahì/ _n._	banana	[_syn._	kwpa']
+__kwpa' ahì__	/kɨpaɁ ahì/ _n._	banana	[_syn._	kwpa']
 
-__kwra__	/kɯra/ _n._	a variety of tree; oak tree (_Lithocarpus dealbata_)	
+__kwra__	/kɨra/ _n._	a variety of tree; oak tree (_Lithocarpus dealbata_)	
 
-__kwra raadu__ /kɯra raadu/	_n._	chestnut		
+__kwra raadu__ /kɨra raadu/	_n._	chestnut		
 
-__kwrañ__	/kɯrã/ _adj._	hardworking; often		
+__kwrañ__	/kɨrã/ _adj._	hardworking; often		
 
-__kwri__	/kɯri/ _n._	business; trade; merchandising; transaction		
+__kwri__	/kɨri/ _n._	business; trade; merchandising; transaction		
 
-__kwri du'__ /kɯri duɁ/	_v._	broker; market		
+__kwri du'__ /kɨri duɁ/	_v._	broker; market		
 
-__kwri du'nw__ /kɯri duɁnɯ/	_n._	businessman;  broker; agent; middleman	[_syn._	kwrí inw; kwri harnw]
+__kwri du'nw__ /kɨri duɁnɨ/	_n._	businessman;  broker; agent; middleman	[_syn._	kwrí inw; kwri harnw]
 
-__kwri harnw__	/kɯri harnɯ/ _n._	businessman;  broker; agent; middleman	[_syn._	kwri du'nw]
+__kwri harnw__	/kɨri harnɨ/ _n._	businessman;  broker; agent; middleman	[_syn._	kwri du'nw]
 
-__kwri pamyo__	/kɯri pamjo/ _n._	business management		
+__kwri pamyo__	/kɨri pamjo/ _n._	business management		
 
-__kwsañ-kwsò__	/kɯsã-kɯsò/ _n._	a variety of semi-aquatic mammal		
+__kwsañ-kwsò__	/kɨsã-kɨsò/ _n._	a variety of semi-aquatic mammal		
 
-__kwta'__	/kɯtaɁ/ _v._	suffice; be adequate; be enough; meet requirements		
+__kwta'__	/kɨtaɁ/ _v._	suffice; be adequate; be enough; meet requirements		
 
-__kwte'__	/kɯteɁ/ _v._	knock down by punching		
+__kwte'__	/kɨteɁ/ _v._	knock down by punching		
 
-__kwzi'__	/kɯɲiɁ/ _adj._	cruel; brutal; fiendish; ruthless		
+__kwzi'__	/kɨɲiɁ/ _adj._	cruel; brutal; fiendish; ruthless		
