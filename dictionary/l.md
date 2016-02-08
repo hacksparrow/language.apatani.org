@@ -32,11 +32,11 @@ __la'du__	/laɁdu/ _n._	a forearm apan; a unit of measurement equivalent to the 
 
 __la'du midiñ__	/laɁdu midĩ/ _n._	elbow	[_var._	la'du mwriñ]		
 
-__la'du mwriñ__	/laɁdu mɯrĩ/ _n._	elbow	[_var._	la'du midiñ]		
+__la'du mwriñ__	/laɁdu mɨrĩ/ _n._	elbow	[_var._	la'du midiñ]		
 
-__la'dw__	/laɁdɯ/ _n._	forefinger; a unit of measurement equivalent to the length of the outstretched thumb and forefinger	
+__la'dw__	/laɁdɨ/ _n._	forefinger; a unit of measurement equivalent to the length of the outstretched thumb and forefinger	
 
-__la'dw go'he__ /laɁdɯ goɁhe/	_n._	one unit of la'dw, equivalent to the distance between outstretched thumb and forefinger		
+__la'dw go'he__ /laɁdɨ goɁhe/	_n._	one unit of la'dw, equivalent to the distance between outstretched thumb and forefinger		
 
 __la'ge'__	/laɁgeɁ/ _n._	anticubital space		
 
@@ -44,7 +44,7 @@ __la'he__	/laɁhe/ _v._	beckon by waving the hand
 
 __la'hiñ__	/laɁhĩ/ _n._	finger nail		
 
-__la'hw__	/laɁhɯ/ _n._	archer's wristband traditionally of human hair worn to protect the hand from injury by bow string		
+__la'hw__	/laɁhɨ/ _n._	archer's wristband traditionally of human hair worn to protect the hand from injury by bow string		
 
 __la'ke__	/laɁke/ _v._	cross or fold one's arms		
 
@@ -54,7 +54,7 @@ __la'ku__ /laɁku/	_adj._	sinistral; left (side)	[_syn._	la'ci]
 
 __la'ku' kvrv__ /laɁkuɁ kǝrǝ/	_n._	mole; a small burrowing insectivorous mammal 		
 
-__la'nw__	/laɁnɯ/ _n._	thumb		
+__la'nw__	/laɁnɨ/ _n._	thumb		
 
 __la'pañ__	/laɁpã/ _n._	wooden community platform usually belonging to a clan		
 
@@ -90,7 +90,7 @@ __la'ta'__	/laɁtaɁ/ _n._	short stick usually used as a weapon for beating or t
 
 __la'tiñ__	/laɁtĩ/ _adv._	forcefully; with strength		
 
-__la'xwñ__	/laɁxɯ̃ / _n._	dirt on the hands		
+__la'xwñ__	/laɁxɨ̃ / _n._	dirt on the hands		
 
 __laa__	/laa/ _vr._	take; grasp; cluth		
 
@@ -148,7 +148,7 @@ __lañpiñ__	/lãpĩ/ _n._	nape of the neck
 
 __lañpru__	/lãpru/ _n._	a protective armor, usually of cloth covering the neck	
 
-__lañpw'__	/lãpɯɁ/ _n._	shelter; camp (esp. in the jungles)		
+__lañpw'__	/lãpɯɨɁ/ _n._	shelter; camp (esp. in the jungles)		
 
 __lañxa__	/lãxa/ _n._	coop, as for poultry; shelter, as of a hunter in the tree		
 
@@ -158,7 +158,7 @@ __laqu__	/laŋu/ _n._	neck
 
 __lar__	/lar/ _vr._	challenge; bet		
 
-__laxw'__	/laxɯɁ/ _adj._	cold	[_Ant._	gubu']
+__laxw'__	/laxɨɁ/ _adj._	cold	[_Ant._	gubu']
 
 __le'__	/leɁ/ _vr._	flap (of wing)		
 
