@@ -90,7 +90,7 @@ __jí__	/ɟi/ _vr._	roll; spin; rotate; turn round and round
 __ji'__	/ɟiɁ/ _vr._	melt; thaw; dissolve		
 
 
-__jibu garw__ /ɟibu garɯ/	_n._	jeep	[_or._	English]
+__jibu garw__ /ɟibu garɨ/	_n._	jeep	[_or._	English]
 
 
 __jifá__	/ɟiʎá/ _n._	coarse silk		
@@ -114,7 +114,7 @@ __jihi' rara__	/ɟihiɁ rara/ _adj._	silent; peaceful
 __jihiñ__	/ɟihĩ/ _n._	rag; scrap of cloth; dirty linen				
 
 
-__jihw-jixe__	/ɟihɯ-ɟixe/ _v._	roll to and fro				
+__jihw-jixe__	/ɟihɨ-ɟixe/ _v._	roll to and fro				
 
 
 __jiimu__	/ɟiimu/ _v._	giddy; dizzy; vertiginous	[_n._	giddiness]	[_syn._	sumu]
@@ -132,7 +132,7 @@ __jiji__	/ɟiɟi/ _adj._	blue
 __jiji jixo__	/ɟiɟi ɟixo/ _adj._	dark blue				
 
 
-__jiji kwna__	/ɟiɟi kɯna/ _adj._	bluish				
+__jiji kwna__	/ɟiɟi kɨna/ _adj._	bluish				
 
 
 __jijiñ tayiñ__	/ɟiɟĩ tajĩ/ _n._	a kind of dragonfly				
@@ -153,13 +153,13 @@ __jiñ__	/ɟĩ/ _vr._	tie
 __jiñko jiñko__	/ɟĩko ɟĩko / _adj._	lanky; tall and thin		
 
 
-__jirw__	/ɟirɯ/ _v._	spin; rotate		
+__jirw__	/ɟirɨ/ _v._	spin; rotate		
 
 
-__jirw-jixe__	/ɟirɯ-ɟixe/ _v._	rotate to and fro		
+__jirw-jixe__	/ɟirɨ-ɟixe/ _v._	rotate to and fro		
 
 
-__jixe tarw__	/ɟixe tarɯ/ _n._	a kind of shirt (esp. for males)		
+__jixe tarw__	/ɟixe tarɨ/ _n._	a kind of shirt (esp. for males)		
 
 
 __jo__	/ɟo/ _vr._	lift; carry		
@@ -198,7 +198,7 @@ __jola__	/ɟola/ _n._	bag
 __jompu__	/ɟompu/ _n._	bamboo shaving used as a ritual element or a decorative item	[_syn._	some]
 
 
-__jomw'__	/ɟomɯɁ/ _n._	cloud				
+__jomw'__	/ɟomɨɁ/ _n._	cloud				
 
 
 __joo__	/ɟoo/ _vr._	pay as wage				
