@@ -36,7 +36,7 @@ __haace'__	/haaceɁ/ _n._	difficult time; crisis; emergency	[_syn._	haace' swre]
 __haaci__	/haaci/ _n._	east	[_syn._	dazi cago]
 
 
-__haadw__	/haadɯ/ _v._	get angry; annoyed; enraged	[_n._	anger]
+__haadw__	/haadɨ/ _v._	get angry; annoyed; enraged	[_n._	anger]
 
 
 __haafiñ__	/haaʎĩ/ _n._	fourth lunar month of the year; April		
@@ -126,10 +126,10 @@ __haatiñ__	/haatĩ/ _adj._	significant; important; notable; remarkable
 __haatiñ bwliñ__	/haatĩ bɯlĩ/ _adv._	satisfactorily; confidently; convincingly		
 
 
-__haatw__	/haatɯ/ _n._	west	[_syn._	dazi áago]
+__haatw__	/haatɨ/ _n._	west	[_syn._	dazi áago]
 
 
-__háatw__	/háatɯ/ _adj._	hopeful; confident; optimistic	[_adv._	háatw mwlw]
+__háatw__	/háatɨ/ _adj._	hopeful; confident; optimistic	[_adv._	háatw mwlw]
 
 
 __haaya__	/haaja/ _adj._	hungry; famished; starving		
@@ -150,7 +150,7 @@ __haaza__	/haaɲa/ _adj._	small; young
 __habuñ__	/habũ/ _adj._	cool; cold in a pleasant way	[_syn._	hefi']
 
 
-__hadw__	/hadɯ/ _v._	be angry	[_n._	anger]
+__hadw__	/hadɨ/ _v._	be angry	[_n._	anger]
 
 
 __hafañ__	/haʎã/ _adj._	flat; plain	[_syn._	haapa]
@@ -168,7 +168,7 @@ __hafañ hamañ__	/haʎã hamã / _n._	Redflower Ragleaf; Fireweed (_Crassocepha
 __hafañ sañxañ mefañ__	/haʎã sãxã meʎã/ _n._	hibiscus (_Hibiscus rosasinensis_)
 
 
-__hágw__	/hágɯ/ _v._	escape; run away; flee	[_var._	hárgw]
+__hágw__	/hágɨ/ _v._	escape; run away; flee	[_var._	hárgw]
 
 
 __hai__	/hai/ _n._	water	[_syn._	yasi]
@@ -186,7 +186,7 @@ __hañ__	/hã/ _vr._	investigate; make enquiries; probe; enquire
 __haho__	/haho/ _prep._	up; top; high; upper		
 
 
-__haqw__	/haŋɯ/ _pron._	something; a thing that is unknown or unspecified		
+__haqw__	/haŋɨ/ _pron._	something; a thing that is unknown or unspecified		
 
 
 __har__	/har/ _vr._	wash; bathe		
@@ -213,7 +213,7 @@ __harce'__	/harceɁ/ _n._	fold of the groin
 __hargó__	/hargó/ _v._	overtake (esp. by running or driving)		
 
 
-__hárgw__	/hárgɯ/ _v._	run away; escape; flee	[_syn._	hágw]
+__hárgw__	/hárgɨ/ _v._	run away; escape; flee	[_syn._	hágw]
 
 
 __harje'__	/harɟeɁ/ _v._	run over (esp. by a vehicle)		
@@ -240,7 +240,7 @@ __harú__	/harú/ _adj._	popular (as of one's personality)
 __harù__	/harù/ _n._	lung		
 
 
-__harw__	/harɯ/ _v._	twist; turn		
+__harw__	/harɨ/ _v._	twist; turn		
 
 
 __haspatvr__	/haspatǝr/ _n._	hospital	[_or._	English]
@@ -336,7 +336,7 @@ __heñju__	/hẽɟu/ _n._	attitude; way of thinking
 __heñju-hemyo__	/hẽɟu-hemjo/ _n._	character; disposition; temperament				
 
 
-__heñju-mwju__	/hẽɟu-mɯɟu/ _n._	behaviour; conduct; deportment				
+__heñju-mwju__	/hẽɟu-mɨɟu/ _n._	behaviour; conduct; deportment				
 
 
 __heñjuñ__	/hẽɟũ/ _n._	comfort; ease; luxury; opulence	[_adj._	comfortable]	[_adv._	heñjuñpa]
@@ -381,19 +381,19 @@ __heñtú__	/hẽtú/ _v._	miss someone; pine for; yearn for; long for
 __hentvr__	/hentǝr/ _adv._	very; exeedingly; exceptionally; immensely	[_syn._	hempvr]
 
 
-__heñtw__	/hẽtɯ/ _adj._	proud; haughty; boastful		
+__heñtw__	/hẽtɨ/ _adj._	proud; haughty; boastful		
 
 
-__henw__	/henɯ/ _n._	a relative; loved one		
+__henw__	/henɨ/ _n._	a relative; loved one		
 
 
-__henw-myanw__	/henɯ-mjanɯ / _n._	relatives; kindred; kith and kin		
+__henw-myanw__	/henɨ-mjanɨ / _n._	relatives; kindred; kith and kin		
 
 
-__heñxw__	/hẽxɯ / _adj._	scarce; meagre; in short supply	[_syn._	heñxw-miliñ]
+__heñxw__	/hẽxɨ / _adj._	scarce; meagre; in short supply	[_syn._	heñxw-miliñ]
 
 
-__heñxw-miliñ__	/hẽxɯ-milĩ/ _adj._	scarce; meagre; in short supply	[_syn._	heñxw]
+__heñxw-miliñ__	/hẽxɨ-milĩ/ _adj._	scarce; meagre; in short supply	[_syn._	heñxw]
 
 
 __heqa-heñxa__	/heŋa-hẽxa/ _adj._	troublesome; worrisome; bagging; distressing		
@@ -435,7 +435,7 @@ __hi'su-ho'su__	/hiɁsu-hoɁsu/ _adj._	nonplussed; disconcerted; stumped; at a l
 __hi'tiñ__	/hiɁtĩ/ _v._	bash against something		
 
 
-__hi'xww__	/hiɁxɯɯ/ _v._	wring; twist		
+__hi'xww__	/hiɁxɨɨ/ _v._	wring; twist		
 
 
 __hibu__	/hibu/ _n._	beak		
@@ -495,7 +495,7 @@ __hiruñ__	/hirũ/ _n._	tusk (of full grown wild pig)
 __hixu'__	/hixuɁ/ _n._	wet fermented bamboo shoot		
 
 
-__hixwñ__	/hixɯ̃/ _adj._	tingling sharp sensation in the teeth; feeling, in the teeth, after eating sour food		
+__hixwñ__	/hixɨ̃/ _adj._	tingling sharp sensation in the teeth; feeling, in the teeth, after eating sour food		
 
 
 __ho__	/ho/ _prep._	in; at		
@@ -540,7 +540,7 @@ __hoi__	/hoi/ _v._	be; happen	[_or._	Assamese]
 __hojalo__	/hoɟalo/ _conj._	but; even then		
 
 
-__hokw__	/hokɯ/ _post._	from
+__hokw__	/hokɨ/ _post._	from
 
 
 __hoñ__	/hõ/ _vr._	burn (esp. in bulk)		
@@ -582,7 +582,7 @@ __hu'__	/huɁ/ _vr._	shake; jiggle; agitate
 __hu'biñ__	/huɁbĩ/ _n._	sweat	[_v._	sweat]
 
 
-__hu'hw-hu'xe__	/huɁhɯ-huɁxe/ _v._	shake to and fro		
+__hu'hw-hu'xe__	/huɁhɨ-huɁxe/ _v._	shake to and fro		
 
 
 __hu'pa'-hu'ya__	/huɁpaɁ-huɁja/ _adj._	lavish; extravagant		
@@ -624,10 +624,10 @@ __hufu__	/huʎu/ _n._	bamboo javelin
 __húì__	/húi/ _v._	fall		
 
 
-__hukw__	/hukɯ/ _pron._	whose		
+__hukw__	/hukɨ/ _pron._	whose		
 
 
-__hukw-makw__	/hukɯ-makɯ/ _adj._	impulsive; impetuous; reckless		
+__hukw-makw__	/hukɨ-makɨ/ _adj._	impulsive; impetuous; reckless		
 
 
 __hula'__	/hulaɁ/ _n._	aerial yam (_Dioscorea bulbifera_)		
@@ -696,88 +696,88 @@ __huxo__	/huxo/ _n._	handle (esp. of agricultural implements like spade or axe)
 __huzi__	/huɲi/ _n._	pestle				
 
 
-__hwba'__	/hɯbaɁ/ _adj._	next; following				
+__hwba'__	/hɨbaɁ/ _adj._	next; following				
 
 
-__hwbyw__	/hɯbjɯ/ _n._	bamboo branch				
+__hwbyw__	/hɨbjɨ/ _n._	bamboo branch				
 
 
-__hwfañ__	/hɯʎã/ _prep._	like; similar; alike				
+__hwfañ__	/hɨʎã/ _prep._	like; similar; alike				
 
 
-__hwguñ hamañ__	/hɯgũ hamã/ _n._	a variety of vegetable; Japanese parsly (_Oenanthe javanica_)				
+__hwguñ hamañ__	/hɨgũ hamã/ _n._	a variety of vegetable; Japanese parsly (_Oenanthe javanica_)				
 
 
-__hwjañ__	/hɯɟã/ _n._	new born				
+__hwjañ__	/hɨɟã/ _n._	new born				
 
 
-__hwjañ apiñ__	/hɯɟã apĩ/ _n._	food contributed when a newborn baby is born				
+__hwjañ apiñ__	/hɨɟã apĩ/ _n._	food contributed when a newborn baby is born				
 
 
-__hwjañ lopa__	/hɯɟã lopa/ _n._	a stick presented to a child with developemntal delay by her maternal grandparent				
+__hwjañ lopa__	/hɨɟã lopa/ _n._	a stick presented to a child with developemntal delay by her maternal grandparent				
 
 
-__hwjañ lwha'__	/hɯɟã lɯhaɁ/ _n._	small cane basket used as the container of food contributed during birth of a newborn by the mother's mother 				
+__hwjañ lwha'__	/hɨɟã lɨhaɁ/ _n._	small cane basket used as the container of food contributed during birth of a newborn by the mother's mother 				
 
 
-__hwjañ mwnwñ__	/hɯɟã mɯnɯ̃/ _n._	component of mida ceremony which is the offering for the children of the newly married couple				
+__hwjañ mwnwñ__	/hɨɟã mɯnɨ̃̃/ _n._	component of mida ceremony which is the offering for the children of the newly married couple				
 
 
 __hwjo__	/hɯɟo/ _n._	a variety of bamboo				
 
 
-__hwka' hamañ__	/hɯkaɁ hamã/ _n._	a variety of edible fern		
+__hwka' hamañ__	/hɨkaɁ hamã/ _n._	a variety of edible fern		
 
 
-__hwki__	/hɯki/ _n._	stillbirth		
+__hwki__	/hɨki/ _n._	stillbirth		
 
 
-__hwmi__	/hɯmi/ _pron._	that; third person accusative pronoun		
+__hwmi__	/hɨmi/ _pron._	that; third person accusative pronoun		
 
 
-__hwpe hamañ__	/hɯpehamã/ _n._	a variety of vegetable (_Elatostema platyphyllum_)		
+__hwpe hamañ__	/hɨpe haɨã/ _n._	a variety of vegetable (_Elatostema platyphyllum_)		
 
 
-__hwra'__ /hɯraɁ/ _adv._		again; once more		
+__hwra'__ /hɨraɁ/ _adv._		again; once more		
 
 
-__hwri__	/hɯri/ _n._	small particle of dirt		
+__hwri__	/hɨri/ _n._	small particle of dirt		
 
 
-__hwri-hwxo__	/hɯri-hɯxo/ _n._	dirt particles		
+__hwri-hwxo__	/hɨri-hɨxo/ _n._	dirt particles		
 
 
-__hwro hamañ__	/hɯro hamã/ _n._	a variety of eggplant taken as vegetable		
+__hwro hamañ__	/hɨro hamã/ _n._	a variety of eggplant taken as vegetable		
 
 
-__hwrw__	/hɯrɯ/ _n._	a traditional dance accompanied by ballad of same name, usually performed by the males		
+__hwrw__	/hɨrɨ/ _n._	a traditional dance accompanied by ballad of same name, usually performed by the males		
 
 
-__hwsañ__	/hɯsã/ _n._	grass; fodder		
+__hwsañ__	/hɨsã/ _n._	grass; fodder		
 
 
-__hwsò__	/hɯsò/ _n._	a variety of bamboo	[_syn._	bihé]
+__hwsò__	/hɨsò/ _n._	a variety of bamboo	[_syn._	bihé]
 
 
-__hww__	/hɯɯ/ _pron._	that		
+__hww__	/hɨɨ/ _pron._	that		
 
 
-__hwwbo__	/hɯɯbo/ _n._	bull		
+__hwwbo__	/hɨɨbo/ _n._	bull		
 
 
-__hwwmi__	/hɯɯmi/ _n._	widow		
+__hwwmi__	/hɨɨmi/ _n._	widow		
 
 
-__hwwnw__	/hɯɯnɯ/ _n._	cow		
+__hwwnw__	/hɨɨnɨ/ _n._	cow		
 
 
-__hwwzi__	/hɯɯɲi/ _dem._	those two		
+__hwwzi__	/hɨɨɲi/ _dem._	those two		
 
 
-__hwzañ__	/hɯɲã/ _n._	shame; shy	[_v._	be shy]
+__hwzañ__	/hɨɲã/ _n._	shame; shy	[_v._	be shy]
 
 
-__hwzò__	/hɯɲò/ _n._	the ninth day of the ten-day post-natal confinement of a mother and newborn		
+__hwzò__	/hɨɲò/ _n._	the ninth day of the ten-day post-natal confinement of a mother and newborn		
 
 
-__hwzur hamañ__	/hɯɲur hamã/ _n._	a variety of vegetable		
+__hwzur hamañ__	/hɨɲur hamã/ _n._	a variety of vegetable		
