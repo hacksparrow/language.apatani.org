@@ -24,7 +24,7 @@ __e'pe__  /eɁpe/ _n._  pumpkin [_syn._  tápè; ayó twpè]
 __e'xa'__ /eɁxaɁ/ _v._  miss a target by shooting [_ant._  e'da']   
 
 
-__e'xw__  /eɁxɯ/ _v._  kill by shooting    
+__e'xw__  /eɁxɨ/ _v._  kill by shooting    
 
 
 __ebyosa__ /ebjosa/	_int._	interjectiont to express agreement
@@ -69,7 +69,7 @@ __emo__ /emo/ _n._  paddy; unhusked rice  [_var._  imo]
 __empu__  /empu/ _n._  a variety of white rice, usually late ripening        
 
 
-__empw__  /empɯ/ _n._  paddy husk  [_syn._  pwnañ]   
+__empw__  /empɨ/ _n._  paddy husk  [_syn._  pwnañ]   
 
 
 __empya'__  /empjaɁ/ _n._  cotton; wool  [_var._  impya']    
@@ -107,22 +107,22 @@ __eñku__	/ẽku/ _n._	paddy of previous harvest
 __eñsu'__ /ẽsuɁ/ _v._  fail (esp. of rice plant; failing to fruit)        
 
 
-__eñtw__  /ẽtɯ/ _n._  paddy harvest       
+__eñtw__  /ẽtɨ/ _n._  paddy harvest       
 
 
 __eñtw patañ__  /ẽtɯ patã/ _n._  labor gang for paddy harvesting       
 
 
-__eñtw pwlò__ /ẽtɯ pɯlò/ _n._  tenth lunar month; October        
+__eñtw pwlò__ /ẽtɨ pɨlò/ _n._  tenth lunar month; October        
 
 
-__eñtw pvrv__ /ẽtɯ pǝrǝ/ _n._  large cane mat used for temporary storage of harvested paddy in the field       
+__eñtw pvrv__ /ẽtɨ pǝrǝ/ _n._  large cane mat used for temporary storage of harvested paddy in the field       
 
 
-__eñtw tari__ /ẽtɯ tari/ _n._  kiwi (_Actinidia_ sp.)        
+__eñtw tari__ /ẽtɨ tari/ _n._  kiwi (_Actinidia_ sp.)        
 
 
-__eñtw yagw__ /ẽtɯ jagɯ/ _n._  medium sized cane basket        
+__eñtw yagw__ /ẽtɨ jagɨ/ _n._  medium sized cane basket        
 
 
 __eñxo__ /ẽxo/  _n._  rice stalk; portion of a stalk        
