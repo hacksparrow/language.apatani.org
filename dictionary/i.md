@@ -30,7 +30,7 @@ __ifiñ linwñ__ /iʎĩ linɯ̃ /	_n._	  rectal prolapse
 
 __ifo'__	   /iʎoɁ/   _n._	  machete	  	  
 
-__igw__	    /igɯ/    _n._	  evil spirits	    	
+__igw__	    /igɨ/    _n._	  evil spirits	    	
 
 __ih__	   /ih/     _int._	interjection to express disapproval		   
 
@@ -42,13 +42,13 @@ __ikuñ__	   /ikũ/   _n._	  beewax, used for joining broken threads
 
 __imi__	    /imi/    _v._	  sleep	
 
-__imi i'hw'__	/imi iɁhɯɁ/  _v._	 oversleep; sleep longer than intended	
+__imi i'hw'__	/imi iɁhɨɁ/  _v._	 oversleep; sleep longer than intended	
 
-__imi nw'te'__	/imi nɯɁteɁ/ _v._	catnap; doze
+__imi nw'te'__	/imi nɨɁteɁ/ _v._	catnap; doze
 
 __imi'__ /imiɁ/	_n._	sitting space around the traditional fireplace		 
 
-__imo' pwlo__	/imoɁ pɯlo/ _n._	twelfth lunar month of the year; November-December	
+__imo' pwlo__	/imoɁ pɨlo/ _n._	twelfth lunar month of the year; November-December	
 
 __imo__	/imo/ _n._	paddy	[_var._	emo]  
 
@@ -64,7 +64,7 @@ __iñduñ__	/ĩdũ/ _v._	go around; wander; roam
 
 __iñgo__	/ĩgo/ _n._	task; obligation to go		
 
-__iñgo-mwgo__	/ĩgo-mɯgo/ _n._	task; job; chore; assignment
+__iñgo-mwgo__	/ĩgo-mɨgo/ _n._	task; job; chore; assignment
 
 __iñgu__	/ĩgu/ _v._	change direction or destination of going	 
 
@@ -81,11 +81,11 @@ __iñgya__	/ĩgja/ _n._	space between the fireplace and the side wall of a tradi
 
 __iñgyá__	/ĩgjá/ _v._	work for someone else as reciprocal labour		  
 
-__iñjó-mwjó__	/ĩɟó-mɯɟó/ _n._	wage; earning		  
+__iñjó-mwjó__	/ĩɟó-mɨɟó/ _n._	wage; earning		  
 
 __íñka__	/ĩka/ _pron._	that		  
 
-__iñrw'__	/ĩrɯɁ/_v._	meet; meet up with; run into		  
+__iñrw'__	/ĩrɨɁ/_v._	meet; meet up with; run into		  
 
 __íñsi__	/ĩsi/ _dem._	that (demonstrative)	  
 
@@ -103,7 +103,7 @@ __iqè__	/iŋè/ _n._	a variety of taro
 
 __iqiñ__	/iŋĩ/ _n._	purple yam (_Dioscorea alata_)
 
-__iqw-iñxe'__ /iŋɯ-ĩxeɁ/	_v._	move around	  
+__iqw-iñxe'__ /iŋɨ-ĩxeɁ/	_v._	move around	  
 
 __ita__	/ita/ _n._	brick	[_or._	Assamese]  
 
@@ -117,7 +117,7 @@ __ixa__ /ixa/	_n._	excreta (esp. of animals)
 
 __ixañ__	/ixã/ _n._	trophy for recognition of achievement	
 
-__ixò hóonw__ /ixò hóonɯ/	_n._	the person who sponsors the dry meat distributed to the participants of penw procession, usually a close relative of the main sponsor of Muruñ	  	
+__ixò hóonw__ /ixò hóonɨ/	_n._	the person who sponsors the dry meat distributed to the participants of penw procession, usually a close relative of the main sponsor of Muruñ	  	
 
 
 __iza__	// _int._	interjection to express repugnance	[_syn._	ija]  
