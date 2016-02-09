@@ -572,7 +572,7 @@ __mwkiñ__	/mɨkĩ/ _v._	show how something is done; demonstrate
 __mwko-mwpe__	/mɨko-mɨpe / _v._	disrupt; distract; disturb		
 
 
-__mwko'_	/mɨkoɁ/ _v._	open		
+__mwko'__	/mɨkoɁ/ _v._	open		
 
 
 __mwkú-mwdiñ__	/mɨkú-mɨdĩ/ _v._	make noise		
