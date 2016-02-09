@@ -327,10 +327,10 @@ __mogo alló__	/mogo alló/ _n._	cheekbone
 __mohol__	/mohol/ _n._	big house; bangalow	[_or._	Assamese]
 
 
-__moi'__	// _adj._	turbid; muddy; murky		
+__moi'__	/moiɁ/ _adj._	turbid; muddy; murky		
 
 
-__moka'__	// _adj._	sunken (as of face)	[_Ent._	zi'mo (face) + paka' (dent)]
+__moka'__	/mokaɁ/ _adj._	sunken (as of face)	[_Ent._	zi'mo (face) + paka' (dent)]
 
 
 __mombati__	/mombati/ _n._	candle	[_or._	Assamese]
@@ -339,10 +339,10 @@ __mombati__	/mombati/ _n._	candle	[_or._	Assamese]
 __mome__	/mome/ _n._	trunk (of elephant)		
 
 
-__moñ__	// _vr._	chase; drive away; persue		
+__moñ__	/mõ/ _vr._	chase; drive away; persue		
 
 
-__moñpa'__	// _v._	chase; drive away; persue		
+__moñpa'__	/mõpaɁ/ _v._	chase; drive away; persue		
 
 
 __mopla__	/mopla/ _n._	muffler	[_or._	English]
@@ -351,7 +351,7 @@ __mopla__	/mopla/ _n._	muffler	[_or._	English]
 __more__	/more/ _n._	forest		
 
 
-__more mwyañ__	// _n._	black kite (_Milvus migrans_)		
+__more mwyañ__	/more mɨjã/ _n._	black kite (_Milvus migrans_)		
 
 
 __more pai__	/more pai/ _n._	laughing thrush		
@@ -363,22 +363,22 @@ __morto__	/morto/ _n._	metal arrowhead	[_var._	murto]
 __moru__	/moru/ _n._	cheek		
 
 
-__mu'__	// _vr._	blow (air)		
+__mu'__	/muɁ/ _vr._	blow (air)		
 
 
-__mu'__	// _vr._	brew (beer)		
+__mu'__	/muɁ/ _vr._	brew (beer)		
 
 
-__mu'__	// _vr._	rut (animals)		
+__mu'__	/muɁ/ _vr._	rut (animals)		
 
 
-__mu'go__	// _n._	outlet in a paddy field		
+__mu'go__	/muɁgo/ _n._	outlet in a paddy field		
 
 
 __mubu__	/mubu/ _n._	ash; ash color		
 
 
-__mubu'__	// _n._	gun	[_syn._	bebu']
+__mubu'__	/mubuɁ/ _n._	gun	[_syn._	bebu']
 
 
 __muja__	/muja/ _n._	socks	[_or._	Assamese]
@@ -393,16 +393,16 @@ __muku kuli__ /mumu kuli/	_n._	seed of tobacco plant
 __muku sudu__	/muku sudu/ _n._	smoking pipe				
 
 
-__mukú-mwi__	// _n._	deposits of carbon particle from smoke				
+__mukú-mwi__	/mukú-mɨi/ _n._	deposits of carbon particle from smoke				
 
 
 __mula__	/mula/ _n._	radish	[_or._	Assamese]
 
 
-__muñ-sa__	// _n._	romance; courtship; love affair	[_Ent._	muñdo (girlfriend) + saado (boyfriend)]
+__muñ-sa__	/mũ-sa/ _n._	romance; courtship; love affair	[_Ent._	muñdo (girlfriend) + saado (boyfriend)]
 
 
-__muñdo__	// _n._	girlfriend; female lover	[_syn._	zimuñ]	[_ant._	saado]
+__muñdo__	/mũdo/ _n._	girlfriend; female lover	[_syn._	zimuñ]	[_ant._	saado]
 
 
 __mura__	/mura/ _n._	seat				
@@ -420,7 +420,7 @@ __murto__	/murto/ _n._	metal arrowhead	[_var._	morto]
 __murù__	/murù/ _n._	torch; flambeau 				
 
 
-__muruñ__	// _n._	first month of the lunar year; january; name of the festival celebrated in January				
+__muruñ__	/murũ/ _n._	first month of the lunar year; january; name of the festival celebrated in January				
 
 
 __mw__	_vr._	do				
