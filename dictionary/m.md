@@ -72,355 +72,355 @@ __mata'__	/mataɁ/ _adj._	flat	[_syn._	me'ta']
 __mata' peruñ__	/mataɁ perũ/ _n._	a variety of bean		
 
 
-__mazañ__	_n._	traditional friend from other tribe		
+__mazañ__	/maɲã/ _n._	traditional friend from other tribe		
 
 
-__me__	_vr._	search; look for; seek; check		
+__me__	/me/ _vr._	search; look for; seek; check		
 
 
-__me'__	_vr._	join; link; couple	[_syn._	me'si']
+__me'__	/meɁ/ _vr._	join; link; couple	[_syn._	me'si']
 
 
-__me'si'__	_v._	join; link; couple	[_syn._	me'si' me'me; tusi']
+__me'si'__	/meɁsiɁ/ _v._	join; link; couple	[_syn._	me'si' me'me; tusi']
 
 
-__me'ta'__	_adj._	flat	[_syn._	mata']
+__me'ta'__	/meɁtaɁ/ _adj._	flat	[_syn._	mata']
 
 
-__meci'-mei__	_v._	search minutely		
+__meci'-mei__	/meciɁ-mei/ _v._	search minutely		
 
 
-__mecú__	_adj._	small; small sized; minor		
+__mecú__	/mecú/ _adj._	small; small sized; minor		
 
 
-__medvr__	_n._ 	purification; purification ritual		
+__medvr__	/medǝr/ _n._ 	purification; purification ritual		
 
 
-__medvr agyañ__	_n._	altar for purification ritual		
+__medvr agyañ__	/medǝr agjã/ _n._	altar for purification ritual		
 
 
-__medvr nelo__	_n._	place of worship (_Lit._ 'house of purity')		
+__medvr nelo__	/medǝr nelo/ _n._	place of worship (_Lit._ 'house of purity')		
 
 
-__meli__	_v._	kill as revenge	[_var._	meñli]
+__meli__	/meli/ _v._	kill as revenge	[_var._	meñli]
 
 
-__meñ__	_vr._	kill; assasinate; execute; slaughter		
+__meñ__	/mẽ/ _vr._	kill; assasinate; execute; slaughter		
 
 
-__meñdw__	_n._	buffalo		
+__meñdw__	/mẽdɨ/ _n._	buffalo		
 
 
-__meñli__	_v._	kill as revenge	[_var._	meli]
+__meñli__	/mẽli/ _v._	kill as revenge	[_var._	meli]
 
 
-__mepa__	_v._	search out; find out		
+__mepa__	/mepa/ _v._	search out; find out		
 
 
-__mepi__	_n._	a variety of vegetable; plantain (_Plantago erosa_)	[_syn._	mepi hamañ]
+__mepi__	/mepi/ _n._	a variety of vegetable; plantain (_Plantago erosa_)	[_syn._	mepi hamañ]
 
 
-__mepi hamañ__	_n._	a variety of vegetable; plantain (_Plantago erosa_)	[_syn._	mepi]
+__mepi hamañ__ /mepi hamã/	_n._	a variety of vegetable; plantain (_Plantago erosa_)	[_syn._	mepi]
 
 
-__mepiñ__	_n._	a variety of ritual in which the shaman smears rice powder mixture on the walls		
+__mepiñ__	/mepĩ/ _n._	a variety of ritual in which the shaman smears rice powder mixture on the walls		
 
 
-__metw__	_n._	a ritual performed to protect plants from Pyodu Bwzi, the God of Famine		
+__metw__ /metɨ/	_n._	a ritual performed to protect plants from Pyodu Bwzi, the God of Famine		
 
 
-__mi'__	_vr._	get extinguished (of fire or light)		
+__mi'__	/miɁ/ _vr._	get extinguished (of fire or light)		
 
 
-__mi'be'__	_v._	blink; wink		
+__mi'be'__	/miɁbeɁ/ _v._	blink; wink		
 
 
-__mi'be' amu__	_n._	eyelash	[_syn._	mi'byo' amu]
+__mi'be' amu__ /miɁbeɁ amu/	_n._	eyelash	[_syn._	mi'byo' amu]
 
 
-__mi'byo' amu__	_n._	eyelash	[_syn._	mi'be' amu]
+__mi'byo' amu__	/miɁbjoɁ amu/ _n._	eyelash	[_syn._	mi'be' amu]
 
 
-__mi'ca__	_adj._	blind		
+__mi'ca__	/miɁca/ _adj._	blind		
 
 
-__mi'fò__	_n._	eyelid	[_syn._	ami' mi'fò]
+__mi'fò__	/miɁʎò/ _n._	eyelid	[_syn._	ami' mi'fò]
 
 
-__mi'ju__	_n._	eye discharge		
+__mi'ju__ /miɁɟu/	_n._	eye discharge		
 
 
-__mi'juñ__	_adj._	lethargic or inactive (of a person)		
+__mi'juñ__	/miɁɟũ/ _adj._	lethargic or inactive (of a person)		
 
 
-__mi'jvr__	_n._	a variety of tiny fly; midge	[_syn._	taru mi'jvr]
+__mi'jvr__	/miɁɟǝr/ _n._	a variety of tiny fly; midge	[_syn._	taru mi'jvr]
 
 
-__mi'la__	_n._	tear		
+__mi'la__	/miɁla/ _n._	tear		
 
 
-__mi'ti__	_v._	close (the eyes)		
+__mi'ti__	/miɁti/ _v._	close (the eyes)		
 
 
-__mi'tiñ amu__	_v._	eyebrow		
+__mi'tiñ amu__	/miɁtĩ amu/ _v._	eyebrow		
 
 
-__mi'ye'__	_v._	wink		
+__mi'ye'__	/miɁjeɁ/ _v._	wink		
 
 
-__mi'ye'-gohe'__	_v._	signal; making gesture by winking		
+__mi'ye'-gohe'__ /miɁjeɁ-goheɁ/	_v._	signal; making gesture by winking		
 
 
-__mida__	_n._	a part of marriage ceremony		
+__mida__	/mida/ _n._	a part of marriage ceremony		
 
 
-__midiñ__	_n._	nursery for paddy; seed bed		
+__midiñ__	/midĩ/ _n._	nursery for paddy; seed bed		
 
 
-__mifa bari'__	_n._	whirlwind	[_syn._	ro bari']
+__mifa bari'__ /miʎa bariɁ/	_n._	whirlwind	[_syn._	ro bari']
 
 
-__mifa ri__	_n._	sudden onset eye pain		
+__mifa ri__	/miʎa ri/ _n._	sudden onset eye pain		
 
 
-__mifiñ__	_n._	tip (of a plant or a tree)		
+__mifiñ__	/miʎĩ/ _n._	tip (of a plant or a tree)		
 
 
-__migiñ__	_n._	expert hunter		
+__migiñ__	/migĩ/ _n._	expert hunter		
 
 
-__miguñ__	_n._	a variety of narrated oral literature		
+__miguñ__	/migũ/ _n._	a variety of narrated oral literature		
 
 
-__miha__	_n._	boyfriend; male lover		
+__miha__	/miha/ _n._	boyfriend; male lover		
 
 
-__mihiñ__	_n._	contribution (esp. in kind)		
+__mihiñ__	/mihĩ/ _n._	contribution (esp. in kind)		
 
 
-__mii__	_pron._	others; not own; outsider	[_ant._	áttò]
+__mii__	/mii/ _pron._	others; not own; outsider	[_ant._	áttò]
 
 
-__miikw__	_adj._	belonging to others; not own				
+__miikw__	/miikɨ/ _adj._	belonging to others; not own				
 
 
-__miilò__	_n._	eighth lunar month of the year; July-August	[_syn._	miilò pwlò]
+__miilò__	/miiloò/ _n._	eighth lunar month of the year; July-August	[_syn._	miilò pwlò]
 
 
-__miima'__	_n._	a variety of hebaceous plant whose slender leaves are used to tie bundles of paddy or millet plant (_Miscanthus sinensis_)				
+__miima'__	/miimaɁ/ _n._	a variety of hebaceous plant whose slender leaves are used to tie bundles of paddy or millet plant (_Miscanthus sinensis_)				
 
 
-__mijí__	_n._	orphan	[_syn._	mijí atúu]
+__mijí__	/miɟí/ _n._	orphan	[_syn._	mijí atúu]
 
 
-__miji'__	_n._	one well versed in traditional literature	[_Entym._	ami' (eye) + áfò (skin)]
+__miji'__	/miɟiɁ/ _n._	one well versed in traditional literature	[_Entym._	ami' (eye) + áfò (skin)]
 
 
-__miji' lañcu__	_n._	Adam's apple				
+__miji' lañcu__	/miɟiɁ lãcu/ _n._	Adam's apple				
 
 
-__miji'-miguñ__	_n._	traditional knowledge				
+__miji'-miguñ__	/miɟiɁ-migũ/ _n._	traditional knowledge				
 
 
-__miju'__	_adj._	cowardly; timid	[_syn._	miju' mija]
+__miju'__	/miɟuɁ/ _adj._	cowardly; timid	[_syn._	miju' mija]
 
 
-__miju' mija__	_adj._	cowardly; timid	[_syn._	miju']
+__miju' mija__ /miɟuɁ-miɟa/	_adj._	cowardly; timid	[_syn._	miju']
 
 
-__mikì__	_adj._	skilled; expert				
+__mikì__	/mikì/ _adj._	skilled; expert				
 
 
-__mikiñ__	_n._	title used for dead males	[_ant._	misi]
+__mikiñ__	/mikĩ/ _n._	title used for dead males	[_ant._	misi]
 
 
-__milañ__	_n._	a variety of weed usually in the paddy fields				
+__milañ__	/milã/ _n._	a variety of weed usually in the paddy fields				
 
 
-__miliñ__	_adj._	serious (of health status)	[_adv._	with great difficulty; by hook or by crook]
+__miliñ__	/milĩ/ _adj._	serious (of health status)	[_adv._	with great difficulty; by hook or by crook]
 
 
-__milo__	_n._	male	[_ant._	bwnw]
+__milo__	/milo/ _n._	male	[_ant._	bwnw]
 
 
-__milò__	_n._	husband				
+__milò__	/milò/ _n._	husband				
 
 
-__milò iñ__	_v._	to get married (of a female)	[_ant._	myw laa
+__milò iñ__	/milò ĩ/ _v._	to get married (of a female)	[_ant._	myw laa
 
 
-__milo rwjì__	_n._	a variety of fern used in the construction of altars (_Diplazium esculentum_)	[_syn._	milo rwze]
+__milo rwjì__	/milo rɨɟì/ _n._	a variety of fern used in the construction of altars (_Diplazium esculentum_)	[_syn._	milo rwze]
 
 
-__milobo__	_n._	male	[_ant._	zimw]
+__milobo__	/milobo/ _n._	male	[_ant._	zimw]
 
 
-__mipa__	_n._	an early ripening variety of millet mainly grown in paddy field bundhs	[_syn._	mipá sarse]
+__mipa__	/mipa/ _n._	an early ripening variety of millet mainly grown in paddy field bundhs	[_syn._	mipá sarse]
 
 
-__mipya__	_n._	an early ripening variety of rice		
+__mipya__ /mipja/	_n._	an early ripening variety of rice		
 
 
-__miqo__	_adj._	rich; wealthy; affluent	[_ant._	aró]
+__miqo__	/miŋo/ _adj._	rich; wealthy; affluent	[_ant._	aró]
 
 
-__miqo-ta'mo__	_adj._	rich and powerful		
+__miqo-ta'mo__	/miŋo-taɁmo/ _adj._	rich and powerful		
 
 
-__mirw'__	_n._	powdered millet		
+__mirw'__	/mirɨɁ/ _n._	powdered millet		
 
 
-__mirw' yalañ__	_n._	grinding stone for millet		
+__mirw' yalañ__	/mirɨɁ jalã/ _n._	grinding stone for millet		
 
 
-__Misañ__	_n._	common term for non-Apatani tribes like Nyishis, Tagins, Galos, etc.		
+__Misañ__	/Misã / _n._	common term for non-Apatani tribes like Nyishis, Tagins, Galos, etc.		
 
 
-__Misañ byako__	_n._	yellow berried nightshade (_Solanum xanthocarpum_)	[_syn._	swtw byako]
+__Misañ byako__	/misã bjako / _n._	yellow berried nightshade (_Solanum xanthocarpum_)	[_syn._	swtw byako]
 
 
-__misi__	_n._	title used for dead females	[_ant._	mikiñ]
+__misi__	/misi/ _n._	title used for dead females	[_ant._	mikiñ]
 
 
-__misì__	_adj._	old woman		
+__misì__	/misì/ _adj._	old woman		
 
 
-__misiñ__	_n._	machine	[_or._	English]
+__misiñ__	/misĩ/ _n._	machine	[_or._	English]
 
 
-__mitai__	_n._	sweet	[_or._	Assamese]
+__mitai__	/mitai/ _n._	sweet	[_or._	Assamese]
 
 
-__mitu'__	_n._	tip; apex; sharp end	[_ant._	arañ]
+__mitu'__	/mituɁ/ _n._	tip; apex; sharp end	[_ant._	arañ]
 
 
-__mixw ronw__	_n._	a person possessed by spirit	[_syn._	mixw runw]
+__mixw ronw__	/mixɨ ronɨ/ _n._	a person possessed by spirit	[_syn._	mixw runw]
 
 
-__mixw runw__	_n._	a person possessed by spirit	[_syn._	mixw ronw]
+__mixw runw__	/mixɨ runɨ/ _n._	a person possessed by spirit	[_syn._	mixw ronw]
 
 
-__miyu__	_n._	human beings	[_syn._	neha]
+__miyu__	/miju/ _n._	human beings	[_syn._	neha]
 
 
-__miyu-mima__	_n._	human beings		
+__miyu-mima__	/miju-mima/ _n._	human beings		
 
 
-__mo__	_vr._	move one's face		
+__mo__	/mo/ _vr._	move one's face		
 
 
-__mò__	_pron._	he; she; third person singular pronoun		
+__mò__	/mò/ _pron._	he; she; third person singular pronoun		
 
 
-__mò azi__	_pron._	they (two); third person dual pronoun		
+__mò azi__	/mò aɲi/ _pron._	they (two); third person dual pronoun		
 
 
-__mocu'__	_v._	kiss		
+__mocu'__	/mocuɁ/ _v._	kiss		
 
 
-__modu-mobo__	_adj._	rude; indisciplined; unruly		
+__modu-mobo__	/modu-mobo/ _adj._	rude; indisciplined; unruly		
 
 
-__mogo alló__	n.	cheekbone		
+__mogo alló__	/mogo alló/ _n._	cheekbone		
 
 
-__mohol__	_n._	big house; bangalow	[_or._	Assamese]
+__mohol__	/mohol/ _n._	big house; bangalow	[_or._	Assamese]
 
 
-__moi'__	_adj._	turbid; muddy; murky		
+__moi'__	// _adj._	turbid; muddy; murky		
 
 
-__moka'__	_adj._	sunken (as of face)	[_Ent._	zi'mo (face) + paka' (dent)]
+__moka'__	// _adj._	sunken (as of face)	[_Ent._	zi'mo (face) + paka' (dent)]
 
 
-__mombati__	_n._	candle	[_or._	Assamese]
+__mombati__	/mombati/ _n._	candle	[_or._	Assamese]
 
 
-__mome__	_n._	trunk (of elephant)		
+__mome__	/mome/ _n._	trunk (of elephant)		
 
 
-__moñ__	_vr._	chase; drive away; persue		
+__moñ__	// _vr._	chase; drive away; persue		
 
 
-__moñpa'__	_v._	chase; drive away; persue		
+__moñpa'__	// _v._	chase; drive away; persue		
 
 
-__mopla__	_n._	muffler	[_or._	English]
+__mopla__	/mopla/ _n._	muffler	[_or._	English]
 
 
-__more__	_n._	forest		
+__more__	/more/ _n._	forest		
 
 
-__more mwyañ__	_n._	black kite (_Milvus migrans_)		
+__more mwyañ__	// _n._	black kite (_Milvus migrans_)		
 
 
-__more pai__	_n._	laughing thrush		
+__more pai__	/more pai/ _n._	laughing thrush		
 
 
-__morto__	_n._	metal arrowhead	[_var._	murto]
+__morto__	/morto/ _n._	metal arrowhead	[_var._	murto]
 
 
-__moru__	_n._	cheek		
+__moru__	/moru/ _n._	cheek		
 
 
-__mu'__	_vr._	blow (air)		
+__mu'__	// _vr._	blow (air)		
 
 
-__mu'__	_vr._	brew (beer)		
+__mu'__	// _vr._	brew (beer)		
 
 
-__mu'__	_vr._	rut (animals)		
+__mu'__	// _vr._	rut (animals)		
 
 
-__mu'go__	_n._	outlet in a paddy field		
+__mu'go__	// _n._	outlet in a paddy field		
 
 
-__mubu__	_n._	ash; ash color		
+__mubu__	/mubu/ _n._	ash; ash color		
 
 
-__mubu'__	_n._	gun	[_syn._	bebu']
+__mubu'__	// _n._	gun	[_syn._	bebu']
 
 
-__muja__	_n._	socks	[_or._	Assamese]
+__muja__	/muja/ _n._	socks	[_or._	Assamese]
 
 
-__muku__	_n._	tobacco	[_syn._	dui]
+__muku__	/muku/ _n._	tobacco	[_syn._	dui]
 
 
-__muku kuli__	_n._	seed of tobacco plant		
+__muku kuli__ /mumu kuli/	_n._	seed of tobacco plant		
 
 
-__muku sudu__	_n._	smoking pipe				
+__muku sudu__	/muku sudu/ _n._	smoking pipe				
 
 
-__mukú-mwi__	_n._	deposits of carbon particle from smoke				
+__mukú-mwi__	// _n._	deposits of carbon particle from smoke				
 
 
-__mula__	_n._	radish	[_or._	Assamese]
+__mula__	/mula/ _n._	radish	[_or._	Assamese]
 
 
-__muñ-sa__	_n._	romance; courtship; love affair	[_Ent._	muñdo (girlfriend) + saado (boyfriend)]
+__muñ-sa__	// _n._	romance; courtship; love affair	[_Ent._	muñdo (girlfriend) + saado (boyfriend)]
 
 
-__muñdo__	_n._	girlfriend; female lover	[_syn._	zimuñ]	[_ant._	saado]
+__muñdo__	// _n._	girlfriend; female lover	[_syn._	zimuñ]	[_ant._	saado]
 
 
-__mura__	_n._	seat				
+__mura__	/mura/ _n._	seat				
 
 
-__murpa sai__	_n._	fog in the horizons that is usually associated with the advent of Myoko festival in March				
+__murpa sai__	/murpa sai/ _n._	fog in the horizons that is usually associated with the advent of Myoko festival in March				
 
 
-__murpu__	_n._	bonfire				
+__murpu__	/murpu/ _n._	bonfire				
 
 
-__murto__	_n._	metal arrowhead	[_var._	morto]
+__murto__	/murto/ _n._	metal arrowhead	[_var._	morto]
 
 
-__murù__	_n._	torch; flambeau 				
+__murù__	/murù/ _n._	torch; flambeau 				
 
 
-__muruñ__	_n._	first month of the lunar year; january; name of the festival celebrated in January				
+__muruñ__	// _n._	first month of the lunar year; january; name of the festival celebrated in January				
 
 
 __mw__	_vr._	do				
