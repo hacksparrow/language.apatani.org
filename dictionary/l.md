@@ -209,262 +209,263 @@ __leqò aji__	/leŋò aji/ _n._	rice field near the village	[_ant._	jabyò aji]
 
 __leyu__	/leyu/ _n._	a small path leading to a village		
 
-__li__	// _vr._	sow; seed; broadcast		
+__li__	/li/ _vr._	sow; seed; broadcast		
 
-__li lilañ__	// _n._	cicada (Cicadidae)		
+__li lilañ__	/li lilã/ _n._	cicada (Cicadidae)		
 
-__li'ki'-li'ko__ //	_adv._	showy; flirty		
+__li'ki'-li'ko__ /liɁkiɁ-liɁko/	_adv._	showy; flirty		
 
-__lii__	_vr._	challenge, as in potlatch		
+__lii__	/lii/ _vr._	challenge, as in potlatch		
 
-__liñ__	_vr._	exit; go out		
+__liñ__	/lĩ/ _vr._	exit; go out		
 
-__liñgya__	_n._	exit; doorway; gateway	
+__liñgya__ /lĩgja/	_n._	exit; doorway; gateway	
 
-__lo__	_post._	with; by		
+__lo__	/lo/ _post._	with; by		
 
-__lobu__	_n._	skeleton	[_syn._	lobu loci]
+__lobu__	/lobu/ _n._	skeleton	[_syn._	lobu loci]
 
-__lobú__	_n._	a part of loin loom		
+__lobú__	/lobú/ _n._	a part of loin loom		
 
-__lobu loci__	_n._	skeleton	[_syn._	lobu]
+__lobu loci__	/lobu loci/ _n._	skeleton	[_syn._	lobu]
 
-__lobú-lomè__	_n._	components of a loom		
+__lobú-lomè__	/lobú lomè/ _n._	components of a loom		
 
-__lobyañ__	_n._	full day; day long	[_Ant._	lopo]
+__lobyañ__	/lobjã/ _n._	full day; day long	[_Ant._	lopo]
 
-__lobyo' tare__	_n._ 	a variety of thorny plant	[_var._	lobyo' twre]
+__lobyo' tare__ /lobjoɁ tare/	_n._ 	a variety of thorny plant	[_var._	lobyo' twre]
 
-__lobyo' twre__	_n._	a variety of thorny plant	[_syn._	lobyo' tare]
+__lobyo' twre__	/lobjoɁ tɨre/ _n._	a variety of thorny plant	[_syn._	lobyo' tare]
 
-__loci__	_n._	hook; peg		
+__loci__	/loci/ _n._	hook; peg		
 
-__locuñ__	_n._	none marrow		
+__locuñ__	/locũ/ _n._	none marrow		
 
-__lodw__	_adj._	short, of day		
+__lodw__	/lodɨ/ _adj._	short, of day		
 
-__lofañ__	_n._	ten days		
+__lofañ__	/loʎã/ _n._	ten days		
 
-__loh'__	_n._	rope tied to the leg of a poultry as a mark of identification	
+__loh'__	/lohɁ/ _n._	rope tied to the leg of a poultry as a mark of identification	
 
-__lohe__	_n._	one day		
+__lohe__	/lohe/ _n._	one day		
 
-__lohè__	_post._	till; until		
+__lohè__	/lohè/ _post._	till; until		
 
-__lohiñ__	_n._	three days		
+__lohiñ__	/lohĩ/ _n._	three days		
 
-__lokuñ__	_n._	one day (term of enumeration)		
+__lokuñ__	/lokũ/ _n._	one day (term of enumeration)		
 
-__lomè__	_n._	an element of loin loom		
+__lomè__	/lomè/ _n._	an element of loin loom		
 
-__loorw'lo__	_int._	interjection to express hopelessness	[_syn._	amw arwlò]
+__loorw'lo__ /loorɨɁlo/	_int._	interjection to express hopelessness	[_syn._	amw arwlò]
 
-__lopa__	_n._	stick, usually used for beating	[_syn._	pa'zi]
+__lopa__	/lopa/ _n._	stick, usually used for beating	[_syn._	pa'zi]
 
-__lopo__	_n._	half day	[_Ant._	lobyañ]
+__lopo__	/lopo/ _n._	half day	[_Ant._	lobyañ]
 
-__lorw'__	_n._	joint	[_syn._	lwrw lorw']
+__lorw'__	/loorɨɁ/ _n._	joint	[_syn._	lwrw lorw']
 
-__lotw__	_adj._	honest; straightforward		
+__lotw__	/lotɨ/ _adj._	honest; straightforward		
 
-__loxo'__	_n._	a part of loin loom		
+__loxo'__	loxoɁ_n._	a part of loin loom		
 
-__lozañdà__	_n._	two years hence		
+__lozañdà__	/loɲãdà/ _n._	two years hence		
 
-__lozì__	_n._	two days		
+__lozì__	/loɲì/_n._	two days		
 
-__lozì-lohiñ__	_n._	some days		
+__lozì-lohiñ__ /loɲì-lohĩ/	_n._	some days		
 
-__lu__	_vr._	speak; talk; converse; articulate		
+__lu__	/lu/ _vr._	speak; talk; converse; articulate		
 
-__luah__	_n._	dumb; mute		
+__luah__ /luah/	_n._	dumb; mute		
 
-__ludvr__	_v._	elucidate; explain; interpret; explicate		
+__ludvr__	/ludər/ _v._	elucidate; explain; interpret; explicate		
 
-__lufañ__	_v._	imitate speaking		
+__lufañ__	/luʎã/ _v._	imitate speaking		
 
-__lufañ__	_v._	bring around; persuade; convince
+__lufañ__	/luʎã/ _v._	bring around; persuade; convince
 
-__lufe__	_v._	slur one's speech as when drunk		
+__lufe__	/luʎe/ _v._	slur one's speech as when drunk		
 
-__lufi'-lume__	_n._	recalcitrant; defiant; wayward	
+__lufi'-lume__	/luʎiɁ-lume/ _n._	recalcitrant; defiant; wayward	
 
-__luga__	_adj._	talkative; loquacious; garrulous	
+__luga__	/luga/ _adj._	talkative; loquacious; garrulous	
 
-__lugya'__	_v._	speak wrongly	[_syn._	luxa']
+__lugya'__	/lugjaɁ/ _v._	speak wrongly	[_syn._	luxa']
 
-__luho__	_v._	speak offensively		
+__luho__	/luho/ _v._	speak offensively		
 
-__luhu-luha__	_v._	provoke; tease		
+__luhu-luha__	/luhu-luha/ _v._	provoke; tease		
 
-__luhw'__	_v._	stammer; stutter		
+__luhw'__	/luhɨɁ/ _v._	stammer; stutter		
 
-__luja__	_v._	finish speaking; conclude		
+__luja__	/luɟa/ _v._	finish speaking; conclude		
 
-__luji'__	_adj._	friendly; amicable		
+__luji'__	/luɟiɁ/ _adj._	friendly; amicable		
 
-__luju-lumyo__	_adj._	manner of speaking	
+__luju-lumyo__	/luɟu-lumjo/ _adj._	manner of speaking	
 
-__lukañ__	_v._	speak for a long time		
+__lukañ__	/lukã/ _v._	speak for a long time		
 
-__luko__	_v._	narrate; inform; recount; tell	
+__luko__	/luko/ _v._	narrate; inform; recount; tell	
 
-__lukó-lupè__	_v._	interrupt; create confusion		
+__lukó-lupè__	/lukó-lupè/ _v._	interrupt; create confusion		
 
-__luku'__	_n._	shoe		
+__luku'__	/lukuɁ/ _n._	shoe		
 
-__lula'__	_adj._	good speaker	_v._	speak well
+__lula'__	/lulaɁ/ _adj._	good speaker	_v._	speak well
 
-__lulù__	_v._	disturb by speaking	[_syn._	lulù-lugo]
+__lulù__	/lulù/ _v._	disturb by speaking	[_syn._	lulù-lugo]
 
-__lulù-lugo__	_v._	disturb by speaking	[_syn._	lulù]
+__lulù-lugo__	/lulù-lugo/ _v._	disturb by speaking	[_syn._	lulù]
 
-__luluñ__	_v._	frighten by speaking; scare; intimidate	
+__luluñ__	/lulũ/ _v._	frighten by speaking; scare; intimidate	
 
-__lumù__	_v._	speak in sleep		
+__lumù__	/lumù/ _v._	speak in sleep		
 
-__lumur__	_v._	speak wrongly; say something by mistake		
+__lumur__	/lumur/ _v._	speak wrongly; say something by mistake		
 
-__lunù-luna__	_v._	speak in vain		
+__lunù-luna__	/lunù-luna/ _v._	speak in vain		
 
-__lupá-luma__	_v._	speak without a purpose; speak carelessly	
+__lupá-luma__	/lupá-luma/ _v._	speak without a purpose; speak carelessly	
 
-__lupa__	_v._	remind; help someone remember		
+__lupa__	/lupa/ _v._	remind; help someone remember		
 
-__lupa'__	_v._	criticise; denounce; condemn; speak ill of someone		
+__lupa'__	/lupaɁ/ _v._	criticise; denounce; condemn; speak ill of someone		
 
-__lupyu'__	_v._	spread false and damaging statements about someone; defame; slander; [_syn.__	lupyu'-lusu']
+__lupyu'__	/lupjuɁ/ _v._	spread false and damaging statements about someone; defame; slander; [_syn.__	lupyu'-lusu']
 
-__lupyu'-lusu'__	_v._	spread false and damaging statements about someone; defame; slander; 	[_syn._	lupyu']
+__lupyu'-lusu'__	/lupjuɁ-lusuɁ/ _v._	spread false and damaging statements about someone; defame; slander; 	[_syn._	lupyu']
 
-__lurú__	_v._	instigate; incite; provoke		
+__lurú__	/lurú/ _v._	instigate; incite; provoke		
 
-__lurù__	__adj._	stubborn; obstinate; recalcitrant; difficult to speak		
+__lurù__	/lurù/ __adj._	stubborn; obstinate; recalcitrant; difficult to speak		
 
-__lurw'__	_v._	converse; talk		
+__lurw'__	/lurɨɁ/ _v._	converse; talk		
 
-__lusi-luha'__	_adj._	irritating, exasperating or irksome (to talk to)	
+__lusi-luha'__ /lusi-luhaɁ/	_adj._	irritating, exasperating or irksome (to talk to)	
 
-__luti__	_v._	say again; repeat speaking; reiterate; restate		
+__luti__	/luti/ _v._	say again; repeat speaking; reiterate; restate		
 
-__luuli hamañ__	_n._	Nepalese smartweed (Persicaria nepalensis); a variety of vegetable		
+__luuli hamañ__	/luuli hamã/ _n._	Nepalese smartweed (Persicaria nepalensis); a variety of vegetable		
 
-__luutw__	_n._	grazing ground; pasture; meadow		
+__luutw__	/luutɨ/ _n._	grazing ground; pasture; meadow		
 
-__luxá__	_v._	retort; riposte; dare; challenge verbally		
+__luxá__	/luxá/ _v._	retort; riposte; dare; challenge verbally		
 
-__luxa'__	_v._	speak wrongly	[_syn._	lugya']
+__luxa'__	/luxaɁ/ _v._	speak wrongly	[_syn._	lugya']
 
-__luxè___	_v._	speak rudely; speak brusquely		
+__luxè___	/luxè/ _v._	speak rudely; speak brusquely		
 
-__luxo'__	_v._	disagree; express different opinion		
+__luxo'__	/luxoɁ/ _v._	disagree; express different opinion		
 
-__luxwñ-lumwñ__	_v._	speak in a confused way; speak nervously
+__luxwñ-lumwñ__	/luxɨ̃-lumɨ̃/ _v._	speak in a confused way; speak nervously
 
-__luzo__	_v._	speak without purpose
+__luzo__	/luɲo/ _v._	speak without purpose
 
-__luzo'__	_v._	practice speaking
+__luzo'__	/luɲoɁ/ _v._	practice speaking
 
-__lw__	_vr._	plant
+__lw__	/lɨ/ _vr._	plant
 
-__lw'__	_vr._	shed, as leaves do from the trees
+__lw'__	/lɨɁ/ _vr._	shed, as leaves do from the trees
 
-__lw'__	_vr._	put, esp. grains into a container
+__lw'__	/lɨɁ/ _vr._	put, esp. grains into a container
 
-__lw'su__	_v._	interchange; exchange
+__lw'su__	/lɨɁsu/ _v._	interchange; exchange
 
-__lwbañ__	_n._	knee
+__lwbañ__	/lɨbã/ _n._	knee
 
-__lwbáñ__	_n._	baby
+__lwbáñ__	/lɨbã/ _n._	baby
 
-__lwbañ alló__	_n._	knee cap
+__lwbañ alló__	/lɨbã alló/ _n._	knee cap
 
-__lwbáñ ba'nw__	_n._	baby sitter
+__lwbáñ ba'nw__	/lɨbã́ baɁnɨ/ _n._	baby sitter
 
-__lwbe-la'be__	_adj._	lazy; lethargic
+__lwbe-la'be__	/lɨbe-laɁbe/ _adj._	lazy; lethargic
 
-__lwbe'__	_v._	scratch using claws or hooves
+__lwbe'__	/lɨbeɁ/ _v._	scratch using claws or hooves
 
-__lwbi'__	_n._	right (leg)
+__lwbi'__	/lɨbiɁ/ _n._	right (leg)
 
-__lwca__	_n._	lame
+__lwca__	/lɨca/ _n._	lame
 
-__lwci__	_n._	left (leg)
+__lwci__	/lɨci/ _n._	left (leg)
 
-__lwci'__	_v._	accidentally struck on something; tumble into something
+__lwci'__	/lɨciɁ/ _v._	accidentally struck on something; tumble into something
 
-__lwci'__	_n._	toe
+__lwci'__	/lɨciɁ/ _n._	toe
 
-__lwci'-po'do__	_n._	accident; mishap
+__lwci'-po'do__	/lɨciɁ-poɁdo/ _n._	accident; mishap
 
-__lwdì__	_n._	base; bottom; way; footprint
+__lwdì__	/lɨdì/ _n._	base; bottom; way; footprint
 
-__lwdu__	_n._	heel
+__lwdu__	/lɨdu/ _n._	heel
 
-__lwge'__	_n._	popliteal space; hollow of the knee
+__lwge'__	/lɨgeɁ/ _n._	popliteal space; hollow of the knee
 
-__lwgo'__	_n._	cracked sole; cracked feet
+__lwgo'__	/lɨgoɁ/ _n._	cracked sole; cracked feet
 
-__lwgu'__	_n._	incubating hen
+__lwgu'__	/lɨguɁ/ _n._	incubating hen
 
-__lwgvr__	_adj._	bent; crooked; not straight
+__lwgvr__	/lɨgǝr/ _adj._	bent; crooked; not straight
 
-__lwgyu__	_n._	claw
+__lwgyu__	/lɨgju/ _n._	claw
 
-__lwha'__	_n._	small cane basket
+__lwha'__	/lɨhaɁ/ _n._	small cane basket
 
-__lwhiñ__	_n._	toe nail
+__lwhiñ__	/lɨhĩ/ _n._	toe nail
 
-__lwke__	_n._	a loop of rope used for climbing trees
+__lwke__	/lɨke/ _n._	a loop of rope used for climbing trees
 
-__lwkè__	_v._	cross legs
+__lwkè__	/lɨkè/ _v._	cross legs
 
-__lwkè-lwbè__	_v._	twist one's feet around
+__lwkè-lwbè__	/lɨkè-lɨbè/ _v._	twist one's feet around
 
-__lwma__	_n._	root
+__lwma__	/lɨma/ _n._	root
 
-__lwmiñ alló__	_n._	lateral melleolus bone		
+__lwmiñ alló__	/lɨmĩ alló/ _n._	lateral melleolus bone		
 
-__lwmiñ lahiñ__	_n._	blessing; gift (esp. of prosperity, wisdom or knowledge)	
+__lwmiñ lahiñ__	/lɨmĩ lahĩ/ _n._	blessing; gift (esp. of prosperity, wisdom or knowledge)	
 
-__lwnw__	_n._	big toe		
+__lwnw__	/lɨnɨ/ _n._	big toe		
 
-__lwpa__	_n._	middle; center		
+__lwpa__	/lɨpa/ _n._	middle; center		
 
-__lwpì__	_v._	dry		
+__lwpì__	/lɨpì/ _v._	dry		
 
-__lwpi'__	_n._	numbness of the limbs		
+__lwpi'__	/lɨpiɁ/ _n._	numbness of the limbs		
 
-__lwpi__	_v._	wash or clean the feet	
+__lwpi__	/lɨpi/ _v._	wash or clean the feet	
 
-__lwpiñ__	_n._	upper portion of the foot		
+__lwpiñ__	/lɨpĩ/ _n._	upper portion of the foot		
 
-__lwpya__	_n._	shin		
+__lwpya__	/lɨpja/ _n._	shin		
 
-__lwpyo__	_n._	sole		
+__lwpyo__	/lɨpjo/ _n._	sole		
 
-__lwqvr__	_n._	ankle		
+__lwqvr__	/lɨŋǝr/ _n._	ankle		
 
-__lwri pwsa__	_n._	a variety of pine tree; Himalayan hemlock (Tsuga dumosa)	[_var._	nwri pwsa]
+__lwri pwsa__	/lɨri pɨsa/ _n._	a variety of pine tree; Himalayan hemlock (Tsuga dumosa)	[_var._	nwri pwsa]
 
-__lwriñ__	_n._	kneelet comprising of string of beads, esp. worn by priests		
+__lwriñ__ /lɨrĩ/	_n._	kneelet comprising of string of beads, esp. worn by priests		
 
-__lwrw lorw'__	_n._	joint	[_syn._	lorw']
+__lwrw lorw'__	/lɨrɨ lorɨɁ/ _n._	joint	[_syn._	lorw']
 
-__lwsi'__	_n._	hay; straw	[_syn._	kusu']
+__lwsi'__	/lɨsiɁ/ _n._	hay; straw	[_syn._	kusu']
 
-__lwsiñ pwtu__	_n._	calf		
+__lwsiñ pwtu__	/lɨsĩ pɨtu/ _n._	calf		
 
-__lwta'__	_n._	cockspur		
+__lwta'__	/lɨtaɁ/ _n._	cockspur		
 
-__lww__	_vr._	lie down		
+__lww__	/lɨɨ/ _vr._	lie down		
 
-__lwwbuñ__	_n._	unnatural death, of a woman		
+__lwwbuñ__	/lɨɨbũ/ _n._	unnatural death, of a woman		
 
-__lwwpi__	_n._	shoulder blade		
+__lwwpi__	/lɨɨpi/ _n._	shoulder blade		
 
-__lwwrw__	_n._	edge; brim	[_syn._	cirw]
+__lwwrw__	/lɨɨrɨ/ _n._	edge; brim	[_syn._	cirw]
 
-__lwxwñ__	_n._	dirt on the feet		
+__lwxwñ__	/lɨxɨ̃/ _n._	dirt on the feet		
 
-__lwyi__	_n._	footprint, esp. of animals		
+__lwyi__	/lɨji/ _n._	footprint, esp. of animals		
+
