@@ -423,471 +423,471 @@ __murù__	/murù/ _n._	torch; flambeau
 __muruñ__	/murũ/ _n._	first month of the lunar year; january; name of the festival celebrated in January				
 
 
-__mw__	_vr._	do				
+__mw__	/mɨ/ _vr._	do				
 
 
-__mwbi'__	_v._	spill; splash				
+__mwbi'__	/mɨbiɁ/ _v._	spill; splash				
 
 
-__mwbo__	_v._	help (in doing some work); assist; support				
+__mwbo__	/mɨbo/ _v._	help (in doing some work); assist; support				
 
 
-__mwbo-lubo__	_v._	participate; assist; support				
+__mwbo-lubo__	/mɨbo-lubo/ _v._	participate; assist; support				
 
 
-__mwbur__	_v._	do something in an inopportune way				
+__mwbur__	/mɨbur/ _v._	do something in an inopportune way				
 
 
-__mwbya'__	_v._	hurt by causing burns		
+__mwbya'__	/mɨbjaɁ/ _v._	hurt by causing burns		
 
 
-__mwbyu__	_v._	contaminate (esp. liquids)		
+__mwbyu__	/mɨbju/ _v._	contaminate (esp. liquids)		
 
 
-__mwbyú__	_v._	offend (by doing something)		
+__mwbyú__	/mɨbjú/ _v._	offend (by doing something)		
 
 
-__mwbyuñ__	_v._	help; contribute		
+__mwbyuñ__	/mɨbjũ/ _v._	help; contribute		
 
 
-__mwce__	_n._	trough cleaner	[_syn._	afi' mwge']
+__mwce__	/mɨce/ _n._	trough cleaner	[_syn._	afi' mwge']
 
 
-__mwce'__	_v._	interfere; obstruct; impede		
+__mwce'__	/mɨceɁ/ _v._	interfere; obstruct; impede		
 
 
-__mwci__	_n._	kite (bird)		
+__mwci__	/mɨci/ _n._	kite (bird)		
 
 
-__mwcì__	_v._	copy; sketch; draw		
+__mwcì__	/mɨcì/ _v._	copy; sketch; draw		
 
 
-__mwci'__	_v._	hurt the eye		
+__mwci'__	/mɨciɁ/ _v._	hurt the eye		
 
 
-__mwciñ__	_v._	know how to do		
+__mwciñ__	/mɨcĩ/ _v._	know how to do		
 
 
-__mwcu__	_n._	fire accidenet, esp. burning down house (s)		
+__mwcu__	/mɨcu/ _n._	fire accidenet, esp. burning down house (s)		
 
 
-__mwcvr__	_adv._	innovatively; ingenously		
+__mwcvr__	/mɨcǝr/ _adv._	innovatively; ingenously		
 
 
-__mwdañ__	_v._	touch (esp. to cause pain)	[_syn._	mwne']
+__mwdañ__	/mɨdã/ _v._	touch (esp. to cause pain)	[_syn._	mwne']
 
 
-__mwdiko__	_adv._	appropriately; suitably; relevantly		
+__mwdiko__	/mɨdiko/ _adv._	appropriately; suitably; relevantly		
 
 
-__mwdiñ-kwliñ__	_adv._	intentionally	[_syn._	mwdiñpa]
+__mwdiñ-kwliñ__	/mɨdĩ-kɨlĩ/ _adv._	intentionally	[_syn._	mwdiñpa]
 
 
-__mwdiñpa__	_adv._	intentionally	[_syn._	mwdiñ-kwliñ
+__mwdiñpa__	/mɨdĩpa/ _adv._	intentionally	[_syn._	mwdiñ-kwliñ
 
 
-__mwdó__	_n._	rain; weather
+__mwdó__	/mɨdó/ _n._	rain; weather
 
 
-__mwdó byoco__	_n._	swallow
+__mwdó byoco__	/mɨdó bjoco/ _n._	swallow
 
 
-__mwdù__	_n._	time for doing something
+__mwdù__	/mɨdù/ _n._	time for doing something
 
 
-__mwdu-mwye__	_n._	strands of hair extending down the forehead, as often kept by young women
+__mwdu-mwye__	/mɨdu-mɨje/ _n._	strands of hair extending down the forehead, as often kept by young women
 
 
-__mwdu'__	_v._	destroy; damage
+__mwdu'__	/mɨduɁ/ _v._	destroy; damage
 
 
-__mwdvr__	_v._	rectify; do something correctly
+__mwdvr__	/mɨdǝr/ _v._	rectify; do something correctly
 
 
-__mwfañ__	_v._	correct; rectify; amend
+__mwfañ__	/mɨʎã/ _v._	correct; rectify; amend
 
 
-__mwfo__	_n._	flame
+__mwfo__	/mɨʎo/ _n._	flame
 
 
-__mwfu__	_v._	waste; spend
+__mwfu__	/mɨʎu/ _v._	waste; spend
 
 
-__mwgañ__	_n._	feathers of cock, usually of its tail
+__mwgañ__	/mɨgã/ _n._	feathers of cock, usually of its tail
 
 
-__mwge'__	_n._	pincers, usually of bamboo
+__mwge'__	/mɨgeɁ/ _n._	pincers, usually of bamboo
 
 
-__mwgiñ__	_adj._	beneficial; profitable, of works
+__mwgiñ__	/mɨgĩ/ _adj._	beneficial; profitable, of works
 
-__mwgó__	_n._	hearth; foreplace
+__mwgó__	/mɨgó/ _n._	hearth; foreplace
 
 
-__mwgò__	_n._	task; work
+__mwgò__	/mɨgò/ _n._	task; work
 
 
-__mwgya__	_v._	help someone on reciprocal basis
+__mwgya__	/mɨgja/ _v._	help someone on reciprocal basis
 
 
-__mwgya'__	_v._	do wrongly; commit a mistake
+__mwgya'__	/mɨgjaɁ/ _v._	do wrongly; commit a mistake
 
 
-__mwgyo-mwfo__	_v._	mix; blend; mingle		
+__mwgyo-mwfo__ /mɨgjo-mɨʎo/	_v._	mix; blend; mingle		
 
 
-__mwha-mwxa__	_v._	annoy; pester		
+__mwha-mwxa__ /mɨha-mɨxa/	_v._	annoy; pester		
 
 
-__mwho__	_v._	make a sign		
+__mwho__ /mɨho/	_v._	make a sign		
 
 
-__mwho__	_v._	offend (by doing something)		
+__mwho__	/mɨho/ _v._	offend (by doing something)		
 
 
-__mwhù__	_v._	wake up; rouse	[_syn._	ahú]
+__mwhù__	/mɨhù/ _v._	wake up; rouse	[_syn._	ahú]
 
 
-__mwja__	_v._	finish doing something		
+__mwja__	/mɨɟa/ _v._	finish doing something		
 
 
-__mwja'__	_v._	tear something by handing it		
+__mwja'__	/mɨɟaɁ/ _v._	tear something by handing it		
 
 
-__mwji__	_n._	a variety of tree having a very bitter taste		
+__mwji__	/mɨɟi/ _n._	a variety of tree having a very bitter taste		
 
 
-__mwjo__	_n._	reward for doing something; wage		
+__mwjo__	/mɨɟo/ _n._	reward for doing something; wage		
 
 
-__mwjù__	_n._	ways of doing; custom		
+__mwjù__	/mɨɟù/ _n._	ways of doing; custom		
 
 
-__mwjù-mwmyo__	_n._	ways of doing; custom		
+__mwjù-mwmyo__	/mɨɟù-mɨmjo/ _n._	ways of doing; custom		
 
 
-__mwkiñ__	_v._	show how something is done; demonstrate		
+__mwkiñ__	/mɨkĩ/ _v._	show how something is done; demonstrate		
 
 
-__mwko-mwpe__	_v._	disrupt; distract; disturb		
+__mwko-mwpe__	/mɨko-mɨpe / _v._	disrupt; distract; disturb		
 
 
-__mwko'_	_v._	open		
+__mwko'_	/mɨkoɁ/ _v._	open		
 
 
-__mwkú-mwdiñ__	_v._	make noise		
+__mwkú-mwdiñ__	/mɨkú-mɨdĩ/ _v._	make noise		
 
 
-__mwku'__	_v._	make something fall by mistake		
+__mwku'__	/mɨkuɁ/ _v._	make something fall by mistake		
 
 
-__mwla'__	_adj._	skilled in doing something; expert		
+__mwla'__	/mɨlaɁ/ _adj._	skilled in doing something; expert		
 
 
-__mwla'-lula'__	_adj._	skilled; expert	[_syn._	miki]
+__mwla'-lula'__ /mɨlaɁ lulaɁ /	_adj._	skilled; expert	[_syn._	miki]
 
 
-__mwlañ__	_pron._	all; everybody	[_syn._	jimvr]
+__mwlañ__	/mɨlã/ _pron._	all; everybody	[_syn._	jimvr]
 
 
-__mwlañja__	_pron._	all; everybody		
+__mwlañ__	/mɨlã/ _conj._	also
 
 
-__mwlañru__	_pron._	all; everybody		
+__mwlañja__	/mɨlãɟa/ _pron._	all; everybody		
 
 
-__mwlañ__	_conj._	also		
+__mwlañru__ /mɨlãru/	_pron._	all; everybody		
 
 
-__mwlì__	_v._	take revenge		
+__mwlì__	/mɨlì/ _v._	take revenge		
 
 
-__mwliñ__	_v._	generate		
+__mwliñ__	/mɨlĩ/ _v._	generate		
 
 
-__mwlo kopo__	_n._	hawk		
+__mwlo kopo__	/mɨlo kopo/ _n._	hawk		
 
 
-__mwlù-mwle__	_v._	disturb		
+__mwlù-mwle__	/mɨlù-mɨle/ _v._	disturb		
 
 
-__mwluñ__	_v._	frighten; scare		
+__mwluñ__	/mɨlũ/ _v._	frighten; scare		
 
 
-__mwme-mwja__	_v._	complete; finish		
+__mwme-mwja__	/mɨme-mɨɟa/ _v._	complete; finish		
 
 
-__mwme'__	_v._	initiate		
+__mwme'__	/mɨmeɁ/ _v._	initiate		
 
 
-__mwmi'__	_v._	extinguish; douse; put out (fire)	[_syn._	ami']
+__mwmi'__	/mɨmiɁ/ _v._	extinguish; douse; put out (fire)	[_syn._	ami']
 
 
-__mwmiñ__	_v._	win		
+__mwmiñ__	/mɨmĩ/ _v._	win		
 
 
-__mwmiñ-mwhiñ__	_v._	do something without a purpose		
+__mwmiñ-mwhiñ__	/mɨmĩ-mɨhĩ/ _v._	do something without a purpose		
 
 
-__mwmó__	_v._	use or spend a portion	[_syn._	mwpiñ]
+__mwmó__	/mɨmó/ _v._	use or spend a portion	[_syn._	mwpiñ]
 
 
-__mwmur__	_v._	do something wrongly		
+__mwmur__	/mɨmur/ _v._	do something wrongly		
 
 
-__mwmya'__	_v._	smudge; smear		
+__mwmya'__	/mɨmjaɁ/ _v._	smudge; smear		
 
 
-__mwmyó__	_v._	do something in advance		
+__mwmyó__	/mɨmjó/ _v._	do something in advance		
 
 
-__mwne'__	_v._	touch; beat		
+__mwne'__	/mɨneɁ/ _v._	touch; beat		
 
 
-__mwnì__	_v._	prune; trim		
+__mwnì__	/mɨnì/ _v._	prune; trim		
 
 
-__mwni'__	_v._	injure a bit while doing something		
+__mwni'__	/mɨniɁ/ _v._	injure a bit while doing something		
 
 
-__mwnù-mwna__	_adv._	worthlessly; uselessly		
+__mwnù-mwna__	/mɨnu-mɨna/ _adv._	worthlessly; uselessly		
 
 
-__mwpa'__	_v._	remove; spend		
+__mwpa'__	/mɨpaɁ/ _v._	remove; spend		
 
 
-__mwpe__	_v._	separate; detach; disconnect; segregate		
+__mwpe__	/mɨpe/ _v._	separate; detach; disconnect; segregate		
 
 
-__mwpe'__	_v._	complete; finish		
+__mwpe'__	/mɨpeɁ/ _v._	complete; finish		
 
 
-__mwpi'__	_v._	break something fragile like an egg		
+__mwpi'__	/mɨpiɁ/ _v._	break something fragile like an egg		
 
 
-__mwpiñ__	_v._	close	[_syn._	mwpyañ]
+__mwpiñ__	/mɨpĩ/ _v._	close	[_syn._	mwpyañ]
 
 
-__mwpiñ__	_v._	use or spend a portion	[_syn._	mwmó]
+__mwpiñ__	/mɨpĩ/ _v._	use or spend a portion	[_syn._	mwmó]
 
 
-__mwpó__	_v._	cut accidentally with some sharp edge		
+__mwpó__	/mɨpó/ _v._	cut accidentally with some sharp edge		
 
 
-__mwpu__	_v._	do something inadvertently; commit mistake		
+__mwpu__	/mɨpu/ _v._	do something inadvertently; commit mistake		
 
 
-__mwpu'__	_v._	cover		
+__mwpu'__	/mɨpuɁ/ _v._	cover		
 
 
-__mwpur__	_v._	break something		
+__mwpur__	/mɨpur/ _v._	break something		
 
 
-__mwpya-mwsa__	_v._	scatter; disseminate; sprinkle		
+__mwpya-mwsa__	/mɨpja-mɨsa/ _v._	scatter; disseminate; sprinkle		
 
 
-__mwpya'__	_v._	undo something; untie		
+__mwpya'__	/mɨpjaɁ/ _v._	undo something; untie		
 
 
-__mwpyañ__	_v._	close	[_syn._	mwpiñ]
+__mwpyañ__	/mɨpjã/ _v._	close	[_syn._	mwpiñ]
 
 
-__mwpyo__	_v._	do something secretly		
+__mwpyo__	/mɨpjo/ _v._	do something secretly		
 
 
-__mwpyò__	_adj._	easy (to do); good to do		
+__mwpyò__	/mɨpjò/ _adj._	easy (to do); good to do		
 
 
-__mwqo__	_v._	stop doing something		
+__mwqo__	/mɨŋo/ _v._	stop doing something		
 
 
-__mwqó__	_n._	unfinished task; remaining work		
+__mwqó__	/mɨŋó/ _n._	unfinished task; remaining work		
 
 
-__mwqu-mwre__	_v._	discriminate		
+__mwqu-mwre__	/mɨŋu-mɨre/ _v._	discriminate		
 
 
-__mwra__	_n._	effigy in an agricultural field to scare away birds		
+__mwra__	/mɨra/ _n._	effigy in an agricultural field to scare away birds		
 
 
-__mwra__	_n._	slave		
+__mwra__	/mɨra/ _n._	slave		
 
 
-__mwrañ-mwtu__	_adv._	significantly; notably		
+__mwrañ-mwtu__	/mɨrã-mɨtu/ _adv._	significantly; notably		
 
 
-__mwrí__	_n._	charcoal		
+__mwrí__	/mɨrì/ _n._	charcoal		
 
 
-__mwri-mwza__	_adj._	tiny; miniscule		
+__mwri-mwza__	/mɨri-mɨɲa/ _adj._	tiny; miniscule		
 
 
-__mwri'__	_v._	initiate doing something		
+__mwri'__	/mɨriɁ/ _v._	initiate doing something		
 
 
-__mwró__	_v._	enlarge; widen		
+__mwró__	/mɨró/ _v._	enlarge; widen		
 
 
-__mwru__	_adj._	hard; difficult		
+__mwru__	/mɨru/ _adj._	hard; difficult		
 
 
-__mwrw'__	_v._	assist somebody in doing something		
+__mwrw'__	/mɨrɨɁ / _v._	assist somebody in doing something		
 
 
-__mwsì__	_v._	do something secretly		
+__mwsì__	/mɨsì/ _v._	do something secretly		
 
 
-__mwsi'__	_v._	take one's turn in doing something		
+__mwsi'__	/mɨsiɁ/ _v._	take one's turn in doing something		
 
 
-__mwsu'__	_v._	separate; disconnect; detach		
+__mwsu'__	/mɨsuɁ/ _v._	separate; disconnect; detach		
 
 
-__mwsw__	_n._	task; things to do		
+__mwsw__	/mɨsɨ/ _n._	task; things to do		
 
 
-__mwte'__	_v._	knock down something		
+__mwte'__	/mɨteɁ/ _v._	knock down something		
 
 
-__mwti__	_v._	do something again; repeat; repair		
+__mwti__	/mɨti/ _v._	do something again; repeat; repair		
 
 
-__mwtiñ__	_v._	obstruct		
+__mwtiñ__	// _v._	obstruct		
 
 
-__mwtú__	_n._	half burned firewood		
+__mwtú__	// _n._	half burned firewood		
 
 
-__mwtù__	_n._	beginning	[_v._	do something for the first time]
+__mwtù__ //	_n._	beginning	[_v._	do something for the first time]
 
 
-__mww__	_vr._	heal		
+__mww__	// _vr._	heal		
 
 
-__mwxa__	_v._	compete; challenge; contend with; vie with		
+__mwxa__	// _v._	compete; challenge; contend with; vie with		
 
 
-__mwxa'__	_v._	do something wrongly; commit mistake		
+__mwxa'__	// _v._	do something wrongly; commit mistake		
 
 
-__mwxè__	_v._	do something forcefully		
+__mwxè__	// _v._	do something forcefully		
 
 
-__mwxe'__	_v._	make somebody cry
+__mwxe'__	// _v._	make somebody cry
 
 
-__mwxó__	_v._	do something leading to bankruptcy
+__mwxó__	// _v._	do something leading to bankruptcy
 
 
-__mwxo'__	_v._	do something differently
+__mwxo'__	// _v._	do something differently
 
 
-__mwxo'__	_v._	peel or scrap, of a wound scab or a bark of a tree
+__mwxo'__	// _v._	peel or scrap, of a wound scab or a bark of a tree
 
 
-__mwxu__	_v._	demarcate; delineate; separate
+__mwxu__	// _v._	demarcate; delineate; separate
 
 
-__mwxw__	_v._	kill
+__mwxw__	// _v._	kill
 
 
-__mwxw'__	_v._	sprain
+__mwxw'__	// _v._	sprain
 
 
-__mwxwñ-mwmywñ__	_adv._	do something in a confused way
+__mwxwñ-mwmywñ__ //	_adv._	do something in a confused way
 
 
-__mwya'__	_v._	interfere; encroach
+__mwya'__	// _v._	interfere; encroach
 
 
-__mwyañ__	_n._	crest on the head of cock
+__mwyañ__	// _n._	crest on the head of cock
 
 
-__mwyañ__	_n._	a variety of plant used as tinder
+__mwyañ__	// _n._	a variety of plant used as tinder
 
 
-__mwyo__	_v._	mix; blend
+__mwyo__	// _v._	mix; blend
 
 
-__mwyu__	_n._	ash
+__mwyu__	// _n._	ash
 
 
-__mwyù pwle'__	_n._	a priestly ritual object made of a bundle of feathers of peacock, hornbills and cock
+__mwyù pwle'__	// _n._	a priestly ritual object made of a bundle of feathers of peacock, hornbills and cock
 
 
-__mwza'__	_v._	smoothen; polish
+__mwza'__	// _v._	smoothen; polish
 
 
-__mwze__	_v._	finish; give a finishing touch
+__mwze__	// _v._	finish; give a finishing touch
 
 
-__mwzo__	_v._	do something without purpose or for free		
+__mwzo__	// _v._	do something without purpose or for free		
 
 
-__mwzò__	_v._	drill (esp. exercise)		
+__mwzò__	// _v._	drill (esp. exercise)		
 
 
-__mya__	_vr._	lull; console		
+__mya__	/mja/ _vr._	lull; console		
 
 
-__mya__	_vr._	collect contributions; collect	[_syn._	xa]
+__mya__	/mja/ _vr._	collect contributions; collect	[_syn._	xa]
 
 
-__myamya__	_n._	ringworm		
+__myamya__	/mjamja/ _n._	ringworm		
 
 
-__myamya__	_n._	antique brass plate		
+__myamya__	/mjamja/ _n._	antique brass plate		
 
 
-__myamya pwro__	_n._	plated bamboo basket for storing the myamya brass plate		
+__myamya pwro__ //	_n._	plated bamboo basket for storing the myamya brass plate		
 
 
-__myañ__	_vr._	name		
+__myañ__	// _vr._	name		
 
 
-__myobya__	_adj._	facing the sunny side	[_ant._	myofi]
+__myobya__	mjobja/ _adj._	facing the sunny side	[_ant._	myofi]
 
 
-__myobyu__	_n._	earthquake	[_syn._	myobu hu'nwñ]
+__myobyu__	/mjobju/ _n._	earthquake	[_syn._	myobu hu'nwñ]
 
 
-__myodi__	_n._	far off place		
+__myodi__	/mjodi/ _n._	far off place		
 
 
-__myodu__	_n._	time; season; period	[_syn._	myodu-myolo]
+__myodu__	/mjodu/ _n._	time; season; period	[_syn._	myodu-myolo]
 
 
-__myofi__	_adj._	facing the shady side	[_ant._	myobya]
+__myofi__	// _adj._	facing the shady side	[_ant._	myobya]
 
 
-__myogu__	_v._	migrate; relocate; resettle		
+__myogu__	/mjogu/ _v._	migrate; relocate; resettle		
 
 
-__myoko__	_n._	third lunar month of the year; name of the festival celebrated in March		
+__myoko__	/mjoko/ _n._	third lunar month of the year; name of the festival celebrated in March		
 
 
-__myokó__	_n._	open space outside the village		
+__myokó__	/mjokó/ _n._	open space outside the village		
 
 
-__myokuñ__	_n._	ritual performed for the well-being of plants
+__myokuñ__	// _n._	ritual performed for the well-being of plants
 
 
-__myole__	_n._	an element of ritual altar
+__myole__	/mjole/ _n._	an element of ritual altar
 
 
-__myopw__	_n._	floor
+__myopw__	// _n._	floor
 
 
-__myoxa__	_n._	bamboo floor
+__myoxa__	// _n._	bamboo floor
 
 
-__myw__	_n._	wife
+__myw__	// _n._	wife
 
 
-__myw káanw__	_n._	diviner
+__myw káanw__	// _n._	diviner
 
 
-__myw-milo__	_n._	married couple
+__myw-milo__	// _n._	married couple
 
 
-__myw-oho__	_n._	family; wife and children
+__myw-oho__	// _n._	family; wife and children
