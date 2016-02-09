@@ -752,79 +752,79 @@ __mwte'__	/mɨteɁ/ _v._	knock down something
 __mwti__	/mɨti/ _v._	do something again; repeat; repair		
 
 
-__mwtiñ__	// _v._	obstruct		
+__mwtiñ__	/mɨtĩ/ _v._	obstruct		
 
 
-__mwtú__	// _n._	half burned firewood		
+__mwtú__	/mɨtú/ _n._	half burned firewood		
 
 
-__mwtù__ //	_n._	beginning	[_v._	do something for the first time]
+__mwtù__ /mɨtù/	_n._	beginning	[_v._	do something for the first time]
 
 
-__mww__	// _vr._	heal		
+__mww__	/mɨɨ/ _vr._	heal		
 
 
-__mwxa__	// _v._	compete; challenge; contend with; vie with		
+__mwxa__	/mɨxa/ _v._	compete; challenge; contend with; vie with		
 
 
-__mwxa'__	// _v._	do something wrongly; commit mistake		
+__mwxa'__	/mɨxaɁ/ _v._	do something wrongly; commit mistake		
 
 
-__mwxè__	// _v._	do something forcefully		
+__mwxè__	/mɨxè/ _v._	do something forcefully		
 
 
-__mwxe'__	// _v._	make somebody cry
+__mwxe'__	/mɨxeɁ/ _v._	make somebody cry
 
 
-__mwxó__	// _v._	do something leading to bankruptcy
+__mwxó__	/mɨxó/ _v._	do something leading to bankruptcy
 
 
-__mwxo'__	// _v._	do something differently
+__mwxo'__	/mɨxoɁ/ _v._	do something differently
 
 
-__mwxo'__	// _v._	peel or scrap, of a wound scab or a bark of a tree
+__mwxo'__	/mɨxoɁ/ _v._	peel or scrap, of a wound scab or a bark of a tree
 
 
-__mwxu__	// _v._	demarcate; delineate; separate
+__mwxu__	/mɨxu/ _v._	demarcate; delineate; separate
 
 
-__mwxw__	// _v._	kill
+__mwxw__	/mɨxɨ/ _v._	kill
 
 
-__mwxw'__	// _v._	sprain
+__mwxw'__	/mɨxɨɁ/ _v._	sprain
 
 
-__mwxwñ-mwmywñ__ //	_adv._	do something in a confused way
+__mwxwñ-mwmywñ__ /mɨxɨ̃-mɨmjɨ̃/	_adv._	do something in a confused way
 
 
-__mwya'__	// _v._	interfere; encroach
+__mwya'__	/mɨjaɁ/ _v._	interfere; encroach
 
 
-__mwyañ__	// _n._	crest on the head of cock
+__mwyañ__	/mɨjã/ _n._	crest on the head of cock
 
 
-__mwyañ__	// _n._	a variety of plant used as tinder
+__mwyañ__	/mɨjã/ _n._	a variety of plant used as tinder
 
 
-__mwyo__	// _v._	mix; blend
+__mwyo__	/mɨjo/ _v._	mix; blend
 
 
-__mwyu__	// _n._	ash
+__mwyu__	/mɨju/ _n._	ash
 
 
-__mwyù pwle'__	// _n._	a priestly ritual object made of a bundle of feathers of peacock, hornbills and cock
+__mwyù pwle'__	/mɨjù pɨleɁ/ _n._	a priestly ritual object made of a bundle of feathers of peacock, hornbills and cock
 
 
-__mwza'__	// _v._	smoothen; polish
+__mwza'__	/mɨɲaɁ/ _v._	smoothen; polish
 
 
-__mwze__	// _v._	finish; give a finishing touch
+__mwze__	/mɨɲe/ _v._	finish; give a finishing touch
 
 
-__mwzo__	// _v._	do something without purpose or for free		
+__mwzo__	/mɨɲo/ _v._	do something without purpose or for free		
 
 
-__mwzò__	// _v._	drill (esp. exercise)		
+__mwzò__	/mɨɲò/ _v._	drill (esp. exercise)		
 
 
 __mya__	/mja/ _vr._	lull; console		
@@ -839,13 +839,13 @@ __myamya__	/mjamja/ _n._	ringworm
 __myamya__	/mjamja/ _n._	antique brass plate		
 
 
-__myamya pwro__ //	_n._	plated bamboo basket for storing the myamya brass plate		
+__myamya pwro__ /mjamja pɨro/	_n._	plated bamboo basket for storing the myamya brass plate		
 
 
-__myañ__	// _vr._	name		
+__myañ__	/mjã/ _vr._	name		
 
 
-__myobya__	mjobja/ _adj._	facing the sunny side	[_ant._	myofi]
+__myobya__	/mjobja/ _adj._	facing the sunny side	[_ant._	myofi]
 
 
 __myobyu__	/mjobju/ _n._	earthquake	[_syn._	myobu hu'nwñ]
@@ -857,7 +857,7 @@ __myodi__	/mjodi/ _n._	far off place
 __myodu__	/mjodu/ _n._	time; season; period	[_syn._	myodu-myolo]
 
 
-__myofi__	// _adj._	facing the shady side	[_ant._	myobya]
+__myofi__	/mjoʎi/ _adj._	facing the shady side	[_ant._	myobya]
 
 
 __myogu__	/mjogu/ _v._	migrate; relocate; resettle		
@@ -869,25 +869,25 @@ __myoko__	/mjoko/ _n._	third lunar month of the year; name of the festival celeb
 __myokó__	/mjokó/ _n._	open space outside the village		
 
 
-__myokuñ__	// _n._	ritual performed for the well-being of plants
+__myokuñ__	/mjokũ/ _n._	ritual performed for the well-being of plants
 
 
 __myole__	/mjole/ _n._	an element of ritual altar
 
 
-__myopw__	// _n._	floor
+__myopw__	/mjopɨ/ _n._	floor
 
 
-__myoxa__	// _n._	bamboo floor
+__myoxa__	/mjoxa/ _n._	bamboo floor
 
 
-__myw__	// _n._	wife
+__myw__	/mjɨ/ _n._	wife
 
 
-__myw káanw__	// _n._	diviner
+__myw káanw__	/mjɨ káanɨ/ _n._	diviner
 
 
-__myw-milo__	// _n._	married couple
+__myw-milo__	/mjɨ-milo/ _n._	married couple
 
 
-__myw-oho__	// _n._	family; wife and children
+__myw-oho__	/mjɨ-oho/ _n._	family; wife and children
