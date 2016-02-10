@@ -253,7 +253,7 @@ __pano__	/pano/ _v._	sting
 __pañxa__	/pãxa/ _n._	fan	[_or._	Assamese]
 
 
-__papa'__	// _v._	cut off or chop off		
+__papa'__	/papaɁ/ _v._	cut off or chop off		
 
 
 __pape__	/pape/ _n._	gap; intervening gap		
@@ -271,13 +271,13 @@ __papù__	/papù/ _n._	egg
 __papú__	/papú/ _n._	puffed grain		
 
 
-__papù afò__	// _n._	egg white		
+__papù afò__	/papù aʎò/ _n._	egg white		
 
 
-__papù hayañ__	// _n._	egg yolk		
+__papù hayañ__	/papù hajã/ _n._	egg yolk		
 
 
-__papù paxu__	// _n._	egg shell		
+__papù paxu__	/papù paxu/ _n._	egg shell		
 
 
 __papuu__	/papuu/ _n._	white (esp. hen)		
@@ -307,205 +307,205 @@ __parda__	/parda/ _adj._	straight; honest; linear; not bent
 __pari__	/pari/ _n._	tree sparrow (-Passer montanus_)	[_syn._	pari pwta]
 
 
-__parì-pagyò__	// _adj._	mosaic like appearance		
+__parì-pagyò__	/parì-pagjò/ _adj._	mosaic like appearance		
 
 
-__pariñ__	// _adj._	combinatin of two or more colors		
+__pariñ__	/parĩ/ _adj._	combinatin of two or more colors		
 
 
 __párkó__	/párkó/ _v._	drill a hole		
 
 
-__párko'__	// _v._	screw open		
+__párko'__	/párkoɁ/ _v._	screw open		
 
 
-__parliñ__ //	_v._	crawl out		
+__parliñ__ /parlĩ/	_v._	crawl out		
 
 
-__parmw'__ //	_v._	grind in powder		
+__parmw'__ /parmɨɁ/	_v._	grind in powder		
 
 
-__paro'__ //	_n._	chicken; fowl		
+__paro'__ /paroɁ/	_n._	chicken; fowl		
 
 
-__paro' lañxa__ //	_n._	poultry house		
+__paro' lañxa__ /paroɁ lãxa/	_n._	poultry house		
 
 
-__paro' lopa__	// _n._	stick to drive away chickens		
+__paro' lopa__	/paroɁ lopa/ _n._	stick to drive away chickens		
 
 
-__paro' lwgo__	// _n._	time in the early morning when the cocks crow		
+__paro' lwgo__	/paroɁ lɨgo/ _n._	time in the early morning when the cocks crow		
 
 
-__paro' pabya'__ //	_n._	young chicken	{-var._	paro' pwbya]
+__paro' pabya'__ /paroɁ pabjaɁ/	_n._	young chicken	{-var._	paro' pwbya]
 
 '
-__paro' pai__	// _n._	poultry dropping		
+__paro' pai__	/paroɁ pai/ _n._	poultry dropping		
 
 
-__paro' pamí__	// _n._	fowl flee		
+__paro' pamí__	/paroɁ pamí/ _n._	fowl flee		
 
 
-__paro' papù__	// _n._	chicken egg		
+__paro' papù__	/paroɁ papù/ _n._	chicken egg		
 
 
-__paro' papúu__	// _n._	white chicken		
+__paro' papúu__	/paroɁ papúu/ _n._	white chicken		
 
 
-__paro' patvr__	// _n._	cage for chicken		
+__paro' patvr__	/paroɁ patǝr/ _n._	cage for chicken		
 
 
-__paro' paxw__	// _n._	entrails of chicken		
+__paro' paxw__	/paroɁ paxɨ/ _n._	entrails of chicken		
 
 
-__paro' pwha__	// _n._	basket of bamboo splits where chicks hatch		
+__paro' pwha__	/paroɁ pɨha/ _n._	basket of bamboo splits where chicks hatch		
 
 
-__paro' pwri__	// _n._	chicken coop		
+__paro' pwri__	/paroɁ pɨri/ _n._	chicken coop		
 
 
-__paro' ro'nw__	// _n._	hen		
+__paro' ro'nw__	/paroɁ roɁnɨ/ _n._	hen		
 
 
-__paro' ro'po__	// _n._	cock; rooster		
+__paro' ro'po__	/paroɁ roɁpo/ _n._	cock; rooster		
 
 
-__paro' sampya__ //	_n._	fowl feeding tray		
+__paro' sampya__ /paroɁ sampja/	_n._	fowl feeding tray		
 
 
-__paro' yagw__	// _n._	medium sized basket for measuring quantity of paddy, roughly equivalent to five kilograms		
+__paro' yagw__	/paroɁ jagɨ/ _n._	medium sized basket for measuring quantity of paddy, roughly equivalent to five kilograms		
 
 
-__paro' yo__	// _n._	chicken (meat)		
+__paro' yo__	/paroɁ jo/ _n._	chicken (meat)		
 
 
-__paro'he__	// _n._	measure worth of a hen or paddy in a paro' yagw; three persons which was the number of labourers hired with a hen or paro' yagw full of paddy		
+__paro'he__	/paroɁhe/ _n._	measure worth of a hen or paddy in a paro' yagw; three persons which was the number of labourers hired with a hen or paro' yagw full of paddy		
 
 
-__párpiñ__	// _v._	screw close		
+__párpiñ__	/párpĩ/ _v._	screw close		
 
 
-__parsiñ__	// _n._	red jungle fowl (_Gallus gallus_)
+__parsiñ__	/parsĩ/ _n._	red jungle fowl (_Gallus gallus_)
 
 
-__parw__	// _v._	rotate				
+__parw__	/parɨ/ _v._	rotate				
 
 
-__parw-molañ__	// _n._	a variety of shrub bearing reddish berries commonly found in bamboo gardens				
+__parw-molañ__	/parɨ-molã/ _n._	a variety of shrub bearing reddish berries commonly found in bamboo gardens				
 
 
-__parw'__	// _n._	Khaleej pheasant (_Lophura leucomelanos_)
+__parw'__	/parɨɁ/ _n._	Khaleej pheasant (_Lophura leucomelanos_)
 
 
-__párww__	// _v._	twist; turn around	[_syn._	párww-paxe]
+__párww__	/párɨɨ/ _v._	twist; turn around	[_syn._	párww-paxe]
 
 
-__párxw__	// _v._	twist; spin; twirl				
+__párxw__	/párxɨ/ _v._	twist; spin; twirl				
 
 
-__pasu__	// _v._	fight; quarrel				
+__pasu__	/pasu/ _v._	fight; quarrel				
 
 
-__pasù__	// _n._	needle				
+__pasù__	/pasù/ _n._	needle				
 
 
-__pasvr__	// _n._	extra; remainder				
+__pasvr__	/pasǝr/ _n._	extra; remainder				
 
 
-__pata-pabya__	// _adj._	spotted				
+__pata-pabya__	/pata-pabja/ _adj._	spotted				
 
 
-__pata'__	// _n._	bamboo split; flat object				
+__pata'__	/pataɁ/ _n._	bamboo split; flat object				
 
 
-__pata' ude__	// _n._	house with roof of bamboo split				
+__pata' ude__	/pataɁ ude/ _n._	house with roof of bamboo split				
 
 
-__patañ__	// _n._	traditional labour gang				
+__patañ__	/patã/ _n._	traditional labour gang				
 
 
-__patañ ajo__	// _v._	hire a labaour gang				
+__patañ ajo__	/patã aɟo/ _v._	hire a labaour gang				
 
 
-__patañ áttò__	// _n._	a member of the labour gang in whose field it works on the day				
+__patañ áttò__	/patã áttò/ _n._	a member of the labour gang in whose field it works on the day				
 
 
-__pató hamañ__	// _n._	a variety of vegetable (_Clerodendrum colebrookianum_)				
+__pató hamañ__	/pató hamã/ _n._	a variety of vegetable (_Clerodendrum colebrookianum_)				
 
 
-__patu__	// _v._	cut something into two or more pieces				
+__patu__	/patu/ _v._	cut something into two or more pieces				
 
 
-__patu'__	// _n._	prison; jail				
+__patu'__	/patuɁ/ _n._	prison; jail				
 
 
-__patu'__	// _n._	sharp edged stump of bamboo or other tree				
+__patu'__	/patuɁ/ _n._	sharp edged stump of bamboo or other tree				
 
 
-__patu' alw'__	// _v._	put in the jail; imprison				
+__patu' alw'__	/patuɁ alɨɁ/ _v._	put in the jail; imprison				
 
 
-__patúu-papo__	// _v._	hack something into several pieces				
+__patúu-papo__	/patúu papo/ _v._	hack something into several pieces				
 
 
-__patvr__	// _n._	cage				
+__patvr__	/patǝr/ _n._	cage				
 
 
-__patw__	// _n._	tiger (_Panthera tigris tigris_)				
+__patw__	/patɨ/ _n._	tiger (_Panthera tigris tigris_)				
 
 
-__patw ahi__	// _n._	tiger tooth				
+__patw ahi__	/patɨ ahi/ _n._	tiger tooth				
 
 
-__patw riñbi__	// _n._	a variety of spider				
+__patw riñbi__	/patɨ rĩbi/ _n._	a variety of spider				
 
 
-__paxè__	// _n._	mesh, which may be of wire, bamboo or cane; lattice				
+__paxè__	/paxè/ _n._	mesh, which may be of wire, bamboo or cane; lattice				
 
 
-__paxo__	// _n._	narrow channel in the wet rice cultivation fields	[_syn._	he'te']
+__paxo__	/paxo/ _n._	narrow channel in the wet rice cultivation fields	[_syn._	he'te']
 
 
-__paxo' sudu__	// _n._	a long bamboo container for smoking spicy food				
+__paxo' sudu__	/paxoɁ sudu/ _n._	a long bamboo container for smoking spicy food				
 
 
-__paxu__	// _n._	shell; scale				
+__paxu__	/paxu/ _n._	shell; scale				
 
 
-__paxu rudu'__	// _adj._	rough; scaly				
+__paxu rudu'__	/paxu ruduɁ/ _adj._	rough; scaly				
 
 
-__paxu'__	// _n._	partridge				
+__paxu'__	/paxuɁ/ _n._	partridge				
 
 
-__paxu' itú__	// _n._	a dance usually performed before harvest				
+__paxu' itú__	/paxuɁ itú/ _n._	a dance usually performed before harvest				
 
 
-__paxw__	// _v._	kill by cutting		
+__paxw__	/paxɨ/ _v._	kill by cutting		
 
 
-__paxw'__	// _v._	cut to break or fracture bones in a piece of meat		
+__paxw'__	/paxɨɁ/ _v._	cut to break or fracture bones in a piece of meat		
 
 
-__paxw'__	// _adj._	late; delayed; overdue; behind schedule		
+__paxw'__	/paxɨɁ/ _adj._	late; delayed; overdue; behind schedule		
 
 
-__paxwñ__	// _v._	blunt a sharp weapon by cutting on a hard material		
+__paxwñ__	/paxɨ̃/ _v._	blunt a sharp weapon by cutting on a hard material		
 
 
-__paya'__	// _v._	attack; quarrel	[_syn._	paya'-gaaya']
+__paya'__	/pajaɁ/ _v._	attack; quarrel	[_syn._	paya'-gaaya']
 
 
-__paya'-gaaya'__ //	_v._	attack; quarrel	[_syn._	paya']
+__paya'-gaaya'__ /pajaɁ-gaajaɁ/	_v._	attack; quarrel	[_syn._	paya']
 
 
-__payu__	// _n._	glue usually of plant origin		
+__payu__	/paju/ _n._	glue usually of plant origin		
 
 
-__payu lopa__	// _n._	long stick the end of which is covered with glue (payu)		
+__payu lopa__	/paju lopa/ _n._	long stick the end of which is covered with glue (payu)		
 
 
-__payu sudu__	// _n._	bamboo container for glue (payu)		
+__payu sudu__	/paju sudu/ _n._	bamboo container for glue (payu)		
 
 
 __pazi'__	// _n._	small broken pieces of rice		
