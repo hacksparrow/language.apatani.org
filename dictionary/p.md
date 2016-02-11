@@ -1167,191 +1167,191 @@ __pwro__	/pɨro/ _n._	basket of splitted bamboo used for storage
 __pwrw__	/pɨrɨ/ _n._	wooden boundary of a hearth
 
 
-__pwrẃ__	// _n._	stinging nettle
+__pwrẃ__	/pɨrɨ́/ _n._	stinging nettle
 
 
-__pwsa__	// _n._	pine
+__pwsa__	/pɨsa/ _n._	pine
 
 
-__pwsa leñda__	// _n._	a variety of highly decorated and colourful skirt for young girls
+__pwsa leñda__	/pɨsa lẽda/ _n._	a variety of highly decorated and colourful skirt for young girls
 
 
-__pwsa saamañ__	//_n._	pine needle
+__pwsa saamañ__	/pɨsa saamã/_n._	pine needle
 
 
-__pwsa saaxu__	_n._	pine cone
+__pwsa saaxu__	/pɨsa saaxu/ _n._	pine cone
 
 
-__pwse__	_n._	a variety of bird; Dollarbird (_Eurystomus orientalis_)
+__pwse__	/pɨse/ _n._	a variety of bird; Dollarbird (_Eurystomus orientalis_)
 
 
-__pwta__	_n._	bird
+__pwta__	/pɨta/ _n._	bird
 
 
-__pwta atúu__	_n._	chicks of birds
+__pwta atúu__	/pɨta atúu/ _n._	chicks of birds
 
 
-__pwta sih'__	_n._	puddle or pond where birds gather to drink water
+__pwta sih'__	/pɨta sihɁ/ _n._	puddle or pond where birds gather to drink water
 
 
-__pwta'__	_n._	a variety of tree; wild pear (_Pyrus pashia_)
+__pwta'__	/pɨtaɁ/ _n._	a variety of tree; wild pear (_Pyrus pashia_)
 
 
-__pwta' ahì__	_n._	wild pear		
+__pwta' ahì__	/pɨtaɁ ahì/ _n._	wild pear		
 
 
-__pwta' appú__	_n._	flower of wild pear tree		
+__pwta' appú__	/pɨtaɁ appú/ _n._	flower of wild pear tree		
 
 
-__pwte' paji__	_n._	motor cycle		
+__pwte' paji__	/pɨteɁ paɟi/ _n._	motor cycle		
 
 
-__pwtì__	_adj._	near	[_syn._	kucì]
+__pwtì__	/pɨti/ _adj._	near	[_syn._	kucì]
 
 
-__pwtiñ__	_n._	an open space		
+__pwtiñ__	/pɨtĩ/ _n._	an open space		
 
 
-__pwtiñ qwwla__	_n._	owl	[_syn._	tapi' qwwla; qwwla]
+__pwtiñ qwwla__	/pɨtĩ ŋɨɨla/ _n._	owl	[_syn._	tapi' qwwla; qwwla]
 
 
-__pww__	_vr._	collect with palms		
+__pww__	/pɨɨ/ _vr._	collect with palms		
 
 
-__pwwlw'__	_v._	replenish (esp. liquor)		
+__pwwlw'__	/pɨɨlɨɁ/ _v._	replenish (esp. liquor)		
 
 
-__pwxo__	_n._	maize cob		
+__pwxo__	/pɨxo/ _n._	maize cob		
 
 
-__pwyo__	_n._	Rufous-necked hornbill (_Aceros nepalensis_)		
+__pwyo__	/pɨjo/ _n._	Rufous-necked hornbill (_Aceros nepalensis_)		
 
 
-__pwyu__	_n._	news	[_var._	puyu]
+__pwyu__	/pɨju/ _n._	news	[_var._	puyu]
 
 
-__pwyu swle__	_n._	information		
+__pwyu swle__	/pɨju sɨle/ _n._	information		
 
 
-__pwzañ__	_n._	a variety of ceremonial friend with whom the head of the sacrificial animal is exchanged		
+__pwzañ__	/pɨɲã/ _n._	a variety of ceremonial friend with whom the head of the sacrificial animal is exchanged		
 
 
-__pwze__	_n._	chisel		
+__pwze__	/pɨɲe/ _n._	chisel		
 
 
-__pwzu__	_n._	spoon		
+__pwzu__	/pɨɲu/ _n._	spoon		
 
 
-__pwzú__	_n._	brain		
+__pwzú__	/pɨɲú/ _n._	brain		
 
 
-__pyà__	_vr._	destroy; dismantle		
+__pyà__	/pjà/ _vr._	destroy; dismantle		
 
 
-__pya'__	_vr._	splash; throw (water)		
+__pya'__	/pjaɁ/ _vr._	splash; throw (water)		
 
 
-__pya'__	_vr._	undo; answer (to a question put as means of ayú)		
+__pya'__	/pjaɁ/ _vr._	undo; answer (to a question put as means of ayú)		
 
 
-__pya'lo__	_v._	release captive fowls from the cage		
+__pya'lo__	/pjaɁlo/ _v._	release captive fowls from the cage		
 
 
-__pya'miñ__	_adj._	orange color		
+__pya'miñ__	/pjaɁmĩ/ _adj._	orange color		
 
 
-__pya'miñ pufe__	_n._	a variety of traditional shawl		
+__pya'miñ pufe__	/pjaɁmĩ puʎe/ _n._	a variety of traditional shawl		
 
 
-__pya'pu'__	_v._	throw water at somebody		
+__pya'pu'__	/pjaɁpuɁ/ _v._	throw water at somebody		
 
 
-__pya'se__	_v._	wash by splashing water		
+__pya'se__	/pjaɁse/ _v._	wash by splashing water		
 
 
-__pyali__	_n._	seed (esp. of rice)
+__pyali__	/pjali/ _n._	seed (esp. of rice)
 
 
-__pyañ__	_vr._	swell, as of wound	[_syn._	gòobu]
+__pyañ__	/pjã/ _vr._	swell, as of wound	[_syn._	gòobu]
 
 
-__pyàpa'__	_v._	destroy and remove a structure		
+__pyàpa'__	/pjàpaɁ/ _v._	destroy and remove a structure		
 
 
-__pyapiñ__	_n._	early maturing variety of rice		
+__pyapiñ__	/pjapĩ/ _n._	early maturing variety of rice		
 
 
-__pyàpu__	_v._	destroy by mistake		
+__pyàpu__	/pjápu/ _v._	destroy by mistake		
 
 
-__pyapúu__	_n._	early maturing variety of rice		
+__pyapúu__	/pjapúu/ _n._	early maturing variety of rice		
 
 
-__pyapyuñ__	_adv._	together; in collaboration; in cooperation; jointly		
+__pyapyuñ__	/pjapjũ/ _adv._	together; in collaboration; in cooperation; jointly		
 
 
-__pyar__	_vr._	fold; braid		
+__pyar__	/pjar/ _vr._	fold; braid		
 
 
-__pyarki'__	_v._	fold		
+__pyarki'__	/pjarkiɁ/ _v._	fold		
 
 
-__pyarmo__	_n._	feathers, usually of leaves, of an arrow; fletching		
+__pyarmo__	/pjarmo/ _n._	feathers, usually of leaves, of an arrow; fletching		
 
 
-__pyarò__	_adj._	big, as a plot of land or a grain	[_ant._	pyazó]
+__pyarò__	/pjarò/ _adj._	big, as a plot of land or a grain	[_ant._	pyazó]
 
 
-__pyarpya'__	_v._	unfold		
+__pyarpya'__	/pjarpjaɁ/ _v._	unfold		
 
 
-__pyatw__	_n._	a variety of rice		
+__pyatw__	/pjatɨ/ _n._	a variety of rice		
 
 
-__pyaxa__	_n._	a variety of small sized cane bag		
+__pyaxa__	/pjaxa/ _n._	a variety of small sized cane bag		
 
 
-__pyayo paaka'__	_n._	rectangular wooden plate		
+__pyayo paaka'__	/pjajo paakaɁ/ _n._	rectangular wooden plate		
 
 
-__pyazi'__	n.	early maturing variety of paddy belonging to mìipyá group		
+__pyazi'__	/pjaɲiɁ/ _n._	early maturing variety of paddy belonging to mìipyá group		
 
 
-__pyazó__	_adj._	small, as a plot of land or a grain	[_ant._ 	pyarò]
+__pyazó__	/pjaɲó/ _adj._	small, as a plot of land or a grain	[_ant._ 	pyarò]
 
 
-__pyo__	_vr._	catch by pinching with a pincer		
+__pyo__	/pjo/ _vr._	catch by pinching with a pincer		
 
 
-__pyo__	_vr._	open (as eye)		
+__pyo__	/pjo/ _vr._	open (as eye)		
 				
 
 
-__pyo'__	_vr._	detach (a splinter from a wood]
+__pyo'__	/pjoɁ/ _vr._	detach (a splinter from a wood]
 
 
-__pyo'ce__	_v._	detach something to divide into two		
+__pyo'ce__	/pjoɁce/ _v._	detach something to divide into two		
 
 
-__pyo'lo__	_adj._	prominent; illustrious; distinguished; notable		
+__pyo'lo__	/pjoɁlo/ _adj._	prominent; illustrious; distinguished; notable		
 
 
-__pyo'su__	_v._	brush one's teeth
+__pyo'su__	/pjoɁsu/ _v._	brush one's teeth
 
 
-__pyo'xo'__	_v._	have a different opinion
+__pyo'xo'__	/pjoɁxoɁ/ _v._	have a different opinion
 
 
-__pyoko'__	_v._	open, of eye
+__pyoko'__	/pjokoɁ/ _v._	open, of eye
 
 
-__pyu__	_vr._	move to and fro (esp. a post)
+__pyu__	/pju/ _vr._	move to and fro (esp. a post)
 
 
-__pyú__	_vr._	beguile; entice; lure
+__pyú__	/pjú/ _vr._	beguile; entice; lure
 
 
-__pyu'__	_vr._	sell
+__pyu'__	/pjuɁ/ _vr._	sell
 
 
-__pyu'nw__	_n._	seller
+__pyu'nw__	/pjuɁnɨ/ _n._	seller
