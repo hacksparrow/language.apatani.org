@@ -8,11 +8,11 @@ ipa: r
 
 __ra__	/ra/ _vr._	build (a structure); construct; fabricate				
 
-__ra'__	// _vr._	bind; strap; fasten				
+__ra'__	/raɁ/ _vr._	bind; strap; fasten				
 
-__ra'po__	// _v._	tie on something; strap	[_syn._	rw'po	]	
+__ra'po__	/raɁpo/ _v._	tie on something; strap	[_syn._	rw'po	]	
 
-__ra'tiñ__	// _v._	fasten (as of a door)			
+__ra'tiñ__	/raɁtĩ/ _v._	fasten (as of a door)			
 
 __raa__	/raa/ _vr._	avenge; take revenge for			
 
@@ -20,65 +20,65 @@ __raabúu__	/raabúu/ _n._	hollow
 
 __rade emo__	/rade emo/ _n._	a late ripening variety of paddy	
 
-__ragyañ__	// _n._	a pole of kwra tree used to carry the Myoko pig.
+__ragyañ__	/ragjã/ _n._	a pole of kwra tree used to carry the Myoko pig.
 
 __rahe__	/rahe/ _adv._	serious; solemn; earnest; profound			
 
-__raji__	// _n._	plastic				
+__raji__	/raɟi/ _n._	plastic				
 
-__raju'__	// _n._	a variety of coarsely netted cane basket	
+__raju'__	/raɟuɁ/ _n._	a variety of coarsely netted cane basket	
 
-__ratiñ__	// _v._	answer appropriately; silence a query 
+__ratiñ__	/ratĩ/ _v._	answer appropriately; silence a query 
 
-__rafúpyala__	// _adj._ absentminded; forgetful; distracted		
+__rafúpyala__	/raʎúpjala/ _adj._ absentminded; forgetful; distracted		
 
-__rahw__	// _v._	rotate something				
+__rahw__	/rahɨ/ _v._	rotate something				
 
 __rako__	/rako/ _n._	tortoise	[_var._	rwko]	[_syn._	samiñ rako]
 
-__rañ__	// _vr._	tie; tether				
+__rañ__	/rã/ _vr._	tie; tether				
 
-__rañda__	// _n._	smoothing plane	_or._	Assamese
+__rañda__	/rãda/ _n._	smoothing plane	_or._	Assamese
 
-__rañtw__	// _n._	sacred grove		
+__rañtw__	/rãtɨ/ _n._	sacred grove		
 
-__rapw__	// _v._	position breadthwise	[_Ant._	rasó]
+__rapw__	/rapɨ/ _v._	position breadthwise	[_Ant._	rasó]
 
-__rapw'__	// _n._	a space underneath		
+__rapw'__	/rapɨɁ/ _n._	a space underneath		
 
-__rari hamañ__	// _n._	a variety of vegetable (Piper brachystachum)	[_var._	raru hamañ]
+__rari hamañ__	/rari hamã/ _n._	a variety of vegetable (Piper brachystachum)	[_var._	raru hamañ]
 
-__raru hamañ__	// _n._	a variety of wild vegetable		
+__raru hamañ__	/raru hamã/ _n._	a variety of wild vegetable		
 
 __rasó__	/rasó/ _v._	position lengthwise	[_Ant._	rapw]
 
-__razi'__	// _n._	chain		
+__razi'__	/raɲiɁ/ _n._	chain		
 
-__re'__	// _vr._	cross (a river); traverse; travel across	
+__re'__	/reɁ/ _vr._	cross (a river); traverse; travel across	
 
-__re'__	// _vr._	shave; scrape		
+__re'__	/reɁ/ _vr._	shave; scrape		
 
-__re'bya__	// _n._	ladder	[_syn._	abya]
+__re'bya__	/reɁbja/ _n._	ladder	[_syn._	abya]
 
-__re'ke__	// _n._	ceiling		
+__re'ke__	/reɁke/ _n._	ceiling		
 
-__re'ke re'bya__	// _n._	ladder leading to the ceiling	[_syn._	re'ke abya]
+__re'ke re'bya__	/reɁke reɁbja/ _n._	ladder leading to the ceiling	[_syn._	re'ke abya]
 
-__re'ke abya__	// _n._	ladder leading to the ceiling	[_syn._	re'ke re'bya]
+__re'ke abya__	/reɁke abja/ _n._	ladder leading to the ceiling	[_syn._	re'ke re'bya]
 
-__re'ke ubúu__	// _n._	the opening to give access to the ceiling space	
+__re'ke ubúu__	/reɁke ubúu/ _n._	the opening to give access to the ceiling space	
 
-__re'xa'__	// _v._	injure by scraping with something		
+__re'xa'__	/reɁxaɁ/ _v._	injure by scraping with something		
 
-__rel garw__	// _n._	train	_or._	Assamese
+__rel garw__	/rel garɨ/ _n._	train	_or._	Assamese
 
-__reqe__	// _adj._	tired	[_var._	reqw]
+__reqe__	/reŋe/ _adj._	tired	[_var._	reqw]
 
 __ri__	/ri/ _vr._	read	_Or._	Assamese
 
 __ri__	/ri/ _vr._	throw	[_syn._	ku], go
 
-__rì afiñ__	// _n._	the day after tomorrow evening	
+__rì afiñ__	/rì aʎĩ/ _n._	the day after tomorrow evening	
 
 __rì alo__	/ro alo/ _n._	the day after tomorrow	[_syn._	rìda]
 
@@ -100,87 +100,87 @@ __rica__	/rica/ _v._	throw something upwards	[_Ant._	rilo]
 
 __rìda__	/rida/ _n._	the day after tomorrow	[_syn._	rì alo]
 
-__rida'__	// _v._	throw at the target	[_ant._	rixa']
+__rida'__	/ridaɁ/ _v._	throw at the target	[_ant._	rixa']
 
-__rixa'__	// _v._	miss the target while throwing	[_ant._	rida']	
+__rixa'__	/rixaɁ/ _v._	miss the target while throwing	[_ant._	rida']	
 
 __ridóo__	/ridóo/ _v._	throw far				
 
-__riila'__	// _n._	tendril		
+__riila'__	/riilaɁ/ _n._	tendril		
 
-__riila'__	// _n._	ray (of sun); beam		
+__riila'__	/riilaɁ/ _n._	ray (of sun); beam		
 
-__riliñ__	// _v._	throw something out			
+__riliñ__	/rilĩ/ _v._	throw something out			
 
 __rilo__	/rilo/ _v._	throw something downwards	[_Ant._	rica]		
 
-__rilw'__	// _v._	throw in			
+__rilw'__	/rilɨɁ/ _v._	throw in			
 
 __riimi__	/rimi/ _n._	spider	[_var._	riñbi]	[_syn._	wci riimi]
 
-__ríipiñ__	// _v._	close something by stitching or sewing		
+__ríipiñ__	/ríipĩ/ _v._	close something by stitching or sewing		
 
-__riñbi__	// _n._	spider	[_var._	riimi]	[_syn._	wci riimi]
+__riñbi__	/rĩbi/ _n._	spider	[_var._	riimi]	[_syn._	wci riimi]
 
-__riñbi tasuñ__	// _n._	spide web		
+__riñbi tasuñ__	/rĩbi tasũ/ _n._	spide web		
 
-__ripa'__	// _v._	throw something away
+__ripa'__	/ripaɁ/ _v._	throw something away
 
 __riite__	/riite/ _n._	a short necklace of white beads worn by children	
 
 __rimi-romo__	/rimi-romo/ _adj._	innocent; confused		
 
-__rimyo'-riso__	// _adj._	striped; streaked; variegated	[_syn._	ripó-rilo]
+__rimyo'-riso__	/rimjoɁ-riso/ _adj._	striped; streaked; variegated	[_syn._	ripó-rilo]
 
 __ripó-rílo__	/ripó-rilo/ _adj._	striped; streaked; variegated	[_syn._	rimyo'-riso]	
 
 __riri tami__	/riri tami/ _n._	a variety of creeper used as a vegetable; Chinese creeper (Mikania micrantha)	
 
-__rizo__	// _n._	rings of bamboo splits		
+__rizo__	/riɲo/ _n._	rings of bamboo splits		
 
-__rizo gyadu__	// _n._	rings of bamboo splits that are hoisted with poles in the tombs of priests		
+__rizo gyadu__	/riɲo gjadu/ _n._	rings of bamboo splits that are hoisted with poles in the tombs of priests		
 
-__ro bari'__	// _n._	whirlwind	[_syn._	mifa bari']
+__ro bari'__	/ro bariɁ/ _n._	whirlwind	[_syn._	mifa bari']
 
-__ro'__	// _vr._	snatch; seize		
+__ro'__	/roɁ/ _vr._	snatch; seize		
 
-__ro'ko__	// _n._	a bamboo strip that tightens the beams of a house		
+__ro'ko__	/roɁko/ _n._	a bamboo strip that tightens the beams of a house		
 
-__ro'nw__	// _n._	hen	[_Ant._	ro'po]
+__ro'nw__	/roɁnɨ/ _n._	hen	[_Ant._	ro'po]
 
-__ro'pi__	// _n._	a ritual of repentance after accidental killing of certain animals or human		
+__ro'pi__	/roɁpi/ _n._	a ritual of repentance after accidental killing of certain animals or human		
 
-__ro'po__	// _n._	cock	[_Ant._	ro'nw]
+__ro'po__	/roɁpo/ _n._	cock	[_Ant._	ro'nw]
 
 __roha__	/roha/ _v._	dry over fire		
 
-__rohiñhe__	// _adv._	thrice; three times		
+__rohiñhe__	/rohĩhe/ _adv._	thrice; three times		
 
-__ronw__	// _n._	madman; lunatic; maniac	[_syn._	runw]
+__ronw__	/ronɨ/ _n._	madman; lunatic; maniac	[_syn._	runw]
 
-__roñ__	// _vr._	burn; scorch; set on fire		
+__roñ__	/rõ/ _vr._	burn; scorch; set on fire		
 
-__roñ__	// _vr._	break relationship; avoid (esp. a relation); antipathy; abhorence		
+__roñ__	/rõ/ _vr._	break relationship; avoid (esp. a relation); antipathy; abhorence		
 
-__roñ__	// _vr._	be mad; go insane; become crazy	[_var._	ruñ]
+__roñ__	/rõ/ _vr._	be mad; go insane; become crazy	[_var._	ruñ]
 
-__roñpe__ //	_adv._	four times		
+__roñpe__ /rõpe/	_adv._	four times		
 
-__roñxe__	// _adv._	six times		
+__roñxe__	/rõxe/ _adv._	six times		
 
 __rò__	/rò/ _vr._	spy; observe furtively; keep an eye on
 
-__roqe__	// _adv._	once; one time		
+__roqe__	/roŋe/ _adv._	once; one time		
 
-__roqe kamyañ__	// _adv._	always; every time		
+__roqe kamyañ__	/roŋe kamjã/ _adv._	always; every time		
 
-__roqe roqe__	// _adv._	sometimes; off and on		
+__roqe roqe__	/roŋe roŋe/ _adv._	sometimes; off and on		
 
-__roqohe__	// _adv._	five times		
+__roqohe__	/roŋohe/ _adv._	five times		
 
 __rori__	/rori/ _n._	spectacles; eyeglasses	
 
-__roze__	// _adv._	twice; two times		
+__roze__	/roɲe/ _adv._	twice; two times		
 
 __ruu__	/ruu/ _vr._	chase away; drive away	
 
@@ -192,15 +192,15 @@ __rui__	/rui/_n._	ear wax	[_syn._	yarú rui]
 
 __rumali__	/rumali/ _n._	handkerchief	_or._	Assamese
 
-__ruñ__	// _vr._	be mad; go insane; become crazy	[_var._	roñ]
+__ruñ__	/rũ/ _vr._	be mad; go insane; become crazy	[_var._	roñ]
 
-__ruñgya'__	// _adj._	crazy; mad; insane; not right in the head		
+__ruñgya'__	/rũgjaɁ/ _adj._	crazy; mad; insane; not right in the head		
 
-__ruñku-rufa__	// _n._	half mad; maniacal		
+__ruñku-rufa__	/rũku-ruʎa/ _n._	half mad; maniacal		
 
-__ruñtì__	// _v._	crouch with heads lowered		
+__ruñtì__	/rũti/ _v._	crouch with heads lowered		
 
-__runw__	// _n._	madman; lunatic; maniac	[_var._	ronw]
+__runw__	/runɨ/ _n._	madman; lunatic; maniac	[_var._	ronw]
 
 __rupu__	/rupu/ _n._	silver	[_var._	rwpu]
 
@@ -210,7 +210,7 @@ __rúu__	/rúu/ _vr._	shed (as trees do of leaves)
 
 __ru-xa__	/ru-xa/ _n._	noise; tumult; commotion	
 
-__rubi' yarú__	// _n._	right ear		
+__rubi' yarú__	/rubiɁ jarú/ _n._	right ear		
 
 __rubi__	/rubi/ _n._	deaf		
 
