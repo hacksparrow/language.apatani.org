@@ -214,76 +214,76 @@ __rubi' yarú__	/rubiɁ jarú/ _n._	right ear
 
 __rubi__	/rubi/ _n._	deaf		
 
-__rubiñ__	// _n._	earlobe	[_syn._	yarú rubiñ]
+__rubiñ__	/rubĩ/ _n._	earlobe	[_syn._	yarú rubiñ]
 
-__ruci yarú__	// _n._	left ear		
+__ruci yarú__	/ruci jarú/ _n._	left ear		
 
-__rupiñ__	// _n._	earring		
+__rupiñ__	/rupĩ/ _n._	earring		
 
-__rutiñ__	// _n._	earing	
+__rutiñ__	/rutĩ/ _n._	earing	
 
-__rutiñ hwrañ__	// _n._	a variety of earring worn by women	
+__rutiñ hwrañ__	/rutĩ hɨrã/ _n._	a variety of earring worn by women	
 
 __ruyó__	/rujó/ _n._	a variety of cane earring		
 
-__rw__	// _vr._	stagnate (as do the water)	
+__rw__	/rɨ/ _vr._	stagnate (as do the water)	
 
-__rw'__	// _vr._	bind; strap		
+__rw'__	/rɨɁ/ _vr._	bind; strap		
 
-__rw'__	// _vr._	cut into pieces with sawing or slicing movement		
+__rw'__	/rɨɁ/ _vr._	cut into pieces with sawing or slicing movement		
 
-__rw'__	// _vr._	sit (as do the chickens); perch; roost		
+__rw'__	/rɨɁ/ _vr._	sit (as do the chickens); perch; roost		
 
-__rw'lo__	// _v._	pour a liquid down		
+__rw'lo__	/rɨɁlo/ _v._	pour a liquid down		
 
-__rw'po__	// _v._	tie on something	[_syn._	ra'po]
+__rw'po__	/rɨɁpo/ _v._	tie on something	[_syn._	ra'po]
 
-__rw'ti__	// _v._	bind tightly		
+__rw'ti__	/rɨɁti/ _v._	bind tightly		
 
-__rw'tú__	// _n._	a part of marriage ceremony in which paddy a newly married couple harvest paddy from the bride's family field		
+__rw'tú__	/rɨɁtú/ _n._	a part of marriage ceremony in which paddy a newly married couple harvest paddy from the bride's family field		
 
-__rwbiñ__	// _n._	area of slash and burn cultivation		
+__rwbiñ__	/rɨbĩ/ _n._	area of slash and burn cultivation		
 
-__rwbó afiñ__	// _n._	the evening after three days	
+__rwbó afiñ__	/rɨbó aʎĩ/ _n._	the evening after three days	
 
-__rwbó alo__	// _n._	three days hence	[_syn._	rwbóda]
+__rwbó alo__	/rɨbó alo/ _n._	three days hence	[_syn._	rwbóda]
 
-__rwbó arò__	// _n._	the morning after three days	
+__rwbó arò__	/rɨbó arò/ _n._	the morning after three days	
 
-__rwbóda__	// _n._	three days hence	[_syn._	rwbó alo]
+__rwbóda__	/rɨbóda/ _n._	three days hence	[_syn._	rwbó alo]
 
-__rwbw__	// _n._	railing		
+__rwbw__	/rɨbɨ/ _n._	railing		
 
-__rwgañ__	// _n._	edge; border; boundary		
+__rwgañ__	/rɨgã/ _n._	edge; border; boundary		
 
-__rwgiñ__	// _n._	an element of gwrw (trap)		
+__rwgiñ__	/rɨgĩ/ _n._	an element of gwrw (trap)		
 
-__rwgo'__	// _n._	cane loop tied on the horns of cows or mithuns		
+__rwgo'__	/rɨgoɁ/ _n._	cane loop tied on the horns of cows or mithuns		
 
-__rwgw-raga__	// _adj._	lean and thin	[_syn._	cwgw-caga]
+__rwgw-raga__	/rɨgɨ-raga/ _adj._	lean and thin	[_syn._	cwgw-caga]
 
-__rwhiñ__	// _n._	a variety of tree				
+__rwhiñ__	/rɨhĩ/ _n._	a variety of tree				
 
-__rwjañ__	// _n._	a bamboo species (Chimonobambusa sp.)		
+__rwjañ__	/rɨɟã/ _n._	a bamboo species (Chimonobambusa sp.)		
 
-__rwko__	// _n._	a variety of hardy perennial creeper; sweet tea vine (Gynostemma pentaphyllum)		
+__rwko__	/rɨko/ _n._	a variety of hardy perennial creeper; sweet tea vine (Gynostemma pentaphyllum)		
 
-__rwko__	// _n._	tortoise	[_var._	rako]	[_syn._	samiñ rwko]
+__rwko__	/rɨko/ _n._	tortoise	[_var._	rako]	[_syn._	samiñ rwko]
 
-__rwlañ__	// _adj._	euphemism for "heavy" when referred to the weight of a baby		
+__rwlañ__	/rɨlã/ _adj._	euphemism for "heavy" when referred to the weight of a baby		
 
-__rwme__	// _n._	Nepalese alder (Alnus nepalensis)		
+__rwme__	/rɨme/ _n._	Nepalese alder (Alnus nepalensis)		
 
-__rwpu__	// _n._	silver	[_var._	rupu]
+__rwpu__	/rɨpu/ _n._	silver	[_var._	rupu]
 
-__rwsi-rwse__	// _adj._	messy; disorganized; chaotic; cluttered	
+__rwsi-rwse__	/rɨsi-rɨse/ _adj._	messy; disorganized; chaotic; cluttered	
 
-__rww__	// _vr._	buy; purchase	[_Ant._	pyu']		
+__rww__	/rɨɨ/ _vr._	buy; purchase	[_Ant._	pyu']		
 
-__rwxw afiñ__	// _n._	the evening after four days			
+__rwxw afiñ__	/rɨxɨ aʎĩ/ _n._	the evening after four days			
 
-__rwxw alo__	// _n._	four days hence	[_syn._	rwxwda]	
+__rwxw alo__	/rɨxɨ alo/ _n._	four days hence	[_syn._	rwxwda]	
 
-__rwxw arò__	// _n._	the morning after four days	
+__rwxw arò__	/rɨxɨ arò/ _n._	the morning after four days	
 
-__rwxwda__	// _n._	four days hence	[_syn._	rwxw alo]		
+__rwxwda__	/rɨxɨda/ _n._	four days hence	[_syn._	rwxw alo]		
