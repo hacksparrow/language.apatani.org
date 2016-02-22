@@ -8,37 +8,37 @@ ipa: s
 
 __sa__	/sa/ _vr._	expel, as when delivering babies or defecating		
 
-__sa ci'ri__	// _n._	a variety of antique sword
+__sa ci'ri__	/sa ciɁri/ _n._	a variety of antique sword
 
-__sa'__	// _vr._	breath; suck; cough	
+__sa'__	/saɁ/ _vr._	breath; suck; cough	
 
-__sa'ca__	// _v._	get excited; be motivated	[_syn._	du'ca]
+__sa'ca__	/saɁca/ _v._	get excited; be motivated	[_syn._	du'ca]
 
-__sa'hi__	// _v._	gulp; drink in a single gulp
+__sa'hi__	/saɁhi/ _v._	gulp; drink in a single gulp
 
-__sa'ka__	// _v._	contemplate; consider; deliberate on
+__sa'ka__	/saɁka/ _v._	contemplate; consider; deliberate on
 
-__sa'ka-sa'ka__	// _v._	hesitate; be uncertain; be of two minds	
+__sa'ka-sa'ka__	/saɁka-saɁka/ _v._	hesitate; be uncertain; be of two minds	
 
-__sa'liñ__	// _v._	breathe out; exhale	[_Ant._	sa'lw']
+__sa'liñ__	/saɁlĩ/ _v._	breathe out; exhale	[_Ant._	sa'lw']
 
-__sa'lw'__	// _v._	breathe in; inhale	[_Ant._	sa'liñ]
+__sa'lw'__	/saɁlɨɁ/ _v._	breathe in; inhale	[_Ant._	sa'liñ]
 
-__sa'na__ // _adj._	out of breath; breathless; panting; gasping
+__sa'na__ /saɁna/ _adj._	out of breath; breathless; panting; gasping
 
-__sa'pe'__	// _v._	optimistic; hopeful; be confident	[_Ant._	sa'xw']
+__sa'pe'__	/saɁpeɁ/ _v._	optimistic; hopeful; be confident	[_Ant._	sa'xw']
 
-__sa'piñ sa'ko__	// _adj._	suffocating; stifling		
+__sa'piñ sa'ko__	/saɁpĩ saɁko/ _adj._	suffocating; stifling		
 
-__sa'po__	// _v._	be confident; underestimate; underrate; confident	[_va._	sa'pu]
+__sa'po__	/saɁpo/ _v._	be confident; underestimate; underrate; confident	[_va._	sa'pu]
 
-__sa'pu__	// _v._	be confident; underestimate; underrate; confident	[_var._	sa'po]
+__sa'pu__	/saɁpu/ _v._	be confident; underestimate; underrate; confident	[_var._	sa'po]
 
-__sa'riñ__	// _n._	cough		
+__sa'riñ__	/saɁrĩ/ _n._	cough		
 
-__sa'xw'__	// _v._	intimidating; unnerving; daunting; formidable	[_Ant._	sa'pe']
+__sa'xw'__	/saɁxɨɁ/ _v._	intimidating; unnerving; daunting; formidable	[_Ant._	sa'pe']
 
-__saañ__	// _v._	grow; live
+__saañ__	/saã/ _v._	grow; live
 
 __saati__	/saati/ _n._	pine sap	
 
@@ -46,11 +46,11 @@ __saaxu__	/saaxu/ _n._	pine cone
 
 __sabè__	/sabè/ _n._	loincloth	
 
-__sabe'__	// _n._	key	_Or._	Assamese
+__sabe'__	/sabeɁ/ _n._	key	_Or._	Assamese
 
-__sabuñ__	// _n._	soap	_Or._	Assamese
+__sabuñ__	/sabũ/ _n._	soap	_Or._	Assamese
 
-__sabw__	// _n._	officer; a dignified person	
+__sabw__	/sabɨ/ _n._	officer; a dignified person	
 
 __sadi__	/sadi/ _n._	plantation (esp. of pine); pine estate	[_syn._	sañsuñ; salw]
 
@@ -58,15 +58,15 @@ __sadi-sapa__	/sadi-sapa/ _n._	plantation
 
 __sado__	/sado/ _n._	boyfriend; male lover	[_syn._	miya]
 
-__sadvr__	// _n._	conical shaped bamboo filter	[_syn._	o sadvr]
+__sadvr__	/sadǝr/ _n._	conical shaped bamboo filter	[_syn._	o sadvr]
 
-__safi'__	// _adj._	green		
+__safi'__	/saʎiɁ/ _adj._	green		
 
-__safó__	// _n._	a variety of tree; Fragrant Himalayan Champaka (Michelia champaca)
+__safó__	/saʎó/ _n._	a variety of tree; Fragrant Himalayan Champaka (Michelia champaca)
 
 __sah__	/sah/ _n._	tea	_or._	Assamese
 
-__sah patw__	// _n._	tea leaf; tea grain
+__sah patw__	/sah patɨ/ _n._	tea leaf; tea grain
 
 __saha__	/saha/ _n._	cane rope	[_var._	swha]
 
