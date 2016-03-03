@@ -6,304 +6,304 @@ devanagari: त
 ipa: t
 ---
 
-__taar__	_n._	wire; cable; power line	[_or._	Assamese]
+__taar__	/taar/ _n._	wire; cable; power line	[_or._	Assamese]
 
 
-__ta'__	_vr._	chop (as to split something)		
+__ta'__	// _vr._	chop (as to split something)		
 
 
-__ta'ce__	_n._	crack; rupture; split		
+__ta'ce__	// _n._	crack; rupture; split		
 
 
-__ta'cè__	_v._	cut into two		
+__ta'cè__	// _v._	cut into two		
 
 
-__ta'kó__	_v._	dig a hole or trench		
+__ta'kó__	// _v._	dig a hole or trench		
 
 
-__ta'miñ__	_n._	Indian barberry (_Mahonia aquifolium_)		
+__ta'miñ__	// _n._	Indian barberry (_Mahonia aquifolium_)		
 
 
-__ta'mo__	_adj._	strong; brawny; powerful		
+__ta'mo__	// _adj._	strong; brawny; powerful		
 
 
-__ta'mopa__	_adv._	strongly; bravely		
+__ta'mopa__	// _adv._	strongly; bravely		
 
 
-__ta'mò__	_n._	a variety of tree; Chinese sumac (_Rhus chinensis/Rhus semialata_)		
+__ta'mò__	// _n._	a variety of tree; Chinese sumac (_Rhus chinensis/Rhus semialata_)		
 
 
-__ta'mú__	_n._	betel		
+__ta'mú__	// _n._	betel		
 
 
-__ta'rò__	_adj._	large (of flat objects); wide; broad	[_ant._	ta'zó]
+__ta'rò__	// _adj._	large (of flat objects); wide; broad	[_ant._	ta'zó]
 
 
-__ta'zó__	_adj._	small (of flet objects); thin; narrow		
+__ta'zó__	// _adj._	small (of flet objects); thin; narrow		
 
 
-__ta'ti__	_n._	cockroach		
+__ta'ti__	// _n._	cockroach		
 
 
-__ta'xe'__	_v._	lie supine		
+__ta'xe'__	// _v._	lie supine		
 
 
-__taa__	_vr._	swim		
+__taa__	/taa/ _vr._	swim		
 
 
-__táa__	_vr._	paw; move the hands in a rapid pawing motion, as when digging away soil		
+__táa__	/táa/ _vr._	paw; move the hands in a rapid pawing motion, as when digging away soil		
 
 
-__ta__	_vr._	listen; hear				
+__ta__	/ta/ _vr._	listen; hear				
 
 
-__taabyó__	_n._	a temporary hut				
+__taabyó__	/taabjó/ _n._	a temporary hut				
 
 
-__tage'__	_v._	listen attentively				
+__tage'__	// _v._	listen attentively				
 
 
-__tago'__	_v._	ignore (listening)	[_syn._	tapa']
+__tago'__	// _v._	ignore (listening)	[_syn._	tapa']
 
 
-__tagw__	_v._	learn (by listening)				
+__tagw__	// _v._	learn (by listening)				
 
 
-__tagya'__	_v._	hear wrongly				
+__tagya'__	// _v._	hear wrongly				
 
 
-__tahw__	_v._	ask; inquire; interrogate	[_syn._	taka]
+__tahw__	// _v._	ask; inquire; interrogate	[_syn._	taka]
 
 
-__tahw'__	_adj._	hard of hearing				
+__tahw'__	// _adj._	hard of hearing				
 
 
-__tajè__	_v._	believe; regard as true; be convinced by				
+__tajè__	// _v._	believe; regard as true; be convinced by				
 
 
-__tapa__	_v._	hear; get news or information				
+__tapa__	/tapa/ _v._	hear; get news or information				
 
 
-__tapa'__	_v._	ignore (listening)	[_syn._	tago']
+__tapa'__	// _v._	ignore (listening)	[_syn._	tago']
 
 
-__tapi'__	_n._	a variety of bird				
+__tapi'__	// _n._	a variety of bird				
 
 
-__tapi' qwwla__	_n._	owl	[_syn._	qwwla; pwtiñ qwwla]
+__tapi' qwwla__ //	_n._	owl	[_syn._	qwwla; pwtiñ qwwla]
 
 
-__taapya'__	_v._	unfasten or untie a knot				
+__taapya'__	// _v._	unfasten or untie a knot				
 
 
-__taarò__	_adj._	many; large numbers	[_syn._	toorò]	[_ant._	tazó]
+__taarò__	/taarò/ _adj._	many; large numbers	[_syn._	toorò]	[_ant._	tazó]
 
 
-__tazó__	_adj._	small in number; few in numbers	[_syn._	tozó]	[_ant._	tarò]
+__tazó__	// _adj._	small in number; few in numbers	[_syn._	tozó]	[_ant._	tarò]
 
 
-__tarò__	_v._	listen secretly; eavesdrop		
+__tarò__	/tarò/ _v._	listen secretly; eavesdrop		
 
 
-__taaró__	_n._	variety of a fig		
+__taaró__	/taaró/ _n._	variety of a fig		
 
 
-__taaxè__	_v._	lie on one's back; lie supine		
+__taaxè__	/taaxè/ _v._	lie on one's back; lie supine		
 
 
-__taxo'__	_v._	disagree; disobey		
+__taxo'__	// _v._	disagree; disobey		
 
 
-__tabe__	_n._	sugarcane plant	[_var._	twbe]
+__tabe__	/tabe/ _n._	sugarcane plant	[_var._	twbe]
 
 
-__tabè__	_n._	a variety of tree of palm family, the trunk of which is edible		
+__tabè__	/tabè/ _n._	a variety of tree of palm family, the trunk of which is edible		
 
 
-__tabe axóo__	_n._	sugarcane	[_var._	twbe axóo]
+__tabe axóo__	/tabe axóo/ _n._	sugarcane	[_var._	twbe axóo]
 
 
-__tabiñ-taliñ__	_adj._	bare; naked		
+__tabiñ-taliñ__	// _adj._	bare; naked		
 
 
-__tabu__	_n._	snake		
+__tabu__	/tabu/ _n._	snake		
 
 
-__tabu nwmiñ__	_n._	a variety of plant (_Arisaema_)		
+__tabu nwmiñ__	// _n._	a variety of plant (_Arisaema_)		
 
 
-__tabu qwi__	_n._	eel (_Anguilliformes_)		
+__tabu qwi__	// _n._	eel (_Anguilliformes_)		
 
 
-__tabu somiñ__	_n._	a variety of legless lizard		
+__tabu somiñ__ //	_n._	a variety of legless lizard		
 
 
-__tabu'-taru'__	_adj._	dirty; dusty		
+__tabu'-taru'__	// _adj._	dirty; dusty		
 
 
-__tabuñ__	_n._	smallpox		
+__tabuñ__	// _n._	smallpox		
 
 
-__tabyo__	_n._	a species of bamboo (_Chimonobambusa callosa_)		
+__tabyo__	/tabjo/ _n._	a species of bamboo (_Chimonobambusa callosa_)		
 
 
-__tabyò__	_v._	be attracted on listening		
+__tabyò__	/tabjò/ _v._	be attracted on listening		
 
 
-__tacañ__	_n._	wood-boring insect		
+__tacañ__	// _n._	wood-boring insect		
 
 
-__tace__	_v._	divide; distribute		
+__tace__	/tace/ _v._	divide; distribute		
 
 
-__tacì__	_n._	crab		
+__tacì__	/tacì/ _n._	crab		
 
 
-__taci'__	_n._	wood-boring insect attacking bamboo or softwood		
+__taci'__	// _n._	wood-boring insect attacking bamboo or softwood		
 
 
-__taciñ__	_v._	understand; comprehend		
+__taciñ__	// _v._	understand; comprehend		
 
 
-__tado'__	_n._	a variety of yellow beads	[_syn._	tado' tasañ]
+__tado'__	// _n._	a variety of yellow beads	[_syn._	tado' tasañ]
 
 
-__tado' tasañ__	_n._	a variety of yellow beads	[_syn._	tado']
+__tado' tasañ__	// _n._	a variety of yellow beads	[_syn._	tado']
 
 
-__tadvr__	_n._	a bamboo species (_Pleioblastus simonii_)		
+__tadvr__	// _n._	a bamboo species (_Pleioblastus simonii_)		
 
 
-__tadvr__	_n._	parasitic worm		
+__tadvr__	// _n._	parasitic worm		
 
 
-__tafa__	_v._	listen		
+__tafa__	// _v._	listen		
 
 
-__tafí__	_adv._	sarcastic; ironic; sneering		
+__tafí__	// _adv._	sarcastic; ironic; sneering		
 
 
-__tafi'__	_n._	bruise; contusion		
+__tafi'__	// _n._	bruise; contusion		
 
 
-__tafuñ__	_n._	tapeworm larvae		
+__tafuñ__	// _n._	tapeworm larvae		
 
 
-__tagì__	_n._	sickle		
+__tagì__	/tagi/ _n._	sickle		
 
 
-__tago__	_n._	a variety of tree		
+__tago__	/tago/ _n._	a variety of tree		
 
 
-__tago alì__	_n._	a wooden tricycle used a children's toy the wheels of which are of tagó tree trunk		
+__tago alì__	/tago ali/ _n._	a wooden tricycle used a children's toy the wheels of which are of tagó tree trunk		
 
 
-__tagur eñso__	_n._	a variety of weed		
+__tagur eñso__	// _n._	a variety of weed		
 
 
-__tagyá__	_n._	wood wasp		
+__tagyá__	/tagjá/ _n._	wood wasp		
 
 
-__tagywñ mwjvr__	_n._	matchbox		
+__tagywñ mwjvr__	// _n._	matchbox		
 
 
-__tahañ-si'__	_n._	mangoose		
+__tahañ-si'__	// _n._	mangoose		
 
 
-__tai belañ__	_n._	a variety of acacia tree usually used for hedges		
+__tai belañ__	// _n._	a variety of acacia tree usually used for hedges		
 
 
-__tai hamañ__	_n._	a variety of vegetable (_Amaranthus spp._)		
+__tai hamañ__	// _n._	a variety of vegetable (_Amaranthus spp._)		
 
 
-__tai' koya__	_n._	gonorrhea		
+__tai' koya__ //	_n._	gonorrhea		
 
 
-__tai' swtiñ__	_n._	epileptic fit		
+__tai' swtiñ__	// _n._	epileptic fit		
 
 
-__tai' tapiñ__	_n._	corn		
+__tai' tapiñ__	// _n._	corn		
 
 
-__tahiñ__	_n._	mushroom		
+__tahiñ__	// _n._	mushroom		
 
 
-__taju-riyañ__	_n._	variety of a plant; Job's tear		
+__taju-riyañ__	// _n._	variety of a plant; Job's tear		
 
 
-__tajvr__	_n._	a bamboo fish trap	[_syn._	taxuñ]
+__tajvr__	// _n._	a bamboo fish trap	[_syn._	taxuñ]
 
 
-__tajvr__	_n._	a species of bamboo		
+__tajvr__	// _n._	a species of bamboo		
 
 
-__taka__	_v._	ask; inquire; interrogate	[_syn._	tahw]
+__taka__	/taka/ _v._	ask; inquire; interrogate	[_syn._	tahw]
 
 
-__take'__	_n._	germ		
+__take'__	// _n._	germ		
 
 
-__taki__	_n._	ginger		
+__taki__	/taki/ _n._	ginger		
 
 
-__takiñ__	_n._	cowrie shell	[_syn._	takiñ za'co]
+__takiñ__	// _n._	cowrie shell	[_syn._	takiñ za'co]
 
 
-__takiñ za'co__	_n._	cowrie shell	[_syn._	takiñ]
+__takiñ za'co__	// _n._	cowrie shell	[_syn._	takiñ]
 
 
-__tako-laro__	_n._	variety of a hard stone		
+__tako-laro__	/tako-laro/ _n._	variety of a hard stone		
 
 
-__tako'__	_n._	dirt		
+__tako'__	// _n._	dirt		
 
 
-__taku-tamu__	_n._	a decorated bamboo stick used during penw procession of Muruñ festival		
+__taku-tamu__	/taku-tamu/ _n._	a decorated bamboo stick used during penw procession of Muruñ festival		
 
 
-__taku'__	_n._	cucumber		
+__taku'__	// _n._	cucumber		
 
 
-__taku' kuli__	_n._	cucumber seeds		
+__taku' kuli__	// _n._	cucumber seeds		
 
 
-__taku' riila'__	_n._	cucumber tendril		
+__taku' riila'__	// _n._	cucumber tendril		
 
 
-__takuñ__	_n._	peach		
+__takuñ__	// _n._	peach		
 
 
-__takuñ putu__	_n._	a lesser variety of Muruñ festival		
+__takuñ putu__	// _n._	a lesser variety of Muruñ festival		
 
 
-__takuñ yaarv__	_n._	cricket (_Acheta domesticus_)		
+__takuñ yaarv__	// _n._	cricket (_Acheta domesticus_)		
 
 
-__takvr__	_n._	sputum	[_var._	cukvr]
+__takvr__	// _n._	sputum	[_var._	cukvr]
 
 
-__takvr__	_n._	star		
+__takvr__	// _n._	star		
 
 
-__tala__	_n._	lock	[_or._	Assamese]
+__tala__	/tala/ _n._	lock	[_or._	Assamese]
 
 
-__talañ__	_n._	a disease with skin eruptions including chickenpox and measles		
+__talañ__	// _n._	a disease with skin eruptions including chickenpox and measles		
 
 
-__talañ__	_adj._	brownish color (esp. of a cattle)		
+__talañ__	// _adj._	brownish color (esp. of a cattle)		
 
 
-__tale'__	_n._	a variety of garlic	[_syn._	twle']
+__tale'__	// _n._	a variety of garlic	[_syn._	twle']
 
 
-__twle'__	_n._	a variety of garlic	[_syn._	tale']
+__twle'__	// _n._	a variety of garlic	[_syn._	tale']
 
 
-__tali yordu__	_n._	a variety of chilly		
+__tali yordu__	/tali jordu/ _n._	a variety of chilly		
 
 
-__talo__	_n._	brass plate		
+__talo__	/talo/ _n._	brass plate		
 
 
 __talo pwzu__	_n._	spoon		
