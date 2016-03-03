@@ -342,35 +342,35 @@ __subu__	/subu/ _n._	mithun; bos frontalis
 
 __subú__	/subú/ _n._	alley; back alley
 
-__subu arww__	// _n._	mithun horn	
+__subu arww__	/subu arɨɨ/ _n._	mithun horn	
 
-__subu ipa'__	// _n._	mithun dung
+__subu ipa'__	/subu ipaɁ/ _n._	mithun dung
 
-__subu rwgo__	// _n._	plaited cane ring for mithun horns	
+__subu rwgo__	/subu rɨgo/ _n._	plaited cane ring for mithun horns	
 
 __subu sa__	/subu sa/ _n._	cane rope for mithuns		
 
-__subu sih'__	// _n._	pond or puddle where mithuns gather to drink water; watering hole
+__subu sih'__	/subu sihɁ/ _n._	pond or puddle where mithuns gather to drink water; watering hole
 
-__subu swbo__	// _n._	mithun bull		
+__subu swbo__	/subu sɨbo/ _n._	mithun bull		
 
-__subu swdó__	// _n._	half grown mithun		
+__subu swdó__	/subu sɨdó/ _n._	half grown mithun		
 
-__subu swxa__	// _n._	altar on which the mithun is sacrificed during Subu or Muruñ festivals	
+__subu swxa__	/subu sɨxa/ _n._	altar on which the mithun is sacrificed during Subu or Muruñ festivals	
 
-__subu tu'te'__	// _n._	a variety of wild strawberry		
+__subu tu'te'__	/subu tuɁteɁ/ _n._	a variety of wild strawberry		
 
 __sudu__	/sudu/ _n._	bamboo container	
 
-__sufi' sume__	// _adj._	crooked; dishonest; untrustworthy
+__sufi' sume__	/suʎiɁ sume/ _adj._	crooked; dishonest; untrustworthy
 
-__sufu__	// _adj._	empty (of feeling)	
+__sufu__	/suʎu/ _adj._	empty (of feeling)	
 
 __suh__	/suh/ _n._	spring		
 
-__sukuñ__	// _n._	well; spring	
+__sukuñ__	/sukũ/ _n._	well; spring	
 
-__sukuñ pwtiñ__	// _n._	open space by a well	
+__sukuñ pwtiñ__	/sukũ pɨtĩ/ _n._	open space by a well	
 
 __sulú__	/sulú/ _n._	fence		
 
@@ -380,171 +380,171 @@ __sumù__	/sumù/ _n._	sand
 
 __supù__	/supù/ _n._	blacksmithy		
 
-__supuñ__	// _n._	world		
+__supuñ__	/supũ/ _n._	world		
 
-__supuñ__	// _v._	ceremonial smearing of sacrificial animals with rice powder
+__supuñ__	/supũ/ _v._	ceremonial smearing of sacrificial animals with rice powder
 
-__supuñ piñta__	// _n._	beer container used during rituals	
+__supuñ piñta__	/supũ pĩta/ _n._	beer container used during rituals	
 
-__supuñ tarw__	// _n._	traditional dress for ceremonial occasions
+__supuñ tarw__	/supũ tarɨ/ _n._	traditional dress for ceremonial occasions
 
-__supyu'__	// _n._	drain water		
+__supyu'__	/supjuɁ/ _n._	drain water		
 
 __surù__	/surù/ _n._	coarse sand		
 
 __surúu__	/surúu/ _adj._	deceptive; crafty; treacherous	
 
-__surúu dozó__	// _n._	traitor; scoundrel		
+__surúu dozó__	/surúu doɲó/ _n._	traitor; scoundrel		
 
-__susumomo__	// _adj._	disappointed; dispirited; downcast
+__susumomo__	/susumomo/ _adj._	disappointed; dispirited; downcast
 
-__sw__	// _vr._	die		
+__sw__	/sɨ/ _vr._	die		
 
-__sw__	// _vr._	claw; scratch		
+__sw__	/sɨ/ _vr._	claw; scratch		
 
-__swbi__	// _n._	monkey		
+__swbi__	/sɨbi/ _n._	monkey		
 
-__swbi bidw__	// _n._	a variety of monkey	
+__swbi bidw__	/sɨbi bidɨ/ _n._	a variety of monkey	
 
-__swbi bisvr__	// _n._	a variety of monkey	
+__swbi bisvr__	/sɨbi bisǝr/ _n._	a variety of monkey	
 
-__swbiñ__	// _n._	goat		
+__swbiñ__	/sɨbĩ/ _n._	goat		
 
-__swbuñ__	// _n._	sheep	
+__swbuñ__	/sɨbũ/ _n._	sheep	
 
-__swbyó__	// _n._	flying squirrel	[_syn._	swcí]
+__swbyó__	/sɨbjó/ _n._	flying squirrel	[_syn._	swcí]
 
-__swcañ__	// _n._	earth		
+__swcañ__	/sɨcã/ _n._	earth		
 
-__swcañ mwdo__	// _n._	universe	
+__swcañ mwdo__	/sɨcã mɨdo/ _n._	universe	
 
-__swco'__	// _n._	spring; wellspring; fountainhead
+__swco'__	/sɨcoɁ/ _n._	spring; wellspring; fountainhead
 
-__swcú__	// _n._	stag	[_syn._	swcúr]
+__swcú__	/sɨcú/ _n._	stag	[_syn._	swcúr]
 
-__swcúr__	// _n._	stag	[_syn._	swcú]
+__swcúr__	/sɨcúr/ _n._	stag	[_syn._	swcú]
 
-__swdiñ__	// _n._	barking deer; muntjac	
+__swdiñ__	/sɨdĩ/ _n._	barking deer; muntjac	
 
-__swdó__	// _n._	heifer		
+__swdó__	/sɨdó/ _n._	heifer		
 
-__swfiñ__	// _n._	this evening	[_adv._	swfiñda]
+__swfiñ__	/sɨʎĩ/ _n._	this evening	[_adv._	swfiñda]
 
-__swfiñ dafi__	// _n._	this afternoon; towards this evening	
+__swfiñ dafi__	/sɨʎĩ daʎi/ _n._	this afternoon; towards this evening	
 
-__swfiñ swro__	// _n._	now a days; these days		
+__swfiñ swro__	/sɨʎĩ sɨro/ _n._	now a days; these days		
 
-__swfo'__	// _n._	river bank; beach	
+__swfo'__	/sɨʎoɁ/ _n._	river bank; beach	
 
-__swgañ__	// _n._	irrigation channel; drainage system; small natural rivulet [_syn._ swliñ]	
+__swgañ__	/sɨgã/ _n._	irrigation channel; drainage system; small natural rivulet [_syn._ swliñ]	
 
-__swgo__	// _n._	bridge		
+__swgo__	/sɨgo/ _n._	bridge		
 
-__swha__	// _n._	cane rope	[_var._	saha]
+__swha__	/sɨha/ _n._	cane rope	[_var._	saha]
 
-__swhuñ__	// _n._	hanging bridge		
+__swhuñ__	/sɨhũ/ _n._	hanging bridge		
 
-__swjvr sw__	// _v._	commit suicide		
+__swjvr sw__	/sɨɟǝr sɨ/ _v._	commit suicide		
 
-__swki__	// _n._	a variety of wild cat	
+__swki__	/sɨki/ _n._	a variety of wild cat	
 
-__swlañ pacañ__	// _n._	nape of the neck	
+__swlañ pacañ__	/sɨlã pacã/ _n._	nape of the neck	
 
-__swlì__	// _n._	water body		
+__swlì__	/sɨlì/ _n._	water body		
 
-__swliñ__	// _n._	a small track inside the kitchen garden	
+__swliñ__	/sɨlĩ/ _n._	a small track inside the kitchen garden	
 
-__swliñ__ // _n._ irrigation channel [_syn._ swgañ]
+__swliñ__ /sɨlĩ/ _n._ irrigation channel [_syn._ swgañ]
 
-__swliñ__	// _adj._	wild (of a domestic animal esp. a mithun or a cow)	
+__swliñ__	/sɨlĩ/ _adj._	wild (of a domestic animal esp. a mithun or a cow)	
 
-__swlo__	// _n._	today	[_adv._	swloda]		
+__swlo__	/sɨlo/ _n._	today	[_adv._	swloda]		
 
-__swlo bwfo__	// _n._	recently; lately; now a days		
+__swlo bwfo__	/sɨlo bɨʎo/ _n._	recently; lately; now a days		
 
-__swlw__	// _n._	Large Indian Civet (_Viverra zibetha_)	
+__swlw__	/sɨlɨ/ _n._	Large Indian Civet (_Viverra zibetha_)	
 
-__swlw'__	// _n._	water container of bamboo		
+__swlw'__	/sɨlɨɁ/ _n._	water container of bamboo		
 
-__swma__	// _n._	corpse		
+__swma__	/sɨma/ _n._	corpse		
 
-__swmi__	// _n._	lake		
+__swmi__	/sɨmi/ _n._	lake		
 
-__swmvr__	// _n._	silt; sand	
+__swmvr__	/sɨmǝr/ _n._	silt; sand	
 
-__swni__	// _n._	sugar	_Or._	Assamese	[_var._	swzi]
+__swni__	/sɨni/ _n._	sugar	_Or._	Assamese	[_var._	swzi]
 
-__swpi'__	// _n._	needlework; needlecraft; embroidery	
+__swpi'__	/sɨpiɁ/ _n._	needlework; needlecraft; embroidery	
 
-__swpi'__	// _n._	pangolin		
+__swpi'__	/sɨpiɁ/ _n._	pangolin		
 
-__swpvr__	// _n._	pond		
+__swpvr__	/sɨpǝr/ _n._	pond		
 
-__swpya__	// _n._	dhole; Asiatic wild dog	
+__swpya__	/sɨpja/ _n._	dhole; Asiatic wild dog	
 
-__swrañ__	// _n._	post; pole; pillar
+__swrañ__	/sɨrã/ _n._	post; pole; pillar
 
-__swre__	// _n._	wild pig; boar		
+__swre__	/sɨre/ _n._	wild pig; boar		
 
-__swre taxe__	// _n._	tick	[_syn._	swre twxe]
+__swre taxe__	/sɨre taxe/ _n._	tick	[_syn._	swre twxe]
 
-__swre twxe__	// _n._	tick	[_syn._	swre taxe]
+__swre twxe__	/sɨre tɨxe/ _n._	tick	[_syn._	swre taxe]
 
-__swriñ__	// _n._	otter			
+__swriñ__	/sɨrĩ/ _n._	otter			
 
-__swro__	// _n._	this morning	
+__swro__	/sɨro/ _n._	this morning	
 
-__swrw__	// _n._	bugle of horn, usually of yak horn
+__swrw__	/sɨrɨ/ _n._	bugle of horn, usually of yak horn
 
-__swsi__	// _n._	now	[_var._	sisi]	[_adv._	swsida]
+__swsi__	/sɨsi/ _n._	now	[_var._	sisi]	[_adv._	swsida]
 
-__swso__	// _n._	wild cat			
+__swso__	/sɨso/ _n._	wild cat			
 
-__swti'__	// _n._	letter			
+__swti'__	/sɨtiɁ/ _n._	letter			
 
-__swtiñ__	// _n._	bear; Himalayan black bear	
+__swtiñ__	/sɨtĩ/ _n._	bear; Himalayan black bear	
 
-__swttiñ__	// _n._	warrior's shield (esp. of buffalo skin)	
+__swttiñ__	/sɨtĩ/ _n._	warrior's shield (esp. of buffalo skin)	
 
-__swtw__	// _n._	elephant			
+__swtw__	/sɨtɨ/ _n._	elephant			
 
-__swtw ahi__	// _n._	elephant tusk		
+__swtw ahi__	/sɨtɨ ahi/ _n._	elephant tusk		
 
-__swtw byako__	// _n._	yellow berried nightshade (_Solanum xanthocarpum_)
+__swtw byako__	/sɨtɨ bjako/ _n._	yellow berried nightshade (_Solanum xanthocarpum_)
 
-__sww__	// _n._	cow; ox				
+__sww__	/sɨɨ/ _n._	cow; ox				
 
-__sww atúu__	// _n._	calf		
+__sww atúu__	/sɨɨ atúu/ _n._	calf		
 
-__sww hwbo__	// _n._	ox		
+__sww hwbo__	/sɨɨ hɨbo/ _n._	ox		
 
-__sww hwnw__	// _n._	cow		
+__sww hwnw__	/sɨɨ hɨnɨ/ _n._	cow		
 
-__sww ixa__	// _n._	cow dung	
+__sww ixa__	/sɨɨ ixa/ _n._	cow dung	
 
-__sww lutw__	// _n._	grazing ground	
+__sww lutw__	/sɨɨ lutɨ/ _n._	grazing ground	
 
-__sww yo__	// _n._	beef		
+__sww yo__	/sɨɨ jo/ _n._	beef		
 
-__swlo-holo__	// _adv._	hurriedly; excitedly	
+__swlo-holo__	/sɨlo holo/ _adv._	hurriedly; excitedly	
 
-__swxa'__	// _v._	scratch; scrape; abrade	
+__swxa'__	/sɨxaɁ/ _v._	scratch; scrape; abrade	
 
-__swxá__	// _n._	an altar	
+__swxá__	/sɨxá/ _n._	an altar	
 
-__swxó__	// _n._	water channel	
+__swxó__	/sɨxó/ _n._	water channel	
 
-__swxẁ__// 	_n._	porcupine	[_syn._ swxẁ puxẁ]
+__swxẁ__/sɨxɨ̀/ 	_n._	porcupine	[_syn._ swxẁ puxẁ]
 
-__swxẁ puxẁ__ //	_n._	porcupine	[_syn._	swxẁ]
+__swxẁ puxẁ__ /sɨxɨ̀  puxɨ̀/	_n._	porcupine	[_syn._	swxẁ]
 
-__swxw__	//_n._	gravel	[_syn._	diixw]
+__swxw__	/sɨxɨ/_n._	gravel	[_syn._	diixw]
 
-__swyiñ__	// _n._	a variety of carnivorous animal	
+__swyiñ__	/sɨjĩ/ _n._	a variety of carnivorous animal	
 
-__swzañ__	// _n._	this year		
+__swzañ__	/sɨɲã/ _n._	this year		
 
-__swzañ-swlò__	// _adv._	now a days; these days	
+__swzañ-swlò__	/sɨɲã-sɨlò/ _adv._	now a days; these days	
 
-__swzi__	// _n._	sugar	_or._	Assamese	[_var._	swni]
+__swzi__	/sɨɲi/ _n._	sugar	_or._	Assamese	[_var._	swni]
 
