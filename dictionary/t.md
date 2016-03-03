@@ -306,361 +306,361 @@ __tali yordu__	/tali jordu/ _n._	a variety of chilly
 __talo__	/talo/ _n._	brass plate		
 
 
-__talo pwzu__	_n._	spoon		
+__talo pwzu__	// _n._	spoon		
 
 
-__talu ba'lo__	_v._	betray; deceive		
+__talu ba'lo__	// _v._	betray; deceive		
 
 
-__taluñ__	_adj._	an infertile woman		
+__taluñ__	// _adj._	an infertile woman		
 
 
-__talw'__	_v._	agree		
+__talw'__	// _v._	agree		
 
 
-__talẃ__ 	_n._	unnatural death		
+__talẃ__ //	_n._	unnatural death		
 
 
-__talẃ myoko__	_n_.	land of the dead who meet with unnatural death		
+__talẃ myoko__// 	_n_.	land of the dead who meet with unnatural death		
 
 
-__tama'__	_n._	a variety of tree		
+__tama'__	// _n._	a variety of tree		
 
 
-__tama' amu__	_n._	fibres of tama' tree used as cover of havershack or cap		
+__tama' amu__	// _n._	fibres of tama' tree used as cover of havershack or cap		
 
 
-__tamì__	_n._	weed		
+__tamì__	/tamì/ _n._	weed		
 
 
-__tami'__	_n._	fly (_Diptera_)		
+__tami'__	// _n._	fly (_Diptera_)		
 
 
-__tamiñ__	_n._	Common Indian madder (_Rubia cordifolia_)	[_var._	twmiñ]
+__tamiñ__	// _n._	Common Indian madder (_Rubia cordifolia_)	[_var._	twmiñ]
 
 
-__tamù__	_n._	a deity		
+__tamù__	/tamù/ _n._	a deity		
 
 
-__tamyo__	_n._ 	a variety of tree		
+__tamyo__	/tamjo/ _n._ 	a variety of tree		
 
 
-__tamyó__	_adj._	a colour pattern of a mithun, of black colour but a white patch running from the head to the tail at the back		
+__tamyó__	/tamjó/ _adj._	a colour pattern of a mithun, of black colour but a white patch running from the head to the tail at the back		
 
 
-__tañ__	_vr._	drink; smoke		
+__tañ__	// _vr._	drink; smoke		
 
 
-__tañdw'__	_v._	get poisoned by drinking		
+__tañdw'__	// _v._	get poisoned by drinking		
 
 
-__tañgw__	_adj._	drunk; inebriated		
+__tañgw__	// _adj._	drunk; inebriated		
 
 
-__taniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	twniñ]
+__taniñ__	// _n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	twniñ]
 
 
-__tañka__	_v._	taste (drinking or smoking)		
+__tañka__	// _v._	taste (drinking or smoking)		
 
 
-__tañkañ__	_adv._	drink or smoke for a long time		
+__tañkañ__	// _adv._	drink or smoke for a long time		
 
 
-__tano__	_n._	thread; yarn		
+__tano__	/tano/ _n._	thread; yarn		
 
 
-__tano pvrv__	_n._	traditional spinning wheel used to wind yarn into balls		
+__tano pvrv__	// _n._	traditional spinning wheel used to wind yarn into balls		
 
 
-__tano-gogo__	_n._	snail	[_var._	tano gorgo]
+__tano-gogo__	/tano-gogo/ _n._	snail	[_var._	tano gorgo]
 
 
-__tano-gorgo__	_n._	snail	[_var._	tano-gogo]
+__tano-gorgo__	/tano-gorgo/ _n._	snail	[_var._	tano-gogo]
 
 
-__tano'__	_n._	snot		
+__tano'__	// _n._	snot		
 
 
-__tañpyo__	_adj._	tasty (of drinks)	[_ant._	tañru]
+__tañpyo__	// _adj._	tasty (of drinks)	[_ant._	tañru]
 
 
-__tañru__	_adj._	bad in taste (of drinks)	[_ant._	tañpyo]
+__tañru__	// _adj._	bad in taste (of drinks)	[_ant._	tañpyo]
 
 
-__tañsvr patañ__	_n._	labour gang engaged in miscellaneous works in the agricultural fields		
+__tañsvr patañ__	// _n._	labour gang engaged in miscellaneous works in the agricultural fields		
 
 
-__Tanw__	_n._	Apatani tribe; people of Apatani tribe		
+__Tanw__	// _n._	Apatani tribe; people of Apatani tribe		
 
 
-__Tanw aguñ__	_n._	Apatani language		
+__Tanw aguñ__	// _n._	Apatani language		
 
 
-__Tanw miyu__	_n._	Apatani people		
+__Tanw miyu__	// _n._	Apatani people		
 
 
-__tañxu'__	_n._	leftover drinks		
+__tañxu'__	// _n._	leftover drinks		
 
 
-__tañxwñ__	_v._	get drunk		
+__tañxwñ__	// _v._	get drunk		
 
 
-__tapañ__	_n._	algae; moss	[_syn._ twpañ]	
+__tapañ__	// _n._	algae; moss	[_syn._ twpañ]	
 
 
-__tapañ dafi__	_n._	east		
+__tapañ dafi__	// _n._	east		
 
 
-__tapañ-kara alo__	_n._	Tuesday		
+__tapañ-kara alo__	// _n._	Tuesday		
 
 
-__tape__	_n._	pumpkin	[_syn._	e'pe; ayó twpe]
+__tape__	/tape/ _n._	pumpkin	[_syn._	e'pe; ayó twpe]
 
 
-__tape hamañ__	_n._	vegetable of pumplin leaves		
+__tape hamañ__	// _n._	vegetable of pumplin leaves		
 
 
-__tape'__	_n._	leech	[_var._	twpe']
+__tape'__	// _n._	leech	[_var._	twpe']
 
 
-__tapi__	_n._	a variety of cane		
+__tapi__	/tapi/ _n._	a variety of cane		
 
 
-__tapiñ__	_n._	ice	[_var._	twpiñ]
+__tapiñ__	// _n._	ice	[_var._	twpiñ]
 
 
-__tapiñ__	_n._	a species of bamboo		
+__tapiñ__	// _n._	a species of bamboo		
 
 
-__tappo__	_n._	spinning knot		
+__tappo__	/tappo/ _n._	spinning knot		
 
 
-__tapo__	_n._	a variety of hardwood tree		
+__tapo__	/tapo/ _n._	a variety of hardwood tree		
 
 
-__tapo'__	_n._	variety of tall grass		
+__tapo'__	// _n._	variety of tall grass		
 
 
-__tapuñ__	_n._	bat		
+__tapuñ__	// _n._	bat		
 
 
-__tapúu__	_adj._	a colour pattern of a mithun, of overall white colour	[_syn._	yapúu]
+__tapúu__	/tapúu/ _adj._	a colour pattern of a mithun, of overall white colour	[_syn._	yapúu]
 
 
-__tapvr__	_n._	heavy log put on a prisoner's legs to prevent escape	[_var._	twpvr]
+__tapvr__	// _n._	heavy log put on a prisoner's legs to prevent escape	[_var._	twpvr]
 
 
-__tapvr__	_n._	an element of babo	[_var._	twpvr]
+__tapvr__	// _n._	an element of babo	[_var._	twpvr]
 
 
-__tapvr__	_n._	cane leaves used during ritual in Myoko festival		
+__tapvr__	// _n._	cane leaves used during ritual in Myoko festival		
 
 
-__tapvr__ 	_adv._	terrible (to hear)		
+__tapvr__ 	// _adv._	terrible (to hear)		
 
 
-__tapw__	_n._	an element of loin loom in the form of a rod used to tighten the threads while weaving		
+__tapw__	// _n._	an element of loin loom in the form of a rod used to tighten the threads while weaving		
 
 
-__tapya'__	v.	untie		
+__tapya'__	// _v._	untie		
 
 
-__tapyo__	_n._	herbal salt		
+__tapyo__	// _n._	herbal salt		
 
 
-__tapyò__	_adj._	melodius; nice to hear		
+__tapyò__	// _adj._	melodius; nice to hear		
 
 
-__tapyu__	_n._	a species of bamboo		
+__tapyu__	// _n._	a species of bamboo		
 
 
-__taqu__	_n._	bee (in group)		
+__taqu__	// _n._	bee (in group)		
 
 
-__taqu-aláa__	_n._	honey		
+__taqu-aláa__	// _n._	honey		
 
 
-__taqu-aru'__	_n._	honeycomb		
+__taqu-aru'__	// _n._	honeycomb		
 
 
-__tar__	_vr._	bend; break		
+__tar__	// _vr._	bend; break		
 
 
-__tar pwta__	_n._	peacock	[_syn._	tarlar]
+__tar pwta__	// _n._	peacock	[_syn._	tarlar]
 
 
-__tardu__	_n._	a bamboo container for storing meat	[_syn._	yo tardu]
+__tardu__	/tardu/ _n._	a bamboo container for storing meat	[_syn._	yo tardu]
 
 
-__tare__	_n._	thorn	[_var._	twre]
+__tare__	/tare/ _n._	thorn	[_var._	twre]
 
 
-__tarì__	_n._	hail		
+__tarì__	/tarì/ _n._	hail		
 
 
-__tari'__	_n._	body odor		
+__tari'__	// _n._	body odor		
 
 
-__tari'__	_n._	fern		
+__tari'__	// _n._	fern		
 
 
-__tari' burta'__	_n._	a variety of snake		
+__tari' burta'__	// _n._	a variety of snake		
 
 
-__tariñ__	_n._	woven cane ring used as kneelet		
+__tariñ__	// _n._	woven cane ring used as kneelet		
 
 
-__tarji__	_n._	scorpion; centipede		
+__tarji__	// _n._	scorpion; centipede		
 
 
-__tarjiñ__	_v._	straighten	[_ant._	tarki']
+__tarjiñ__	// _v._	straighten	[_ant._	tarki']
 
 
-__tarki'__	_v._	bend	[_ant._	tarjiñ]
+__tarki'__	// _v._	bend	[_ant._	tarjiñ]
 
 
-__tarko__	_n._	variety of plant used as antiseptic after burning it.		
+__tarko__	/tarko/ _n._	variety of plant used as antiseptic after burning it.		
 
 
-__tarlar__	_n._	peacock	[_syn._	tar pwta]
+__tarlar__	/tarlar/ _n._	peacock	[_syn._	tar pwta]
 
 
-__tarxw'__	_n._	break something with hand		
+__tarxw'__	// _n._	break something with hand		
 
 
-__tarluñ__	_adj._	barren; childless		
+__tarluñ__	// _adj._	barren; childless		
 
 
-__tarpi__	_n._	variety of cane		
+__tarpi__	/tarpi/ _n._	variety of cane		
 
 
-__tarpiñ__	_n._	maggots		
+__tarpiñ__	// _n._	maggots		
 
 
-__tartu__	_v._	break		
+__tartu__	/tartu/ _v._	break		
 
 
-__tarú__	_n._	mosquito		
+__tarú__	/tarú/ _n._	mosquito		
 
 
-__tarù__	_n._	rope		
+__tarù__	/tarù/ _n._	rope		
 
 
-__taru'__	_n._	ant		
+__taru'__	// _n._	ant		
 
 
-__tarw__	_n._	shirt; top		
+__tarw__	// _n._	shirt; top		
 
 
-__tarze__	_n._	pus	[_var._	taze]
+__tarze__	// _n._	pus	[_var._	taze]
 
 
-__tasañ__	_n._	beads		
+__tasañ__	// _n._	beads		
 
 
-__tasañ-tayiñ__	_n._	ornament		
+__tasañ-tayiñ__	// _n._	ornament		
 
 
-__tase__	_n._	sago palm; tree fern (_Cyathea gigantea_)		
+__tase__	/tase/ _n._	sago palm; tree fern (_Cyathea gigantea_)		
 
 
-__tasi__	n.	wall	[_var._	tarsi]
+__tasi__	/tasi/ _n._	wall	[_var._	tarsi]
 
 
-__tarsi__	n.	wall	[_var._	tasi]
+__tarsi__	/tarsi/ _n._	wall	[_var._	tasi]
 
 
-__tasiñ__	_n._	larval dragonfly		
+__tasiñ__	// _n._	larval dragonfly		
 
 
-__tasiñ pwha__	_n._	a variety of bamboo basket used for carrying vegetables or edible aquatic insects		
+__tasiñ pwha__	// _n._	a variety of bamboo basket used for carrying vegetables or edible aquatic insects		
 
 
-__tasiñ siiñbo__	_n._	large-sized larvae of dragonfly	[_syn._	siñbo]
+__tasiñ siiñbo__	// _n._	large-sized larvae of dragonfly	[_syn._	siñbo]
 
 
-__tasiñ siizi'__	_n._	small-sized larvae of dragonfly	[_syn._	sizi']
+__tasiñ siizi'__	// _n._	small-sized larvae of dragonfly	[_syn._	sizi']
 
 
-__tasu-tase__	_adj._	noisy; boisterous		
+__tasu-tase__	/tase-tase/ _adj._	noisy; boisterous		
 
 
-__tasvr__	_n._	variety of cane		
+__tasvr__	// _n._	variety of cane		
 
 
-__tasw'__	_n._	wart		
+__tasw'__	// _n._	wart		
 
 
-__tatá__	_adj._	color pattern of mithun bull, described as overall black with a white spots on either side		
+__tatá__	/tatá/ _adj._	color pattern of mithun bull, described as overall black with a white spots on either side		
 
 
-__tatuñ buluñ__	_adj._	chubby	[_var._	utuñ buluñ]
+__tatuñ buluñ__	// _adj._	chubby	[_var._	utuñ buluñ]
 
 
-__tatw'__	_n._	frog		
+__tatw'__	// _n._	frog		
 
 
-__taú__	_n._	desciptive term for mithun bull with color pattern of dark brown color with while in the lower parts of the limbs		
+__taú__	/taú/ _n._	desciptive term for mithun bull with color pattern of dark brown color with while in the lower parts of the limbs		
 
 
-__tau yamu__	_n._	firefly		
+__tau yamu__	/tau jamu/ _n._	firefly		
 
 
-__taxe'__	_n._	a variety of cane		
+__taxe'__	// _n._	a variety of cane		
 
 
-__taxe__	_n._	tick	[_syn._	twxe]
+__taxe__	/taxe/ _n._	tick	[_syn._	twxe]
 
 
-__taxó__	_adj._	bald		
+__taxó__	/taxó/ _adj._	bald		
 
 
-__taxò__	_n._	bamboo split used for demarcating land		
+__taxò__	/taxò/ _n._	bamboo split used for demarcating land		
 
 
-__taxuñ__	_n._	a bamboo fish trap	[_syn._	tajvr]
+__taxuñ__	// _n._	a bamboo fish trap	[_syn._	tajvr]
 
 
-__taxw__	_n._	squirrel		
+__taxw__	// _n._	squirrel		
 
 
-__taxw tabu__	_n._	bed bug				
+__taxw tabu__	// _n._	bed bug				
 
 
-__taxw'__	_n._	head louse				
+__taxw'__	// _n._	head louse				
 
 
-__taxxuñ__	_n._	countercurrent fish trap				
+__taxxuñ__	// _n._	countercurrent fish trap				
 
 
-__taya rara__	_adj._	quite; deserted				
+__taya rara__	/taja rara/ _adj._	quite; deserted				
 
 
-__tayañ__	_n._	bee (single)				
+__tayañ__	// _n._	bee (single)				
 
 
-__tayu__	_n._	wasp				
+__tayu__	/taju/ _n._	wasp				
 
 
-__taze__	_n._	pus	[_syn._	tarze]
+__taze__	// _n._	pus	[_syn._	tarze]
 
 
-__tazi'__	_n._	corn				
+__tazi'__	// _n._	corn				
 
 
-__tazi' aru'__	_n._	corn ear				
+__tazi' aru'__	// _n._	corn ear				
 
 
-__tazi' marpu__	_n._	cornsilk				
+__tazi' marpu__	// _n._	cornsilk				
 
 
-__tazi' mwge__	_n._	tongs to roast grains of corn				
+__tazi' mwge__	// _n._	tongs to roast grains of corn				
 
 
-__tazi' pamw__	_n._	corn powder				
+__tazi' pamw__	// _n._	corn powder				
 
 
-__te'__	_vr._	fall  (esp. from a standing position)				
+__te'__	// _vr._	fall  (esp. from a standing position)				
 
 
 __te'__	_vr._	cut (esp. bushes)				
