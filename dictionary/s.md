@@ -74,23 +74,23 @@ __saiklo__	/saiklo/ _v._	bicycle	_or._	Assamese
 
 __sakori__	/sakori/ _n._	job; employment	
 
-__sala borta'__	// _n._	cobra; King cobra (Ophiophagus hannah)	[_var._	sala burta']
+__sala borta'__	/sala bortaɁ/ _n._	cobra; King cobra (Ophiophagus hannah)	[_var._	sala burta']
 
-__sala burta'__	// _n._	cobra; King cobra (Ophiophagus hannah)	[_var._	sala borta']
+__sala burta'__	/sala burtaɁ/ _n._	cobra; King cobra (Ophiophagus hannah)	[_var._	sala borta']
 
-__sale'__	// _adj._	raw, as of wood; standing wood		
+__sale'__	/saleɁ/ _adj._	raw, as of wood; standing wood		
 
-__saliñ__	// _v._	expel out	
+__saliñ__	/salĩ/ _v._	expel out	
 
-__saluñ__	// _n._	medium sized cucumber		
+__saluñ__	/salũ/ _n._	medium sized cucumber		
 
-__salw__	// _v._	plantation	[_syn._	sañsuñ; sadi]
+__salw__	/salɨ/ _v._	plantation	[_syn._	sañsuñ; sadi]
 
-__salw'__	//  _v._	push something in	
+__salw'__	/salɨɁ/  _v._	push something in	
 
-__samañ__	// _n._	pine needle	
+__samañ__	/samã/ _n._	pine needle	
 
-__samiñ rako__	// _n._	tortoise	[_syn._	rako; rwko]
+__samiñ rako__	/samĩ rako/ _n._	tortoise	[_syn._	rako; rwko]
 
 __sampo__	/sampo/ _n._	log; timber; piece of wood	
 
@@ -100,41 +100,41 @@ __sampyá__	/sampjá/ _n._	wooden tray used for transporting soil from one place
 
 __sampyu__	/sampju/ _n._	a variety of blue coloured beads	
 
-__sañ__	// _vr._	push or stuff something		
+__sañ__	/sã/ _vr._	push or stuff something		
 
-__sañbw__	// _n._	branch, of a tree	[_syn._	sanw aha']
+__sañbw__	/sãbɨ/ _n._	branch, of a tree	[_syn._	sanw aha']
 
-__sañbyuñ__	// _v._	immerse; submerge; soak in water
+__sañbyuñ__	/sãbjũ/ _v._	immerse; submerge; soak in water
 
-__sañca__	// _v._	grow up		
+__sañca__	/sãca/ _v._	grow up		
 
-__sañcí__	// _n._	a variety of fruit	[_syn._	dwrañ sañxañ]
+__sañcí__	/sãcí/ _n._	a variety of fruit	[_syn._	dwrañ sañxañ]
 
-__sañda__	// _n._	long wooden post that support a traditional house on both sides	
+__sañda__	/sãda/ _n._	long wooden post that support a traditional house on both sides	
 
-__sañgo__	// _n._	life	
+__sañgo__	/sãgo/ _n._	life	
 
-__sañgo tape__	// _n._	a kind of bead	
+__sañgo tape__	/sãgo tape/ _n._	a kind of bead	
 
-__sañje__	// _n._	timber; wood	
+__sañje__	/sãɟe/ _n._	timber; wood	
 
-__sañkó__	// _n._	a kind of fruit		
+__sañkó__	/sãkó/ _n._	a kind of fruit		
 
-__sañpvr__	// _n._	a variety of fruit used as a spice
+__sañpvr__	/sãpǝr/ _n._	a variety of fruit used as a spice
 
-__sañsuñ__	// _n._	plantation	[_syn._	sadi; salw]
+__sañsuñ__	/sãsũ/ _n._	plantation	[_syn._	sadi; salw]
 
-__sañsuñ__	// _adj._	weedy		
+__sañsuñ__	/sãsũ/ _adj._	weedy		
 
-__sañta'__	// _n._	wooden plank	
+__sañta'__	/sãtaɁ/ _n._	wooden plank	
 
-__sañta' ude__	// _n._	wooden house	
+__sañta' ude__	/sãtaɁ ude/ _n._	wooden house	
 
-__sañti__	// _v._	push something tightly as when packing	
+__sañti__	/sãti/ _v._	push something tightly as when packing	
 
 __santì__	/santì/ _n._	a variety of hardwood	
 
-__sañtiñ__	// _adj._	of same age; contemporary
+__sañtiñ__	/sãtĩ/ _adj._	of same age; contemporary
 
 __santú__	/santú/ _n._	tree		
 
@@ -142,35 +142,35 @@ __santú payu__	/santú paju/ _n._	a variety of resin used as glue obtained from
 
 __santú tero__	/santú tero/ _n._	a variety of wild pepper
 
-__sañtuñ__	// _n._	generation		
+__sañtuñ__	/sãtũ/ _n._	generation		
 
-__sañtvr__	// _n._	a variety of glass bead	
+__sañtvr__	/sãtǝr/ _n._	a variety of glass bead	
 
-__sañtvr__	// _adj._	fully grown		
+__sañtvr__	/sãtǝr/ _adj._	fully grown		
 
-__sanw__	// _n._	tree		
+__sanw__	/sanɨ/ _n._	tree		
 
-__sanw tero__	// _n._	Sichuan peppercorn; prickly ash	[_var._	sañtú tero]
+__sanw tero__	/sanɨ tero/ _n._	Sichuan peppercorn; prickly ash	[_var._	sañtú tero]
 
-__sañxañ__	// _n._	border post	
+__sañxañ__	/sãxã/ _n._	border post	
 
-__sañxañ__	// _n._	rubber		
+__sañxañ__	/sãxã/ _n._	rubber		
 
-__sañxañ mefañ__	// _n._	a variety of fencing plant; privet (_Ligustrum ovalifolium_)	
+__sañxañ mefañ__	/sãxã meʎã/ _n._	a variety of fencing plant; privet (_Ligustrum ovalifolium_)	
 
-__sañxe page__	// _n._	a variety of bead
+__sañxe page__	/sãxã page/ _n._	a variety of bead
 
-__sañxó__	// _n._	smoke-dried meat
+__sañxó__	/sãxó/ _n._	smoke-dried meat
 
-__sañxw'__	// _n._	a variety of plant used as dye (_Eurya acuminata var. euprista_)
+__sañxw'__	/sãxɨɁ/ _n._	a variety of plant used as dye (_Eurya acuminata var. euprista_)
 
-__sañxw'__	// _adj._	retarded growth	
+__sañxw'__	/sãxɨɁ/ _adj._	retarded growth	
 
 __sapi__	/sapi/ _n._	a variety of tree
 
 __sapì__	/sapì/ _adj._	flattened
 
-__saq__	// _n._	cot; bed	[_syn._	xaq]
+__saq__	/saŋ/ _n._	cot; bed	[_syn._	xaq]
 
 __sar__	/sar/ _vr._	denigrate; criticise; disparage	
 
@@ -178,39 +178,39 @@ __sár__	/sár/ _vr._	rip; tear
 
 __sárce__	/sárce/ _v._	tear something into two parts
 
-__sardiñ__	// _n._	short-cut	_v._	take a short cut
+__sardiñ__	/sardĩ/ _n._	short-cut	_v._	take a short cut
 
 __sari__	/sari/ _n._	a variety of tree which is allergic to those who are sensitive to it	
 
-__sarja'__	// _v._	rip; tear
+__sarja'__	/sarɟaɁ/ _v._	rip; tear
 
-__sarko'__	// _v._	rip open; tear open
+__sarko'__	/sarkoɁ/ _v._	rip open; tear open
 
-__sarlañ__	// _n._	a variety of cane
+__sarlañ__	/sarlã/ _n._	a variety of cane
 
 __sarli__	/sarli/ _n._	millet seed preserved for the next season
 
-__sarma pucuñ__	// _n._	a mound of refuse mainly comprising of millet stalk and other weeds in a millet garden	
+__sarma pucuñ__	/sarma pucũ/ _n._	a mound of refuse mainly comprising of millet stalk and other weeds in a millet garden	
 
 __saró__	/saró/ _n._	firewood of bamboo		
 
-__saro' sanw__	// _n._	banyan tree (Ficus bengalensis)	
+__saro' sanw__	/saroɁ sanɨ / _n._	banyan tree (Ficus bengalensis)	
 
 __sarpu sarse__	/sarpu sarse/ _n._	an early ripening variety of millet
 
-__sarpu'__	// _n._	balloon; bladder
+__sarpu'__	/sarpuɁ/ _n._	balloon; bladder
 
 __sarse__	/sarse/ _n._	millet	
 
-__sarsw'__	// _adj._	bland; insipid; weak (of liquor)
+__sarsw'__	/sarsɨɁ/ _adj._	bland; insipid; weak (of liquor)
 
-__sarw__	// _n._	teacher	_Or._	English
+__sarw__	/sarɨ/ _n._	teacher	_Or._	English
 
-__sarw__	// _n._	knot (of tree); nodule; node	
+__sarw__	/sarɨ/ _n._	knot (of tree); nodule; node	
 
-__sarxe sarse__	// _n._	a late ripening variety of millet
+__sarxe sarse__	/sarxe sarse/ _n._	a late ripening variety of millet
 
-__sarxo__	// _n._	stalk, of millet
+__sarxo__	/sarxo/ _n._	stalk, of millet
 
 __sati__	/sati/ _n._	umbrella	_Or._	Assamese
 
@@ -218,73 +218,73 @@ __se__	/se/ _vr._	pull
 
 __seh__	/seh/ _n._	flat cane string for carrying load	
 
-__seliñ__	// _v._	pull something out
+__seliñ__	/selĩ/ _v._	pull something out
 
-__selw__	// _v._	pull something in
+__selw__	/selɨ/ _v._	pull something in
 
 __sembo__	/sembo/ _n._	a variety of wild cherry	[_var._	semo]
 
 __semo__	/semo/ _n._	a variety of wild cherry	[_var._	sembo]
 
-__señ__	// _vr._	wither; dry		
+__señ__	/sẽ/ _vr._	wither; dry		
 
-__señbi'__	// _adj._	half withered	
+__señbi'__	/sẽbiɁ/ _adj._	half withered	
 
-__señsw'__	// _adj._	dry (of wood); thin (of a person)
+__señsw'__	/sẽsɨɁ/ _adj._	dry (of wood); thin (of a person)
 
 __setu__	/setu/ _v._	stop by pulling	
 
-__seya hamañ__	// _n._	Chameleon plant (_Houttuynia cordata_)	
+__seya hamañ__	/seja hamã/ _n._	Chameleon plant (_Houttuynia cordata_)	
 
-__sezi__	// _n._	rhododendron		
+__sezi__	/seɲi/ _n._	rhododendron		
 
 __si__	/si/ _dem._	this		
 
-__si'__	// _n._	urine	_v._	urinate
+__si'__	/siɁ/ _n._	urine	_v._	urinate
 
-__sih'__	// _n._	spring (esp. where animals come to drink)	
+__sih'__	/sihɁ/ _n._	spring (esp. where animals come to drink)	
 
-__siibi'__	// _adj._	shrivel; wither; wilt	
+__siibi'__	/siibiɁ/ _adj._	shrivel; wither; wilt	
 
-__siiñbo__	// _n._	large-sized larvae of dragonfly	[_syn._	tasiñ siñbo]	
+__siiñbo__	/siĩbo/ _n._	large-sized larvae of dragonfly	[_syn._	tasiñ siñbo]	
 
-__siizi'__	// _n._	small-sized larvae of dragonfly	[_syn._	tasiñ siizi']	
+__siizi'__	/siiɲiɁ/ _n._	small-sized larvae of dragonfly	[_syn._	tasiñ siizi']	
 
-__sikuñ-siri__	// _adj._	wrinkled; crunkled		
+__sikuñ-siri__	/sikũ-siri/ _adj._	wrinkled; crunkled		
 
-__sila'__	// _v._	stitch or sew (esp. with sewing machine)	_Or._	Assamese
+__sila'__	/silaɁ/ _v._	stitch or sew (esp. with sewing machine)	[_Or._	Assamese]
 
 __simbya__	/simbja/ _n._	balcony in a traditional house	[_var._	siñbya]	
 
-__siñ__	// _vr._	feed (esp. liquid food)		
+__siñ__	/sĩ/ _vr._	feed (esp. liquid food)		
 
-__siñbya__	// _n._	balcony in a traditional house	[_var._	simbya]	
+__siñbya__	/sĩbja/ _n._	balcony in a traditional house	[_var._	simbya]	
 
-__sipuñ__	// _n._	recently; these days	
+__sipuñ__	/sipũ/ _n._	recently; these days	
 
 __sisa__	/sisa/ _n._	glass	_or._	Hindi	
 
 __sisi__	/sisi/ _n._	now	[_var._	swsi]	[_adv._	sisida]
 
-__sitañ__	// _pron._	like this; this way	[_adv._	sitañpa]
+__sitañ__	/sitã/ _pron._	like this; this way	[_adv._	sitañpa]
 
 __siyo__	/sijo/ _n._	this night; tonight	
 
-__sizi' tasiñ__	// _n._	a variety of small sized larvae	
+__sizi' tasiñ__	/siɲiɁ tasĩ/ _n._	a variety of small sized larvae	
 
 __so__	/so/ _post._	at; in			
 
 __so__	/so/ _dem._	here		
 
-__so'ko__	// _n._	jaw	
+__so'ko__	/soɁko/ _n._	jaw	
 
 __soh__	/soh/ _vr._	play; joke; flirt	
 
 __sohte__	/sohte/ _v._	roam; travel for fun	
 
-__sojañ__	// _n._	lizard	
+__sojañ__	/soɟã/ _n._	lizard	
 
-__soki'__	// _n._	chair	_or._	Assamese	
+__soki'__	/sokiɁ/ _n._	chair	_or._	Assamese	
 
 __soku-soka__	/soku-soka/ _v._	tease; make fun of; poke fun at; trifle with	
 
@@ -294,11 +294,11 @@ __some__	/some/ _n._	bamboo shavings used as an element of altar as well as for 
 
 __some__	/some/ _n._	palm civet		
 
-__somiñ qarmiñ__	// _n._	entertainment; amusement; enjoyment	
+__somiñ qarmiñ__	/somĩ ŋarmĩ/ _n._	entertainment; amusement; enjoyment	
 
-__soñ__	// _vr._	move sideways		
+__soñ__	/sõ/ _vr._	move sideways		
 
-__sopiñ__	// _n._	lizard		
+__sopiñ__	/sopĩ/ _n._	lizard		
 
 __sopo__	/sopo/ _adj._	slim; slender; svelte; lissome	
 
@@ -308,35 +308,35 @@ __sor__	/sor/ _vr._	slip; skid
 
 __sor__	/sor/ _vr._	stretch; sprawl; lounge		
 
-__sorjiñ__	// _v._	stretch straight; straighten out	[_adj._	straight]
+__sorjiñ__	/sorɟĩ/ _v._	stretch straight; straighten out	[_adj._	straight]
 
-__sorjo'__	// _adj._	elongated; straighten out	
+__sorjo'__	/sorɟoɁ/ _adj._	elongated; straighten out	
 
 __sorò__	/sorò/ _adj._	thick (of objects like a thread)	[_Ant._	sozó]
 
-__sosi'-sosi'__	// _adv._	in a line; one after the other	
+__sosi'-sosi'__	/sosiɁ-sosiɁ/ _adv._	in a line; one after the other	
 
-__sosiñ__	// _n._	steel wire rope		
+__sosiñ__	/sosĩ/ _n._	steel wire rope		
 
 __sosma__	/sosma/ _n._	goggle	_or._	Assamese
 
-__sosvr__	// _adj._	shrill (of voice); high pitched; thin voice	[_ant._	bañbañ]
+__sosvr__	/sosǝr/ _adj._	shrill (of voice); high pitched; thin voice	[_ant._	bañbañ]
 
-__soxañ__	// _n._	trophy; memento (esp. of special achievements)	
+__soxañ__	/soxã/ _n._	trophy; memento (esp. of special achievements)	
 
-__soy tarw__	// _n._	sweater	_or._	Assamese
+__soy tarw__	/soj tarɨ/ _n._	sweater	_or._	Assamese
 
-__sozó__	// _adj._	thin (of objects like a thread)	[_Ant._	sorò]
+__sozó__	/soɲó/ _adj._	thin (of objects like a thread)	[_Ant._	sorò]
 
 __su__	/su/ _vr._	evaporate; emit smoke	
 
 __sù__	/sù/ _vr._	rear; breed; bring up; nurture	
 
-__su'__	// _vr._	probe; explore; investigate
+__su'__	/suɁ/ _vr._	probe; explore; investigate
 
-__su'__	// _vr._	ladle; scoop	
+__su'__	/suɁ/ _vr._	ladle; scoop	
 
-__su'bi__	// _v._	ladle water for somebody
+__su'bi__	/suɁbi/ _v._	ladle water for somebody
 
 __subu__	/subu/ _n._	mithun; bos frontalis
 
