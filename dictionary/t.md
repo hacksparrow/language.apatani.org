@@ -663,330 +663,330 @@ __tazi' pamw__	// _n._	corn powder
 __te'__	// _vr._	fall  (esp. from a standing position)				
 
 
-__te'__	_vr._	cut (esp. bushes)				
+__te'__	// _vr._	cut (esp. bushes)				
 
 
-__te'da'__	_v._	lean against something				
+__te'da'__	// _v._	lean against something				
 
 
-__te'fa__	_adj._	slanted				
+__te'fa__	// _adj._	slanted				
 
 
-__tebul__	_n._	table	[_or._	English]
+__tebul__	/tebul/ _n._	table	[_or._	English]
 
 
-__teli__	_n._	oil	[_or._	Assamese]
+__teli__	/teli/ _n._	oil	[_or._	Assamese]
 
 
-__tero yorsiñ__	_n._	dry chilly				
+__tero yorsiñ__	// _n._	dry chilly				
 
 
-__teya'__	_n._	millet (_Setaria italica_)				
+__teya'__	// _n._	millet (_Setaria italica_)				
 
 
-__te'hi__	_v._	fall down				
+__te'hi__	// _v._	fall down				
 
 
-__teliñ__	_v._	push something out	[_ant._	telw']	[_Ent._	teñ + aliñ]
+__teliñ__	// _v._	push something out	[_ant._	telw']	[_Ent._	teñ + aliñ]
 
 
-__telw'__	_v._	push something in by finger	[_ant._	teliñ]	[_Ent._	teñ + alw']
+__telw'__	// _v._	push something in by finger	[_ant._	teliñ]	[_Ent._	teñ + alw']
 
 
-__tema'__	_v._	touch	[_Ent._	teñ + mwma']	[_syn._	mwma']
+__tema'__	// _v._	touch	[_Ent._	teñ + mwma']	[_syn._	mwma']
 
 
-__teñ__	_vr._	keep in place; place something				
+__teñ__	// _vr._	keep in place; place something				
 
 
-__teñ__	_vr._	touch (esp. with finger)				
+__teñ__	// _vr._	touch (esp. with finger)				
 
 
-__teñbya'__	_v._	get burnt by touching something hot				
+__teñbya'__	// _v._	get burnt by touching something hot				
 
 
-__tero__	_n._	chilly				
+__tero__	/tero/ _n._	chilly				
 
 
-__tero yorsañ__	_n._	green chilly				
+__tero yorsañ__	// _n._	green chilly				
 
 
-__ti'__	_vr._	rub; scratch				
+__ti'__	// _vr._	rub; scratch				
 
 
-__ti'ho__	_v._	make a mark				
+__ti'ho__	// _v._	make a mark				
 
 
-__ti'mya'__	_v._	stain; smudge	[_syn._	ti'mya'-ti'sa]
+__ti'mya'__	// _v._	stain; smudge	[_syn._	ti'mya'-ti'sa]
 
 
-__ti'pa'__	_v._	erase; wipe off; rub out		
+__ti'pa'__	// _v._	erase; wipe off; rub out		
 
 
-__tihi'__	_adj._	sweet		
+__tihi'__	// _adj._	sweet		
 
 
-__tihxo__	_adj._	too much sweet or salty		
+__tihxo__	/tihxo/ _adj._	too much sweet or salty		
 
 
-__tii__	_vr._	pour	[_syn._	to]
+__tii__ /tii/	_vr._	pour	[_syn._	to]
 
 
-__tiilo__	_v._	to pour some liquid down		
+__tiilo__	/tiilo/ _v._	to pour some liquid down		
 
 
-__tiñpi__	_n._	dry field; dry cultivation area		
+__tiñpi__	// _n._	dry field; dry cultivation area		
 
 
-__tipi__	_n._	thumb impression		
+__tipi__	/tipi/ _n._	thumb impression		
 
 
-__tisvr__	_adj._	sweet		
+__tisvr__	// _adj._	sweet		
 
 
-__tiyo'__	_n._	insect; worm		
+__tiyo'__	// _n._	insect; worm		
 
 
-__to__	_vr._	pour	[_syn._	tii]
+__to__	/to/ _vr._	pour	[_syn._	tii]
 
 
-__to'__	_vr._	descend; go down; climb down		
+__to'__	// _vr._	descend; go down; climb down		
 
 
-__to'pyo__	_v._	descend first		
+__to'pyo__	// _v._	descend first		
 
 
-__toliñ__	_v._	pour something out	[_ant._	tolw']
+__toliñ__	// _v._	pour something out	[_ant._	tolw']
 
 
-__tolw'__	_v._	pour something in	[_ant._	toliñ]
+__tolw'__	// _v._	pour something in	[_ant._	toliñ]
 
 
-__toñ__	_vr._	offer; give		
+__toñ__	// _vr._	offer; give		
 
 
-__toñ__	_vr._	display		
+__toñ__	// _vr._	display		
 
 
-__toñkiñ__	_v._	display		
+__toñkiñ__	// _v._	display		
 
 
-__toñrò__	_adj._	small (of group)	[_ant._	tozó]
+__toñrò__	// _adj._	small (of group)	[_ant._	tozó]
 
 
-__toñsvr__	_v._	advise; suggest; counsel; guide		
+__toñsvr__	// _v._	advise; suggest; counsel; guide		
 
 
-__toofo'__	_n._	a variety of flowering plant	[_syn._	kwle toofo']
+__toofo'__	// _n._	a variety of flowering plant	[_syn._	kwle toofo']
 
 
-__tooko__	_n._	prop; support; post		
+__tooko__	/tooko/ _n._	prop; support; post		
 
 
-__tooqo__	_n._	wool		
+__tooqo__	// _n._	wool		
 
 
-__tooqo pufe__	_n._	woollen cloth		
+__tooqo pufe__	// _n._	woollen cloth		
 
 
-__tooro__	_n._	Rhino beetle		
+__tooro__	/tooro/ _n._	Rhino beetle		
 
 
-__topa'__	_v._	pour something away		
+__topa'__	// _v._	pour something away		
 
 
-__tor__	_vr._	unfurl (of flag); spead		
+__tor__	/tor/ _vr._	unfurl (of flag); spead		
 
 
-__tozó__	_adj._	small (of group)	[_ant._	toñrò]
+__tozó__	// _adj._	small (of group)	[_ant._	toñrò]
 
 
-__tú__	_vr._	kick		
+__tú__	/tú/ _vr._	kick		
 
 
-__tù__	_vr._	push		
+__tù__	/tù/ _vr._	push		
 
 
-__tu'te'__	_n._	forehead of a cattle		
+__tu'te'__	// _n._	forehead of a cattle		
 
 
-__túcé__	_v._	break something by kicking		
+__túcé__	/túcé/ _v._	break something by kicking		
 
 
-__tùda'__	_v._	place or push something upright		
+__tùda'__	// _v._	place or push something upright		
 
 
-__tudw__	_adj._	short		
+__tudw__	// _adj._	short		
 
 
-__tufa__	_v._	ambush; lie in wait for; lay trap for		
+__tufa__	// _v._	ambush; lie in wait for; lay trap for		
 
 
-__túhw-túxe'__	_v._	kick to and fro with the limb		
+__túhw-túxe'__	// _v._	kick to and fro with the limb		
 
 
-__tule'__	_adj._	slippery; slippy	[_syn._	bwle']
+__tule'__	// _adj._	slippery; slippy	[_syn._	bwle']
 
 
-__tulí__	_v._	copy; replicate; click (a photo with a camera)	[_or._	Assamese]
+__tulí__	/tulí/ _v._	copy; replicate; click (a photo with a camera)	[_or._	Assamese]
 
 
-__tumbu ude__	_n._	tent		
+__tumbu ude__	/tumbu ude/ _n._	tent		
 
 
-__tuñ__	_vr._	imprison; confine; hold captive		
+__tuñ__	// _vr._	imprison; confine; hold captive		
 
 
-__túpi'__	_v._	break something fragile by kicking		
+__túpi'__	// _v._	break something fragile by kicking		
 
 
-__tuqiñ__	_n._	stump of a felled tree		
+__tuqiñ__	// _n._	stump of a felled tree		
 
 
-__tur__	_vr._	be alive	[_var._	tor]
+__tur__	/tur/ _vr._	be alive	[_var._	tor]
 
 
-__tur__	_vr._	support (esp. with a pole or stick)	[_var._	tor]
+__tur__	/tur/ _vr._	support (esp. with a pole or stick)	[_var._	tor]
 
 
-__turcañ__	_n._	post; pillar	[_var._	torcañ]
+__turcañ__	// _n._	post; pillar	[_var._	torcañ]
 
 
-__turla'__	_n._	glass	[_var._	tùla']
+__turla'__	// _n._	glass	[_var._	tùla']
 
 
-__tusi'__	_v._	join; attach; couple; connect	[_syn._	me'si']
+__tusi'__	// _v._	join; attach; couple; connect	[_syn._	me'si']
 
 
-__tusù__	_v._	break a relationship		
+__tusù__	/tusù/ _v._	break a relationship		
 
 
-__tusvr__	_v._	straighten one's leg		
+__tusvr__	// _v._	straighten one's leg		
 
 
-__tutu popo__	_adj._	impulsive; impetuous; reckless		
+__tutu popo__	/tutu popo/ _adj._	impulsive; impetuous; reckless		
 
 
-__tuu__	_vr._	pick up		
+__tuu__	/tuu/ _vr._	pick up		
 
 
-__tù__	_vr._	flood		
+__tù__	/tù/ _vr._	flood		
 
 
-__tuubyú__	_n._	edge		
+__tuubyú__	/tuubjú/ _n._	edge		
 
 
-__tuuli__	_n._	post; pillar		
+__tuuli__	/tuuli/ _n._	post; pillar		
 
 
-__tuulu__	_n._	subclan		
+__tuulu__	/tuulu/ _n._	subclan		
 
 
-__tuuma__	_adj._	courageous; daring		
+__tuuma__	/tuuma/ _adj._	courageous; daring		
 
 
-__tuupo__	_n._	a plant whole upper portion has been removed		
+__tuupo__	/tuupo/ _n._	a plant whole upper portion has been removed		
 
 
-__tusi'-tusi'__	_adv._	one after the other		
+__tusi'-tusi'__	// _adv._	one after the other		
 
 
-__tutu nanu__	_n._	bumble bee		
+__tutu nanu__	/tutu nanu/ _n._	bumble bee		
 
 
-__tw__	_vr._	offer		
+__tw__	// _vr._	offer		
 
 
-__tw'__	_vr._	pound, strike		
+__tw'__	// _vr._	pound, strike		
 
 
-__tw'__	_vr._	jerk; pull suddenly		
+__tw'__	// _vr._	jerk; pull suddenly		
 
 
-__tw'diñ__	_v._	collide		
+__tw'diñ__	// _v._	collide		
 
 
-__tw'ja'-tw'ya'__	_v._	tear apart; rip		
+__tw'ja'-tw'ya'__	// _v._	tear apart; rip		
 
 
-__tw'jiñ__	_v._	stretch; lengthen; elongate; make longer	[_syn._	pujiñ]
+__tw'jiñ__	// _v._	stretch; lengthen; elongate; make longer	[_syn._	pujiñ]
 
 
-__tw'li tw'li__	_adv._	frequently; again and again; over and over again				
+__tw'li tw'li__	// _adv._	frequently; again and again; over and over again				
 
 
-__tw'lo__	_v._	to pull down				
+__tw'lo__	// _v._	to pull down				
 
 
-__twdw__	_adj._	short	[_ant._	wbyo']
+__twdw__	// _adj._	short	[_ant._	wbyo']
 
 
-__twge'__	_v._	stick; adhere; be glued	[_adj._	sticky]	[_syn._	age']
+__twge'__	// _v._	stick; adhere; be glued	[_adj._	sticky]	[_syn._	age']
 
 
-__twgò__	_n._	a variety of ritual (esp. to propitiate benevolent deities)	[_ant._	ciciñ]
+__twgò__	// _n._	a variety of ritual (esp. to propitiate benevolent deities)	[_ant._	ciciñ]
 
 
-__twko__	_n._	money	[_or._	Assamese]
+__twko__	// _n._	money	[_or._	Assamese]
 
 
-__twle'__	_n._	a variety of garlic	[_syn._	tale']
+__twle'__	// _n._	a variety of garlic	[_syn._	tale']
 
 
-__twlo__	_v._	drop something from a height				
+__twlo__	// _v._	drop something from a height				
 
 
-__twmiñ__	_n._	Common Indian madder (_Rubia cordifolia_)	[_var._	tamiñ]
+__twmiñ__	// _n._	Common Indian madder (_Rubia cordifolia_)	[_var._	tamiñ]
 
 
-__twmo__	_v._	suspend; postpone				
+__twmo__	// _v._	suspend; postpone				
 
 
-__twniñ__	_n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	taniñ]
+__twniñ__	// _n._	variety of a plant; wild sesame (_Perilla frutescens_)	[_var._	taniñ]
 
 
-__twp pwpw__	_n._	Himalayan cuckoo (_Cuculus saturatus_)
+__twp pwpw__	// _n._	Himalayan cuckoo (_Cuculus saturatus_)
 
 
-__twpañ__ _n._ moss; algae [_syn._ tapañ]
+__twpañ__ // _n._ moss; algae [_syn._ tapañ]
 
-__twpe__	_n._	tattoo				
+__twpe__	// _n._	tattoo				
 
 
-__twpi-twpo__	_adj._	neat; accurate				
+__twpi-twpo__	// _adj._	neat; accurate				
 
 
-__twpya'__	_n._	a necklace with a few beads on a black thread used as a talisman				
+__twpya'__	// _n._	a necklace with a few beads on a black thread used as a talisman				
 
 
-__twpya' tarw__	_n._	a variety of cotton top				
+__twpya' tarw__	// _n._	a variety of cotton top				
 
 
-__twqá__	_n._	fruit				
+__twqá__	// _n._	fruit				
 
 
-__twre__	_n._	thorn	[_syn._	tare]
+__twre__	// _n._	thorn	[_syn._	tare]
 
 
-__twrw__	_n._	forehead		
+__twrw__	// _n._	forehead		
 
 
-__twrw huufi'__	_n._	a variety of green grasshopper		
+__twrw huufi'__	// _n._	a variety of green grasshopper		
 
 
-__twrw tatw'__	_n._	toad		
+__twrw tatw'__	// _n._	toad		
 
 
-__tww__	_vr._	throw; toss; fling		
+__tww__	// _vr._	throw; toss; fling		
 
 
-__tww__	_vr._	chop, as of cutting down a tree		
+__tww__	// _vr._	chop, as of cutting down a tree		
 
 
-__twwló__	_v._	cut down (a tree)		
+__twwló__	// _v._	cut down (a tree)		
 
 
-__twxe__	_n._	louse	[_var._	taxe]
+__twxe__	// _n._	louse	[_var._	taxe]
 
 
-__twxw'__	_adj._	curly		
+__twxw'__	// _adj._	curly		
