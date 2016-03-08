@@ -6,25 +6,25 @@ devanagari: ख
 ipa: x
 ---
 
-__xa__	_vr._	peel; pare; skin; take the skin off		
+__xa__	// _vr._	peel; pare; skin; take the skin off		
 
 
-__xaa__	_vr._	collect; collect contributions	[_syn._	mya]
+__xaa__	// _vr._	collect; collect contributions	[_syn._	mya]
 
 
-__xa'ce__	_v._	split; break apart		
+__xa'ce__	// _v._	split; break apart		
 
 
-__xáa__	_vr._	bark (of a barking deer)		
+__xáa__	// _vr._	bark (of a barking deer)		
 
 
-__xaañcu'__	_n._	can container with a lid (esp. to store rice)
+__xaañcu'__	// _n._	can container with a lid (esp. to store rice)
 
 
-__xaaruñ__	_n._	a benevolent god that protects a household		
+__xaaruñ__	// _n._	a benevolent god that protects a household		
 
 
-__xaaruñ agyañ__	_n._	altar for the xaruñ god		
+__xaaruñ agyañ__	// _n._	altar for the xaruñ god		
 
 
 __xaata'__	_adj._	dirty; stain on the face after crying		
