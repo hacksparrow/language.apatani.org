@@ -267,25 +267,25 @@ __xwro__	// _n._	large intestine
 __xwtiñ__	// _v._	compare
 
 
-__xww__	_vr._	boil; cook
+__xww__	// _vr._	boil; cook
 
 
-__xww__	_vr._	tie (esp. hair into a knot)
+__xww__	// _vr._	tie (esp. hair into a knot)
 
 
-__xwwgu__	_v._	warm something by boiling
+__xwwgu__	// _v._	warm something by boiling
 
 
-__xwwke__	_v._	tie loosely
+__xwwke__	// _v._	tie loosely
 
 
-__xwwnw__	_n._	navel
+__xwwnw__	// _n._	navel
 
 
-__xwwnwñ__	_adj._	cooked
+__xwwnwñ__	// _adj._	cooked
 
 
-__xwwtw__	_n._	ascites
+__xwwtw__	// _n._	ascites
 
 
 __xwxu-xwce__	_v._	discriminate; differentiate
