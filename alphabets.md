@@ -113,7 +113,7 @@ Hence, there are seven vowels, twenty consonants and one special character in Ap
 | t | ta  त | t |
 | u | u उ | u |
 | v | | ə |
-| w | | ɯ |
+| w | | ɨ |
 | x | kha ख | x |
 | y | ya  य | y |
 | z | nya ञ | ɲ |
