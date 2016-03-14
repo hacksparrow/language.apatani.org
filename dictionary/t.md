@@ -270,7 +270,7 @@ __taku' kuli__	/takuɁ kuli/ _n._	cucumber seeds
 __taku' riila'__	/takuɁ rilaɁ/ _n._	cucumber tendril		
 
 
-__takuñ__	/takũ/ _n._	peach		
+__takuñ__	/takũ/ _n._	peach	(_Prunus persica_)	
 
 
 __takuñ putu__	/takũ putu/ _n._	a lesser variety of Muruñ festival		
