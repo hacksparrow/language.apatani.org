@@ -222,9 +222,9 @@ __seliñ__	/selĩ/ _v._	pull something out
 
 __selw__	/selɨ/ _v._	pull something in
 
-__sembo__	/sembo/ _n._	a variety of wild cherry	[_var._	semo]
+__sembo__	/sembo/ _n._	Wild Himalayan cherry	(_Prunus cerasoides_) [_var._	semo]
 
-__semo__	/semo/ _n._	a variety of wild cherry	[_var._	sembo]
+__semo__	/semo/ _n._	Wild Himalayan cherry	(_Prunus cerasoides_)	[_var._	sembo]
 
 __señ__	/sẽ/ _vr._	wither; dry		
 
