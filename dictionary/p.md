@@ -214,7 +214,7 @@ __pakù swma__	/pakù sɨma/ _n._	fine in the form of a middle-sized mithun for 
 __pala__	/pala/ _n._	scale; weighing machine	[_or._	Assamese]
 
 
-__palañ twqá__	/palã tɨŋá/ _n._	plum	[_or._	English]
+__palañ twqá__	/palã tɨŋá/ _n._	plum (_prunus domestica_) 	[_or._	English]
 
 
 __pale'__	/paleɁ/ _n._	excess; extra; surplus; remainder		
