@@ -62,7 +62,7 @@ __sadvr__	/sadǝr/ _n._	conical shaped bamboo filter	[_syn._	o sadvr]
 
 __safi'__	/saʎiɁ/ _adj._	green		
 
-__safó__	/saʎó/ _n._	a variety of tree; Fragrant Himalayan Champaka (Michelia champaca)
+__safó__	/saʎó/ _n._	a variety of tree; Fragrant Himalayan Champaka (_Magnolia champaca_)
 
 __sah__	/sah/ _n._	tea	_or._	Assamese
 
