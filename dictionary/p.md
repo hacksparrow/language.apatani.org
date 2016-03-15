@@ -1194,7 +1194,7 @@ __pwta atúu__	/pɨta atúu/ _n._	chicks of birds
 __pwta sih'__	/pɨta sihɁ/ _n._	puddle or pond where birds gather to drink water
 
 
-__pwta'__	/pɨtaɁ/ _n._	a variety of tree; wild pear (_Pyrus pashia_)
+__pwta'__	/pɨtaɁ/ _n._	a variety of tree; wild pear (_Pyrus calleryana_)
 
 
 __pwta' ahì__	/pɨtaɁ ahì/ _n._	wild pear		
