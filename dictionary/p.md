@@ -304,7 +304,7 @@ __parbo__	/parbo/ _v._	crawl across
 __parda__	/parda/ _adj._	straight; honest; linear; not bent		
 
 
-__pari__	/pari/ _n._	tree sparrow (-Passer montanus_)	[_syn._	pari pwta]
+__pari__	/pari/ _n._	tree sparrow (_Passer montanus_)	[_syn._	pari pwta]
 
 
 __parì-pagyò__	/parì-pagjò/ _adj._	mosaic like appearance		
